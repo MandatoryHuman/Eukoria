@@ -6,7 +6,7 @@ Solon is the [[Greater Gods|Greater God]] of Law and the [[Canonical Gods|Canoni
 
 ![[Solon.webp|400]] 
 
-Practitioners of Solon’s tradition, such as bards and psychics, channel his calculated blend of essences to unravel psychic mysteries and construct impenetrable wards against mental intrusion. His most devoted masters are granted the ability to safely untether their consciousness from their physical form to walk the astral planes - or violently sever the astral tethers of their enemies. As a [[Canonical Gods|Canonical]] [[Gods of Magic|God of Magic]], his teachings are perfectly widely studied in Eukoran academies.
+Practitioners of Solon’s tradition, such as bards and psychics, channel his calculated blend of essences to unravel psychic mysteries and construct impenetrable wards against mental intrusion. His most devoted masters are granted the ability to safely untether their consciousness from their physical form to walk the astral planes - or violently sever the astral tethers of their enemies. As a [[Canonical Gods|Canonical]] [[Gods of Magic|God of Magic]], his teachings are perfectly widely studied in Eukorian academies.
 
 Despite his pact-bound neutrality regarding the flow of magic, Solon represents absolute, unyielding order. This places him and his followers in direct ideological conflict with [[Lethos, God of Trickery]], whom Solon despises for his mockery of the spirit of the law and his historical murder of [[Thrum, God of Madness]]. Solon's hardliner orthodox followers are notoriously rigid; for instance, they completely despise leaders like [[High Arbiter Garadwen]] of [[Meridia]], viewing her loophole-ridden administration as a mockery of justice, even if they are legally unable to prosecute her.
 

@@ -18,7 +18,7 @@ Garadwen possesses the timeless elegance befitting an elf who has outlived gener
 Her attire is a testament to Meridian wealth; she wears pristine outfits draped in silks and velvets, with a heavy cloak embroidered with elaborate gold filigree. Her posture is perpetually perfect, and her gaze is sharp, calculating, and completely unreadable.
 
 # Personality
-Garadwen embodies the very highest tenets of Lethos; she truly believes that the law is merely a cage for those who cannot read between its bars. Her demeanour is cool, patient, and ruthlessly polite. Because she is an ancient elf who has lived through apocalyptic divine conflict, she views the geopolitical struggles of Eukora with a detached, chess-master's perspective.
+Garadwen embodies the very highest tenets of Lethos; she truly believes that the law is merely a cage for those who cannot read between its bars. Her demeanour is cool, patient, and ruthlessly polite. Because she is an ancient elf who has lived through apocalyptic divine conflict, she views the geopolitical struggles of Eukoria with a detached, chess-master's perspective.
 
 Her primary motivation is the preservation and expansion of Meridia's absolute monopoly over global trade. She harbours a deep, secret disdain for brute force, viewing it as the tool of the unimaginative. Her greatest secret is that despite her public enforcement of orthodox magic, she meticulously studies the volatile tactics of the Dismagic pirates to the north - not out of sympathy, but to perfectly engineer their legal and physical annihilation.
 

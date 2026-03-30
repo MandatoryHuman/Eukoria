@@ -29,7 +29,7 @@ Because gravity, time, and physical matter are entirely unreliable here, traditi
 Anarchy reigns. Authority is held only by those powerful or mad enough to carve out a safe zone amidst the shifting reality. Various warlords, Passion-Mages, and cult leaders hold small pockets of stability, frequently warring with one another over stable ground, clean water, or powerful artifacts unearthed from the twisting earth. The idea of a unified state died with the old capital over a century ago.
 
 # Diplomatic Relations
-- Global Quarantine: Every recognized nation on Eukora enforces a strict blockade on the Null-State. [[The Directorate of Vael]] maintains the most heavily militarized and psychically warded border to the west, firing at anything or anyone that attempts to leave Daeshin on sight.
+- Global Quarantine: Every recognized nation on Eukoria enforces a strict blockade on the Null-State. [[The Directorate of Vael]] maintains the most heavily militarized and psychically warded border to the west, firing at anything or anyone that attempts to leave Daeshin on sight.
 - [[Heretic's Wake]]: Occasionally, desperate smugglers from the Flotilla of the Unbound - and even sometimes other Nations - will navigate the treacherous lands to trade smuggled goods for the highly potent, reality-warping artifacts found within the wastes.
 
 # History & Lore

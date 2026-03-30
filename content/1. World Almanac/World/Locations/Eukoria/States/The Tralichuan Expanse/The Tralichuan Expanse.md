@@ -31,7 +31,7 @@ The Empire is ruled by [[Empress Ranani the Unbroken]], a follower of [[Vellora,
 - [[Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antoria]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
 
 # History & Lore
-While much of Eukora was shattered by the [[War of Laws]], the deep south of [[Cenora]] remained relatively physically intact, though battered by immense tidal waves. Tralicor capitalized on this stability, rapidly expanding their agricultural footprint while the rest of the world starved. Over the last century, they have grown from a loose coalition of fishing tribes into a golden superpower, determined to wrest control of the oceans from [[Meridia]].
+While much of Eukoria was shattered by the [[War of Laws]], the deep south of [[Cenora]] remained relatively physically intact, though battered by immense tidal waves. Tralicor capitalized on this stability, rapidly expanding their agricultural footprint while the rest of the world starved. Over the last century, they have grown from a loose coalition of fishing tribes into a golden superpower, determined to wrest control of the oceans from [[Meridia]].
 
 # Notable Locations
 - [[Tralicor]]

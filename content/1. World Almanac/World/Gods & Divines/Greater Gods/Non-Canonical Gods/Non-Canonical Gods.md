@@ -8,7 +8,7 @@ tags:
 Non-Canonical Gods are a classification of [[Greater Gods]] defined by cosmic friction. They are comprised of two non-adjacent (opposing or clashing) Essences on the cosmic wheel.
 
 # The Political vs. Scholarly Views
-In the mortal societies of Eukora, the term Non-Canonical is heavily loaded.
+In the mortal societies of Eukoria, the term Non-Canonical is heavily loaded.
 Mortal churches frequently weaponize the term as a political slur, using it to demonize any god, religion, or cult they politically oppose, regardless of that god's actual cosmic makeup. To the layperson, Non-Canonical simply means evil or heretical.
 To arcanists, theologians, and scholars, the term confers no moral judgment. It is a strict, mathematical description of a deity formed from the friction of non-adjacent essences. A Non-Canonical God can be benevolent, malevolent, or completely indifferent; their defining trait is simply volatility.
 

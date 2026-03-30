@@ -10,7 +10,7 @@ The [[Fundamental Essences|Essence of Life]] governs the beating of the heart, t
 
 Unlike the  unnatural, forced evolutionary leaps practiced by followers of the [[Traditions of Dismagic|Dismagic]] Goddess [[Lysia Bind-breaker, Goddess of Passion|Lysia]], Maelis governs natural, orthodox reproduction and growth. Her worshippers are predominantly farmers, midwives, parents, and community leaders. To follow Maelis is to believe that the ultimate expression of the divine is the creation and nurturing of new life.
 
-Her [[Chosen Ones|Chosen Ones]] act as avatars of her will on Eukora , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
+Her [[Chosen Ones|Chosen Ones]] act as avatars of her will on Eukoria , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
 
 ---
 [Category::[[Greater Gods]]]

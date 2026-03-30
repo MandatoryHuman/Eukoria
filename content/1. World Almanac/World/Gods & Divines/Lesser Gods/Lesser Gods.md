@@ -22,7 +22,7 @@ A touch of Absence pushes a god toward subtlety, the void, hidden things, and er
 ### The Equilibrium
 These are not hard and fast rules. A rare number of Lesser Gods exist in a perfect, neutral equilibrium. They possess no specific Centre and remain untouched by Presence or Absence. These deities often act as ultimate arbiters, judges, or figures of true neutrality, overseeing the delicate balance of the mortal world without bias toward any single aspect of creation.
 
-## Worship in Eukora
+## Worship in Eukoria
 Lesser Gods make up the vast majority of the everyday pantheon for common mortals. While an academic or wizard might look to the monoliths of the Canonical wheel for universal truths, everyday people turn to Lesser Gods for their daily struggles.
 Because Lesser Gods are composed of the same essences as mortals, they understand concepts entirely alien to the monoliths above them. They are much more capable of pity, wrath, love, grief, and, most importantly, changing their minds.
 

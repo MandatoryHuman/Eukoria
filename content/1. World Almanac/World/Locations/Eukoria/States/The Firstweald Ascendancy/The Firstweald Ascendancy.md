@@ -34,7 +34,7 @@ The Ascendancy is ruled by a Conclave of elder druids and powerful shapeshifters
 # History & Lore
 Humanoid life first appeared on the South-West coast of [[Antoria]] and spread outward from the lush cradle of the Firstweald. Because much of the world's recorded history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], the exact origins of the Ascendancy's founding are kept alive only through the oral traditions of its eldest druids.
 
-When the celestial rebellion of the [[War of Laws]] spilled onto mortal soil, bringing devastating divine collateral damage to Eukora, the Firstweald survived the cataclysm by retreating inward. Their greatest primal spellcasters wove massive, continent-spanning wards of Life and Matter, forcefully isolating their core territories from the boiling oceans and grinding mountains that ravaged the rest of the world.
+When the celestial rebellion of the [[War of Laws]] spilled onto mortal soil, bringing devastating divine collateral damage to Eukoria, the Firstweald survived the cataclysm by retreating inward. Their greatest primal spellcasters wove massive, continent-spanning wards of Life and Matter, forcefully isolating their core territories from the boiling oceans and grinding mountains that ravaged the rest of the world.
 
 # Notable Locations
 - [[Elderheart]]

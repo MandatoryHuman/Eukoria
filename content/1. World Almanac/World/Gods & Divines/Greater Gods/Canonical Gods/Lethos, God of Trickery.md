@@ -7,7 +7,7 @@ However, to many, a shadow hangs over his faith. While his worship is technicall
 While *publicly* Lethos' church supports the [[Traditions of Magic]], his clerics and specialized mages have been known to operate within the [[Traditions of Dismagic]], utilizing Passion magic to manipulate other and Relic magic to aid in their nefarious deeds. While his worshippers generally concede that the rules maintained by [[Solon, God of Law]] are absolute, they treat their interpretations as a battlefield. Outwitting an opponent through a legal loophole or clever negotiation is considered the highest form of devotion.
 
 ## Worshipers
-The majority of the faithful of Lethos are not anarchists or petty criminals; they are high-society diplomats, state-sanctioned spies, cunning tacticians, and shrewd negotiators. They view the strict societal and religious structures of Eukora as a complex game to be mastered, often working in tandem with the followers of [[Aureon, God of Commerce and Industry]] to secure advantageous, iron-clad contracts.
+The majority of the faithful of Lethos are not anarchists or petty criminals; they are high-society diplomats, state-sanctioned spies, cunning tacticians, and shrewd negotiators. They view the strict societal and religious structures of Eukoria as a complex game to be mastered, often working in tandem with the followers of [[Aureon, God of Commerce and Industry]] to secure advantageous, iron-clad contracts.
 
 ## Relics & Artifacts
 - **The Diplomat's Ledger:** A seemingly ordinary ledger that, when attuned, magically nudges the memories of those who sign it to believe they negotiated a completely fair deal, regardless of the actual predatory terms.

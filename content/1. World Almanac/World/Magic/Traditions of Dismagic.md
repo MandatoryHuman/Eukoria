@@ -32,10 +32,10 @@ Undeath, soul-binding, hauntings, and unconventional artifice.
 
 ## Practice
 By anchoring an ethereal soul to physical matter, the Relic tradition births highly controversial creations like dread-powered weaponry and animated vessels. Orthodox critics argue that this practice is inherently cruel, sentencing the bound spirit to an endless, agonizing confinement within a numb, physical shell. However, the artificers who practice it view it as a profound granting of eternal preservation and a defiance of the natural, fleeting cycle.
-The most notorious manifestation of this dismagic is the Lich, a being who unnaturally anchors their own soul to a phylactery to cheat orthodox mortality. Rebel Runesmiths also tap into this clashing power to carve potent, soul-bound runes into their creations. It is crucial for scholars to note, however, that Eukora still possesses a rich tradition of safe, orthodox enchantment; merely crafting a magic item or inscribing a standard rune does not inherently draw upon the friction of Dismagic.
+The most notorious manifestation of this dismagic is the Lich, a being who unnaturally anchors their own soul to a phylactery to cheat orthodox mortality. Rebel Runesmiths also tap into this clashing power to carve potent, soul-bound runes into their creations. It is crucial for scholars to note, however, that Eukoria still possesses a rich tradition of safe, orthodox enchantment; merely crafting a magic item or inscribing a standard rune does not inherently draw upon the friction of Dismagic.
 
 # The Toll of Cosmic Friction
-Because mortal bodies and the fabric of Eukora were designed around the harmonious flow of adjacent Essences, casting Dismagic generates immense cosmic friction.
+Because mortal bodies and the fabric of Eukoria were designed around the harmonious flow of adjacent Essences, casting Dismagic generates immense cosmic friction.
 When a practitioner acts upon the mortal plane, reality strains to accommodate them. Their magic actively defies the established rules of physics, frequently causing collateral damage or bizarre environmental side effects simply by being cast. This severe magical backlash, along with physical and mental deterioration, is the inevitable price of wielding cosmic friction—an objective mechanical danger that orthodox philosophers eagerly weaponize as proof of Dismagic's inherent "evil."
 
 # Related

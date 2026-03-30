@@ -30,7 +30,7 @@ His [[Chosen Ones|Chosen Ones]] are tasked with breaking down monuments of vanit
 [Cleric Spells::1st: [Pummelling Rubble](https://2e.aonprd.com/Spells.aspx?ID=1642), 2nd: [Shatter](https://2e.aonprd.com/Spells.aspx?ID=1670), 6th: [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
-Xerith rewards those who gracefully accept the erosion of time and those who help dismantle unnatural, eternal physical structures. He slowly but inevitably grinds down those who arrogantly hoard wealth or attempt to artificially preserve matter against the natural laws of Eukora.
+Xerith rewards those who gracefully accept the erosion of time and those who help dismantle unnatural, eternal physical structures. He slowly but inevitably grinds down those who arrogantly hoard wealth or attempt to artificially preserve matter against the natural laws of Eukoria.
 
 [Minor Boon::Xerith blesses your ability to find the structural flaws in physical matter. Your Strikes ignore the first 5 points of a non-magical object's Hardness.]
 [Moderate Boon::Xerith allows you to temporarily erode physical barriers just enough to slip through. Once per day, you can cast Magic Passage as an innate Divine spell, leaving behind crumbling, ash-lined edges in the stone or wood.]

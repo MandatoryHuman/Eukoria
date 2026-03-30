@@ -37,7 +37,7 @@ The foundations of Vael were laid in the immediate aftermath of the [[War of Law
 
 # Notable Locations
 - [[Axiom's Hold]]: The capital city, built in a perfect geometric grid. At its center lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
-- [[The Glass Monasteries]]: High-altitude retreats where devoted clerics of Oclera physically link their consciousnesses together into massive hive-mind think tanks, processing Eukora's most complex magical and societal theorems.
+- [[The Glass Monasteries]]: High-altitude retreats where devoted clerics of Oclera physically link their consciousnesses together into massive hive-mind think tanks, processing Eukoria's most complex magical and societal theorems.
 
 # Prominent Factions
 - The Silent Chorus: The state-sponsored hive-mind of Ocleran clerics. They process intelligence gathered by Vaelian spies across the world.

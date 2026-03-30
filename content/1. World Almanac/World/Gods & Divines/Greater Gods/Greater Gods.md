@@ -18,7 +18,7 @@ There are two groups of Greater Gods, divided in orthodox and unorthodox categor
 While most Greater Gods mix Fundamental Essences (or a Fundamental with a Basic Essence), there is one exception: Aporia. Born from the climax of the ancient _War of Laws_, Aporia is the paradoxical combination of the two Basic Essences: Presence and Absence. Aporia embodies the boundary between what is and what is not. Because manifesting a void is a cosmic contradiction, many worshippers of orthodox deities across the entire spectrum of morality view Aporia as deeply unnatural and taboo.
 
 # Divine Conduits - The [[Chosen Ones]]
-Because Greater Gods are too vast and specialized to easily parse the nuance of the mortal plane, they interact with Eukora primarily through Chosen Ones. These rare mortals are selected to act as living, physical conduits for the deity's will.
+Because Greater Gods are too vast and specialized to easily parse the nuance of the mortal plane, they interact with Eukoria primarily through Chosen Ones. These rare mortals are selected to act as living, physical conduits for the deity's will.
 In exchange for acting as the god's hands and voice, a Chosen One is granted a fraction of their patron's power.
 The abilities granted to a Chosen One are extreme and hyper-focused, dictated strictly by the patron's two Essences (ranging from subtle, overwhelming psychic dominion to earth-shattering transmutations of matter).
 

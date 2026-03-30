@@ -1,7 +1,7 @@
-> [!quote|Author] Primer on Eukoran Thaumaturgy 
+> [!quote|Author] Primer on Eukorian Thaumaturgy 
 > "Magic is not a chaotic force to be tamed. It is a precise equation written in the language of the four Essences. Follow the wheel, and the universe will provide."
 
-In Eukora, orthodox spellcasting is divided into four distinct **Traditions of Magic**. These traditions are entirely dependent on the cosmic wheel of the four Fundamental Essences. A tradition is formed when two adjacent Essences are channeled in perfect harmony.
+In Eukoria, orthodox spellcasting is divided into four distinct **Traditions of Magic**. These traditions are entirely dependent on the cosmic wheel of the four Fundamental Essences. A tradition is formed when two adjacent Essences are channeled in perfect harmony.
 
 Because these pairs naturally flow into one another, they create stable, predictable phenomena that do not inherently damage the fabric of reality or the caster's soul. These four pillars are governed by the pact-bound [[Gods of Magic]].
 

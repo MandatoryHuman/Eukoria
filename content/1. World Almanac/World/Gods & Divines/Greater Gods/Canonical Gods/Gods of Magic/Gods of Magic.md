@@ -23,7 +23,7 @@ Based on the cosmic wheel, there are exactly four divine pillars that govern saf
 [[Kurnos, God of Nature]] governs the magic of combined Matter and Life. Druids and shapeshifters channel this visceral blend to command the raw strength of nature, mould the physical forms of living beasts, as well as to cultivate flourishing new ecosystems - or violently reclaim civilized lands for the earth.
 
 ## Worship and Practice
-Unlike the forbidden arts associated with the [[Gods of Dismagic]], the magic granted by these four deities is taught openly in academies and temples across Eukora. To practice under their domains is seen as upholding the natural laws of the universe.
+Unlike the forbidden arts associated with the [[Gods of Dismagic]], the magic granted by these four deities is taught openly in academies and temples across Eukoria. To practice under their domains is seen as upholding the natural laws of the universe.
 
 ## Related
 - [[Canonical Gods]]

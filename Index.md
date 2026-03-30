@@ -1,5 +1,5 @@
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
-Welcome to **Eukora**, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
+Welcome to **Eukoria**, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
 # The War of Laws
 Exactly 116 years ago, the heavens were torn apart by a cataclysmic celestial rebellion known as the War of Laws. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition that spilled directly onto mortal soil.
@@ -15,7 +15,7 @@ When the dust settled, the world was forever changed. While the heavens are now 
 - [[Basic Essences]] - The absolute anchors of the void (Presence and Absence).
 - [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
 - [[Traditions of Dismagic]] - The forbidden, volatile magic born of cosmic friction.
-- 
+
 ### [[Greater Gods]]
 ```dataview
 TABLE WITHOUT ID
@@ -34,6 +34,7 @@ SORT file.name ASC
 - [[Cenora]] (East)
 
 ### Nations
+
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name", Capital, Government, Ruler, Religions
@@ -41,6 +42,7 @@ FROM #State
 WHERE file.folder != "z_Templates"
 SORT file.name ASC
 ```
+
 ### Notable Locations:
 - [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
 
