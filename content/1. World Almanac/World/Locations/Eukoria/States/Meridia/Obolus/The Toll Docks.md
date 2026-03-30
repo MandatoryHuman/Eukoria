@@ -1,0 +1,1 @@
+The vast, highly regulated port network at the base of the city. Here, desperate international captains are funnelled into long queues to pay [[Meridia]]'s extortionate tariffs for the right to safely navigate the channel.

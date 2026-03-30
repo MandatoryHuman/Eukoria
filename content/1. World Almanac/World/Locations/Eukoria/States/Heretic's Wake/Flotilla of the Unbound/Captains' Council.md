@@ -1,0 +1,1 @@
+The loose alliance of the most powerful pirate lords who dictate the [[Flotilla of the Unbound]]'s movements and coordinate large-scale raids on desperate coastal nations.

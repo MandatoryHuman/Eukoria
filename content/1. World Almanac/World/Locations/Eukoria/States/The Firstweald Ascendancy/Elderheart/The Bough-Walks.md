@@ -1,0 +1,1 @@
+The sprawling middle levels of [[Elderheart]] where the majority of the population resides. Homes are woven directly into the living branches. This district is a bustling centre of communal living, where artisans craft tools from shed bark and hunters trade their bounties.

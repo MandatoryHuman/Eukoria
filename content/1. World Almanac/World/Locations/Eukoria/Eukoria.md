@@ -1,0 +1,44 @@
+> [!info] Eukora is a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
+
+```leaflet
+id: Eukora_Map
+lock: false
+recenter: true
+noScrollZoom: false
+image: [[Eukora Map.webp]]
+height: 600px
+width: 95%
+minZoom: -4
+maxZoom: 2
+defaultZoom: -3
+zoomDelta: 0.5
+bounds: [[0,0], [4320, 7680]]
+lat: 2160
+long: 3840
+unit: km
+scale: 0.5
+darkMode: false
+```
+
+## Gross Geography
+Eukora is made up of a pair of continents; [[Antoria]] to the West and [[Cenora]] to the East. Much of the land's history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], but it is known that humanoid life first appeared on the continents on the South-West coast of [[Antoria]] and spread from there.
+
+## Cosmology & The Divine
+The foundation of Eukora's existence is governed by absolute duality, overseen by [[The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]]. Their dynamic dictates the fundamental balance of existence and the void.
+Beneath The Twins sits a vast and deeply fractured pantheon of [[Gods & Divines]].
+- **[[Greater Gods]]:** The most powerful entities, heavily involved in the world's functioning and mortal affairs. They are strictly divided into two groups:
+    - **[[Canonical Gods]]:** The accepted, legally worshiped deities. This pantheon includes prominent figures like [[Ilyria, Goddess of The Afterlife]], [[Bella, Goddess of War]], and the specialized [[Gods of Magic]] (such as [[Aureon, God of Commerce and Industry]] and [[Solon, God of Law]]).
+    - **[[Non-Canonical Gods]]:** Deities whose worship is marginalized, forbidden, or considered heretical. Among them are [[Aporia, God of Fate]] and the feared/revered [[Gods of Dismagic]], including [[Aethelgard, God of Relics]] and [[Lysia Bind-breaker, Goddess of Passion]].
+- **[[Lesser Gods]]:** Minor deities overseeing specific domains of mortal life, such as the [[God of Cities]], [[God of Medicine]], and the [[God Of Art]].
+
+## The Arcane Weave
+The rules of reality in Eukora are dictated by the flow of magical energy, which is categorized into strict classifications:
+- The Essences: All magic is derived from the world's building blocks, broken down into [[Fundamental Essences]] and [[Basic Essences]].
+- [[Traditions of Magic]]: The sanctioned, structured, and legally accepted methods of weaving magic formed by combining two adjacent [[Fundamental Essences]]. These traditions are heavily influenced by the Canonical [[Gods of Magic]].
+- [[Traditions of Dismagic]]: The forbidden, wild, or counter-cultural magical practices formed by combining two adjacent [[Fundamental Essences]]. Often associated with the [[Non-Canonical Gods]], Dismagic subverts traditional arcane laws and relies on raw, sometimes volatile forces (such as those practiced by Passion Mages).
+
+## World History & Conflict
+The societal and religious landscape of Eukora was forever altered by the [[War of Laws]]. This monumental historical event likely solidified the harsh divide between the Canonical and Non-Canonical deities, outlawing the Traditions of Dismagic and driving its practitioners underground. The scars of this war still dictate the politics, religious freedoms, and magical regulations across the world today.
+
+## Mortal Champions
+The gods of Eukora do not merely watch from afar; they actively invest their power into mortal vessels. These [[Chosen Ones]] act as avatars of their patron's will on Eukora.

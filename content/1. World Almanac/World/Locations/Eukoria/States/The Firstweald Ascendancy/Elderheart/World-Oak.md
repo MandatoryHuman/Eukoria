@@ -1,0 +1,1 @@
+The enormous, kilometre-high tree that acts as the centre of [[Elderheart]], as well as a religious site for worshippers of [[Kurnos, God of Nature]].

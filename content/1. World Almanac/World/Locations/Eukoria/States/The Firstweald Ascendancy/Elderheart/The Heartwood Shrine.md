@@ -1,0 +1,1 @@
+The central temple of [[Elderheart]] dedicated to [[Kurnos, God of Nature]] and [[Maelis, Goddess of Fertility and Harvest]]. Located in a massive, naturally hollowed chamber in the trunk, the walls pulse with the tree's glowing sap. It is here that [[Chosen Ones]] receive their boons of biokinesis and vitality.

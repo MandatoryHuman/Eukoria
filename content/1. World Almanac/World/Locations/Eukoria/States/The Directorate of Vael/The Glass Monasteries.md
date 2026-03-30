@@ -1,0 +1,1 @@
+High-altitude retreats in the mountainous southern reaches of [[The Directorate of Vael]] where devoted clerics of [[Oclera, God of Knowledge]] physically link their consciousnesses together into massive hive-mind think tanks, processing [[Eukoria]]'s most complex magical and societal theorems.
