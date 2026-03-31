@@ -2,10 +2,37 @@
 tags:
   - Events
 aat-event-start-date: 2-1-1
+aat-event-end-date:
 aat-render-enabled: true
 timelines:
   - states timeline
 aat-event-picture: none
 ---
+[Type:: State Formation]
+[Location:: [[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+[Factions Involved:: Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers]
+[Key Figures:: [[High Arbiter Garadwen]]]
 
-The very same year the [[War of Laws]] ended, a young [[High Arbiter Garadwen]] - along with a number of now deceased allies, began the task of finding a safe route through the [[God-Scar Strait]]. Within two years they began offering their services to the still recovering nations of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], shipping men and cargo from one continent to the other - though their success rate was considerably worse than it is today. By the end of the year, the money they had earned started to be put towards building their company camp into something more substantial; a settlement that would eventually become [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]], capital of of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
+(Event Image)
+
+# Overview
+
+The Formation of Meridia began in the same year the [[War of Laws]] ended, during a period when [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] was still reeling from divine devastation. What started as a dangerous shipping venture through the [[God-Scar Strait]] evolved into the political and economic foundation of what would become [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
+
+# Prelude & Causes
+
+In the immediate post-war years, safe movement between continents was one of Eukoria's most urgent needs. Trade routes had collapsed, many overland paths were unusable, and maritime passage through the God-Scar Strait remained unpredictable and lethal.
+
+Seeing both the need and the opportunity, a young [[High Arbiter Garadwen]] and a small cadre of allies set out to chart a viable route through the strait. Their effort was driven by survival economics as much as ambition: whoever could reliably move people and cargo would shape reconstruction across the continent.
+
+# The Event
+
+Garadwen's company began operations with high risk and uneven results. Early crossings suffered losses and a far lower success rate than modern Meridian traffic, but each completed voyage proved the route could be learned and improved.
+
+Within two years, the group was offering regular transport services to recovering nations across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Revenue from those voyages was reinvested into expanding their temporary camp, transforming it from a logistics outpost into a permanent settlement. By the end of that growth cycle, the settlement's trajectory was clear: it would become [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]].
+
+# Aftermath & Legacy
+
+The establishment of Obolus created a stable maritime gateway between major landmasses and gave Meridia its enduring political center. Over time, the shipping network born from Garadwen's hazardous expeditions became the backbone of Meridian influence.
+
+In modern historical accounts, the Formation of Meridia is remembered as a reconstruction-era turning point: a transition from post-war survival to organized statecraft, commerce, and long-distance connectivity.

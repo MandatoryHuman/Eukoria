@@ -9,24 +9,37 @@ timelines:
   - states timeline
 aat-event-picture: none
 ---
-The War of Laws was a cataclysmic, decade-long celestial rebellion that tore the heavens apart exactly 116 years ago. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition, resulting in the permanent death of numerous deities and leaving permanent scars across the mortal realm of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]].
+[Type:: Divine War]
+[Location:: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+[Factions Involved:: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
+[Key Figures:: [[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]
 
-# The Spark
-The conflict was born from ambition and arrogance. At the time, [[Lysia Bind-breaker, Goddess of Passion]] and [[Aethelgard, God of Relics]] were merely [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]. However, their influence among mortals had swelled to the point where they petitioned to ascend to the ranks of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]].
-The ruling Canonical deities utterly rejected them. To the orthodox pantheon, Lysia and Aethelgard were abhorrent - their domains were built upon non-adjacent fundamental essences, a combination the Canonical gods viewed as a dangerous, volatile "stain" on the perfect order of reality. They were branded as practitioners of Dismagic and ordered to remain in their lesser stations.
+(Event Image)
 
-# The Architect
-This insult was the exact vulnerability [[Lethos, God of Trickery]], had been waiting for. Also a member of the [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]] at the time, Lethos had no interest in Dismagic, but he hungered for the power held by the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]. Operating from the shadows of the void, Lethos weaponized Lysia and Aethelgard’s righteous fury. He became the architect of their rebellion, forging secret alliances, whispering paranoid half-truths to the Canonical deities, and carefully orchestrating a war that forced the Greater Gods to exhaust their power against the rebel forces. As the pantheon slaughtered one another, Lethos quietly stepped over the corpses of his betters, taking the opportunity to strike two vital targets down and manoeuvre himself into an elevated position within the cosmos. First he killed [[Thrum, God of Madness]] to create a vacant position in the pantheon of [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] for himself to fill, and then he killed [[Syla, Goddess of Records]], causing all the many records she and her clerics had spent hundreds of years storing to be forever lost. The exact reason for this second murder is still uncertain to anyone but Lethos himself, but it is presumed it was done to ensure some other act of his would never be bought to light.
+# Overview
 
-# The Devastation
-The heavens could not contain the bloodshed. The war spilled directly onto the mortal soil of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. When gods clash physically, the fundamental laws of reality break down. Oceans boiled into steam, mountains were ground into glass, and the rigid rules of Life, Matter, Mind, and Spirit were violently inverted on the battlefields. [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] became a canvas for divine collateral damage. And that's not to mention the battles between those mortal factions that supported opposing gods.
+The War of Laws was a cataclysmic, decade-long celestial rebellion that tore the heavens apart exactly 116 years ago. What began as a theological dispute over the rigid geometry of the divine hierarchy devolved into total divine attrition, killing numerous deities and leaving permanent scars across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]].
 
-# The Awakening
-The war was only halted by the most terrifying event in living memory: the awakening of [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]. The fundamental anchors of reality - Absolute Presence and Absolute Absence - were forced to rouse from their cosmic slumber to prevent the total unmaking of the universe. Though they were awake for only a fleeting moment, their mere manifestation brought the decade-long war to an immediate, paralyzing halt.
+# Prelude & Causes
 
-They issued a singular, reality-altering decree: The [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]] would be permitted to exist. With this edict, the fabric of the cosmos was permanently altered:
-- **The Ascension:** Lysia and Aethelgard were instantly elevated, officially establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
-- **The Birth of the Paradox:** The immense, contradictory energies of [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]’ awakening and their compromise coalesced into a brand new divine entity: [[Aporia, God of Fate]]. Born of both Presence and Absence, Aporia became the living monument to the end of the war.
+The conflict was born from ambition and orthodoxy. [[Lysia Bind-breaker, Goddess of Passion]] and [[Aethelgard, God of Relics]], then counted among the [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], petitioned for ascension to the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]].
 
-# The Aftermath
-Today, 116 years later, the people of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] still live in the shadow of the War of Laws. While the heavens are at an uneasy peace, the mortal world is forever changed. The brief awakening of [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]], combined with the divine blood spilled on Eukoria's soil, left irreversible wounds on the planet. Mortals must now navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another.
+The Canonical pantheon rejected them outright. Their domains combined non-adjacent fundamental essences, which orthodox divines considered a volatile stain on cosmic order. Branded as Dismagic practitioners and denied advancement, Lysia and Aethelgard became the focal point for broader resentment within the lower divine ranks.
+
+This fracture was exploited by [[Lethos, God of Trickery]], who weaponized the grievance to engineer a wider rebellion. Through covert alliances and calculated disinformation, he positioned rival divine blocs for mutually destructive war.
+
+# The Event
+
+The rebellion escalated into a full celestial war, then spilled onto mortal soil. As gods fought directly, the governing laws of Life, Matter, Mind, and Spirit destabilized around their battlefields. Oceans flash-boiled, mountains vitrified, and large regions of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] were warped by divine collateral damage. Mortal factions aligned to competing gods fought parallel conflicts across the continent.
+
+Amid the slaughter, Lethos advanced his own station by eliminating key targets. He killed [[Thrum, God of Madness]] to open a path into the Greater pantheon, then killed [[Syla, Goddess of Records]], erasing centuries of preserved knowledge and obscuring parts of the war's true history.
+
+The conflict ended only when [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] awakened. Their brief manifestation halted all hostilities and imposed a single decree: [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]] would be permitted to exist. This decree immediately produced two historic consequences:
+- **The Ascension:** Lysia and Aethelgard were elevated, establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
+- **The Birth of the Paradox:** The contradictory energies released during the decree coalesced into [[Aporia, God of Fate]], born of both Presence and Absence.
+
+# Aftermath & Legacy
+
+The heavens settled into an uneasy peace, but [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] remained permanently altered. The combined effects of divine bloodshed and The Twins' awakening left enduring dead-magic zones, warped terrain, and regions where fundamental essences still bleed into one another.
+
+In modern memory, the War of Laws marks both an apocalypse and a constitutional pivot in divine order: the end of strict Canonical monopoly, the legitimization of Non-Canonical divinity, and the beginning of a new cosmological era whose consequences still govern mortal life.
