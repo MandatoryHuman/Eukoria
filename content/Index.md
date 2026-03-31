@@ -1,3 +1,8 @@
+---
+aliases:
+  - Index
+---
+
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
 Welcome to **Eukoria**, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
