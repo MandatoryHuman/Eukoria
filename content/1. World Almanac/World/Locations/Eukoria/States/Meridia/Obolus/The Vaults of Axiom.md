@@ -1,1 +1,1 @@
-The grand temple of [[Aureon, God of Commerce and Industry]]. Functioning as both a place of worship and the central bank of [[Meridia]], it is here that the high priests draft the iron-clad contracts that keep the city's monopolies secure.
+The grand temple of [[Aureon, God of Commerce and Industry]]. Functioning as both a place of worship and the central bank of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]], it is here that the high priests draft the iron-clad contracts that keep the city's monopolies secure.

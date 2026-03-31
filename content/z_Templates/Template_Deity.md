@@ -5,7 +5,7 @@ tags:
 
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Absence and Life]
 [Edicts::]
 [Anathema::]
@@ -13,7 +13,7 @@ tags:
 [Religious Symbol::]
 [Sacred Animal::]
 [Sacred Colours::]
-[Pantheons/Covenants::[[Canonical Gods]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
 
 ![[Amnis Symbol.webp]]
 

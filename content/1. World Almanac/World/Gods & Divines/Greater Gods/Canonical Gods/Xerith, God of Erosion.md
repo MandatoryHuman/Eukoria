@@ -1,15 +1,15 @@
-**Xerith is the [[Greater Gods|Greater God]] of Erosion, rust, entropy, and the inevitable breakdown of physical reality.** In the cosmic geometry of [[Eukoria]], he represents the harmonious, [[Canonical Gods|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Absence]].
+**Xerith is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Erosion, rust, entropy, and the inevitable breakdown of physical reality.** In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], he represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Absence]].
 
 ![[Xerith.webp|400]]
 
-While the [[Fundamental Essences|Essence of Matter]] dictates the tangible substance of the universe and its strict physical laws , the [[Basic Essences|Essence of Absence]] represents the inevitable concept of destruction, decay, and the subtraction of elements from reality. When combined smoothly as a [[Canonical Gods|Canonical God]], Xerith embodies the physical law of entropy - the rusting of iron, the weathering of mountains into sand, and the crumbling of ancient empires into dust.
+While the [[Fundamental Essences|Essence of Matter]] dictates the tangible substance of the universe and its strict physical laws , the [[Basic Essences|Essence of Absence]] represents the inevitable concept of destruction, decay, and the subtraction of elements from reality. When combined smoothly as a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical God]], Xerith embodies the physical law of entropy - the rusting of iron, the weathering of mountains into sand, and the crumbling of ancient empires into dust.
 
 Xerith is not a malicious god; he is simply patient. He represents the natural, necessary clearing of the canvas so that creation does not suffocate the world. His worshippers include desert nomads, ascetic monks who reject material wealth, and demolitionists. They believe that attempting to make physical things last forever is pure arrogance. Because of this, Xerith's followers harbour a deep, philosophical hatred for [[Aethelgard, God of Relics|Aethelgard]] and the [[Traditions of Dismagic|Relic Dismagic]] tradition. To Xerith, binding a [[Fundamental Essences|Spirit]] to an unfeeling physical prison in an attempt to grant it eternal preservation is the ultimate perversion of matter's natural, decaying lifecycle.
 
-His [[Chosen Ones|Chosen Ones]] are tasked with breaking down monuments of vanity, returning hoarded wealth to the earth, and accelerating the decay of structures that have outlived their natural purpose.
+His [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are tasked with breaking down monuments of vanity, returning hoarded wealth to the earth, and accelerating the decay of structures that have outlived their natural purpose.
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Absence and Matter]
 [Edicts::Accept the impermanence of the physical world, break down structures that have outlived their purpose, return matter to its base elements]
 [Anathema::Artificially preserve physical objects for eternity, hoard material wealth, practice or support Relic Dismagic]
@@ -17,7 +17,7 @@ His [[Chosen Ones|Chosen Ones]] are tasked with breaking down monuments of vanit
 [Religious Symbol::A pile of ash and dust]
 [Sacred Animal::Scarab Beetle]
 [Sacred Colours::Rust Red and Ash Grey]
-[Pantheons/Covenants::[[Canonical Gods]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
 ![[Xerith Symbol.webp|400]]
 ## Devotee Benefits
 [Divine Attribute::Constitution or Wisdom]

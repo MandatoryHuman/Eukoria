@@ -5,7 +5,7 @@ tags:
 
 
 ---
-[Category::[[Lesser Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Lesser Gods/index]]]
 [Aspects::Centre in Spirit]
 [Edicts::]
 [Anathema::]

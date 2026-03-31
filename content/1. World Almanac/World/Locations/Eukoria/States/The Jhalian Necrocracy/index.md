@@ -29,8 +29,8 @@ Freed entirely from the burden of manual labour, the living suffer from extreme 
 The kingdom is ruled by [[The Undying Sovereign]] and a council of ancient nobles. However, this government is built upon a massive, deeply hidden hypocrisy. While the state religion mandates [[Cavera, Goddess of Death|Cavera]]'s biological unlife and openly executes practitioners of Relic Dismagic, the Sovereign and the highest ruling elites are actually ancient Liches - followers of [[Aethelgard, God of Relics]]. They use the kingdom's undead armies as a smokescreen to hide their heretical actions from the wrath of [[Cavera, Goddess of Death|Cavera]].
 
 # Diplomatic Relations
-- [[The Firstweald Ascendancy]] (Universal Disgust): The Primal spellcasters of the Ascendancy view Jhal as the ultimate perversion of the natural cycle and kill Jhalian merchants on sight.
-- [[Meridia]] (Neutral): Meridia cares little for Jhal's theology, happily importing their mass-produced, undead-made goods, while secretly turning a blind eye to the illegal "corpse trade" smuggled out of Meridian slums to supply Jhal's armies.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index]] (Universal Disgust): The Primal spellcasters of the Ascendancy view Jhal as the ultimate perversion of the natural cycle and kill Jhalian merchants on sight.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]] (Neutral): Meridia cares little for Jhal's theology, happily importing their mass-produced, undead-made goods, while secretly turning a blind eye to the illegal "corpse trade" smuggled out of Meridian slums to supply Jhal's armies.
 
 # History & Lore
 During the [[War of Laws]], the region that is now Jhal was hit by a devastating magical famine that threatened to wipe out the entire population. In desperation, the ruling class turned to the worship of Cavera, animating the first generation of their dead to tend the failing crops and save the living. Over the last century, this desperate survival tactic evolved into a highly structured and prosperous - if unusual - way of life.

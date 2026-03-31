@@ -2,18 +2,18 @@
 tags:
   - Gods
 ---
-Ilyria is the [[Greater Gods|Greater God]] of the Afterlife, the final judge of mortal souls, and the keeper of prophecies. Representing the natural flow between the [[Fundamental Essences|Fundamental Essence of Spirit]] and the [[Basic Essences|Basic Essence of Absence]], they embody the quiet, inevitable erasure of the mortal tether.
+Ilyria is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of the Afterlife, the final judge of mortal souls, and the keeper of prophecies. Representing the natural flow between the [[Fundamental Essences|Fundamental Essence of Spirit]] and the [[Basic Essences|Basic Essence of Absence]], they embody the quiet, inevitable erasure of the mortal tether.
 
 ![[Ilyria.webp|400]] 
 
 Within the pantheon of deities, Ilyria acts as a counterpart to [[Cavera, Goddess of Death]]. While Cavera governs the active cessation of vitality - the erasure of [[Fundamental Essences|Life]]  - Ilyria oversees what comes after, dealing exclusively with the transition of the Spirit. Ilyria does not cause death, nor do they revel in it; they simply tend to the souls that Cavera's inevitable domain leaves behind.
 
-While orthodox theology states that [[The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - are the primordial anchors of reality that set the cosmic wheel in motion, secretive sects of Ilyria's most ancient clerics whisper a different truth. They claim Ilyria is a survivor of a previous universe - a reality that crumbled into dust long before [[Eukoria]] was ever born. According to these myths, Ilyria sits upon a throne of spiralling stone, merely observing this current universe play out, waiting for the wheel to finally stop turning so they can guide the last souls into the void.
+While orthodox theology states that [[1. World Almanac/World/Gods & Divines/The Twins/index]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - are the primordial anchors of reality that set the cosmic wheel in motion, secretive sects of Ilyria's most ancient clerics whisper a different truth. They claim Ilyria is a survivor of a previous universe - a reality that crumbled into dust long before [[1. World Almanac/World/Locations/Eukoria/index]] was ever born. According to these myths, Ilyria sits upon a throne of spiralling stone, merely observing this current universe play out, waiting for the wheel to finally stop turning so they can guide the last souls into the void.
 
-As a [[Canonical Gods|Canonical]] Greater God, they are completely neutral. They do not pass moral judgment on the souls that come before them; they merely ensure they reach their designated resting place. However, they harbour an uncompromising, icy wrath for those who subvert this natural cycle. They view the [[Traditions of Dismagic|Relic Dismagic]] practiced by Liches and soul-binders under [[Aethelgard, God of Relics]] as a deeply offensive perversion, as it unnaturally anchors the Spirit to [[Fundamental Essences|Matter]] instead of allowing it to peacefully pass into Absence.
+As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] Greater God, they are completely neutral. They do not pass moral judgment on the souls that come before them; they merely ensure they reach their designated resting place. However, they harbour an uncompromising, icy wrath for those who subvert this natural cycle. They view the [[Traditions of Dismagic|Relic Dismagic]] practiced by Liches and soul-binders under [[Aethelgard, God of Relics]] as a deeply offensive perversion, as it unnaturally anchors the Spirit to [[Fundamental Essences|Matter]] instead of allowing it to peacefully pass into Absence.
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Absence and Spirit]
 [Edicts::Guide souls to their final rest, destroy the undead, preserve ancient prophecies, accept the inevitability of death]
 [Anathema::Create undead, bind a soul to the material plane, artificially extend one's lifespan, rob tombs]
@@ -21,7 +21,7 @@ As a [[Canonical Gods|Canonical]] Greater God, they are completely neutral. They
 [Religious Symbol::A glowing blue spiral descending into a void]
 [Sacred Animal::Jackal]
 [Sacred Colours::Blue and Black]
-[Pantheons/Covenants::[[Canonical Gods]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
 
 ![[Ilyria Symbol.webp|400]]
 
@@ -44,4 +44,4 @@ As a [[Canonical Gods|Canonical]] Greater God, they are completely neutral. They
   
 [Minor Curse::The chill of the void seeps into your bones. You take a permanent -2 status penalty to saving throws against cold and void effects, and food tastes constantly of ash.]
 [Moderate Curse::Your unnatural avoidance of death marks your soul like a scar. Any magical healing you receive restores only half the normal amount of Hit Points.]
-[Major Curse::Ilyria decrees that your time is up, completely severing your spiritual tether to the mortal plane. You gain the Doomed 3 condition, which cannot be removed by any mortal magic. Furthermore, if you die, you cannot be resurrected by any means short of a direct intervention by a [[Greater Gods|Greater God]].]
+[Major Curse::Ilyria decrees that your time is up, completely severing your spiritual tether to the mortal plane. You gain the Doomed 3 condition, which cannot be removed by any mortal magic. Furthermore, if you die, you cannot be resurrected by any means short of a direct intervention by a [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]].]

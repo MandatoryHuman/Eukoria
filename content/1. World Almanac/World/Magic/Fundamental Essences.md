@@ -1,8 +1,8 @@
 > [!quote|author] Eukorian Thaumaturgical Text
 > "Mind, Spirit, Life, and Matter. These are not merely abstract concepts; they are the four pillars holding up the ceiling of the world."
 
-The theology and physical reality of [[Eukoria]] are inextricably linked to the cosmic geometry of the four Fundamental Essence. Unlike the absolute binary of the [[Basic Essences]], the Fundamentals are the building blocks of the mortal condition, orthodox magic, and the material plane.
-Every mortal soul is a complex blend of all four, and the [[Gods of Magic]] are each comprised of a pairing of two adjacent Fundamental Essences on the cosmic wheel.
+The theology and physical reality of [[1. World Almanac/World/Locations/Eukoria/index]] are inextricably linked to the cosmic geometry of the four Fundamental Essence. Unlike the absolute binary of the [[Basic Essences]], the Fundamentals are the building blocks of the mortal condition, orthodox magic, and the material plane.
+Every mortal soul is a complex blend of all four, and the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]] are each comprised of a pairing of two adjacent Fundamental Essences on the cosmic wheel.
 
 # The Four Fundamentals
 

@@ -11,7 +11,7 @@ tags:
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 
 # Overview
-Serving as the capital of [[The Jhalian Necrocracy]], the Silent City of Jhal is a subterranean metropolis carved entirely from a massive limestone cavern system miles below the sun-baked surface. To a visiting outsider, the city is an eerie, beautiful, and profoundly unsettling utopia. The streets are entirely silent save for the clicking of skeletal servants, the shuffling of zombies carrying out their labour, and the soft, echoing classical music drifting from high-society lounges. Sentient citizens do no manual labour, spending their days entirely in the pursuit of art, philosophy, and aesthetic perfection.
+Serving as the capital of [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index]], the Silent City of Jhal is a subterranean metropolis carved entirely from a massive limestone cavern system miles below the sun-baked surface. To a visiting outsider, the city is an eerie, beautiful, and profoundly unsettling utopia. The streets are entirely silent save for the clicking of skeletal servants, the shuffling of zombies carrying out their labour, and the soft, echoing classical music drifting from high-society lounges. Sentient citizens do no manual labour, spending their days entirely in the pursuit of art, philosophy, and aesthetic perfection.
 
 # Geography & Layout
 The city extends deep into the earth, protected from the brutal surface heat. The cavern ceilings are dotted with pale blue and green phosphorescent fungi that simulate a soft, eternal twilight. The architecture is grand, gothic, and meticulously smooth; because the undead servants do not tire, the stonework has been polished to a glass-like finish over decades. Furthermore, there are no stairs in Jhal - only long, sweeping ramps designed to accommodate the heavy carts of the undead laborers.
@@ -29,7 +29,7 @@ Publicly, the city is managed by the high priests of [[Cavera, Goddess of Death]
 - The Grand Sepulchre of Cavera: A towering temple constructed of polished black marble and fused femurs. It serves as both a place of worship and the city's primary "recruitment centre", where the newly deceased are animated and assigned their eternal civic duties.
 
 # Key NPCs
-- Viscountess Vespera: (Level 9 Dhampir Aristocrat) A highly influential living noble obsessed with curating the perfect skeletal aesthetic. She frequently hires adventurers to procure rare gems from [[The Tralichuan Expanse]] to embed in her spine.
+- Viscountess Vespera: (Level 9 Dhampir Aristocrat) A highly influential living noble obsessed with curating the perfect skeletal aesthetic. She frequently hires adventurers to procure rare gems from [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index]] to embed in her spine.
 - Overseer Malakor: (Level 11 Wight / Sepulchral Guard) An intelligent, fiercely patriotic undead military commander who patrols the Still-Works. He strictly enforces Cavera's tenets and is entirely unaware that his supreme rulers practice heretical Relic Dismagic.
 
 # Factions & Guilds

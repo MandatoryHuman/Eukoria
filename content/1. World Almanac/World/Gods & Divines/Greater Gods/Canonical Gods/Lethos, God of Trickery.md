@@ -1,7 +1,7 @@
 > [!quote] "The law is a cage only for those who cannot read between its bars. A true master does not break the lock; he convinces the warden to hand over the key."
 
-As one of the prominent [[Canonical Gods]] of [[Eukoria]], Lethos governs the domains of wit, strategy, deception, and ruthless cunning. He represents the legally dubious boundaries of trickery, testing the structures of society, mostly without *overtly* breaking its laws. He sits beneath [[The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - as a member of the [[Greater Gods]]. To his worshippers, he embodies the concept that a sharp mind, statecraft, and strategic subterfuge have a rightful, structured place in the world.
-However, to many, a shadow hangs over his faith. While his worship is technically legal in most regions, it is deeply frowned upon by hardliners who despise the [[Non-Canonical Gods]], owing to the dark and manipulative role Lethos played in their creation during the [[War of Laws]].
+As one of the prominent [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]] of [[1. World Almanac/World/Locations/Eukoria/index]], Lethos governs the domains of wit, strategy, deception, and ruthless cunning. He represents the legally dubious boundaries of trickery, testing the structures of society, mostly without *overtly* breaking its laws. He sits beneath [[1. World Almanac/World/Gods & Divines/The Twins/index]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - as a member of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index]]. To his worshippers, he embodies the concept that a sharp mind, statecraft, and strategic subterfuge have a rightful, structured place in the world.
+However, to many, a shadow hangs over his faith. While his worship is technically legal in most regions, it is deeply frowned upon by hardliners who despise the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index]], owing to the dark and manipulative role Lethos played in their creation during the [[War of Laws]].
 
 ## Dogma
 While *publicly* Lethos' church supports the [[Traditions of Magic]], his clerics and specialized mages have been known to operate within the [[Traditions of Dismagic]], utilizing Passion magic to manipulate other and Relic magic to aid in their nefarious deeds. While his worshippers generally concede that the rules maintained by [[Solon, God of Law]] are absolute, they treat their interpretations as a battlefield. Outwitting an opponent through a legal loophole or clever negotiation is considered the highest form of devotion.
@@ -25,7 +25,7 @@ The majority of the faithful of Lethos are not anarchists or petty criminals; th
 [Religious Symbol::A gold coin or amulet with an unsolvable labyrinth on its face with a mask in the centre]
 [Sacred Animal::Fox]
 [Sacred Colours::Silver and Gold]
-[Pantheons/Covenants::[[Canonical Gods]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
 
 ![[Lethos Symbol.webp|400]]
 

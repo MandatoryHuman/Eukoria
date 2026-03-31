@@ -6,18 +6,18 @@ aliases:
   - Lysia Bind-breaker
   - Goddess of Passion
 ---
-Lysia Bind-breaker is the [[Greater Gods|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[Eukoria]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
+Lysia Bind-breaker is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
 
 ![[Lysia.webp|400]]
 
-Before the [[War of Laws]], Lysia was merely a [[Lesser Gods|Lesser God]]. Her ambition to ascend to the orthodox pantheon was weaponized by [[Lethos, God of Trickery]], who orchestrated a celestial rebellion using her righteous fury. When the primordial anchors known as [[The Twins]] briefly awoke to halt the carnage, they issued a decree that officially elevated Lysia to the ranks of the [[Greater Gods]], formally establishing the [[Gods of Dismagic]].
+Before the [[War of Laws]], Lysia was merely a [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser God]]. Her ambition to ascend to the orthodox pantheon was weaponized by [[Lethos, God of Trickery]], who orchestrated a celestial rebellion using her righteous fury. When the primordial anchors known as [[1. World Almanac/World/Gods & Divines/The Twins/index]] briefly awoke to halt the carnage, they issued a decree that officially elevated Lysia to the ranks of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index]], formally establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]].
 
-Because she draws upon cosmic friction rather than harmony, Lysia is highly controversial. Opponents of Dismagic evoke images of her practitioners hijacking nervous systems through parasitic telepathy, reducing stable lifeforms to maddened aberrations, and forcing unnatural evolutionary leaps. The [[Canonical Gods|Canonical]] deity [[Maelis, Goddess of Fertility and Harvest]] stands in direct opposition to her, championing natural reproduction over Lysia's forced biological leaps.
+Because she draws upon cosmic friction rather than harmony, Lysia is highly controversial. Opponents of Dismagic evoke images of her practitioners hijacking nervous systems through parasitic telepathy, reducing stable lifeforms to maddened aberrations, and forcing unnatural evolutionary leaps. The [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] deity [[Maelis, Goddess of Fertility and Harvest]] stands in direct opposition to her, championing natural reproduction over Lysia's forced biological leaps.
 
 However, the reality of most of Lysia's faithful is often far more benevolent. Her Clerics frequently use this potent connection between intellect and vitality to protect those who cannot protect themselves: persecuted lovers, dissidents ostracised for speaking their truth, and innocents tossed out for failing to fit in. Many of her worshippers take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97) dedication, and she is heavily followed by Fleshwarps and the Fleshwarpers who create them.
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Life and Mind]
 [Edicts::Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains]
 [Anathema::Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression]
@@ -25,7 +25,7 @@ However, the reality of most of Lysia's faithful is often far more benevolent. H
 [Religious Symbol::A heart wrapped in iron chains]
 [Sacred Animal::Chameleon]
 [Sacred Colours::Vibrant Magenta and Crimson]
-[Pantheons/Covenants::[[Non-Canonical Gods]], [[Gods of Dismagic]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]]]
 
 ![[Lysia Symbol.webp|400]]
 

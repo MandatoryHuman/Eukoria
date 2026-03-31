@@ -1,1 +1,1 @@
-The ruling coalition of oligarchs who control [[Meridia]]'s wealth and maritime tariffs.
+The ruling coalition of oligarchs who control [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]]'s wealth and maritime tariffs.

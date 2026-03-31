@@ -1,1 +1,1 @@
-The governing conclave that dictates the political and ecological direction of [[The Firstweald Ascendancy]], led by [[Hierophant Rinebrior]].
+The governing conclave that dictates the political and ecological direction of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index]], led by [[Hierophant Rinebrior]].

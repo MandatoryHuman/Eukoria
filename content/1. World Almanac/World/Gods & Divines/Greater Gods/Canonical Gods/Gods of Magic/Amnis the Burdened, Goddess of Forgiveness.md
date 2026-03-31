@@ -13,10 +13,10 @@ Amnis teaches mercy above all. Her capacity for forgiveness is so profound that 
 
 Legends claim that because of the sheer volume of sin she contains, her death would release a shockwave of unholy energy capable of obliterating the world. While mortal scholars debate the truth of this theory, it is a historical fact that during the [[War of Laws]], not a single deity dared to make an attempt on her life.
 
-The followers of Amnis are staunch pacifists. Her [[Chosen Ones]] are strictly forbidden from killing or lying, tasked instead with spreading her message through diplomacy and grace. To aid them, Amnis provides her Champions with no offensive magic, instead granting them two miraculous gifts. The first is universal communion - the ability to speak with and understand any intelligent lifeform. The second is a conditional immortality; should a Chosen fall while pursuing their peaceful duties - a frequent hazard for unarmed diplomats - they are able to return to life, resurrecting at a sanctuary of their choosing.
+The followers of Amnis are staunch pacifists. Her [[1. World Almanac/World/NPCs/Chosen Ones/index]] are strictly forbidden from killing or lying, tasked instead with spreading her message through diplomacy and grace. To aid them, Amnis provides her Champions with no offensive magic, instead granting them two miraculous gifts. The first is universal communion - the ability to speak with and understand any intelligent lifeform. The second is a conditional immortality; should a Chosen fall while pursuing their peaceful duties - a frequent hazard for unarmed diplomats - they are able to return to life, resurrecting at a sanctuary of their choosing.
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Life and Spirit]
 [Edicts::Forgive those with even the smallest glimmer of goodness within them, seek peaceful resolutions]
 [Anathema::Kill, Lie]
@@ -24,7 +24,7 @@ The followers of Amnis are staunch pacifists. Her [[Chosen Ones]] are strictly f
 [Religious Symbol::A pure white pearl with an inky black smoke inside]
 [Sacred Animal::Oyster]
 [Sacred Colours::White, Black]
-[Pantheons/Covenants::[[Canonical Gods]], [[Gods of Magic]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]]]
 
 ![[Amnis Symbol.webp]]
 

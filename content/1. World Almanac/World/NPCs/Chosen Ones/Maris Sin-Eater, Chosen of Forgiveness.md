@@ -8,7 +8,7 @@ aliases:
 [Pronouns::They/Them]
 [Ancestry::] 
 [Background::Diplomat] 
-[Class/Profession::[[Chosen Ones|Chosen One]]] 
+[Class/Profession::[[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]]] 
 [Level::10]
 [Location::Varies] 
 [Faction::Church of [[Amnis the Burdened, Goddess of Forgiveness]]] 
@@ -23,14 +23,14 @@ aris is a breathtaking vision of serene elegance and divine radiance, acting as 
 When Maris manifests divine energy, a swirling aura of light, silver particles, and wispy teal energy forms a dynamic halo effect around their head and raised hands, which glow with celestial light. Despite the ornate, heavily adorned appearance, they always appear profoundly calm.
 
 # Personality
-As a [[Chosen Ones|Chosen One]], Maris is the perfect embodiment of Universal Communion. They are strictly a pacifist, forbidden from killing, harming, or lying. They exude a supernatural calm and absolute sincerity, possessing an inherent warmth that, along with the gifts granted by their patron, allows them to communicate gracefully and trustworthily with any intelligent being, regardless of language or hostile intent. Their inability to deceive means that their words are carried by a serene clarity.
+As a [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]], Maris is the perfect embodiment of Universal Communion. They are strictly a pacifist, forbidden from killing, harming, or lying. They exude a supernatural calm and absolute sincerity, possessing an inherent warmth that, along with the gifts granted by their patron, allows them to communicate gracefully and trustworthily with any intelligent being, regardless of language or hostile intent. Their inability to deceive means that their words are carried by a serene clarity.
 
 # Relationships
-- [[Amnis the Burdened, Goddess of Forgiveness]]: Maris acts as a living, physical conduit for the Greater Goddess's divine will on [[Eukoria]].
+- [[Amnis the Burdened, Goddess of Forgiveness]]: Maris acts as a living, physical conduit for the Greater Goddess's divine will on [[1. World Almanac/World/Locations/Eukoria/index]].
 - The Remorseful: Maris serves as an intermediary for transgressors; if a sinner is truly remorseful, Maris facilitates the divine communion, allowing Amnis to absorb the dark burden of their sin directly.
 
 # History & Lore
-Chosen by Amnis specifically for their inherent diplomatic grace, Maris travels the most volatile regions of [[Eukoria]], frequently placing themselves unarmed and in profound danger to broker peace. They are viewed with reverence by the faithful and superstitious dread by transgressors. The moniker "Sin-Eater" was given to them because witnesses claimed that when Maris successfully facilitates forgiveness, the divine light glowing within them seems to _visibly draw out_ a swirling dark essence from the truly repentant sinner, which then dissolves into Maris’s own radiant aura to be carried back to their goddess.
+Chosen by Amnis specifically for their inherent diplomatic grace, Maris travels the most volatile regions of [[1. World Almanac/World/Locations/Eukoria/index]], frequently placing themselves unarmed and in profound danger to broker peace. They are viewed with reverence by the faithful and superstitious dread by transgressors. The moniker "Sin-Eater" was given to them because witnesses claimed that when Maris successfully facilitates forgiveness, the divine light glowing within them seems to _visibly draw out_ a swirling dark essence from the truly repentant sinner, which then dissolves into Maris’s own radiant aura to be carried back to their goddess.
 
 # Stats & Equipment
 Because [[Amnis the Burdened, Goddess of Forgiveness]] provides her Champions with no offensive magic, Maris must rely entirely on diplomacy and their miraculous gifts for protection and influence.

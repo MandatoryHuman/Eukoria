@@ -2,16 +2,16 @@
 tags:
   - Gods
 ---
-Solon is the [[Greater Gods|Greater God]] of Law and the [[Canonical Gods|Canonical]] patron of Occult Magic. He is formed by the harmonious, cerebral blend of Spirit and Mind. Solon governs the intangible soul and pure consciousness, providing a structured, orthodox path to mastering psychic phenomena, astral projection, and the defence of the mind.
+Solon is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Law and the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] patron of Occult Magic. He is formed by the harmonious, cerebral blend of Spirit and Mind. Solon governs the intangible soul and pure consciousness, providing a structured, orthodox path to mastering psychic phenomena, astral projection, and the defence of the mind.
 
 ![[Solon.webp|400]] 
 
-Practitioners of Solon’s tradition, such as bards and psychics, channel his calculated blend of essences to unravel psychic mysteries and construct impenetrable wards against mental intrusion. His most devoted masters are granted the ability to safely untether their consciousness from their physical form to walk the astral planes - or violently sever the astral tethers of their enemies. As a [[Canonical Gods|Canonical]] [[Gods of Magic|God of Magic]], his teachings are perfectly widely studied in Eukorian academies.
+Practitioners of Solon’s tradition, such as bards and psychics, channel his calculated blend of essences to unravel psychic mysteries and construct impenetrable wards against mental intrusion. His most devoted masters are granted the ability to safely untether their consciousness from their physical form to walk the astral planes - or violently sever the astral tethers of their enemies. As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|God of Magic]], his teachings are perfectly widely studied in Eukorian academies.
 
-Despite his pact-bound neutrality regarding the flow of magic, Solon represents absolute, unyielding order. This places him and his followers in direct ideological conflict with [[Lethos, God of Trickery]], whom Solon despises for his mockery of the spirit of the law and his historical murder of [[Thrum, God of Madness]]. Solon's hardliner orthodox followers are notoriously rigid; for instance, they completely despise leaders like [[High Arbiter Garadwen]] of [[Meridia]], viewing her loophole-ridden administration as a mockery of justice, even if they are legally unable to prosecute her.
+Despite his pact-bound neutrality regarding the flow of magic, Solon represents absolute, unyielding order. This places him and his followers in direct ideological conflict with [[Lethos, God of Trickery]], whom Solon despises for his mockery of the spirit of the law and his historical murder of [[Thrum, God of Madness]]. Solon's hardliner orthodox followers are notoriously rigid; for instance, they completely despise leaders like [[High Arbiter Garadwen]] of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]], viewing her loophole-ridden administration as a mockery of justice, even if they are legally unable to prosecute her.
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Spirit and Mind]
 [Edicts::Uphold the strict letter and spirit of the law, punish oathbreakers, construct impenetrable wards against mental intrusion]
 [Anathema::Break a sworn oath, subvert the spirit of the law through loopholes, practice Dismagic, consort with followers of [[Lethos, God of Trickery|Lethos]]]
@@ -19,7 +19,7 @@ Despite his pact-bound neutrality regarding the flow of magic, Solon represents 
 [Religious Symbol::A locked book]
 [Sacred Animal::Hound]
 [Sacred Colours::Deep blue]
-[Pantheons/Covenants::[[Canonical Gods]], [[Gods of Magic]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]]]
 
 
 ![[Solon Symbol.webp|400]]

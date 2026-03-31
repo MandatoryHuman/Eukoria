@@ -5,7 +5,7 @@ tags:
 > [!quote|author] Eukorian Folk Saying
 > "An Arcanist prays to the monoliths for a perfect spell formula, but a mother prays to a Lesser God to break her child's fever. The monoliths do not understand mercy, but a Lesser God remembers what it is to bleed."
 
-Unlike the vast, uncompromising, and alien [[Greater Gods]], the Lesser Gods of [[Eukoria]] are highly relatable to the mortal condition.
+Unlike the vast, uncompromising, and alien [[1. World Almanac/World/Gods & Divines/Greater Gods/index]], the Lesser Gods of [[1. World Almanac/World/Locations/Eukoria/index]] are highly relatable to the mortal condition.
 The defining trait of a Lesser God is that they are comprised of a complex blend of all four [[Fundamental Essences]] (Life, Spirit, Mind, and Matter). Because their foundational makeup mirrors the composition of a mortal soul, their psychology, morality, and domains are messy, multifaceted, and deeply human.
 
 # Anatomy of a Lesser God
@@ -27,5 +27,5 @@ Lesser Gods make up the vast majority of the everyday pantheon for common mortal
 Because Lesser Gods are composed of the same essences as mortals, they understand concepts entirely alien to the monoliths above them. They are much more capable of pity, wrath, love, grief, and, most importantly, changing their minds.
 
 ## Related
-- [[Greater Gods]] - The uncompromising deities of dual-essences.
+- [[1. World Almanac/World/Gods & Divines/Greater Gods/index]] - The uncompromising deities of dual-essences.
 - [[Fundamental Essences]] - The four pillars that compose a Lesser God's soul.

@@ -6,7 +6,7 @@ Exactly 116 years ago, the heavens were torn apart by a cataclysmic celestial re
 
 The world was an epicentre of divine collateral damage. It was here that the Canonical gods and the rebel forces of [[Lethos, God of Trickery]] clashed most violently, boiling the oceans and permanently tearing the physical fabric of [[Fundamental Essences|Matter]].
 
-When the dust settled, the world was forever changed. While the heavens are now at an uneasy peace, the mortal world must navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another. Yet, from this apocalypse, mortals found opportunity. Various nations have risen from the ashes, each hoping to lead the inhabitants of [[Eukoria]] into a prosperous future.
+When the dust settled, the world was forever changed. While the heavens are now at an uneasy peace, the mortal world must navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another. Yet, from this apocalypse, mortals found opportunity. Various nations have risen from the ashes, each hoping to lead the inhabitants of [[1. World Almanac/World/Locations/Eukoria/index]] into a prosperous future.
 
 # Directory
 
@@ -16,7 +16,7 @@ When the dust settled, the world was forever changed. While the heavens are now 
 - [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
 - [[Traditions of Dismagic]] - The forbidden, volatile magic born of cosmic friction.
 
-### [[Greater Gods]]
+### [[1. World Almanac/World/Gods & Divines/Greater Gods/index]]
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name",

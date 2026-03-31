@@ -2,16 +2,16 @@
 tags:
   - Gods
 ---
-Cavera is the [[Greater Gods|Greater God]] of Death, the active cessation of vitality, and the patron of unlife. In the cosmic geometry of [[Eukoria]], she is the terrifying intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Absence]]. She represents the biological certainty that all natural living things must eventually be erased to make way for a colder, eternal order.
+Cavera is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Death, the active cessation of vitality, and the patron of unlife. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], she is the terrifying intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Absence]]. She represents the biological certainty that all natural living things must eventually be erased to make way for a colder, eternal order.
 
 ![[Cavera.webp|400]]
 
 Within the pantheon of deities, Cavera acts as a counterpart to [[Ilyria, Goddess of The Afterlife]]. While Cavera governs the active cessation of vitality - the erasure of [[Fundamental Essences|Life]] - Ilyria oversees what comes after. However, their relationship is deeply fractured. Because the [[Fundamental Essences|Fundamental Essence of Life]] encompasses the animating force that fuels unlife, Cavera views the undead not as an abomination, but as the ultimate, perfected state of her domain - vitality scrubbed clean of mortal frailty and Ilyria's "natural" cycle.
 
-As a [[Canonical Gods|Canonical God]], she fundamentally disagrees with [[Aethelgard, God of Relics|Aethelgard's]] use of [[Traditions of Dismagic|Dismagic]] to bind [[Fundamental Essences|Spirit]] to [[Fundamental Essences|Matter]]; to Cavera, true unlife is purely biological and primal, fueled by [[Fundamental Essences|Life]] and [[Basic Essences|Absence]]. Her worshippers include necromancers who practice sanctioned magic, executioners, and intelligent undead. Her [[Chosen Ones]] are tasked with culling the breathing, halting natural lifespans, and raising armies of the dead to enforce her eternal silence.
+As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical God]], she fundamentally disagrees with [[Aethelgard, God of Relics|Aethelgard's]] use of [[Traditions of Dismagic|Dismagic]] to bind [[Fundamental Essences|Spirit]] to [[Fundamental Essences|Matter]]; to Cavera, true unlife is purely biological and primal, fueled by [[Fundamental Essences|Life]] and [[Basic Essences|Absence]]. Her worshippers include necromancers who practice sanctioned magic, executioners, and intelligent undead. Her [[1. World Almanac/World/NPCs/Chosen Ones/index]] are tasked with culling the breathing, halting natural lifespans, and raising armies of the dead to enforce her eternal silence.
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Absence and Life]
 [Edicts::Ensure the swift end of the dying, cull the weak so the strong may survive, accept the inevitability of mortality]
 [Anathema::Destroy an undead creature, artificially extend a natural mortal lifespan, resurrect the living]
@@ -19,7 +19,7 @@ As a [[Canonical Gods|Canonical God]], she fundamentally disagrees with [[Aethel
 [Religious Symbol::A shattered pocketwatch]
 [Sacred Plant::Strangler fig]
 [Sacred Colours::Crimson and Void Black]
-[Pantheons/Covenants::[[Canonical Gods]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
 
 ![[Cavera Symbol.webp|500]]
 

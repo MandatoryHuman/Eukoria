@@ -11,7 +11,7 @@ tags:
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 
 # Overview
-A large, purple-bannered island to the west of the city of [[Obolus]]. It is a heavily militarized naval base and artillery battery. Cannons and Arcane siege engines line its eastern shores, ensuring that any ship attempting to run the toll in the channel below is mathematically deconstructed into driftwood.
+A large, purple-bannered island to the west of the city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index]]. It is a heavily militarized naval base and artillery battery. Cannons and Arcane siege engines line its eastern shores, ensuring that any ship attempting to run the toll in the channel below is mathematically deconstructed into driftwood.
 
 # Geography & Layout
 (Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)

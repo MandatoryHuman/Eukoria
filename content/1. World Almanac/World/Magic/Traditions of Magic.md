@@ -3,7 +3,7 @@
 
 In Eukoria, orthodox spellcasting is divided into four distinct **Traditions of Magic**. These traditions are entirely dependent on the cosmic wheel of the four Fundamental Essences. A tradition is formed when two adjacent Essences are channeled in perfect harmony.
 
-Because these pairs naturally flow into one another, they create stable, predictable phenomena that do not inherently damage the fabric of reality or the caster's soul. These four pillars are governed by the pact-bound [[Gods of Magic]].
+Because these pairs naturally flow into one another, they create stable, predictable phenomena that do not inherently damage the fabric of reality or the caster's soul. These four pillars are governed by the pact-bound [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]].
 
 # Divine Magic (Life + Spirit)
 Governed by [[Amnis the Burdened, Goddess of Forgiveness|Amnis, the Burdened]], Divine Magic is the harmonious blend of physical vitality and the ethereal soul.
@@ -42,5 +42,5 @@ Shapeshifting, biokinesis, and environmental control.
 Druids, Rangers, and Fey channel this visceral blend to command the raw strength of nature and mould the physical forms of living beasts. It is deeply tied to the environment, allowing casters to cultivate flourishing new ecosystems, or violently reclaim civilized lands for the earth.
 
 # Related
-- [[Gods of Magic]] - The divine arbiters of these traditions.
+- [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]] - The divine arbiters of these traditions.
 - [[Traditions of Dismagic|Traditions of Dismagic]] - The unstable, clashing combinations of non-adjacent Essences.

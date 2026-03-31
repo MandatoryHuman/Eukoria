@@ -2,18 +2,18 @@
 tags:
   - Gods
 ---
-Maelis is the [[Greater Gods|Greater God]] of Fertility, the harvest, and explosive biological growth. In the cosmic geometry of [[Eukoria]], she represents the harmonious, [[Canonical Gods|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Presence]].
+Maelis is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Fertility, the harvest, and explosive biological growth. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], she represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Presence]].
 
 ![[Maelis.webp|400]]
 
-The [[Fundamental Essences|Essence of Life]] governs the beating of the heart, the growth of the wild, and the raw biological drive to survive. The [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation, growth, and the addition of new elements into reality. When combined smoothly as a [[Canonical Gods|Canonical God]], Maelis embodies the physical manifestation of spring - the birthing of new generations, the blooming of flora, and the bountiful, life-sustaining harvest.
+The [[Fundamental Essences|Essence of Life]] governs the beating of the heart, the growth of the wild, and the raw biological drive to survive. The [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation, growth, and the addition of new elements into reality. When combined smoothly as a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical God]], Maelis embodies the physical manifestation of spring - the birthing of new generations, the blooming of flora, and the bountiful, life-sustaining harvest.
 
 Unlike the  unnatural, forced evolutionary leaps practiced by followers of the [[Traditions of Dismagic|Dismagic]] Goddess [[Lysia Bind-breaker, Goddess of Passion|Lysia]], Maelis governs natural, orthodox reproduction and growth. Her worshippers are predominantly farmers, midwives, parents, and community leaders. To follow Maelis is to believe that the ultimate expression of the divine is the creation and nurturing of new life.
 
-Her [[Chosen Ones|Chosen Ones]] act as avatars of her will on Eukoria , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
+Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] act as avatars of her will on Eukoria , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
 
 ---
-[Category::[[Greater Gods]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
 [Aspects::Presence and Life]
 [Edicts::Cultivate new life, protect the young and pregnant, ensure the harvest is shared, foster natural growth]
 [Anathema::Destroy healthy crops out of malice, abandon a child or vulnerable youth, needlessly sterilize the land]
@@ -21,7 +21,7 @@ Her [[Chosen Ones|Chosen Ones]] act as avatars of her will on Eukoria , tasked w
 [Religious Symbol::Four stalks of wheat]
 [Sacred Animal::Rabbit]
 [Sacred Colours::Emerald Green and Gold]
-[Pantheons/Covenants::[[Canonical Gods]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
 ![[Maelis Symbol.webp|400]]
 ## Devotee Benefits
 [Divine Attribute::Constitution or Wisdom]

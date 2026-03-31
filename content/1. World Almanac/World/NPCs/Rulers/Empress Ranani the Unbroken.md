@@ -5,10 +5,10 @@ tags:
 [Pronouns::She/Her]
 [Ancestry::Dromaar] 
 [Background::Sailor] 
-[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[The Tralichuan Expanse]]] 
+[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index]]] 
 [Level::18]
 [Location::[[Tralicor]]] 
-[Faction::[[The Tralichuan Expanse]]] 
+[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index]]] 
 [Role::Empress and Supreme Naval Commander] 
 [Status::Alive] 
 
@@ -20,7 +20,7 @@ Empress Ranani is a physically dominating presence, towering over most of her su
 She rejects the suffocating silks and crowns of northern rulers. Instead, she wears simple and practical outfits - more than once a for She carries her favoured weapon, a massive, crackling trident named _Tide-Breaker_, wherever she goes.
 
 # Personality
-Ranani embodies the loud, vibrant, and enduring spirit of her empire. She is boisterous, direct, and completely unyielding. She believes that a ruler must lead from the front, viewing physical endurance and strength as the truest measures of a leader's worth. She has no patience for the cowardly, loophole-ridden paperwork of [[Meridia]], nor the stagnant, artificial unlife of the [[The Jhalian Necrocracy]].
+Ranani embodies the loud, vibrant, and enduring spirit of her empire. She is boisterous, direct, and completely unyielding. She believes that a ruler must lead from the front, viewing physical endurance and strength as the truest measures of a leader's worth. She has no patience for the cowardly, loophole-ridden paperwork of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]], nor the stagnant, artificial unlife of the [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index]].
 
 To Ranani, the world is a storm meant to be weathered. Her primary goal is to break Meridia's absolute stranglehold over the oceans, charting new trade routes through sheer force of will and determination.
 
