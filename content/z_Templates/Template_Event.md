@@ -1,17 +1,15 @@
 ---
+publish: true
+created: 2026-03-31T18:33:29.371+01:00
+modified: 2026-03-31T18:36:02.599+01:00
 tags:
   - Events
-aliases:
-timelines:
-aat-render-enabled: true
-aat-event-start-date:
-aat-event-end-date:
-aat-event-picture:
 ---
-[Type::] 
-[Location::] 
-[Factions Involved::] 
-[Key Figures::]
+
+\[Type::]
+\[Location::]
+\[Factions Involved::]
+\[Key Figures::]
 
 (Event Image)
 

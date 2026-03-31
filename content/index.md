@@ -1,7 +1,10 @@
 ---
-title: content
+publish: true
 aliases:
   - content
+title: content
+created: 2026-03-30T12:31:05.525+01:00
+modified: 2026-03-31T16:51:09.677+01:00
 ---
 
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
@@ -9,6 +12,7 @@ aliases:
 Welcome to **Eukoria**, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
 # The War of Laws
+
 Exactly 116 years ago, the heavens were torn apart by a cataclysmic celestial rebellion known as the War of Laws. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition that spilled directly onto mortal soil.
 
 The world was an epicentre of divine collateral damage. It was here that the Canonical gods and the rebel forces of [[Lethos, God of Trickery]] clashed most violently, boiling the oceans and permanently tearing the physical fabric of [[Fundamental Essences|Matter]].
@@ -18,39 +22,40 @@ When the dust settled, the world was forever changed. While the heavens are now 
 # Directory
 
 ## Core Lore & Mechanics
+
 - [[Fundamental Essences]] - The building blocks of reality (Life, Spirit, Mind, Matter).
 - [[Basic Essences]] - The absolute anchors of the void (Presence and Absence).
 - [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
 - [[Traditions of Dismagic]] - The forbidden, volatile magic born of cosmic friction.
 
 ### [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]
-```dataview
-TABLE WITHOUT ID
-file.link AS "Name",
-areas-of-concern AS "Areas of Concern", Category, Aspects, Domains
-FROM #Gods 
-WHERE file.folder != "z_Templates"
-WHERE contains(Category, [[Greater Gods]])
-SORT file.name ASC
-```
+
+| Name | Areas of Concern | Category | Aspects | Domains |
+| ---- | ---------------- | -------- | ------- | ------- |
 
 ## Geography & Nations
 
 ### The Continents
+
 - [[Antoria]] (West)
 - [[Cenora]] (East)
 
 ### Nations
 
-```dataview
-TABLE WITHOUT ID
-title AS "Name", Capital, Government, Ruler, Religions
-FROM #State
-WHERE file.folder != "z_Templates"
-SORT file.name ASC
-```
+| Name                      | Capital                                                                                                                        | Government                       | Ruler                                                                                              | Religions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Tralichuan Expanse    | Tralicor                                                                                                                       | Expansionist Thalassocracy       | [[1. World Almanac/World/NPCs/Rulers/Empress Ranani the Unbroken.md\|Empress Ranani the Unbroken]] | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Vellora, Goddess of Sea and Storms.md\|Vellora, Goddess of Sea and Storms]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Maelis, Goddess of Fertility and Harvest.md\|Maelis, Goddess of Fertility and Harvest]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Bella, Goddess of War.md\|Bella, Goddess of War]]</li></ul>                                                                                                                                                                              |
+| The Kazarn Hegemony       | [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/Bastion.md\|Bastion]]                                    | Stratocracy                      | [[1. World Almanac/World/NPCs/Rulers/High Marshal Kaelen.md\|High Marshal Kaelen]]                 | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Bella, Goddess of War.md\|Bella, Goddess of War]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Xerith, God of Erosion.md\|Xerith, God of Erosion]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                           |
+| The Jhalian Necrocracy    | [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/The Silent City of Jhal.md\|The Silent City of Jhal]] | Feudal Necrocracy                | [[1. World Almanac/World/NPCs/Rulers/The Undying Sovereign.md\|The Undying Sovereign]]             | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Cavera, Goddess of Death.md\|Cavera, Goddess of Death]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/Aethelgard, God of Relics.md\|Aethelgard, God of Relics]]</li></ul>                                                                                                                                                                                                                                                                                                                                          |
+| The Glandaric Marches     | Fort Glandar                                                                                                                   | Decentralised Military Coalition | The Marchwarden Council                                                                            | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Bella, Goddess of War.md\|Bella, Goddess of War]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/Lysia Bind-breaker, Goddess of Passion.md\|Lysia Bind-breaker, Goddess of Passion]]</li></ul>                                                                                                                                                                                                                                                                                                                      |
+| The Firstweald Ascendancy | Elderheart                                                                                                                     | Druidic Conclave                 | [[1. World Almanac/World/NPCs/Rulers/Hierophant Rinebrior.md\|Hierophant Rinebrior]]               | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Kurnos, God of Nature.md\|Kurnos, God of Nature]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Maelis, Goddess of Fertility and Harvest.md\|Maelis, Goddess of Fertility and Harvest]]</li></ul>                                                                                                                                                                                                                                                                                                                         |
+| The Daeshin Null-State    | [[Othrys, The Hollow Capital]] (Largely Abandoned)                                                                             | Anarchic Quarantine Zone         | Various Cult Leaders and Warlords                                                                  | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Aporia, God of Fate.md\|Aporia, God of Fate]]</li><li>[[1. World Almanac/World/Gods & Divines/Dead Gods/Thrum, God of Madness.md\|Thrum, God of Madness]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/Lysia Bind-breaker, Goddess of Passion.md\|Lysia Bind-breaker, Goddess of Passion]]</li></ul>                                                                                                                                                                                                         |
+| The Directorate of Vael   | [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/Axiom's Hold.md\|Axiom's Hold]]                      | Theocratic Surveillance State    | [[The Panopticon Council\|The Panopticon Council]]                                                 | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Solon, God of Law.md\|Solon, God of Law]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Oclera, God of Knowledge.md\|Oclera, God of Knowledge]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                 |
+| Meridia                   | [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index.md\|Obolus]]                                            | Mercantile Oligarchy             | [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md\|High Arbiter Garadwen]]             | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Lethos, God of Trickery.md\|Lethos, God of Trickery]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Aureon, God of Commerce and Industry.md\|Aureon, God of Commerce and Industry]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Amnis the Burdened, Goddess of Forgiveness.md\|Amnis the Burdened, Goddess of Forgiveness]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Solon, God of Law.md\|Solon, God of Law]]</li></ul> |
+| Heretic's Wake            | [[The Flotilla of the Unbound\|The Flotilla of the Unbound]]                                                                   | Pirate Coalition                 | A shifting council of the most powerful Pirate Captains                                            | <ul><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/Lysia Bind-breaker, Goddess of Passion.md\|Lysia Bind-breaker, Goddess of Passion]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/Aethelgard, God of Relics.md\|Aethelgard, God of Relics]]</li><li>[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Aporia, God of Fate.md\|Aporia, God of Fate]]</li></ul>                                                                                                                                                          |
 
 ### Notable Locations:
+
 - [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
 
 ### 🧑‍🤝‍🧑 Characters & Factions

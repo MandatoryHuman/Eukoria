@@ -1,18 +1,16 @@
 ---
+publish: true
+created: 2026-03-30T12:31:05.436+01:00
+modified: 2026-03-31T18:40:57.350+01:00
 tags:
   - Wars
   - Events
-aat-event-start-date: -21-01-01
-aat-event-end-date: 1-3-7
-aat-render-enabled: true
-timelines:
-  - states timeline
-aat-event-picture: none
 ---
-[Type:: Divine War]
-[Location:: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
-[Factions Involved:: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
-[Key Figures:: [[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]
+
+\[Type:: Divine War]
+\[Location:: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Factions Involved:: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
+\[Key Figures:: [[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]
 
 (Event Image)
 
@@ -35,6 +33,7 @@ The rebellion escalated into a full celestial war, then spilled onto mortal soil
 Amid the slaughter, Lethos advanced his own station by eliminating key targets. He killed [[Thrum, God of Madness]] to open a path into the Greater pantheon, then killed [[Syla, Goddess of Records]], erasing centuries of preserved knowledge and obscuring parts of the war's true history.
 
 The conflict ended only when [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] awakened. Their brief manifestation halted all hostilities and imposed a single decree: [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]] would be permitted to exist. This decree immediately produced two historic consequences:
+
 - **The Ascension:** Lysia and Aethelgard were elevated, establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
 - **The Birth of the Paradox:** The contradictory energies released during the decree coalesced into [[Aporia, God of Fate]], born of both Presence and Absence.
 
