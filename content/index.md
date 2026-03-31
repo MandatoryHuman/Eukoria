@@ -1,7 +1,10 @@
 ---
-title: content
+publish: true
 aliases:
   - content
+title: content
+created: 2026-03-30T12:31:05.525+01:00
+modified: 2026-03-31T16:51:09.677+01:00
 ---
 
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
