@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "eukoria.vercel.app",
     ignorePatterns: ["private", "z_Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
