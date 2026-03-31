@@ -2,30 +2,37 @@
 tags:
   - NPCs
 ---
-[Pronouns::]
-[Ancestry::] 
-[Background::] 
-[Class/Profession::] 
-[Level::]
-[Location::] 
-[Faction::] 
-[Role::] 
-[Status::] 
+[Pronouns::She/Her]
+[Ancestry::Dromaar] 
+[Background::Sailor] 
+[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[The Tralichuan Expanse]]] 
+[Level::18]
+[Location::[[Tralicor]]] 
+[Faction::[[The Tralichuan Expanse]]] 
+[Role::Empress and Supreme Naval Commander] 
+[Status::Alive] 
 
-(IMAGE)
+![[Ranani the Unbroken.webp|400]]
 
 # Appearance
-(Describe their physical build, facial features, clothing, gear, and any distinguishing marks like scars or tattoos.)
+Empress Ranani is a physically dominating presence, towering over most of her subjects with the heavy, muscular build characteristic of her Orc heritage. Her skin is deeply tanned from a life spent  on the open ocean, and her arms and shoulders are covered in jagged, scar tissue - trophies from close-quarters combat with reality-warped leviathans.
+
+She rejects the suffocating silks and crowns of northern rulers. Instead, she wears simple and practical outfits - more than once a for She carries her favoured weapon, a massive, crackling trident named _Tide-Breaker_, wherever she goes.
 
 # Personality
-(Describe their general demeanour, motivations, goals, and any secrets they might be hiding.)
+Ranani embodies the loud, vibrant, and enduring spirit of her empire. She is boisterous, direct, and completely unyielding. She believes that a ruler must lead from the front, viewing physical endurance and strength as the truest measures of a leader's worth. She has no patience for the cowardly, loophole-ridden paperwork of [[Meridia]], nor the stagnant, artificial unlife of the [[The Jhalian Necrocracy]].
+
+To Ranani, the world is a storm meant to be weathered. Her primary goal is to break Meridia's absolute stranglehold over the oceans, charting new trade routes through sheer force of will and determination.
 
 # Relationships
-(Detail their allies, enemies, faction affiliations, and family ties.)
+- [[Vellora, Goddess of Sea and Storms]]: Ranani is a devout follower of Vellora, embodying the physical manifestation of the sea's might.
+- [[The Wave-Breakers]] (Allies): The elite Tralichuan marines view her with fanatical loyalty. She knows the names of most of her captains and frequently spars with them to keep her skills sharp.
+- [[High Arbiter Garadwen]] (Bitter Rival): Ranani utterly despises the High Arbiter, viewing her as an arrogant, physical coward who hides behind lawyers and toll-gates.
+- [[The Undying Sovereign]] (Enemy): She views the ruler of Jhal as a disgusting affront to the natural biological drive of [[Fundamental Essences|Life]], frequently carrying out "holy raids" against their borders.
 
 # History & Lore
-(Background story of the NPC. Where did they grow up? How did they end up in their current location and role?)
+Ranani was not born to royalty; she began her life as a common marine and pearl-diver in the southern monsoon terraces. She rose to national prominence thirty years ago during a catastrophic hurricane, when a massive, reality-warped leviathan threatened to destroy the primary agricultural seawalls of [[Tralicor]]. Ranani leapt into the churning waters and engaged the beast in single combat, stalling it long enough for the armada to arrive. She was crowned Empress by popular, overwhelming military demand, proving her right to rule by swimming the length of the capital's harbour while bleeding from a dozen wounds.
 
 # Stats & Equipment
-Statblock:
-(Describe their combat style, preferred tactics, notable skills, and how they react when losing a fight.)
+**Level 18 Fighter / Exemplar:** Empress Ranani is a terrifying melee combatant who uses her connection to Vellora to control the battlefield.
+- **Combat Style:** She relies heavily on Athletics, frequently using actions to Trip, Grapple, Shove, and physically dominate her opponents.
