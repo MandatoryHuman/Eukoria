@@ -8,7 +8,7 @@ aliases:
 > [!quote|author] Final words of a condemned Runesmith 
 > "To practice Dismagic is to force a square peg through a round hole using a sledgehammer made of paradox. It works, but it inevitably shatters the board." 
 
-The Gods of Dismagic are a highly specific, universally feared sub-category of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index]]. These gods are comprised of two non-adjacent Fundamental Essences.
+The Gods of Dismagic are a highly specific, universally feared sub-category of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]]. These gods are comprised of two non-adjacent Fundamental Essences.
 Because their foundational essences naturally oppose one another (such as Life and Mind, or Matter and Spirit), they create a volatile, unpredictable power. Each of these deities represents one of the forbidden or unstable Traditions of Dismagic.
 
 # The Clashing Pairs

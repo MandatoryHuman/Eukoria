@@ -6,10 +6,10 @@ aliases:
 > [!quote] "The monoliths do not walk among us, but they have hands. Be wary of the mortals who wield them."
 
 # Overview
-Chosen Ones are rare mortals who have been selected by a deity to act as a living, physical conduit for their divine will. In exchange for spreading their patron's influence across [[1. World Almanac/World/Locations/Eukoria/index]], they are granted fractions of the god's power. These individuals act as avatars of their patron's will on the mortal plane.
+Chosen Ones are rare mortals who have been selected by a deity to act as a living, physical conduit for their divine will. In exchange for spreading their patron's influence across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], they are granted fractions of the god's power. These individuals act as avatars of their patron's will on the mortal plane.
 
 ## The Divine Connection
-Because [[1. World Almanac/World/Gods & Divines/Greater Gods/index]] are too vast and specialized to easily parse the nuance of the mortal plane, they interact with Eukoria primarily through Chosen Ones. These rare mortals act as the god's hands and voice.
+Because [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] are too vast and specialized to easily parse the nuance of the mortal plane, they interact with Eukoria primarily through Chosen Ones. These rare mortals act as the god's hands and voice.
 
 Most gods have just a single Chosen One at any one time, as having more not only unfocuses their power, but causes great conflict if those Chosen Ones ever disagree on a matter of faith.
 

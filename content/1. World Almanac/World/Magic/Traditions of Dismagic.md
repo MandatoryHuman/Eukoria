@@ -6,12 +6,12 @@ aliases:
 > "Let the orthodox beg the wheel to turn smoothly. We grasp the spokes, force them together, and let the friction burn away the impossible."
 
 The Traditions of Dismagic represent the volatile, unorthodox counterpart to established spellcasting. While the Canonical traditions flow smoothly between adjacent Fundamental Essences, Dismagic forces non-adjacent (clashing) Essences together.
-Because they lack a mediating bridge on the cosmic wheel, the friction of these combinations produces highly unpredictable, reality-warping power. These restricted arts are governed by the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]].
+Because they lack a mediating bridge on the cosmic wheel, the friction of these combinations produces highly unpredictable, reality-warping power. These restricted arts are governed by the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
 
 > [!NOTE] Mechanics of Dismagic
 > In aim of keeping players in control of their own characters, there are no inherent consequences for a player using Dismagic, however both players and GMs are highly encouraged to add small cosmetic effects and quirks when a character casts a spell using Dismagic. This could range from a Dismagic Fireball being green instead of red, to a Charm spell forcing the target to crab walk while under its effects.
 > If a player wants to demonstrate these effects mechanically, they could take the [Wellspring Mage](https://2e.aonprd.com/Archetypes.aspx?ID=104) Class Archetype to represent the chaos that is inherent to Dismagic, and they could work with the GM to create a custom Wellspring Surge table that fits their character. This archetype is not particularly powerful - and can even be detrimental at times - so generous GMs might even consider giving the initial Wellspring Mage Dedication Feat as a Free Archetype, or waiving its reduction to the number of cantrips known, spells per day, or both.
-> Keep in mind, that in many areas of [[1. World Almanac/World/Locations/Eukoria/index]], Dismagic is explicitly outlawed, so a caster might have to hide what kind of magic they are using.
+> Keep in mind, that in many areas of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], Dismagic is explicitly outlawed, so a caster might have to hide what kind of magic they are using.
 > You can check the pages for [[Aethelgard, God of Relics]] and [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]] for specific character choices that represent the practices they teach.
 
 # Passion-Magic (Life + Mind)
@@ -39,5 +39,5 @@ Because mortal bodies and the fabric of Eukoria were designed around the harmoni
 When a practitioner acts upon the mortal plane, reality strains to accommodate them. Their magic actively defies the established rules of physics, frequently causing collateral damage or bizarre environmental side effects simply by being cast. This severe magical backlash, along with physical and mental deterioration, is the inevitable price of wielding cosmic friction—an objective mechanical danger that orthodox philosophers eagerly weaponize as proof of Dismagic's inherent "evil."
 
 # Related
-- [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]] - The patrons of these forbidden arts.
+- [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]] - The patrons of these forbidden arts.
 - [[Traditions of Magic]] - The stable, canonical paths of spellcasting.

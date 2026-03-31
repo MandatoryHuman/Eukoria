@@ -1,4 +1,4 @@
-**Xerith is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Erosion, rust, entropy, and the inevitable breakdown of physical reality.** In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], he represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Absence]].
+**Xerith is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Erosion, rust, entropy, and the inevitable breakdown of physical reality.** In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Absence]].
 
 ![[Xerith.webp|400]]
 
@@ -9,7 +9,7 @@ Xerith is not a malicious god; he is simply patient. He represents the natural, 
 His [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are tasked with breaking down monuments of vanity, returning hoarded wealth to the earth, and accelerating the decay of structures that have outlived their natural purpose.
 
 ---
-[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 [Aspects::Absence and Matter]
 [Edicts::Accept the impermanence of the physical world, break down structures that have outlived their purpose, return matter to its base elements]
 [Anathema::Artificially preserve physical objects for eternity, hoard material wealth, practice or support Relic Dismagic]
@@ -17,7 +17,7 @@ His [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are tasked wit
 [Religious Symbol::A pile of ash and dust]
 [Sacred Animal::Scarab Beetle]
 [Sacred Colours::Rust Red and Ash Grey]
-[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 ![[Xerith Symbol.webp|400]]
 ## Devotee Benefits
 [Divine Attribute::Constitution or Wisdom]

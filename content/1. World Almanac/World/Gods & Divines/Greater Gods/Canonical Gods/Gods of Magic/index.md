@@ -7,7 +7,7 @@ title: Gods of Magic
 ---
 > [!quote] "To channel the power of the Canonical cycle is to speak the language of creation itself. We do not break the rules; we simply ask the wheel to turn."
 
-The Gods of Magic are a specific  sub-category of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]. While many Canonical Gods govern concepts by combining a Fundamental Essence with a Basic Essence, the Gods of Magic are comprised exclusively of two adjacent Fundamental Essences, and each represents one of the Traditions of Magic.
+The Gods of Magic are a specific  sub-category of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]. While many Canonical Gods govern concepts by combining a Fundamental Essence with a Basic Essence, the Gods of Magic are comprised exclusively of two adjacent Fundamental Essences, and each represents one of the Traditions of Magic.
 Because they lack the extremes of Presence or Absence, they represent a perfect, stable loop of fundamental reality; as the only Greater Gods entirely uninfluenced by either of the Basic Essences, they are uniquely positioned within the divine hierarchy. While each of the gods of magic have their own agendas and goals, each member is pact-bound to remain neutral in their influence upon the world's magics. Due to this pact and their balanced nature, they often take the role of impartial arbiters in conflicts between other gods.
 
 # The Traditions of Orthodox Magic
@@ -26,11 +26,11 @@ Based on the cosmic wheel, there are exactly four divine pillars that govern saf
 [[Kurnos, God of Nature]] governs the magic of combined Matter and Life. Druids and shapeshifters channel this visceral blend to command the raw strength of nature, mould the physical forms of living beasts, as well as to cultivate flourishing new ecosystems - or violently reclaim civilized lands for the earth.
 
 ## Worship and Practice
-Unlike the forbidden arts associated with the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]], the magic granted by these four deities is taught openly in academies and temples across Eukoria. To practice under their domains is seen as upholding the natural laws of the universe.
+Unlike the forbidden arts associated with the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]], the magic granted by these four deities is taught openly in academies and temples across Eukoria. To practice under their domains is seen as upholding the natural laws of the universe.
 
 ## Related
-- [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]
-- [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]] - The opposing, unstable traditions of magic.
+- [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+- [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]] - The opposing, unstable traditions of magic.
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name", areas-of-concern AS "Areas of Concern", Category, Aspects, Domains

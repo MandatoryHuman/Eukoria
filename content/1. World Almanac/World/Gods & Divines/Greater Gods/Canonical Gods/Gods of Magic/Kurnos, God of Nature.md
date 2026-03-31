@@ -2,14 +2,14 @@
 tags:
   - Gods
 ---
-Kurnos is the Greater God of Nature and the divine arbiter of Primal Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], he represents the orthodox, visceral blend of the adjacent [[Fundamental Essences]] of Matter and Life. Unlike the calculated equations of Arcane magic, Kurnos's domain is deeply tied to the physical substance of the earth and the raw biological drive to survive. Because he lacks the extremes of the [[Basic Essences]], he exists as a stable loop of fundamental reality.
+Kurnos is the Greater God of Nature and the divine arbiter of Primal Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the orthodox, visceral blend of the adjacent [[Fundamental Essences]] of Matter and Life. Unlike the calculated equations of Arcane magic, Kurnos's domain is deeply tied to the physical substance of the earth and the raw biological drive to survive. Because he lacks the extremes of the [[Basic Essences]], he exists as a stable loop of fundamental reality.
 
 ![[Kurnos.webp|400]] 
 
-To his followers - predominantly Druids, Rangers, and Fey - magic is a tool to command the raw strength of nature. Kurnos's teachings focus heavily on shapeshifting, biokinesis, and environmental control. Those who channel his power can mould the physical forms of living beasts, cultivate flourishing new ecosystems, or violently reclaim civilized lands for the earth. Like all the Canonical Gods of Magic, Kurnos's arts are taught openly in academies and temples across Eukoria, and his practice is viewed as upholding the natural laws of the universe. Furthermore, he is pact-bound to remain neutral in his influence upon the world's magics, often acting as an impartial arbiter in divine conflicts alongside the other [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]].
+To his followers - predominantly Druids, Rangers, and Fey - magic is a tool to command the raw strength of nature. Kurnos's teachings focus heavily on shapeshifting, biokinesis, and environmental control. Those who channel his power can mould the physical forms of living beasts, cultivate flourishing new ecosystems, or violently reclaim civilized lands for the earth. Like all the Canonical Gods of Magic, Kurnos's arts are taught openly in academies and temples across Eukoria, and his practice is viewed as upholding the natural laws of the universe. Furthermore, he is pact-bound to remain neutral in his influence upon the world's magics, often acting as an impartial arbiter in divine conflicts alongside the other [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]].
 
 ---
-[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 [Aspects::Matter and Life]
 [Edicts::Cultivate flourishing ecosystems, command the raw strength of nature]
 [Anathema::Violate the natural laws of the universe, needlessly destroy natural habitats]
@@ -17,7 +17,7 @@ To his followers - predominantly Druids, Rangers, and Fey - magic is a tool to c
 [Religious Symbol::An animal skull on a bed of wildflowers]
 [Sacred Animal::Bear]
 [Sacred Colours::Green and Brown]
-[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]]]
 ![[Kurnos Symbol.webp|400]]
 ## Devotee Benefits
 [Divine Attribute::Wisdom or Constitution]

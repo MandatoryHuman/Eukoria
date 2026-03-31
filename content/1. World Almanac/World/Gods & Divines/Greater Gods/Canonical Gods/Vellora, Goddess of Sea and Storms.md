@@ -2,18 +2,18 @@
 tags:
   - Gods
 ---
-Vellora is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of the Sea, storms, and physical endurance. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], she represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Presence]].
+Vellora is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of the Sea, storms, and physical endurance. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Presence]].
 
 ![[Vellora.webp|400]]
 
 The [[Fundamental Essences|Essence of Matter]] dictates the tangible substance of the universe and its strict physical laws. The [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation and growth. When combined smoothly as a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical God]], Vellora embodies the raw, physical manifestation of the elements - the crushing weight of the ocean depths, the fury of a hurricane, the relentless driving force of the tide, and the life-giving deluge of rain.
 
-Vellora’s storms aren't malicious; they are the necessary, predictable laws of nature that drive the physical world's cycles. She is widely worshipped across coastal nations and island fleets. Sailors, navigators, and coastal farmers all pay her deep respect, understanding that the ocean does not negotiate. In regions like [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]] and the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index]], where the waters of the [[God-Scar Strait]] were permanently warped by the [[War of Laws]], Vellora's followers often seek to map, survive, or even heal the unnatural currents caused by the lingering cosmic friction.
+Vellora’s storms aren't malicious; they are the necessary, predictable laws of nature that drive the physical world's cycles. She is widely worshipped across coastal nations and island fleets. Sailors, navigators, and coastal farmers all pay her deep respect, understanding that the ocean does not negotiate. In regions like [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] and the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], where the waters of the [[God-Scar Strait]] were permanently warped by the [[War of Laws]], Vellora's followers often seek to map, survive, or even heal the unnatural currents caused by the lingering cosmic friction.
 
 Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are forces of nature, tasked with physically manifesting her weather, protecting coastal communities from unnatural disasters, and ensuring that the physical laws of the sea are respected.
 
 ---
-[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 [Aspects::Presence and Matter]
 [Edicts::Offer tribute before setting sail, endure the storm, respect the physical might of the elements, chart the changing tides]
 [Anathema::Vainly claim mastery over the ocean, pollute coastal waters, use Dismagic to unnaturally warp weather patterns]
@@ -21,7 +21,7 @@ Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are forces of 
 [Religious Symbol::A crashing wave]
 [Sacred Animal::Albatross]
 [Sacred Colours::Deep Blue and Seafoam Green]
-[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 ![[Vellora Symbol.webp|400]]
 ## Devotee Benefits
 [Divine Attribute::Strength or Constitution]

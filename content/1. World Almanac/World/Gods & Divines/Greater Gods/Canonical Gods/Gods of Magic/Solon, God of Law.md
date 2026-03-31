@@ -8,10 +8,10 @@ Solon is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater 
 
 Practitioners of Solon’s tradition, such as bards and psychics, channel his calculated blend of essences to unravel psychic mysteries and construct impenetrable wards against mental intrusion. His most devoted masters are granted the ability to safely untether their consciousness from their physical form to walk the astral planes - or violently sever the astral tethers of their enemies. As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|God of Magic]], his teachings are perfectly widely studied in Eukorian academies.
 
-Despite his pact-bound neutrality regarding the flow of magic, Solon represents absolute, unyielding order. This places him and his followers in direct ideological conflict with [[Lethos, God of Trickery]], whom Solon despises for his mockery of the spirit of the law and his historical murder of [[Thrum, God of Madness]]. Solon's hardliner orthodox followers are notoriously rigid; for instance, they completely despise leaders like [[High Arbiter Garadwen]] of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]], viewing her loophole-ridden administration as a mockery of justice, even if they are legally unable to prosecute her.
+Despite his pact-bound neutrality regarding the flow of magic, Solon represents absolute, unyielding order. This places him and his followers in direct ideological conflict with [[Lethos, God of Trickery]], whom Solon despises for his mockery of the spirit of the law and his historical murder of [[Thrum, God of Madness]]. Solon's hardliner orthodox followers are notoriously rigid; for instance, they completely despise leaders like [[High Arbiter Garadwen]] of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]], viewing her loophole-ridden administration as a mockery of justice, even if they are legally unable to prosecute her.
 
 ---
-[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 [Aspects::Spirit and Mind]
 [Edicts::Uphold the strict letter and spirit of the law, punish oathbreakers, construct impenetrable wards against mental intrusion]
 [Anathema::Break a sworn oath, subvert the spirit of the law through loopholes, practice Dismagic, consort with followers of [[Lethos, God of Trickery|Lethos]]]
@@ -19,7 +19,7 @@ Despite his pact-bound neutrality regarding the flow of magic, Solon represents 
 [Religious Symbol::A locked book]
 [Sacred Animal::Hound]
 [Sacred Colours::Deep blue]
-[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]]]
 
 
 ![[Solon Symbol.webp|400]]

@@ -1,1 +1,35 @@
-The governing conclave that dictates the political and ecological direction of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index]], led by [[Hierophant Rinebrior]].
+---
+title:
+aliases:
+tags:
+---
+[Type::] 
+[Leader::] 
+[Headquarters::] 
+[Region/Influence::] 
+[Allies::] 
+[Enemies::]
+
+(FACTION EMBLEM / BANNER IMAGE)
+
+# Overview
+The governing conclave that dictates the political and ecological direction of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]], led by [[Hierophant Rinebrior]].
+
+# Goals & Motivations
+(What is the faction trying to achieve? Do they have public goals that differ from their secret agendas or true motivations?)
+
+# Structure & Leadership
+(How is the group organized? Is it a strict military hierarchy, a loose pirate coalition, a religious order, or a mercantile council? Detail the leadership and their methods of rule.)
+
+# History & Lore
+(Background story of the faction. How and when was it founded? What major historical events, wars, or divine interventions shaped its current state?)
+
+# Assets & Influence
+(What resources does the faction command? This could include military might, economic monopolies, specific magical traditions/Dismagic, or political leverage.)
+
+# Notable Members
+- NPC Name: (Brief note on their role within the faction, their level, and their current status.)
+- NPC Name: (Brief note on their role within the faction, their level, and their current status.)
+
+# Notable Locations
+- Location Name: (Brief description of their base of operations, meeting spots, or strongholds, and what makes them significant or defensible.)

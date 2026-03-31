@@ -2,7 +2,7 @@
 tags:
   - Gods
 ---
-Maelis is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Fertility, the harvest, and explosive biological growth. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index]], she represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Presence]].
+Maelis is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Fertility, the harvest, and explosive biological growth. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Presence]].
 
 ![[Maelis.webp|400]]
 
@@ -13,7 +13,7 @@ Unlike the  unnatural, forced evolutionary leaps practiced by followers of the [
 Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] act as avatars of her will on Eukoria , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
 
 ---
-[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 [Aspects::Presence and Life]
 [Edicts::Cultivate new life, protect the young and pregnant, ensure the harvest is shared, foster natural growth]
 [Anathema::Destroy healthy crops out of malice, abandon a child or vulnerable youth, needlessly sterilize the land]
@@ -21,7 +21,7 @@ Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] act as avatars
 [Religious Symbol::Four stalks of wheat]
 [Sacred Animal::Rabbit]
 [Sacred Colours::Emerald Green and Gold]
-[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 ![[Maelis Symbol.webp|400]]
 ## Devotee Benefits
 [Divine Attribute::Constitution or Wisdom]

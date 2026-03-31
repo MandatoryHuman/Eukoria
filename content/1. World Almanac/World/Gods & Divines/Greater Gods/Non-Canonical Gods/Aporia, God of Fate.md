@@ -5,7 +5,7 @@ tags:
 Aporia is the Greater god of Fate and Destiny. They are a composite of the Basic Essences of Presence and Absence. As these elements are so disparate, they fail to fully combine into one being leaving Aporia as a multitude of personalities and appearances which meld into each other unpredictably. While this temperamentality - alongside their non-canonical status - doesn't lend Aporia to having a very large following, those who do worship them have developed a number of special rituals that allow them to evoke a particular aspect of the god as they need.
 As a god, Aporia acts as an arbiter of what is (Presence) versus what could have been (Absence), weaving the threads of time, knowing both the events that manifest in reality, and those infinite possibilities that are cut away into nothingness.
 
-[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index]]]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 [Aspects::Presence and Absence]
 [Edicts::Accept the weight of your choices, preserve the natural flow of time, acknowledge and learn from what could have been]
 [Anathema::Attempt to magically alter or erase the past, unnaturally extend one's lifespan to cheat a prophesied death, destroy historical records]
@@ -13,7 +13,7 @@ As a god, Aporia acts as an arbiter of what is (Presence) versus what could have
 [Religious Symbol::A two-sided coin - one face depicting a detailed, branching tree, the other perfectly smooth and pitch black]
 [Sacred Animal::The Butterfly]
 [Sacred Colours::Iridescent silver and Void black]
-[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index]]]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]]
 
 ![[Aporia Symbol.webp|400]]
 

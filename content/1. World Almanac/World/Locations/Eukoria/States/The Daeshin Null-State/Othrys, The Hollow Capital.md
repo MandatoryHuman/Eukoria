@@ -2,38 +2,38 @@
 tags:
   - Settlement
 ---
-[Type::] 
-[Level::] 
-[Population::] 
-[Demographics::] 
-[Ruler::] 
+[Type::Ruined Capital / Quarantine Zone] 
+[Level::17] 
+[Population::~2,000] 
+[Demographics::Fleshwarps, Mutants, Exiles] 
+[Ruler::None] 
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 
 # Overview
-Once the shining center of a pre-war kingdom, Othrys is now an all-but-abandoned nightmare. It sits dead-center in the wastes. The architecture defies physics; great spiraling towers float completely disconnected from their bases, frozen mid-collapse by the cosmic vacuum of Thrum's death. It is entirely empty save for a few fanatical cultists, reality-warped monstrosities, and the ghostly echoes of its erased citizens playing out their final moments on an eternal loop.
+Once the shining centre of a prosperous pre-war eastern kingdom, Othrys is now an all-but-abandoned nightmare. It sits dead-centre in the wastes of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. The architecture completely defies physics; great spiralling towers float entirely disconnected from their bases, frozen mid-collapse by the cosmic vacuum of [[Thrum, God of Madness]]'s death. The city is cloaked in an eternal, localized twilight. It is mostly empty save for a few fanatical cultists, reality-warped monstrosities, and the ghostly "Echoes" - images of its erased citizens playing out their final moments on an eternal loop.
 
 # Geography & Layout
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+Othrys is located at the geographic center of Cenora, but its internal geometry is fundamentally broken. Gravity is subjective; certain streets require you to walk horizontally along walls, and stepping across a threshold might invert your orientation entirely. The city orbits slowly around the [[The Crater of Thrum]], a massive, impossibly deep depression in the dead centre of the ruins. Gray, odourless ash falls constantly like snow, but it vanishes before it ever accumulates on the ground—a localized manifestation of pure Absence.
 
 # Government & Law
-(Detail the local political structure, how strict the laws are, the presence of city guards, and the typical punishment for crimes.)
+There is no law in Othrys. It is a place of pure, terrifying anarchy. Survival is dictated by one's ability to resist the maddening environment and wield the localized Dismagic. The "Echoes" of the former city guard still patrol certain routes, mindlessly attacking anyone who doesn't possess pre-war identification, but they are easily avoided by those who know their patterns.
 
 # Districts
-- District Name: (Brief description of the district's atmosphere, wealth level, and primary function, e.g., market, residential, slums, noble ward.)
-- District Name: (Brief description of the district's atmosphere, wealth level, and primary function.)
+- The Suspended Wards: The former noble district, now consisting of massive, opulent mansions floating freely in the air. Navigating this district requires leaping between floating debris or utilizing spells that grant flight, though flight magic is incredibly prone to Wild Surges here.
+- The Ashen Forum: The old commercial centre. It is heavily populated by Echoes repeating the same bartering dialogue from 116 years ago. This is where the [[Cult of the Silent Void]] makes their base, dragging trespassers here to be sacrificed to the vacuum.
 
 # Notable Locations
-- Tavern/Inn Name: (Brief description, notable features, and the typical clientele.)
-- Shop/Market Name: (Brief description, what they sell, and the maximum level of items typically available.)
-- Temple/Shrine Name: (Which deity is worshipped here and the demeanour of the clergy.)
+- The Crater of Thrum: A massive, smooth-walled sinkhole in the center of the city. Staring into it for too long induces a trance-like state, draining the viewer's Wisdom and occasionally granting horrific, non-Euclidean visions.
+- The Inverted Cathedral: A massive temple to the Canonical gods that was violently ripped from the ground and flipped upside down during the cataclysm. Its spire points directly down into the Crater. It now serves as a haven for the Weavers of Aporia.
 
 # Key NPCs
-- NPC Name: (Brief note on their role in the settlement, e.g., Mayor, Guard Captain, Tavern Keeper, Guildmaster.)
-- NPC Name: (Brief note on their role in the settlement.)
+- The Weeping Oracle: (Level 14 Fleshwarp / Occultist) The leader of the Weavers of Aporia. They have heavily mutated, sporting multiple sets of eyes that constantly weep black tears. They use the city's cosmic friction to peer into alternate timelines and frequently trade safe passage for "Anchors" (emotional items).
+- "Speaker" Vane: (Level 15 Human Cultist of Thrum) A terrifyingly calm, smiling man who leads the Cult of the Silent Void. He has ritually severed his own vocal cords but communicates directly into the minds of others using parasitic telepathy.
 
 # Factions & Guilds
-(List the local guilds, criminal syndicates, noble houses, or religious orders that hold significant influence here.)
+- Cult of the Silent Void: Fanatical worshippers of Thrum's memory. They actively try to expand the borders of the Null-State by shattering localized wards, believing the erasure of logic is the ultimate freedom.
+- The Weavers of Aporia: A mysterious sect of seers devoted to [[Aporia, God of Fate]]. They observe the broken reality of Othrys to chart the threads of what "could have been" had the War of Laws never occurred.
 
 # History & Lore
-(Background story of the settlement. How was it founded? What major events, disasters, or historical eras shaped its current state?)
+116 years ago, Othrys was the capital of a flourishing kingdom. However, it was here that [[Lethos, God of Trickery]] cornered and assassinated [[Thrum, God of Madness]]. The explosive release of Thrum's essence upon his death,  shattered the physical laws of the region. The kingdom's populace was instantly erased from reality, leaving their capital a ghostly, broken ruin caught in the exact second of its destruction.

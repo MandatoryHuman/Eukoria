@@ -20,7 +20,7 @@ Kenon is the embodiment of pure Absence. This deity represents the inevitable co
 # Cosmic Isolation
 Despite being the anchors of Eukoria, the Twins rarely, if ever, interact with the mortal plane. Their unmitigated nature is fundamentally incompatible with the delicate balance of the material world.
 If Ontos were to directly manifest, the sheer density of pure Presence would be too overwhelming for physical reality to sustain, causing rampant, uncontrolled overgrowth and spontaneous manifestation that would rupture the plane. Conversely, a direct manifestation from Kenon would introduce a terrifying, consuming vacuum that reality naturally abhors, erasing everything it touched from existence.
-Because of this, the Twins remain distant. They allow the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]] and the mediating flow of the Fundamental Essences to safely regulate the world on their behalf.
+Because of this, the Twins remain distant. They allow the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] and the mediating flow of the Fundamental Essences to safely regulate the world on their behalf.
 
 # The Paradox of Fate
 To mortal understanding, Ontos and Kenon are absolute opposites that can never touch. However, the climax of the ancient War of Laws forced a localized intersection of their domains. This impossible collision of pure Presence and pure Absence birthed [[Aporia, God of Fate]], the only known entity to possess both Basic Essences and a deeply unnatural figure in orthodox theology.

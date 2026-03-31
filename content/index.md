@@ -5,6 +5,7 @@ aliases:
 ---
 
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
+
 Welcome to **Eukoria**, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
 # The War of Laws
@@ -12,7 +13,7 @@ Exactly 116 years ago, the heavens were torn apart by a cataclysmic celestial re
 
 The world was an epicentre of divine collateral damage. It was here that the Canonical gods and the rebel forces of [[Lethos, God of Trickery]] clashed most violently, boiling the oceans and permanently tearing the physical fabric of [[Fundamental Essences|Matter]].
 
-When the dust settled, the world was forever changed. While the heavens are now at an uneasy peace, the mortal world must navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another. Yet, from this apocalypse, mortals found opportunity. Various nations have risen from the ashes, each hoping to lead the inhabitants of [[1. World Almanac/World/Locations/Eukoria/index]] into a prosperous future.
+When the dust settled, the world was forever changed. While the heavens are now at an uneasy peace, the mortal world must navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another. Yet, from this apocalypse, mortals found opportunity. Various nations have risen from the ashes, each hoping to lead the inhabitants of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] into a prosperous future.
 
 # Directory
 
@@ -22,7 +23,7 @@ When the dust settled, the world was forever changed. While the heavens are now 
 - [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
 - [[Traditions of Dismagic]] - The forbidden, volatile magic born of cosmic friction.
 
-### [[1. World Almanac/World/Gods & Divines/Greater Gods/index]]
+### [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name",
@@ -43,7 +44,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID
-file.link AS "Name", Capital, Government, Ruler, Religions
+title AS "Name", Capital, Government, Ruler, Religions
 FROM #State
 WHERE file.folder != "z_Templates"
 SORT file.name ASC

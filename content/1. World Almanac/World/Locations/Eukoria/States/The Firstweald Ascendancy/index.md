@@ -32,7 +32,7 @@ They view the calculated, industrial Arcane magic championed by [[Aureon, God of
 The Ascendancy is ruled by a Conclave of elder druids and powerful shapeshifters who act as the mortal conduits for the will of nature. Their laws are simple, brutal, and entirely focused on ecological preservation and survival of the fittest. Justice is rarely handled through complex bureaucracy or written loopholes; instead, those who violate the natural laws of the universe or needlessly destroy habitats face primal, physical punishments.
 
 # Diplomatic Relations
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index]] (Hostile/Cold): The Firstweald openly despises the rampant commercialism, industrialization, and Arcane infrastructure of Meridia. They refuse to pay Meridia's tariffs, preferring to remain entirely self-sufficient.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Hostile/Cold): The Firstweald openly despises the rampant commercialism, industrialization, and Arcane infrastructure of Meridia. They refuse to pay Meridia's tariffs, preferring to remain entirely self-sufficient.
 
 # History & Lore
 Humanoid life first appeared on the South-West coast of [[Antoria]] and spread outward from the lush cradle of the Firstweald. Because much of the world's recorded history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], the exact origins of the Ascendancy's founding are kept alive only through the oral traditions of its eldest druids.
@@ -40,9 +40,9 @@ Humanoid life first appeared on the South-West coast of [[Antoria]] and spread o
 When the celestial rebellion of the [[War of Laws]] spilled onto mortal soil, bringing devastating divine collateral damage to Eukoria, the Firstweald survived the cataclysm by retreating inward. Their greatest primal spellcasters wove massive, continent-spanning wards of Life and Matter, forcefully isolating their core territories from the boiling oceans and grinding mountains that ravaged the rest of the world.
 
 # Notable Locations
-- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index]]
+- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]]
 - [[The Bramble-March]]
 
 # Prominent Factions
-- [[The Circle of the Root]]: The elite governing body of elder druids and [[1. World Almanac/World/NPCs/Chosen Ones/index]] of Kurnos who dictate the nation's ecological and political laws.
+- [[The Circle of the Root]]: The elite governing body of elder druids and [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] of Kurnos who dictate the nation's ecological and political laws.
 - The Wildhunt Wardens: A militaristic sect of Rangers and shapeshifters dedicated to patrolling the borders and violently neutralizing incursions from loggers, poachers, or Dismagic cultists.
