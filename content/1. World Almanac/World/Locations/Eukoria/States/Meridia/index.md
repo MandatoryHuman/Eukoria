@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: Meridia
+aliases:
+  - Meridia
 ---
 [Capital::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index]]] 
 [Government::Mercantile Oligarchy] 

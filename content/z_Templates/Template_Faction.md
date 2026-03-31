@@ -1,3 +1,8 @@
+---
+title:
+aliases:
+tags:
+---
 [Type::] 
 [Leader::] 
 [Headquarters::] 

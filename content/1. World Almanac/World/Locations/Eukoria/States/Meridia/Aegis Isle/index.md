@@ -1,6 +1,9 @@
 ---
 tags:
   - Settlement
+title: Aegis Isle
+aliases:
+  - Aegis Isle
 ---
 [Type::] 
 [Level::] 

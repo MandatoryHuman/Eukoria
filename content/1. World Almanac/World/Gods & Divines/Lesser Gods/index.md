@@ -1,6 +1,9 @@
 ---
 tags:
   - Lore
+title: Lesser Gods
+aliases:
+  - Lesser Gods
 ---
 > [!quote|author] Eukorian Folk Saying
 > "An Arcanist prays to the monoliths for a perfect spell formula, but a mother prays to a Lesser God to break her child's fever. The monoliths do not understand mercy, but a Lesser God remembers what it is to bleed."

@@ -1,3 +1,8 @@
+---
+title: Chosen Ones
+aliases:
+  - Chosen Ones
+---
 > [!quote] "The monoliths do not walk among us, but they have hands. Be wary of the mortals who wield them."
 
 # Overview

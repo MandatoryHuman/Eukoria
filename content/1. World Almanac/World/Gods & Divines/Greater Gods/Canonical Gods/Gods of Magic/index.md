@@ -1,6 +1,9 @@
 ---
 tags:
   - Lore
+aliases:
+  - Gods of Magic
+title: Gods of Magic
 ---
 > [!quote] "To channel the power of the Canonical cycle is to speak the language of creation itself. We do not break the rules; we simply ask the wheel to turn."
 

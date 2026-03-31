@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Firstweald Ascendancy
+aliases:
+  - The Firstweald Ascendancy
 ---
 [Capital::Elderheart] 
 [Government::Druidic Conclave] 

@@ -1,6 +1,9 @@
 ---
 tags:
   - Settlement
+title: Elderheart
+aliases:
+  - Elderheart
 ---
 [Type::Capital City]
 [Level::17]

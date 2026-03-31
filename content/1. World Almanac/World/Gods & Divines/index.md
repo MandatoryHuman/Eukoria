@@ -1,9 +1,15 @@
+---
+aliases:
+  - Gods & Divines
+  - Gods
+title: Gods & Divines
+---
 The theology of [[1. World Almanac/World/Locations/Eukoria/index]] is inextricably linked to the mechanics of reality itself. The divine hierarchy is based on the exact cosmic geometry of the four [[Fundamental Essences]] (Life, Spirit, Mind, Matter) and the two [[Basic Essences]] (Presence, Absence). The Gods are separated into strict categories depending on how their underlying essences interact, align, or clash.
 
-# [[1. World Almanac/World/Gods & Divines/The Twins/index]]
+# [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]
 These two primordial deities are the absolute anchors of reality. Named [[Ontos, The Presence]] and [[Kenon, The Absence]], they are solely comprised of a single Basic Essence - pure Presence and pure Absence, respectively. They rarely interact with the mortal plane, as their unmitigated nature is too overwhelming for physical reality to sustain for long. Instead, they remain in a seemingly unconscious state.
 
-# [[1. World Almanac/World/Gods & Divines/Greater Gods/index]]
+# [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]
 The Greater Gods are cosmic monoliths comprised of exactly two Essences. Because they lack the complete, balanced spectrum of the four Fundamental Essences, they are not entirely "human" in their thinking; they are absolute, uncompromising forces of nature, morality, and magic.
 
 ## [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index]]

@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Kazarn Hegemony
+aliases:
+  - The Kazarn Hegemony
 ---
 [Capital::[[Bastion]]] 
 [Government::Stratocracy] 

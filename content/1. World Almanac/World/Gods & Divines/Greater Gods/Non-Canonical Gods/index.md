@@ -1,6 +1,9 @@
 ---
 tags:
   - Lore
+title: Non-Canonical Gods
+aliases:
+  - Non-Canonical Gods
 ---
 > [!quote|Author] Exiled Arcanist's Journal
 > "The church calls them heretics. Fools. They are not heretics; they are simply the friction of non-adjacent realities grinding against one another. They are the sudden spark in the dark - dangerous, yes, but brilliantly powerful."

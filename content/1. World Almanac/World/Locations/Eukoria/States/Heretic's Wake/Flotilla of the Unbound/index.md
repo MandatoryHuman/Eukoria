@@ -1,6 +1,9 @@
 ---
 tags:
   - Settlement
+title: Flotilla of the Unbound
+aliases:
+  - Flotilla of the Unbound
 ---
 [Type::Capital] 
 [Level::16] 

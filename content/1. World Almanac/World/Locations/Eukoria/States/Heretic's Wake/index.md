@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: Heretic's Wake
+aliases:
+  - Heretic's Wake
 ---
 [Capital::[[The Flotilla of the Unbound]]]
 [Government::Pirate Coalition]

@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Glandaric Marches
+aliases:
+  - The Glandaric Marches
 ---
 [Capital::Fort Glandar]
 [Government::Decentralised Military Coalition]

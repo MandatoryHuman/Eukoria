@@ -1,6 +1,9 @@
 ---
 tags:
   - Settlement
+title: Obolus
+aliases:
+  - Obolus
 ---
 [Type::Capital]
 [Level::18]

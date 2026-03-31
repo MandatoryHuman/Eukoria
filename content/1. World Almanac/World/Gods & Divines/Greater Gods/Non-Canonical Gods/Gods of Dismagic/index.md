@@ -1,6 +1,9 @@
 ---
 tags:
   - Lore
+title: Gods of Dismagic
+aliases:
+  - Gods of Dismagic
 ---
 > [!quote|author] Final words of a condemned Runesmith 
 > "To practice Dismagic is to force a square peg through a round hole using a sledgehammer made of paradox. It works, but it inevitably shatters the board." 

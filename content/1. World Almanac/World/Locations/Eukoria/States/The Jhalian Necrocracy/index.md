@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Jhalian Necrocracy
+aliases:
+  - The Jhalian Necrocracy
 ---
 [Capital::[[The Silent City of Jhal]]] 
 [Government::Feudal Necrocracy] 

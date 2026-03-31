@@ -1,3 +1,8 @@
+---
+title: Eukoria
+aliases:
+  - Eukoria
+---
 > [!info] Eukoria is a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
 ```leaflet

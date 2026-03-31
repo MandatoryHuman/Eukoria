@@ -1,6 +1,8 @@
 ---
+title: Greater Gods
 aliases:
   - Greater God
+  - Greater Gods
 tags:
   - Lore
 ---

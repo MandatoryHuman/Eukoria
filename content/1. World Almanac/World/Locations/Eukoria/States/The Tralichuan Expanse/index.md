@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Tralichuan Expanse
+aliases:
+  - The Tralichuan Expanse
 ---
 [Capital::Tralicor]
 [Government::Expansionist Thalassocracy]

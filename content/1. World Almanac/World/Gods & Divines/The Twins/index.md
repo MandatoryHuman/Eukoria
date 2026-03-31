@@ -1,6 +1,9 @@
 ---
 tags:
   - Lore
+aliases:
+  - The Twins
+title: The Twins
 ---
 > [!quote|author] Origin Myths of Eukoria
 > "Before the wheel could turn, the canvas had to be stretched, and the void pushed back. Ontos gave us the stage to stand upon, and Kenon offered the silence required to hear the music." — 

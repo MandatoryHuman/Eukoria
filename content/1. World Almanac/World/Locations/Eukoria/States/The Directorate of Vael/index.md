@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Directorate of Vael
+aliases:
+  - The Directorate of Vael
 ---
 [Capital::[[Axiom's Hold]]] 
 [Government::Theocratic Surveillance State]

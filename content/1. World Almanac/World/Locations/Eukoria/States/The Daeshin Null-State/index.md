@@ -1,6 +1,9 @@
 ---
 tags:
   - State
+title: The Daeshin Null-State
+aliases:
+  - The Daeshin Null-State
 ---
 [Capital::[[Othrys, The Hollow Capital]] (Largely Abandoned)]
 [Government::Anarchic Quarantine Zone] 

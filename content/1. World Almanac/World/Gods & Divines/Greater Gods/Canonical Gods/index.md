@@ -2,8 +2,10 @@
 aliases:
   - Orthodox Deities
   - Canonical
+  - Canonical Gods
 tags:
   - Lore
+title: Canonical Gods
 ---
 > [!quote] "The Canonical Gods are the frictionless gears of the cosmos. Where their power flows, the laws of physics and nature behave exactly as they should. Rely on them, for they are the bedrock of our sanity."
 
