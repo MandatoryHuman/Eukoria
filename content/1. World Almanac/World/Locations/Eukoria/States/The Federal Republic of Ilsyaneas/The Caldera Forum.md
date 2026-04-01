@@ -16,7 +16,7 @@ tags:
 
 # Overview
 
-(A brief summary of the settlement, its general vibe, and what a traveler would notice upon first arriving.)
+(A brief summary of the settlement, its general vibe, and what a traveller would notice upon first arriving.)
 
 # Geography & Layout
 

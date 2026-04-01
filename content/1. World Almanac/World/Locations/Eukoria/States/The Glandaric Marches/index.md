@@ -33,7 +33,7 @@ Located in Eastern [[Cenora]], the landscape of the Marches is a harsh, fortifie
 
 # Society & Culture
 
-The populace of the Marches is deeply superstitious and heavily physically scarred. To combat the memory-erasing effects of the reality storms, it is a legal requirement for Glandaric citizens to heavily scar or tattoo their personal histories, names, and alliances directly onto their flesh. These are not mundane tattoos; they are ritually applied using painful Occult magic to forcefully bind the soul to the physical body.
+The populace of the Marches is deeply superstitious and heavily physically scarred. To combat the memory-erasing effects of the reality storms, Glandaric citizens to heavily scar or tattoo their personal histories, names, and alliances directly onto their flesh. These are not mundane tattoos; they are ritually applied using painful Occult magic to forcefully bind the soul to the physical body.
 
 The economy relies heavily on the desperate trade of "Anchors" - mundane objects with intense emotional significance (a child's toy, a blood-stained letter) that are clutched during storms to ground an individual's mind. The society highly reveres [[Bella, Goddess of War]], valuing martial discipline and the courage to face impossible horrors head-on.
 
