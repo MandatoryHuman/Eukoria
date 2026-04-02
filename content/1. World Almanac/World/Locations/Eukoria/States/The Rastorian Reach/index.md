@@ -1,13 +1,13 @@
 ---
-title: The Rastorian Reach
+publish: true
 aliases:
   - The Rastorian Reach
   - Rastor
-tags:
-  - State
+title: The Rastorian Reach
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
-publish: true
+tags:
+  - State
 ---
 
 \[Capital::[[Hafnar]]]
@@ -34,7 +34,7 @@ The northern waters of the Reach are tumultuous with the reality storms and Dism
 
 Rastorian culture is a proud, martial meritocracy with deep tribal roots. They heavily venerate [[Vellora, Goddess of Sea and Storms]] for her domains of physical endurance, and [[Bella, Goddess of War]] for her focus on martial glory and willpower.
 
-Uniquely, they also openly practice a culturally integrated form of Relic Dismagic. They worship [[Aethelgard, God of Relics]] - whom they call "The Rune-Father" - believing that forcefully binding the Spirit of a slain beast or a revered ancestor into unyielding Matter (their weapons and longships) is the ultimate honour. Orthodox clerics from southern nations view this as rampant heresy, but the Rastorians are too well-armed and too geographically isolated to care. Boasting, storytelling, and runic tattooing are central to their identity; a Rastorian warrior's skin is often a living tapestry of their greatest hunts, magically bound to protect them from the harsh storms of the region.
+Uniquely, they also openly practice a culturally integrated form of Relic Dismagic. They worship [[Aethelgard, God of Relics]] - whom they call "The Rune-Father" - believing that forcefully binding the Spirit of a slain beast or a revered ancestor into unyielding Matter (their weapons and longships) is the ultimate honour. Orthodox clerics from southern nations view this as rampant heresy, but the Rastorians are too well-armed and too geographically isolated to care. Boasting, storytelling, and runic tattooing are central to their identity; a Rastorian warrior’s skin is often a living tapestry of their greatest hunts, magically bound to protect them from the harsh storms of the region.
 
 # Government & Politics
 
@@ -58,4 +58,3 @@ When the [[War of Laws]] broke out 116 years ago , the fundamental laws of reali
 
 - The Storm-Callers: A highly respected guild of Primal and Divine casters who chart the volatile weather and guide the Rastorian longships safely through the Reality Storms.
 - The Leviathan Guard: Elite monster hunters and berserkers who specialize in grappling and taking down gargantuan beasts. They wield massive harpoons inscribed with Dismagic runes that violently ground magical creatures to the physical plane.
-

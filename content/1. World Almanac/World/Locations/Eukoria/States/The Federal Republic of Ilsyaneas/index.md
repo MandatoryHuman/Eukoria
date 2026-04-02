@@ -1,14 +1,15 @@
 ---
-title: The Federal Republic of Ilsyaneas
+publish: true
 aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
-tags:
-  - State
+title: The Federal Republic of Ilsyaneas
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
-publish: true
+tags:
+  - State
 ---
+
 \[Capital::[[The Caldera Forum]]]
 \[Government::Federal Representative Republic]
 \[Ruler::Elected Chancellor]
@@ -56,4 +57,4 @@ Following the devastation of the [[War of Laws]], the founders of Ilsyaneas reje
 
 - The Upper Senate & Lower House: The bicameral pillars of the Republic's legislative process.
 - The Inventors Guilds: Powerful coalitions of engineers and alchemists driving the nation's rapid technological advancement.
-- 
+-

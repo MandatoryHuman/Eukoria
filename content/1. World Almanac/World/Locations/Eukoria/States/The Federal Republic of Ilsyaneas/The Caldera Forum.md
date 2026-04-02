@@ -5,6 +5,7 @@ modified: 2026-03-31T11:33:32.968+01:00
 tags:
   - Settlement
 ---
+
 \[Type::]
 \[Level::]
 \[Population::]
