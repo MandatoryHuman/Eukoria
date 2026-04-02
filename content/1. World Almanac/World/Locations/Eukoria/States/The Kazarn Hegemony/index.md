@@ -23,7 +23,7 @@ tags:
 
 # Overview
 
-Controlling the massive central landmass of [[Antoria]], the Kazarn Hegemony is a rigidly disciplined, militaristic society forged in the fires of survival. Their lands are slowly, inevitably succumbing to a supernatural entropy - a lingering scar from the [[War of Laws]]. Though the growth of this area is slow - it will be at least 1000 years before the current mass of Kazarn is engulfed - the government of the Hegemony, and [[High Marshal Kaelen]] in particular, is desperate to fight this decay and so has embraced a culture of relentless martial perfection, forced to constantly expand their borders outward to secure the arable land and resources their dying core territories can no longer provide.
+Controlling the massive central landmass of [[Antoria]], the Kazarn [[Hegemony]] is a rigidly disciplined, militaristic society forged in the fires of survival. Their lands are slowly, inevitably succumbing to a supernatural entropy - a lingering scar from the [[War of Laws]]. Though the growth of this area is slow - it will be at least 1000 years before the current mass of Kazarn is engulfed - the government of the [[Hegemony]], and [[High Marshal Kaelen]] in particular, is desperate to fight this decay and so has embraced a culture of relentless martial perfection, forced to constantly expand their borders outward to secure the arable land and resources their dying core territories can no longer provide.
 
 # Geography & Climate
 
@@ -31,9 +31,9 @@ The central heart of Kazarn is known as the [[Rust-Wastes]], a harsh, jagged lan
 
 # Society & Culture
 
-Kazarni society is intensely utilitarian and honorable. Social rank is entirely dictated by military rank, and every citizen is expected to serve a term in the Hegemony's legions. They are fiercely devoted to [[Bella, Goddess of War]], valuing direct, honorable combat over subterfuge or trickery. Because their homeland is slowly eroding, they have a deep philosophical acceptance of entropy, abhorring vanity, hoarding, or the artificial preservation of matter (making them staunch enemies of Relic Dismagic).
+Kazarni society is intensely utilitarian and honorable. Social rank is entirely dictated by military rank, and every citizen is expected to serve a term in the [[Hegemony]]'s legions. They are fiercely devoted to [[Bella, Goddess of War]], valuing direct, honorable combat over subterfuge or trickery. Because their homeland is slowly eroding, they have a deep philosophical acceptance of entropy, abhorring vanity, hoarding, or the artificial preservation of matter (making them staunch enemies of Relic Dismagic).
 
-To fuel their endless war of expansion and offset the massive casualties of the Rust-Wastes, the Hegemony fiercely promotes the "Iron Cradle" doctrine. Large families are heavily subsidized by the state through increased rations and better housing. Having fewer than three children is viewed with subtle social suspicion, as it fails to contribute to the nation's survival. At age seven, children are transitioned out of the home into communal military academies in exchange for a sizable paycheque for the parents. This ensures that their primary loyalty is forged to their unit and the Hegemony, rather than their bloodline.
+To fuel their endless war of expansion and offset the massive casualties of the Rust-Wastes, the [[Hegemony]] fiercely promotes the "Iron Cradle" doctrine. Large families are heavily subsidized by the state through increased rations and better housing. Having fewer than three children is viewed with subtle social suspicion, as it fails to contribute to the nation's survival. At age seven, children are transitioned out of the home into communal military academies in exchange for a sizable paycheque for the parents. This ensures that their primary loyalty is forged to their unit and the [[Hegemony]], rather than their bloodline.
 
 # Government & Politics
 
@@ -42,7 +42,7 @@ The nation is a strict Stratocracy ruled by the High Marshal and a council of Ge
 # Diplomatic Relations
 
 - [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Hostile): Kazarn's need for fresh wood and fertile soil puts them in conflict with the isolationist druids to their south. The Ascendancy views the Kazarni as an industrial plague. Kazarn conducts frequent coastal raids upon the ascendancy, attacking by boat so as to avoid [[The Bramble-March]].
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Strained): While the Hegemony frequently exports mercenary companies to Meridia, they deeply despise the Meridian reliance on [[Lethos, God of Trickery|Lethos's]] subterfuge and predatory contracts, viewing them as dishonourable cowards who refuse to fight their own battles.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Strained): While the [[Hegemony]] frequently exports mercenary companies to Meridia, they deeply despise the Meridian reliance on [[Lethos, God of Trickery|Lethos's]] subterfuge and predatory contracts, viewing them as dishonourable cowards who refuse to fight their own battles.
 
 # History & Lore
 

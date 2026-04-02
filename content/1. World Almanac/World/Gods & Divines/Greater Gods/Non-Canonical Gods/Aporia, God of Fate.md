@@ -12,7 +12,7 @@ As a god, Aporia acts as an arbiter of what is (Presence) versus what could have
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Absence]
 \[Edicts::Accept the weight of your choices, preserve the natural flow of time, acknowledge and learn from what could have been]
-\[Anathema::Attempt to magically alter or erase the past, unnaturally extend one's lifespan to cheat a prophesied death, destroy historical records]
+\[[[Anathema]]::Attempt to magically alter or erase the past, unnaturally extend one's lifespan to cheat a prophesied death, destroy historical records]
 \[Areas of Concern::Fate, prophecy, alternate timelines, choices, the unknown]
 \[Religious Symbol::A two-sided coin - one face depicting a detailed, branching tree, the other perfectly smooth and pitch black]
 \[Sacred Animal::The Butterfly]

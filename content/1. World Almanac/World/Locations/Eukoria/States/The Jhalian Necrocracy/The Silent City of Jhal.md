@@ -24,7 +24,7 @@ The city extends deep into the earth, protected from the brutal surface heat. Th
 
 # Government & Law
 
-Publicly, the city is managed by the high priests of [[Cavera, Goddess of Death]], who settle disputes between the living nobles and manage the distribution of undead labour. The laws are deeply utilitarian regarding the physical form: the greatest crime in Jhal is the destruction of an undead servant, which is prosecuted as the destruction of vital state property. In truth, the daily governance is merely a shadow play orchestrated by the Hidden Phylactery, the secret cabal of Liches who pull the strings from the deepest catacombs.
+Publicly, the city is managed by the high priests of [[Cavera, Goddess of Death]], who settle disputes between the living nobles and manage the distribution of undead labour. The laws are deeply utilitarian regarding the physical form: the greatest crime in Jhal is the destruction of an undead servant, which is prosecuted as the destruction of vital state property. In truth, the daily governance is merely a shadow play orchestrated by the Hidden [[Phylactery]], the secret cabal of Liches who pull the strings from the deepest catacombs.
 
 # Districts
 
@@ -45,7 +45,7 @@ Publicly, the city is managed by the high priests of [[Cavera, Goddess of Death]
 # Factions & Guilds
 
 - The Sepulchral Guard: The intelligent undead military police force.
-- The Hidden Phylactery: The secret cabal of Liches governing the Necrocracy.
+- The Hidden [[Phylactery]]: The secret cabal of Liches governing the [[Necrocracy]].
 - The Ivory Artisans: The guild of surgeons and sculptors responsible for modifying the bones of the living and the dead.
 
 # History & Lore

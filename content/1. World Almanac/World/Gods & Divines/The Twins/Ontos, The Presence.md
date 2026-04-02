@@ -11,7 +11,7 @@ tags:
 \[Category::]
 \[Aspects::]
 \[Edicts::]
-\[Anathema::]
+\[[[Anathema]]::]
 \[Areas of Concern::]
 \[Religious Symbol::]
 \[Sacred Animal::]

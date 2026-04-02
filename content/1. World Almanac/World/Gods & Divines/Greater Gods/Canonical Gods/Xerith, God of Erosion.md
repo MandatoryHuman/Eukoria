@@ -13,7 +13,7 @@ His [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are tasked wit
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Absence and Matter]
 \[Edicts::Accept the impermanence of the physical world, break down structures that have outlived their purpose, return matter to its base elements]
-\[Anathema::Artificially preserve physical objects for eternity, hoard material wealth, practice or support Relic Dismagic]
+\[[[Anathema]]::Artificially preserve physical objects for eternity, hoard material wealth, practice or support Relic Dismagic]
 \[Areas of Concern::Erosion, rust, entropy, sand, the breakdown of physical substance]
 \[Religious Symbol::A pile of ash and dust]
 \[Sacred Animal::Scarab Beetle]

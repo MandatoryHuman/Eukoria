@@ -42,7 +42,7 @@ Anarchy reigns. Authority is held only by those powerful or mad enough to carve 
 # Diplomatic Relations
 
 - Global Quarantine: Every recognized nation on Eukoria enforces a strict blockade on the Null-State. [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] maintains the most heavily militarized and psychically warded border to the west, firing at anything or anyone that attempts to leave Daeshin on sight.
-- [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]: Occasionally, desperate smugglers from the Flotilla of the Unbound - and even sometimes other Nations - will navigate the treacherous lands to trade smuggled goods for the highly potent, reality-warping artifacts found within the wastes.
+- [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]: Occasionally, desperate smugglers from the [[Flotilla]] of the Unbound - and even sometimes other Nations - will navigate the treacherous lands to trade smuggled goods for the highly potent, reality-warping artifacts found within the wastes.
 
 # History & Lore
 

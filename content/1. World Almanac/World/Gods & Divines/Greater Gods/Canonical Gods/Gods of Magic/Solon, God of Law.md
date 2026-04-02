@@ -19,7 +19,7 @@ Despite his pact-bound neutrality regarding the flow of magic, Solon represents 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Spirit and Mind]
 \[Edicts::Uphold the strict letter and spirit of the law, punish oathbreakers, construct impenetrable wards against mental intrusion]
-\[Anathema::Break a sworn oath, subvert the spirit of the law through loopholes, practice Dismagic, consort with followers of [[Lethos, God of Trickery|Lethos]]]
+\[[[Anathema]]::Break a sworn oath, subvert the spirit of the law through loopholes, practice Dismagic, consort with followers of [[Lethos, God of Trickery|Lethos]]]
 \[Areas of Concern::Law, Occult Magic, Psychic phenomena, Astral projection]
 \[Religious Symbol::A locked book]
 \[Sacred Animal::Hound]

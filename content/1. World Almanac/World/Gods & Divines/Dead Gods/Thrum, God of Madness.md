@@ -11,7 +11,7 @@ Today, Thrum is a dead god. He no longer actively answers prayers or consciously
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
 \[Aspects::Absence and Mind]
 \[Edicts::Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers]
-\[Anathema::Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity]
+\[[[Anathema]]::Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity]
 \[Areas of Concern::Madness, paranoia, the breakdown of consciousness, the void of thought]
 \[Religious Symbol::A shattered mirror reflecting a pitch-black void]
 \[Sacred Animal::Moth]

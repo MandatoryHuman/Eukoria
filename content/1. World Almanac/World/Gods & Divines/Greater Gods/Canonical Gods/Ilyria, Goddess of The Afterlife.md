@@ -21,7 +21,7 @@ As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|C
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Absence and Spirit]
 \[Edicts::Guide souls to their final rest, destroy the undead, preserve ancient prophecies, accept the inevitability of death]
-\[Anathema::Create undead, bind a soul to the material plane, artificially extend one's lifespan, rob tombs]
+\[[[Anathema]]::Create undead, bind a soul to the material plane, artificially extend one's lifespan, rob tombs]
 \[Areas of Concern::The afterlife, death, prophecy, the transition of souls]
 \[Religious Symbol::A glowing blue spiral descending into a void]
 \[Sacred Animal::Jackal]

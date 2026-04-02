@@ -17,7 +17,7 @@ To his followers - predominantly Druids, Rangers, and Fey - magic is a tool to c
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Matter and Life]
 \[Edicts::Cultivate flourishing ecosystems, command the raw strength of nature]
-\[Anathema::Violate the natural laws of the universe, needlessly destroy natural habitats]
+\[[[Anathema]]::Violate the natural laws of the universe, needlessly destroy natural habitats]
 \[Areas of Concern::Nature, Primal magic]
 \[Religious Symbol::An animal skull on a bed of wildflowers]
 \[Sacred Animal::Bear]

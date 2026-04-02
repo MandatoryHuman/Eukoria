@@ -23,7 +23,7 @@ To follow Oclera is to believe that expanding the boundaries of mortal understan
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Mind]
 \[Edicts::Seek out hidden truths, contribute to the collective understanding, share knowledge with those who seek it, expand the boundaries of mortal intellect]
-\[Anathema::Destroy books or historical records, willfully spread misinformation, hoard knowledge for selfish gain, sever a willing mind from the collective]
+\[[[Anathema]]::Destroy books or historical records, willfully spread misinformation, hoard knowledge for selfish gain, sever a willing mind from the collective]
 \[Areas of Concern::Knowledge, truth, discovery, memory, hive-minds, scholarship]
 \[Religious Symbol::An open book]
 \[Sacred Animal::Owl]

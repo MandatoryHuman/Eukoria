@@ -21,7 +21,7 @@ Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are forces of 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Matter]
 \[Edicts::Offer tribute before setting sail, endure the storm, respect the physical might of the elements, chart the changing tides]
-\[Anathema::Vainly claim mastery over the ocean, pollute coastal waters, use Dismagic to unnaturally warp weather patterns]
+\[[[Anathema]]::Vainly claim mastery over the ocean, pollute coastal waters, use Dismagic to unnaturally warp weather patterns]
 \[Areas of Concern::Oceans, weather, storms, physical endurance, sailing]
 \[Religious Symbol::A crashing wave]
 \[Sacred Animal::Albatross]

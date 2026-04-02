@@ -33,7 +33,7 @@ They are infinitely patient, treating the geopolitical struggles of Eukora as a 
 # Relationships
 
 - [[Cavera, Goddess of Death]] (False Patron): The Sovereign publicly champions Cavera's tenets of natural unlife to maintain order, fully aware that the Goddess of Death would annihilate them if she discovered their soul was artificially anchored.
-- [[Aethelgard, God of Relics]] (True Patron): The Sovereign is one of Eukora's most powerful practitioners of Relic Dismagic, utilizing Aethelgard's friction to maintain their own eternal consciousness and command the Hidden Phylactery.
+- [[Aethelgard, God of Relics]] (True Patron): The Sovereign is one of Eukora's most powerful practitioners of Relic Dismagic, utilizing Aethelgard's friction to maintain their own eternal consciousness and command the Hidden [[Phylactery]].
 - [[High Arbiter Garadwen]] (Business Partner): The Sovereign respects the High Arbiter's intellect. They frequently conduct shadow-deals, trading cheap, undead-manufactured goods to Meridia in exchange for the corpses of Meridian slum-dwellers.
 
 # History & Lore

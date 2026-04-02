@@ -25,7 +25,7 @@ The majority of the faithful of Lethos are not anarchists or petty criminals; th
 \[Category::Greater Gods]
 \[Aspects::Absence and Mind]
 \[Edicts::Exploit loopholes, advance through cunning, master sanctioned arcane traditions]
-\[Anathema::Overtly break the law, use unsanctioned Dismagic, rely on brute force]
+\[[[Anathema]]::Overtly break the law, use unsanctioned Dismagic, rely on brute force]
 \[Areas of Concern::Wit, strategy, sanctioned deception, loopholes, statecraft]
 \[Religious Symbol::A gold coin or amulet with an unsolvable labyrinth on its face with a mask in the centre]
 \[Sacred Animal::Fox]

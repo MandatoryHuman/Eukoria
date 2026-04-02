@@ -38,7 +38,7 @@ He is ruthlessly efficient, conducting piracy not for the thrill of bloodlust, b
 
 # History & Lore
 
-Decades ago, Thorne was a brilliant naval architect and orthodox arcane scholar working for the Board of the Concordat in [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]. However, while reviewing old shipping ledgers, he discovered a fatal, deeply illegal loophole utilized by the ruling oligarchs. Knowing the Board would have him quietly executed to protect their secret, Thorne stole a prototype dreadnought and fled north into the reality storms of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]].
+Decades ago, Thorne was a brilliant naval architect and orthodox arcane scholar working for the Board of the [[Concordat]] in [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]. However, while reviewing old shipping ledgers, he discovered a fatal, deeply illegal loophole utilized by the ruling oligarchs. Knowing the Board would have him quietly executed to protect their secret, Thorne stole a prototype dreadnought and fled north into the reality storms of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]].
 
 To survive the brutal environment and the Meridian assassins sent after him, he abandoned canonical magic and embraced the forbidden teachings of Aethelgard. In a horrific ritual of Relic Dismagic, he bound his soul not to a small trinket, but to the very hull of his stolen dreadnought, _The Iron Eternity_.
 

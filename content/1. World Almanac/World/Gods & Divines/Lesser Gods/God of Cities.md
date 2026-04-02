@@ -11,7 +11,7 @@ tags:
 \[Category::[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]]
 \[Aspects::Centre in Matter]
 \[Edicts::]
-\[Anathema::]
+\[[[Anathema]]::]
 \[Areas of Concern::]
 \[Religious Symbol::]
 \[Sacred Animal::]

@@ -10,7 +10,7 @@ tags:
 ---
 
 \[Capital::[[The Silent City of Jhal]]]
-\[Government::Feudal Necrocracy]
+\[Government::Feudal [[Necrocracy]]]
 \[Ruler::[[The Undying Sovereign]]]
 \[Population::400,000 plus, 1.2 Million mindless undead ]
 \[Demographics::Humans, Dhampirs, Intelligent Undead]
@@ -23,7 +23,7 @@ tags:
 
 # Overview
 
-Located in the arid, South-Eastern reaches of [[Cenora]], the Jhalian Necrocracy is a kingdom where death is not an end, but simply a change in citizenship. The state's massive agricultural and mining sectors, as well as its standing army, are manned entirely by mindless, biological undead. Because all manual labour is handled by these lifeless drones, the sapient citizens of Jhal live in a bizarre utopia of leisure, philosophy, and art, entirely subsidized by the working bodies of their ancestors.
+Located in the arid, South-Eastern reaches of [[Cenora]], the Jhalian [[Necrocracy]] is a kingdom where death is not an end, but simply a change in citizenship. The state's massive agricultural and mining sectors, as well as its standing army, are manned entirely by mindless, biological undead. Because all manual labour is handled by these lifeless drones, the sapient citizens of Jhal live in a bizarre utopia of leisure, philosophy, and art, entirely subsidized by the working bodies of their ancestors.
 
 # Geography & Climate
 
@@ -56,4 +56,4 @@ During the [[War of Laws]], the region that is now Jhal was hit by a devastating
 # Prominent Factions
 
 - The Sepulchral Guard: The elite, intelligent undead military commanders who oversee the mindless legions. They are deeply devoted to Cavera and hunt down Relic-binders, unaware of their rulers' true nature.
-- The Hidden Phylactery: The secret cabal of ruling Liches who control the state from the shadows, continuously researching [[Aethelgard, God of Relics|Aethelgard]]'s dismagic to perfect their eternal preservation.
+- The Hidden [[Phylactery]]: The secret cabal of ruling Liches who control the state from the shadows, continuously researching [[Aethelgard, God of Relics|Aethelgard]]'s dismagic to perfect their eternal preservation.

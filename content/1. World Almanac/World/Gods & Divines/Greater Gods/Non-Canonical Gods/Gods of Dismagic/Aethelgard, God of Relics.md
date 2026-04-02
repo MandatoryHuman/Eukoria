@@ -14,7 +14,7 @@ Many of his faithful find refuge in the pirate-infested waters of [[1. World Alm
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Matter and Spirit]
 \[Edicts::Bind the ethereal to the physical, preserve your creations against the ravages of time, defy the natural cycle of death, forge items of lasting power]
-\[Anathema::Allow a relic to rust or erode, submit willingly to the afterlife, destroy a phylactery or soul-bound vessel]
+\[[[Anathema]]::Allow a relic to rust or erode, submit willingly to the afterlife, destroy a [[Phylactery|phylactery]] or soul-bound vessel]
 \[Areas of Concern::Relics, soul-binding, artifice, undeath, eternal preservation]
 \[Religious Symbol::An iron chain tightly wrapping a spectral, glowing blue flame]
 \[Sacred Animal::Hermit Crab]

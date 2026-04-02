@@ -25,7 +25,7 @@ However, the reality of most of Lysia's faithful is often far more benevolent. H
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Life and Mind]
 \[Edicts::Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains]
-\[Anathema::Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression]
+\[[[Anathema]]::Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression]
 \[Areas of Concern::Passion, emotion, fleshwarping, mutants, persecuted lovers, outcasts]
 \[Religious Symbol::A heart wrapped in iron chains]
 \[Sacred Animal::Chameleon]

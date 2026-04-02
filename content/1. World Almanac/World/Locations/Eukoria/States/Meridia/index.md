@@ -35,7 +35,7 @@ Meridian society views the strict structures of [[1. World Almanac/World/Locatio
 
 # Government & Politics
 
-Meridia is governed by the Board of the Concordat, a ruthless coalition of merchant-princes and high-ranking clerics, all operating under the supreme executive authority of [[High Arbiter Garadwen]]. As the orchestrator of Meridia's complex legal web, Garadwen is a master of geopolitical strategy who treats the absolute laws of Eukoria as her personal chessboard.
+Meridia is governed by the Board of the [[Concordat]], a ruthless coalition of merchant-princes and high-ranking clerics, all operating under the supreme executive authority of [[High Arbiter Garadwen]]. As the orchestrator of Meridia's complex legal web, Garadwen is a master of geopolitical strategy who treats the absolute laws of Eukoria as her personal chessboard.
 
 # Diplomatic Relations
 

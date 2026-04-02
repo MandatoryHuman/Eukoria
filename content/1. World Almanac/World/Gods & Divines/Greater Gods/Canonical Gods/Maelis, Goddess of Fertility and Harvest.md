@@ -21,7 +21,7 @@ Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] act as avatars
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Life]
 \[Edicts::Cultivate new life, protect the young and pregnant, ensure the harvest is shared, foster natural growth]
-\[Anathema::Destroy healthy crops out of malice, abandon a child or vulnerable youth, needlessly sterilize the land]
+\[[[Anathema]]::Destroy healthy crops out of malice, abandon a child or vulnerable youth, needlessly sterilize the land]
 \[Areas of Concern::Fertility, childbirth, agriculture, the harvest, vitality]
 \[Religious Symbol::Four stalks of wheat]
 \[Sacred Animal::Rabbit]

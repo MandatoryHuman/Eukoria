@@ -33,7 +33,7 @@ Navigating the Strait without an expensive Meridian guide is considered suicide.
 # Landmarks & Points of Interest
 
 - The Glass Breakers: A massive, jagged reef protruding from the southern waters. It is not made of coral, but of actual, glittering glass—the melted remnants of a coastal mountain range that was ground down and superheated during a divine clash 116 years ago.
-- The Obolus Toll-Gates: A miles-long naval barricade of chained dreadnoughts and arcane siege platforms extending outward from the Meridian capital, serving as the inescapable customs checkpoint for the civilized world.
+- The [[Obolus]] Toll-Gates: A miles-long naval barricade of chained dreadnoughts and arcane siege platforms extending outward from the Meridian capital, serving as the inescapable customs checkpoint for the civilized world.
 
 # Natural Resources
 

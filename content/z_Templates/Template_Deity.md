@@ -11,7 +11,7 @@ tags:
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Absence and Life]
 \[Edicts::]
-\[Anathema::]
+\[[[Anathema]]::]
 \[Areas of Concern::]
 \[Religious Symbol::]
 \[Sacred Animal::]

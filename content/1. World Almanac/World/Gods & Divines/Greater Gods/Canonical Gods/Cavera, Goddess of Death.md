@@ -19,7 +19,7 @@ As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|C
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Absence and Life]
 \[Edicts::Ensure the swift end of the dying, cull the weak so the strong may survive, accept the inevitability of mortality]
-\[Anathema::Destroy an undead creature, artificially extend a natural mortal lifespan, resurrect the living]
+\[[[Anathema]]::Destroy an undead creature, artificially extend a natural mortal lifespan, resurrect the living]
 \[Areas of Concern::The act of dying, unlife, predators, the erasure of natural vitality]
 \[Religious Symbol::A shattered pocketwatch]
 \[Sacred Plant::Strangler fig]

@@ -11,7 +11,7 @@ Her worshippers are predominantly soldiers, paladins, marshals, and honourable m
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Spirit]
 \[Edicts::Fight with honor and discipline, face your enemies head-on, protect those who cannot protect themselves, test your spirit through martial prowess]
-\[Anathema::Flee from an honourable duel, strike an unarmed or yielding foe, utilize poison or subterfuge in combat, abandon a comrade on the battlefield]
+\[[[Anathema]]::Flee from an honourable duel, strike an unarmed or yielding foe, utilize poison or subterfuge in combat, abandon a comrade on the battlefield]
 \[Areas of Concern::War, honorable combat, martial discipline, bravery]
 \[Religious Symbol::A golden shield bearing a lion symbol]
 \[Sacred Animal::Lion]

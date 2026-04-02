@@ -31,6 +31,6 @@ Within two years, the group was offering regular transport services to recoverin
 
 # Aftermath & Legacy
 
-The establishment of Obolus created a stable maritime gateway between major landmasses and gave Meridia its enduring political center. Over time, the shipping network born from Garadwen's hazardous expeditions became the backbone of Meridian influence.
+The establishment of [[Obolus]] created a stable maritime gateway between major landmasses and gave Meridia its enduring political center. Over time, the shipping network born from Garadwen's hazardous expeditions became the backbone of Meridian influence.
 
 In modern historical accounts, the Formation of Meridia is remembered as a reconstruction-era turning point: a transition from post-war survival to organized statecraft, commerce, and long-distance connectivity.

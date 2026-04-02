@@ -24,7 +24,7 @@ The followers of Amnis are staunch pacifists. Her [[1. World Almanac/World/NPCs/
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Life and Spirit]
 \[Edicts::Forgive those with even the smallest glimmer of goodness within them, seek peaceful resolutions]
-\[Anathema::Kill, Lie]
+\[[[Anathema]]::Kill, Lie]
 \[Areas of Concern:: Honesty, Redemption, Divine magic]
 \[Religious Symbol::A pure white pearl with an inky black smoke inside]
 \[Sacred Animal::Oyster]

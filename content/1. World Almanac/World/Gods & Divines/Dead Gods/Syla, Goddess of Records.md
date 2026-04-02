@@ -13,7 +13,7 @@ While Syla is long since dead, some of her clerics still gain magic from her lat
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
 \[Aspects::Presence and Mind]
 \[Edicts::Commit all truths to the shared consciousness, preserve the memory of what has passed, manifest knowledge into undeniable record]
-\[Anathema::Destroy or alter a historical record, intentionally forget a crucial truth, allow bias to cloud a recorded event]
+\[[[Anathema]]::Destroy or alter a historical record, intentionally forget a crucial truth, allow bias to cloud a recorded event]
 \[Areas of Concern::Record keeping, history, the shared consciousness, lost truths]
 \[Religious Symbol::An unfurled scroll]
 \[Sacred Animal::Tortoise]
