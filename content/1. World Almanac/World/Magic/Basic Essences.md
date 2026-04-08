@@ -1,4 +1,4 @@
-> \[!quote|author] Origin Myths of Eukoria
+> [!quote|author] Origin Myths of Eukoria
 > "Before the wheel of the four Fundamentals could turn, there had to be a space for it to turn within, and a force to set it in motion."
 
 While the four [[Fundamental Essences]] make up the complex reality of the mortal plane and the orthodox magic system, the Basic Essences serve as the absolute, binary anchors of existence.

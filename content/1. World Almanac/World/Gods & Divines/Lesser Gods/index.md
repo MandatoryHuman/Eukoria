@@ -9,7 +9,7 @@ tags:
   - Lore
 ---
 
-> \[!quote|author] Eukorian Folk Saying
+> [!quote|author] Eukorian Folk Saying
 > "An Arcanist prays to the monoliths for a perfect spell formula, but a mother prays to a Lesser God to break her child's fever. The monoliths do not understand mercy, but a Lesser God remembers what it is to bleed."
 
 Unlike the vast, uncompromising, and alien [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]], the Lesser Gods of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] are highly relatable to the mortal condition.

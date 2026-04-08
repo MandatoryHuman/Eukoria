@@ -9,7 +9,7 @@ tags:
   - Lore
 ---
 
-> \[!quote|author] Origin Myths of Eukoria
+> [!quote|author] Origin Myths of Eukoria
 > "Before the wheel could turn, the canvas had to be stretched, and the void pushed back. Ontos gave us the stage to stand upon, and Kenon offered the silence required to hear the music." —
 
 The Twins are the primordial deities of Eukoria, predating the formation of the mortal plane and the cosmic wheel of the four [[Fundamental Essences]]. They act as the absolute, immovable anchors of reality.
