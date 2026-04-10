@@ -9,15 +9,15 @@ tags:
   - Chosen
 ---
 
-\[Pronouns::They/Them]
-\[Ancestry::]
-\[Background::Diplomat]
-\[Class/Profession::[[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]]]
-\[Level::10]
-\[Location::Varies]
-\[Faction::Church of [[Amnis the Burdened, Goddess of Forgiveness]]]
-\[Role::Emissary and Diplomat]
-\[Status::Alive]
+[Pronouns::They/Them]
+[Ancestry::]
+[Background::Diplomat]
+[Class/Profession::[[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]]]
+[Level::10]
+[Location::Varies]
+[Faction::Church of [[Amnis the Burdened, Goddess of Forgiveness]]]
+[Role::Emissary and Diplomat]
+[Status::Alive]
 
 ![[Assets/NPCs/Chosen/Maris Sin-Eater.webp|400]]
 

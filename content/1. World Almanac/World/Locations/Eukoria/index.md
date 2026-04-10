@@ -41,7 +41,7 @@ Beneath The Twins sits a vast and deeply fractured pantheon of [[1. World Almana
 - **[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]:** The most powerful entities, heavily involved in the world's functioning and mortal affairs. They are strictly divided into two groups:
   - **[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]:** The accepted, legally worshiped deities. This pantheon includes prominent figures like [[Ilyria, Goddess of The Afterlife]], [[Bella, Goddess of War]], and the specialized [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]] (such as [[Aureon, God of Commerce and Industry]] and [[Solon, God of Law]]).
   - **[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]]:** Deities whose worship is marginalized, forbidden, or considered heretical. Among them are [[Aporia, God of Fate]] and the feared/revered [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]], including [[Aethelgard, God of Relics]] and [[Lysia Bind-breaker, Goddess of Passion]].
-- **[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]:** Minor deities overseeing specific domains of mortal life, such as the [[God of Cities]], [[God of Medicine]], and the [[God Of Art]].
+- **[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]:** Minor deities overseeing specific domains of mortal life, such as the [[God of Cities]], [[God of Medicine]], and the [[Eidas, God Of Art]].
 
 ## The Arcane Weave
 

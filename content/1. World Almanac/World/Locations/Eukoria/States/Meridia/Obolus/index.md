@@ -9,11 +9,11 @@ tags:
   - Settlement
 ---
 
-\[Type::Capital]
-\[Level::18]
-\[Population::"800,000"]
-\[Demographics::Any, so long as they can pay]
-\[Ruler::[[High Arbiter Garadwen]]]
+[Type::Capital]
+[Level::18]
+[Population::"800,000"]
+[Demographics::Any, so long as they can pay]
+[Ruler::[[High Arbiter Garadwen]]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

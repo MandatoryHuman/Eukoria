@@ -6,15 +6,15 @@ tags:
   - NPCs
 ---
 
-\[Pronouns::She/Her]
-\[Ancestry::Dromaar]
-\[Background::Sailor]
-\[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
-\[Level::18]
-\[Location::[[Tralicor]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
-\[Role::Empress and Supreme Naval Commander]
-\[Status::Alive]
+[Pronouns::She/Her]
+[Ancestry::Dromaar]
+[Background::Sailor]
+[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
+[Level::18]
+[Location::[[Tralicor]]]
+[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
+[Role::Empress and Supreme Naval Commander]
+[Status::Alive]
 
 ![[Assets/NPCs/Ranani the Unbroken.webp|400]]
 

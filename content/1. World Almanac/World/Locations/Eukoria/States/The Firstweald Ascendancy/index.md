@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-\[Capital::Elderheart]
-\[Government::Druidic Conclave]
-\[Ruler::[[Hierophant Rinebrior]]]
-\[Population::"900,000"]
-\[Demographics::Elves, Humans, Leshies, Fey, Beastkin]
-\[Languages::Common, Sylvan]
-\[Religions::[[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]]
-\[Major Exports::Rare herbs, primal reagents, resilient living-lumber, exotic beasts]
-\[Major Imports::Raw metals, written histories]
+[Capital::Elderheart]
+[Government::Druidic Conclave]
+[Ruler::[[Hierophant Rinebrior]]]
+[Population::"900,000"]
+[Demographics::Elves, Humans, Leshies, Fey, Beastkin]
+[Languages::Common, Sylvan]
+[Religions::[[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]]
+[Major Exports::Rare herbs, primal reagents, resilient living-lumber, exotic beasts]
+[Major Imports::Raw metals, written histories]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

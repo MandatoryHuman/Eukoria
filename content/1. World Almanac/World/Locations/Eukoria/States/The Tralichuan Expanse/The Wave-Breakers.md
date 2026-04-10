@@ -1,9 +1,9 @@
-\[Type::]
-\[Leader::]
-\[Headquarters::]
-\[Region/Influence::]
-\[Allies::]
-\[Enemies::]
+[Type::]
+[Leader::]
+[Headquarters::]
+[Region/Influence::]
+[Allies::]
+[Enemies::]
 
 (FACTION EMBLEM / BANNER IMAGE)
 

@@ -10,15 +10,15 @@ tags:
   - State
 ---
 
-\[Capital::[[Hafnar]]]
-\[Government::Clan Moot]
-\[Ruler::High Jarl]
-\[Population::"650,000"]
-\[Demographics::Humans, Dwarves, Orcs, Beastkin]
-\[Languages::Common, Skaldic]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]]
-\[Major Exports::Leviathan bone, runic weaponry, storm-charged amber, mercenaries]
-\[Major Imports::Kazarni steel, agricultural staples, heavy textiles]
+[Capital::[[Hafnar]]]
+[Government::Clan Moot]
+[Ruler::High Jarl]
+[Population::"650,000"]
+[Demographics::Humans, Dwarves, Orcs, Beastkin]
+[Languages::Common, Skaldic]
+[Religions::[[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]]
+[Major Exports::Leviathan bone, runic weaponry, storm-charged amber, mercenaries]
+[Major Imports::Kazarni steel, agricultural staples, heavy textiles]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

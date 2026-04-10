@@ -4,12 +4,12 @@ created: 2026-03-31T08:40:06.167+01:00
 modified: 2026-03-31T11:33:02.220+01:00
 ---
 
-\[Type::]
-\[Leader::]
-\[Headquarters::]
-\[Region/Influence::]
-\[Allies::]
-\[Enemies::]
+[Type::]
+[Leader::]
+[Headquarters::]
+[Region/Influence::]
+[Allies::]
+[Enemies::]
 
 (FACTION EMBLEM / BANNER IMAGE)
 

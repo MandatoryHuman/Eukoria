@@ -9,11 +9,11 @@ tags:
   - Settlement
 ---
 
-\[Type::Capital City]
-\[Level::17]
-\[Population::"250,000"]
-\[Demographics::Elves, Leshies, Beastkin, Fey, Humans]
-\[Ruler::[[Hierophant Rinebrior]]]
+[Type::Capital City]
+[Level::17]
+[Population::"250,000"]
+[Demographics::Elves, Leshies, Beastkin, Fey, Humans]
+[Ruler::[[Hierophant Rinebrior]]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

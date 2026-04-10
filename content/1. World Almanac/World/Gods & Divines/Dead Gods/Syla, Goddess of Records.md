@@ -10,28 +10,28 @@ While Syla is long since dead, some of her clerics still gain magic from her lat
 
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
-\[Aspects::Presence and Mind]
-\[Edicts::Commit all truths to the shared consciousness, preserve the memory of what has passed, manifest knowledge into undeniable record]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
+[Aspects::Presence and Mind]
+[Edicts::Commit all truths to the shared consciousness, preserve the memory of what has passed, manifest knowledge into undeniable record]
 \[[[Anathema]]::Destroy or alter a historical record, intentionally forget a crucial truth, allow bias to cloud a recorded event]
-\[Areas of Concern::Record keeping, history, the shared consciousness, lost truths]
-\[Religious Symbol::An unfurled scroll]
-\[Sacred Animal::Tortoise]
-\[Sacred Colours::Parchment Yellow and Ash Gray]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+[Areas of Concern::Record keeping, history, the shared consciousness, lost truths]
+[Religious Symbol::An unfurled scroll]
+[Sacred Animal::Tortoise]
+[Sacred Colours::Parchment Yellow and Ash Gray]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 
 ![[Assets/Gods/Symbols/Syla Symbol.webp|400]]
 
 ## Devotee Benefits
 
-\[Divine Attribute::Intelligence or Wisdom]
-\[Divine Font::Heal]
-\[Divine Sanctification::Can choose Holy]
-\[Divine Skill::Society]
-\[Favoured Weapon::Dagger]
-\[Domains::Knowledge, Truth, Time, Secrecy]
-\[Alternate Domains::Repose]
-\[Cleric Spells::1st: [Share Lore](https://2e.aonprd.com/Spells.aspx?ID=2363), 3rd: [Hypercognition](https://2e.aonprd.com/Spells.aspx?ID=1563), 6th: [Scrying](https://2e.aonprd.com/Spells.aspx?ID=1662)]
+[Divine Attribute::Intelligence or Wisdom]
+[Divine Font::Heal]
+[Divine Sanctification::Can choose Holy]
+[Divine Skill::Society]
+[Favoured Weapon::Dagger]
+[Domains::Knowledge, Truth, Time, Secrecy]
+[Alternate Domains::Repose]
+[Cleric Spells::1st: [Share Lore](https://2e.aonprd.com/Spells.aspx?ID=2363), 3rd: [Hypercognition](https://2e.aonprd.com/Spells.aspx?ID=1563), 6th: [Scrying](https://2e.aonprd.com/Spells.aspx?ID=1662)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

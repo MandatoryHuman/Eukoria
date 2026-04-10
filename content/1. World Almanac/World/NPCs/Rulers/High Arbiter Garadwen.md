@@ -6,13 +6,13 @@ tags:
   - NPCs
 ---
 
-\[Pronouns::She/Her]
-\[Ancestry::Ancient Elf]
-\[Background::Noble]
-\[Class/Profession::High Arbiter and Merchant-Queen]
-\[Level::18]
-\[Location::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]]
+[Pronouns::She/Her]
+[Ancestry::Ancient Elf]
+[Background::Noble]
+[Class/Profession::High Arbiter and Merchant-Queen]
+[Level::18]
+[Location::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
+[Faction::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]]
 
 ![[Assets/NPCs/High Arbiter Garadwen.webp|400]]
 

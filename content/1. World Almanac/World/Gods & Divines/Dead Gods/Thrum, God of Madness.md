@@ -8,27 +8,27 @@ Today, Thrum is a dead god. He no longer actively answers prayers or consciously
 
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
-\[Aspects::Absence and Mind]
-\[Edicts::Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
+[Aspects::Absence and Mind]
+[Edicts::Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers]
 \[[[Anathema]]::Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity]
-\[Areas of Concern::Madness, paranoia, the breakdown of consciousness, the void of thought]
-\[Religious Symbol::A shattered mirror reflecting a pitch-black void]
-\[Sacred Animal::Moth]
-\[Sacred Colours::Deep Purple and Void Black]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+[Areas of Concern::Madness, paranoia, the breakdown of consciousness, the void of thought]
+[Religious Symbol::A shattered mirror reflecting a pitch-black void]
+[Sacred Animal::Moth]
+[Sacred Colours::Deep Purple and Void Black]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 ![[Assets/Gods/Symbols/Amnis Symbol.webp]]
 
 ## Devotee Benefits
 
-\[Divine Attribute::Intelligence or Charisma]
-\[Divine Font::Harm]
-\[Divine Sanctification::Must choose Unholy]
-\[Divine Skill::Occultism]
-\[Favoured Weapon::Whip]
-\[Domains::[Delirium](https://2e.aonprd.com/Domains.aspx?ID=105), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69)]
-\[Alternate Domains::[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)]
-\[Cleric Spells::1st: 2e.aonprd.com/Spells.aspx?ID=1500, 4th: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), 7th: [Warp Mind](https://2e.aonprd.com/Spells.aspx?ID=1754)]
+[Divine Attribute::Intelligence or Charisma]
+[Divine Font::Harm]
+[Divine Sanctification::Must choose Unholy]
+[Divine Skill::Occultism]
+[Favoured Weapon::Whip]
+[Domains::[Delirium](https://2e.aonprd.com/Domains.aspx?ID=105), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69)]
+[Alternate Domains::[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)]
+[Cleric Spells::1st: 2e.aonprd.com/Spells.aspx?ID=1500, 4th: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), 7th: [Warp Mind](https://2e.aonprd.com/Spells.aspx?ID=1754)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

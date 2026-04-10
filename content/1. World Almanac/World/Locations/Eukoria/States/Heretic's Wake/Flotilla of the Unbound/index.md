@@ -9,11 +9,11 @@ tags:
   - Settlement
 ---
 
-\[Type::Capital]
-\[Level::16]
-\[Population::45000 (Highly Transient)]
-\[Demographics::Exiles, Runesmiths, Passion Mages, Fleshwarps, Intelligent Undead]
-\[Ruler::A shifting council of the most powerful Pirate Captains]
+[Type::Capital]
+[Level::16]
+[Population::45000 (Highly Transient)]
+[Demographics::Exiles, Runesmiths, Passion Mages, Fleshwarps, Intelligent Undead]
+[Ruler::A shifting council of the most powerful Pirate Captains]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

@@ -6,11 +6,11 @@ tags:
   - Settlement
 ---
 
-\[Type::Capital City]
-\[Level::14]
-\[Population::50,000, plus 300,000 mindless undead]
-\[Demographics::Humans, Dhampirs, Intelligent Undead]
-\[Ruler::[[The Undying Sovereign]]]
+[Type::Capital City]
+[Level::14]
+[Population::50,000, plus 300,000 mindless undead]
+[Demographics::Humans, Dhampirs, Intelligent Undead]
+[Ruler::[[The Undying Sovereign]]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

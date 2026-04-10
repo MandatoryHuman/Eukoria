@@ -10,15 +10,15 @@ tags:
   - State
 ---
 
-\[Capital::[[The Caldera Forum]]]
-\[Government::Federal Representative Republic]
-\[Ruler::Elected Chancellor]
-\[Population::2.8 Million]
-\[Demographics::Humans, Dwarves, Gnomes, Automatons]
-\[Languages::Common, Dwarven, Gnomish]
-\[Religions::Secular]
-\[Major Exports::Machinery, Firearms, Refined Steel, Civic Treatises]
-\[Major Imports::Raw Ore, Textiles, Exotic Primal Reagents]
+[Capital::[[The Caldera Forum]]]
+[Government::Federal Representative Republic]
+[Ruler::Elected Chancellor]
+[Population::2.8 Million]
+[Demographics::Humans, Dwarves, Gnomes, Automatons]
+[Languages::Common, Dwarven, Gnomish]
+[Religions::Secular]
+[Major Exports::Machinery, Firearms, Refined Steel, Civic Treatises]
+[Major Imports::Raw Ore, Textiles, Exotic Primal Reagents]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

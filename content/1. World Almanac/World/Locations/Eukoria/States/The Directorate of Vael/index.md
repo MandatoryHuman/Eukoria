@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-\[Capital::[[Axiom's Hold]]]
-\[Government::Theocratic Surveillance State]
-\[Ruler::[[The Panopticon Council]]]
-\[Population::"650,000"]
-\[Demographics::Humans, Elves, Halflings]
-\[Languages::Common]
-\[Religions::[[Solon, God of Law]], [[Oclera, God of Knowledge]]]
-\[Major Exports::Information, Arcane/Occult Wards, Legal/Magical Treatises]
-\[Major Imports::Raw materials, Historical Texts, Paper]
+[Capital::[[Axiom's Hold]]]
+[Government::Theocratic Surveillance State]
+[Ruler::[[The Panopticon Council]]]
+[Population::"650,000"]
+[Demographics::Humans, Elves, Halflings]
+[Languages::Common]
+[Religions::[[Solon, God of Law]], [[Oclera, God of Knowledge]]]
+[Major Exports::Information, Arcane/Occult Wards, Legal/Magical Treatises]
+[Major Imports::Raw materials, Historical Texts, Paper]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

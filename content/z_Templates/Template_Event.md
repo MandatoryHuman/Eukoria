@@ -6,10 +6,10 @@ tags:
   - Events
 ---
 
-\[Type::]
-\[Location::]
-\[Factions Involved::]
-\[Key Figures::]
+[Type::]
+[Location::]
+[Factions Involved::]
+[Key Figures::]
 
 (Event Image)
 

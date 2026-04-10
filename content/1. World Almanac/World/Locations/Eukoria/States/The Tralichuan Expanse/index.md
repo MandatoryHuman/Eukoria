@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-\[Capital::Tralicor]
-\[Government::Expansionist Thalassocracy]
-\[Ruler::[[Empress Ranani the Unbroken]]]
-\[Population::1.9 Million]
-\[Demographics::Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races]
-\[Languages::Common, Thalassic]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]]
-\[Major Exports::Spices, Tropical Woods, Exotic Fruits, Naval Vessels]
-\[Major Imports::Heavy Metals, Arcane Lore]
+[Capital::Tralicor]
+[Government::Expansionist Thalassocracy]
+[Ruler::[[Empress Ranani the Unbroken]]]
+[Population::1.9 Million]
+[Demographics::Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races]
+[Languages::Common, Thalassic]
+[Religions::[[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]]
+[Major Exports::Spices, Tropical Woods, Exotic Fruits, Naval Vessels]
+[Major Imports::Heavy Metals, Arcane Lore]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

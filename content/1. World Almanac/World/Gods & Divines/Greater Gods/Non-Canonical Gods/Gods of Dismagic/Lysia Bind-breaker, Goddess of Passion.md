@@ -22,37 +22,37 @@ However, the reality of most of Lysia's faithful is often far more benevolent. H
 
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
-\[Aspects::Life and Mind]
-\[Edicts::Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains]
+[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
+[Aspects::Life and Mind]
+[Edicts::Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains]
 \[[[Anathema]]::Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression]
-\[Areas of Concern::Passion, emotion, fleshwarping, mutants, persecuted lovers, outcasts]
-\[Religious Symbol::A heart wrapped in iron chains]
-\[Sacred Animal::Chameleon]
-\[Sacred Colours::Vibrant Magenta and Crimson]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]]
+[Areas of Concern::Passion, emotion, fleshwarping, mutants, persecuted lovers, outcasts]
+[Religious Symbol::A heart wrapped in iron chains]
+[Sacred Animal::Chameleon]
+[Sacred Colours::Vibrant Magenta and Crimson]
+[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]]
 
 ![[Assets/Gods/Symbols/Lysia Symbol.webp|400]]
 
 ## Devotee Benefits
 
-\[Divine Attribute::Charisma or Constitution]
-\[Divine Font::Harm or Heal]
-\[Divine Sanctification::None]
-\[Divine Skill::Occultism or Medicine]
-\[Favoured Weapon::Spiked Chain]
-\[Domains::Passion, Change, Freedom, Healing]
-\[Alternate Domains::Nightmares]
-\[Cleric Spells::1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 5th: [Aberrant Form](https://2e.aonprd.com/Spells.aspx?ID=861)]
+[Divine Attribute::Charisma or Constitution]
+[Divine Font::Harm or Heal]
+[Divine Sanctification::None]
+[Divine Skill::Occultism or Medicine]
+[Favoured Weapon::Spiked Chain]
+[Domains::Passion, Change, Freedom, Healing]
+[Alternate Domains::Nightmares]
+[Cleric Spells::1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 5th: [Aberrant Form](https://2e.aonprd.com/Spells.aspx?ID=861)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 Lysia blesses those who break the chains of oppression, embrace their true emotional nature, and use Passion-Magic to protect society's outcasts. She brings terrifying biological and mental ruin to those who persecute lovers or suppress the true identities of others.
 
-\[Minor Boon::Lysia's passion emboldens your flesh. You gain a +1 status bonus to saving throws against emotion effects, and when you are targeted by an emotion effect, you gain 5 temporary Hit Points.]
-\[Moderate Boon::You can force the intellect of your mind directly onto your biology. Once per day, you can cast Enlarge or Shrink on yourself as an innate Occult spell, altering your flesh to suit your needs.]
-\[Major Boon::]
+[Minor Boon::Lysia's passion emboldens your flesh. You gain a +1 status bonus to saving throws against emotion effects, and when you are targeted by an emotion effect, you gain 5 temporary Hit Points.]
+[Moderate Boon::You can force the intellect of your mind directly onto your biology. Once per day, you can cast Enlarge or Shrink on yourself as an innate Occult spell, altering your flesh to suit your needs.]
+[Major Boon::]
 
-\[Minor Curse::Your body uncontrollably broadcasts your inner mind. You take a permanent -2 status penalty to Deception checks, and your skin visibly flushes, pales, or breaks out in hives depending on your emotional state.]
-\[Moderate Curse::The friction of your Life and Mind violently clashes. As long as you have the Frightened condition, you also gain the Enfeebled condition of the same value, as your fear saps your physical biology.]
-\[Major Curse::Lysia turns your flesh into a prison of maddening mutations. You permanently gain weakness 5 to mental damage, and anytime you roll a critical failure on an attack roll or skill check, a random appendage temporarily mutates into useless, pulsing flesh, rendering you Clumsy 2 for 1 minute.]
+[Minor Curse::Your body uncontrollably broadcasts your inner mind. You take a permanent -2 status penalty to Deception checks, and your skin visibly flushes, pales, or breaks out in hives depending on your emotional state.]
+[Moderate Curse::The friction of your Life and Mind violently clashes. As long as you have the Frightened condition, you also gain the Enfeebled condition of the same value, as your fear saps your physical biology.]
+[Major Curse::Lysia turns your flesh into a prison of maddening mutations. You permanently gain weakness 5 to mental damage, and anytime you roll a critical failure on an attack roll or skill check, a random appendage temporarily mutates into useless, pulsing flesh, rendering you Clumsy 2 for 1 minute.]

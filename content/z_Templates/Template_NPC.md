@@ -6,15 +6,15 @@ tags:
   - NPCs
 ---
 
-\[Pronouns::]
-\[Ancestry::]
-\[Background::]
-\[Class/Profession::]
-\[Level::]
-\[Location::]
-\[Faction::]
-\[Role::]
-\[Status::]
+[Pronouns::]
+[Ancestry::]
+[Background::]
+[Class/Profession::]
+[Level::]
+[Location::]
+[Faction::]
+[Role::]
+[Status::]
 
 (IMAGE)
 
