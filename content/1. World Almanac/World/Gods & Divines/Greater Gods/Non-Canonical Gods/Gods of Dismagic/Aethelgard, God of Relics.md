@@ -30,8 +30,8 @@ Many of his faithful find refuge in the pirate-infested waters of [[1. World Alm
 \[Divine Sanctification::None]
 \[Divine Skill::Crafting]
 \[Favoured Weapon::Warhammer]
-\[Domains::[Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118)]
-\[Alternate Domains::[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Duty](https://2e.aonprd.com/Domains.aspx?ID=108)]
+\[Domains::[Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Glyph](https://2e.aonprd.com/Domains.aspx?ID=109), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118)]
+\[Alternate Domains::[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68)]
 \[Cleric Spells::1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [One with Stone](https://2e.aonprd.com/Spells.aspx?ID=1619), 5th: [Stagnate Time](https://2e.aonprd.com/Spells.aspx?ID=2605)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
