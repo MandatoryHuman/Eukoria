@@ -9,7 +9,7 @@ tags:
   - Lore
 ---
 
-> \[!quote|Author] Exiled Arcanist's Journal
+> [!quote|Author] Exiled Arcanist's Journal
 > "The church calls them heretics. Fools. They are not heretics; they are simply the friction of non-adjacent realities grinding against one another. They are the sudden spark in the dark - dangerous, yes, but brilliantly powerful."
 
 Non-Canonical Gods are a classification of [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] defined by cosmic friction. They are comprised of two non-adjacent (opposing or clashing) Essences on the cosmic wheel.
