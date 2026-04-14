@@ -6,15 +6,15 @@ tags:
   - NPCs
 ---
 
-[Pronouns::]
-[Ancestry::]
-[Background::]
-[Class/Profession::]
-[Level::]
-[Location::]
-[Faction::]
-[Role::]
-[Status::]
+\[Pronouns::]
+\[Ancestry::]
+\[Background::]
+\[Class/Profession::]
+\[Level::]
+\[Location::]
+\[Faction::]
+\[Role::]
+\[Status::]
 
 ![[Assets/NPCs/Jeniva The Canvas.webp|400]]
 

@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-[Capital::[[Bastion]]]
-[Government::Stratocracy]
-[Ruler::[[High Marshal Kaelen]]]
-[Population::1.2 Million]
-[Demographics::Dwarves, Humans, Orcs]
-[Languages::Common, Dwarven]
-[Religions::[[Bella, Goddess of War]], [[Xerith, God of Erosion]]]
-[Major Exports::Mercenaries, Refined Metals, Weaponry]
-[Major Imports::Food, Wood, Textiles]
+\[Capital::[[Bastion]]]
+\[Government::Stratocracy]
+\[Ruler::[[High Marshal Kaelen]]]
+\[Population::1.2 Million]
+\[Demographics::Dwarves, Humans, Orcs]
+\[Languages::Common, Dwarven]
+\[Religions::[[Bella, Goddess of War]], [[Xerith, God of Erosion]]]
+\[Major Exports::Mercenaries, Refined Metals, Weaponry]
+\[Major Imports::Food, Wood, Textiles]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

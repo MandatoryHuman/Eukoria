@@ -9,11 +9,11 @@ tags:
   - Settlement
 ---
 
-[Type::]
-[Level::]
-[Population::]
-[Demographics::]
-[Ruler::]
+\[Type::]
+\[Level::]
+\[Population::]
+\[Demographics::]
+\[Ruler::]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

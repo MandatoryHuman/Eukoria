@@ -6,11 +6,11 @@ tags:
   - Settlement
 ---
 
-[Type::Ruined Capital / Quarantine Zone]
-[Level::17]
-[Population::~2,000]
-[Demographics::Fleshwarps, Mutants, Exiles]
-[Ruler::None]
+\[Type::Ruined Capital / Quarantine Zone]
+\[Level::17]
+\[Population::~2,000]
+\[Demographics::Fleshwarps, Mutants, Exiles]
+\[Ruler::None]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

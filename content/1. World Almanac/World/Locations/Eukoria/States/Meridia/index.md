@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-[Capital::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
-[Government::Mercantile Oligarchy]
-[Ruler::[[High Arbiter Garadwen]]]
-[Population::1.5 Million]
-[Demographics::Any, so long as they can pay]
-[Languages::Common]
-[Religions::[[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]]
-[Major Exports::Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts]
-[Major Imports::Practically everything]
+\[Capital::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
+\[Government::Mercantile Oligarchy]
+\[Ruler::[[High Arbiter Garadwen]]]
+\[Population::1.5 Million]
+\[Demographics::Any, so long as they can pay]
+\[Languages::Common]
+\[Religions::[[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]]
+\[Major Exports::Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts]
+\[Major Imports::Practically everything]
 
 ![[Assets/Meridia Crest.webp|400]]
 

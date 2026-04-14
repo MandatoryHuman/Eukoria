@@ -6,12 +6,12 @@ tags:
   - Geography
 ---
 
-[Type::Magically Engineered Border Forest]
-[Region::North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]]
-[Size/Length::Roughly 200km long and 20km deep]
-[Climate::Temperate, Hyper-Humid, and Unnaturally Overgrown]
-[Danger Level::Severe]
-[Known For::Carnivorous Flora, Awakened Trees, Anti-Industrial Wards]
+\[Type::Magically Engineered Border Forest]
+\[Region::North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]]
+\[Size/Length::Roughly 200km long and 20km deep]
+\[Climate::Temperate, Hyper-Humid, and Unnaturally Overgrown]
+\[Danger Level::Severe]
+\[Known For::Carnivorous Flora, Awakened Trees, Anti-Industrial Wards]
 
 (LANDSCAPE / MAP IMAGE)
 

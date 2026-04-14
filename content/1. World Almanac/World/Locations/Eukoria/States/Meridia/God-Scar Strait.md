@@ -6,12 +6,12 @@ tags:
   - Geography
 ---
 
-[Type::Oceanic Channel]
-[Region::Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
-[Size/Length::120km at its narrowest]
-[Climate::Temperate, but magically volatile]
-[Danger Level::Extreme]
-[Known For::[[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks]
+\[Type::Oceanic Channel]
+\[Region::Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Size/Length::120km at its narrowest]
+\[Climate::Temperate, but magically volatile]
+\[Danger Level::Extreme]
+\[Known For::[[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks]
 
 (LANDSCAPE / MAP IMAGE)
 

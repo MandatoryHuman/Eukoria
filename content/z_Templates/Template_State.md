@@ -6,15 +6,15 @@ tags:
   - State
 ---
 
-[Capital::]
-[Government::]
-[Ruler::]
-[Population::]
-[Demographics::]
-[Languages::]
-[Religions::]
-[Major Exports::]
-[Major Imports::]
+\[Capital::]
+\[Government::]
+\[Ruler::]
+\[Population::]
+\[Demographics::]
+\[Languages::]
+\[Religions::]
+\[Major Exports::]
+\[Major Imports::]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

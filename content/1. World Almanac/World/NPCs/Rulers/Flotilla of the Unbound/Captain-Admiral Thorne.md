@@ -6,15 +6,15 @@ tags:
   - NPCs
 ---
 
-[Pronouns::He/Him]
-[Ancestry::Human (Undead Lich)]
-[Background::Exiled Scholar]
-[Class/Profession::Wizard/Runemage]
-[Level::16]
-[Location::[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]]
-[Faction::[[Captains' Council]]/The [[Phylactery Fleet]]]
-[Role::Pirate Lord]
-[Status::Undead]
+\[Pronouns::He/Him]
+\[Ancestry::Human (Undead Lich)]
+\[Background::Exiled Scholar]
+\[Class/Profession::Wizard/Runemage]
+\[Level::16]
+\[Location::[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]]
+\[Faction::[[Captains' Council]]/The [[Phylactery Fleet]]]
+\[Role::Pirate Lord]
+\[Status::Undead]
 
 ![[Assets/NPCs/Thorne.webp|400]]
 

@@ -6,12 +6,12 @@ tags:
   - Geography
 ---
 
-[Type::]
-[Region::]
-[Size/Length::]
-[Climate::]
-[Danger Level::]
-[Known For::]
+\[Type::]
+\[Region::]
+\[Size/Length::]
+\[Climate::]
+\[Danger Level::]
+\[Known For::]
 
 (LANDSCAPE / MAP IMAGE)
 

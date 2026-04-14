@@ -6,15 +6,15 @@ tags:
   - NPCs
 ---
 
-[Pronouns::They/Them]
-[Ancestry::Lich]
-[Background::Royalty]
-[Class/Profession::Wizard]
-[Level::19]
-[Location::[[The Silent City of Jhal]]]
-[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
-[Role::Supreme Ruler of Jhal]
-[Status::Undead]
+\[Pronouns::They/Them]
+\[Ancestry::Lich]
+\[Background::Royalty]
+\[Class/Profession::Wizard]
+\[Level::19]
+\[Location::[[The Silent City of Jhal]]]
+\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
+\[Role::Supreme Ruler of Jhal]
+\[Status::Undead]
 
 ![[Assets/NPCs/The Undying Sovereign.webp|400]]
 

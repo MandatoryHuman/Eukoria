@@ -6,10 +6,10 @@ tags:
   - Events
 ---
 
-[Type:: State Formation]
-[Location:: [[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
-[Factions Involved:: Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers]
-[Key Figures:: [[High Arbiter Garadwen]]]
+\[Type:: State Formation]
+\[Location:: [[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Factions Involved:: Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers]
+\[Key Figures:: [[High Arbiter Garadwen]]]
 
 (Event Image)
 

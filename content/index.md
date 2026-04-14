@@ -43,4 +43,4 @@ When the dust settled, the world was forever changed. While the heavens are now 
 
 - [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
 
-### 🧑‍🤝‍🧑 Characters & Factions
+### Characters & Factions

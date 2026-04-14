@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-[Capital::[[The Silent City of Jhal]]]
-[Government::Feudal [[Necrocracy]]]
-[Ruler::[[The Undying Sovereign]]]
-[Population::400,000 plus, 1.2 Million mindless undead ]
-[Demographics::Humans, Dhampirs, Intelligent Undead]
-[Languages::Common, Necril]
-[Religions::[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]]
-[Major Exports::Cheap manufactured goods, Alchemical reagents, Mined Minerals]
-[Major Imports::Corpses (smuggled), Luxury goods]
+\[Capital::[[The Silent City of Jhal]]]
+\[Government::Feudal [[Necrocracy]]]
+\[Ruler::[[The Undying Sovereign]]]
+\[Population::400,000 plus, 1.2 Million mindless undead ]
+\[Demographics::Humans, Dhampirs, Intelligent Undead]
+\[Languages::Common, Necril]
+\[Religions::[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]]
+\[Major Exports::Cheap manufactured goods, Alchemical reagents, Mined Minerals]
+\[Major Imports::Corpses (smuggled), Luxury goods]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 
