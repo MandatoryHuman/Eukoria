@@ -6,15 +6,15 @@ tags:
   - NPCs
 ---
 
-[Pronouns::He/Him]
-[Ancestry::Dwarf]
-[Background::Soldier]
-[Class/Profession::Champion of [[Bella, Goddess of War]]]
-[Level::17]
-[Location::[[Bastion]]]
-[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]]
-[Role::Supreme Military Commander]
-[Status::Alive]
+\[Pronouns::He/Him]
+\[Ancestry::Dwarf]
+\[Background::Soldier]
+\[Class/Profession::Champion of [[Bella, Goddess of War]]]
+\[Level::17]
+\[Location::[[Bastion]]]
+\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]]
+\[Role::Supreme Military Commander]
+\[Status::Alive]
 
 ![[Assets/Kaelen.webp|400]]
 

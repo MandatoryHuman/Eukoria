@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-[Capital::[[Othrys, The Hollow Capital]] (Largely Abandoned)]
-[Government::Anarchic Quarantine Zone]
-[Ruler::Various Cult Leaders and Warlords]
-[Population::Unknown, likely <100,000]
-[Demographics::Fleshwarps, Mutants, Exiles, Cultists]
-[Languages::None]
-[Religions::[[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]]
-[Major Exports::None]
-[Major Imports::Desperate exiles, Smuggled Dismagic supplies]
+\[Capital::[[Othrys, The Hollow Capital]] (Largely Abandoned)]
+\[Government::Anarchic Quarantine Zone]
+\[Ruler::Various Cult Leaders and Warlords]
+\[Population::Unknown, likely <100,000]
+\[Demographics::Fleshwarps, Mutants, Exiles, Cultists]
+\[Languages::None]
+\[Religions::[[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]]
+\[Major Exports::None]
+\[Major Imports::Desperate exiles, Smuggled Dismagic supplies]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

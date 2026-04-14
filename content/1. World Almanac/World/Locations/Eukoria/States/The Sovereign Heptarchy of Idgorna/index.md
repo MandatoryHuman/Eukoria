@@ -10,15 +10,15 @@ tags:
   - State
 ---
 
-[Capital::[[The Seven-Fold Canopy]]]
-[Government::Feudal Oligarchy]
-[Ruler::The Witan]
-[Population::1.1 Million]
-[Demographics::Humans, Elves, Leshies, Lizardfolk, Half-Orcs]
-[Languages::Common, Elven, Iruxi]
-[Religions::Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]]
-[Major Exports::Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies]
-[Major Imports::Heavy Armour, Cold-Iron Weapons, Arcane Texts]
+\[Capital::[[The Seven-Fold Canopy]]]
+\[Government::Feudal Oligarchy]
+\[Ruler::The Witan]
+\[Population::1.1 Million]
+\[Demographics::Humans, Elves, Leshies, Lizardfolk, Half-Orcs]
+\[Languages::Common, Elven, Iruxi]
+\[Religions::Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]]
+\[Major Exports::Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies]
+\[Major Imports::Heavy Armour, Cold-Iron Weapons, Arcane Texts]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

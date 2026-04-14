@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-[Capital::[[The Flotilla of the Unbound]]]
-[Government::Pirate Coalition]
-[Ruler::A shifting council of the most powerful Pirate Captains]
-[Population::Unknown (Highly Transient)]
-[Demographics::Exiles, Runesmiths, Passion Mages, Outcasts]
-[Languages::Common, Various Thieves' Cants]
-[Religions::[[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]]
-[Major Exports::Stolen Cargo, Smuggled Contraband, "Safe Passage"]
-[Major Imports::Stolen Ships, Weaponry, Ransom Gold]
+\[Capital::[[The Flotilla of the Unbound]]]
+\[Government::Pirate Coalition]
+\[Ruler::A shifting council of the most powerful Pirate Captains]
+\[Population::Unknown (Highly Transient)]
+\[Demographics::Exiles, Runesmiths, Passion Mages, Outcasts]
+\[Languages::Common, Various Thieves' Cants]
+\[Religions::[[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]]
+\[Major Exports::Stolen Cargo, Smuggled Contraband, "Safe Passage"]
+\[Major Imports::Stolen Ships, Weaponry, Ransom Gold]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

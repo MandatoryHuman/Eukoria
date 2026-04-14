@@ -9,15 +9,15 @@ tags:
   - State
 ---
 
-[Capital::[[Fort Glandar]]]
-[Government::Decentralised Military Coalition]
-[Ruler::The Marchwarden Council]
-[Population::"750,000"]
-[Demographics::Humans, Orcs, Dwarves, Fleshwarps]
-[Languages::Common]
-[Religions::[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]]
-[Major Exports::Monster trophies, "Anchor" items, hardened mercenaries]
-[Major Imports::Weapons, food supplies, psychiatric/medical aid]
+\[Capital::[[Fort Glandar]]]
+\[Government::Decentralised Military Coalition]
+\[Ruler::The Marchwarden Council]
+\[Population::"750,000"]
+\[Demographics::Humans, Orcs, Dwarves, Fleshwarps]
+\[Languages::Common]
+\[Religions::[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]]
+\[Major Exports::Monster trophies, "Anchor" items, hardened mercenaries]
+\[Major Imports::Weapons, food supplies, psychiatric/medical aid]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 
