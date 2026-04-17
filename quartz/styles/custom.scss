@@ -1,3 +1,37 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* Custom Inline Dataview Pills */
+.pill {
+  display: inline-flex;
+  border-radius: 4px;
+  overflow: hidden;
+  font-size: 0.9em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  margin: 0.2rem 0.2rem 0.2rem 0; /* Adds breathing room around pills */
+  vertical-align: middle;
+  line-height: 1.2;
+  font-family: var(--font-body);
+}
+
+.pill-key {
+  background-color: #822222; /* Dark red */
+  color: white;
+  padding: 2px 8px;
+  font-weight: 600;
+}
+
+.pill-val {
+  background-color: #242424; /* Dark grey */
+  color: #e0e0e0;
+  padding: 2px 8px;
+}
+
+/* Keeps wikilinks inside pills looking good */
+.pill-val a {
+  color: #6fbaff; 
+  text-decoration: none;
+}
+
+.pill-val a:hover {
+  text-decoration: underline;
+}

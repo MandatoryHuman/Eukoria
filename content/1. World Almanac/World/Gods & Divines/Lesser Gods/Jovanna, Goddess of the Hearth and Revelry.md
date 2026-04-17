@@ -24,18 +24,18 @@ There are few traditional temples to Jovanna; instead, the most welcoming tavern
 \[Sacred Colours::Crimson and Amber]
 \[Pantheons/Covenants::]
 
-![[Assets/Gods/Symbols/Jovanna Symbol.webp]]
+![[Assets/Gods/Symbols/Jovanna Symbol.webp|400]]
 
 ## Devotee Benefits
 
 \[Divine Attribute::Constitution or Charisma]
 \[Divine Font::heal]
 \[Divine Sanctification::can choose holy]
-\[Divine Skill::[[Diplomacy]]]
-\[Favoured Weapon::[[Light Mace]]]
-\[Domains::[[Family Domain|Family]], [[Indulgence Domain|Indulgence]], [[Zeal Domain|Zeal]], [[Protection Domain|Protection]]]
-\[Alternate Domains::[[Fire Domain|Fire]]]
-\[Cleric Spells::1st: [[create water]], 2nd: [[hideous laughter]], 3rd: [[heroism]]]
+\[Divine Skill::Diplomacy]
+\[Favoured Weapon::Light Mace]
+\[Domains::[Family](https://2e.aonprd.com/Domains.aspx?ID=74), [Indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90)]
+\[Alternate Domains::[Fire](https://2e.aonprd.com/Domains.aspx?ID=76)]
+\[Cleric Spells::1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 2nd: [Laughing Fit](https://2e.aonprd.com/Spells.aspx?ID=1583), 5th: [Engrave Memory](https://2e.aonprd.com/Spells.aspx?ID=1330)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

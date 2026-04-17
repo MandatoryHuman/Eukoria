@@ -97,6 +97,20 @@ export default (() => {
             return resource
           }
         })}
+        <script dangerouslySetInnerHTML={{ __html: `
+  document.addEventListener("nav", () => {
+    const article = document.querySelector('article');
+    if (!article) return;
+
+    // This regex looks for [Key:: Value] but smartly ignores anything inside code blocks
+    const regex = /(<code[^>]*>[\\s\\S]*?<\\/code>)|\\[([^\\]:]+)::\\s*([^\\]]+)\\]/g;
+
+    article.innerHTML = article.innerHTML.replace(regex, (match, codeBlock, key, value) => {
+      if (codeBlock) return codeBlock; // Skip code blocks
+      return '<span class="pill"><span class="pill-key">' + key.trim() + '</span><span class="pill-val">' + value.trim() + '</span></span>';
+    });
+  });
+`}}></script>
       </head>
     )
   }

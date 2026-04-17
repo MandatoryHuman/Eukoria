@@ -19,30 +19,30 @@ Just about every major metropolis in [[1. World Almanac/World/Locations/Eukoria/
 \[Edicts::Build and maintain structures that benefit the community, foster cooperation among citizens, abide by the laws of the settlement, shelter the vulnerable]
 \[[[Anathema]]::Destroy civic infrastructure, incite riots or needless chaos, live permanently outside of civilization by choice, abandon your community in its time of need]
 \[Areas of Concern::Cities, Architecture, Law, Community]
-\[Religious Symbol::A stone archway over a heavy warhammer]
+\[Religious Symbol::A stone archway]
 \[Sacred Animal::Draft Horse]
 \[Sacred Colours::Slate Grey and Bronze]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Lesser Gods/Eukoran Gods/index|Eukoran Gods]]]
+\[Pantheons/Covenants::]
 
-![[Assets/Gods/Symbols/Demara Symbol.webp]]
+![[Assets/Gods/Symbols/Demara Symbol.webp|400]]
 
 ## Devotee Benefits
 
 \[Divine Attribute::Constitution or Intelligence]
 \[Divine Font::heal or harm]
 \[Divine Sanctification::none]
-\[Divine Skill::[[Society]]]
-\[Favoured Weapon::[[Warhammer]]]
-\[Domains::[[Cities Domain|Cities]], [[Duty Domain|Duty]], [[Family Domain|Family]], [[Wealth Domain|Wealth]]]
-\[Alternate Domains::[[Earth Domain|Earth]]]
-\[Cleric Spells::1st: [[anticipate peril]], 3rd: [[safe passage]], 5th: [[wall of stone]]]
+\[Divine Skill::Society]
+\[Favoured Weapon::Warhammer]
+\[Domains::[Cities](https://2e.aonprd.com/Domains.aspx?ID=66), [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Family](https://2e.aonprd.com/Domains.aspx?ID=74), [Wealth](https://2e.aonprd.com/Domains.aspx?ID=99)]
+\[Alternate Domains::[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)]
+\[Cleric Spells::1st: [Anticipate Peril](https://2e.aonprd.com/Spells.aspx?ID=2343), 3rd: [Cozy Cabin](https://2e.aonprd.com/Spells.aspx?ID=1474), 5th: [Wall of Stone](https://2e.aonprd.com/Spells.aspx?ID=1751)]
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
-\[Minor Boon::Once, when you roll a critical failure on a Society check or a Crafting check to build structures, you get a failure instead.]
+\[Minor Boon::When you attempt to craft an item with the Structure trait (or aid an ally to do so), you must only expend half the normal cost. After you successfully craft a Structure using this ability, you lose this boon.]
 \[Moderate Boon::The city bends to ease your path. You ignore difficult terrain caused by crowds, rubble, or cobblestones in urban environments, and gain a +1 status bonus to Society.]
-\[Major Boon::You can cast [[wall of stone]] as a 6th-rank innate divine spell once per day.]
+\[Major Boon::You can cast wall of stone as a 6th-rank innate divine spell once per day.]
 
 \[Minor Curse::You easily lose your way. You take a -1 status penalty to Survival and Society checks to navigate urban environments.]
-\[Moderate Curse::Civilization rejects you. Doors lock as you approach, floorboards trip you, and city guards are inherently suspicious of you.]
-\[Major Curse::You are exiled by the very stones. You take 2d6 mental damage for every hour you spend within the boundaries of any town or city.]
+\[Moderate Curse::Civilization rejects you. For you, doors seem to get stuck often, taking an additional interact action to open (normally going from one to two actions), and any time you make a check to force a door open or pick a lock on one, the DC for that check is increased by 5.]
+\[Major Curse::You are exiled by the very stones, which seem to scream silently in your mind. Any time you take a Concentrate action within the boarders of a settlement, you must attempt a DC 6 flat check or that action is lost.]
