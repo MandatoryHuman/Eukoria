@@ -3,14 +3,14 @@ publish: true
 aliases:
   - The Widhor Sanctum
   - Widhor
-tags:
-  - State
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
+tags:
+  - State
 ---
 
 \[Capital::[[Heartbloom]]]
-\[Government::Empathic Commune] 
+\[Government::Empathic Commune]
 \[Ruler::The Chorus of Voices]
 \[Population::"150,000"]
 \[Demographics::Fleshwarps, Humans, Beastkin, Halflings]
