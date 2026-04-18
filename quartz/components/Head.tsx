@@ -147,10 +147,26 @@ export default (() => {
               const rawImage = getVal('image');
               
               let imageSrc = '';
+              const imageCandidates = [];
               if (rawImage) {
                 const imgMatch = rawImage.match(/\\[\\[(.+)\\]\\]/);
                 imageSrc = imgMatch ? imgMatch[1] : rawImage;
-                imageSrc = encodeURI(imageSrc); 
+
+                // Quartz emits assets in /Assets with slug-like names.
+                // Keep the original reference, then try normalized absolute paths.
+                const sanitizedImageSrc = imageSrc.trim().replace(/^\.\//, '').replace(/^\/+/, '');
+                const encodedImageSrc = encodeURI(sanitizedImageSrc);
+                const fileName = sanitizedImageSrc.split('/').pop() || sanitizedImageSrc;
+                const slugFileName = fileName.replace(/\s+/g, '-');
+
+                imageCandidates.push(encodedImageSrc);
+
+                if (sanitizedImageSrc.toLowerCase().startsWith('assets/')) {
+                  imageCandidates.push('/' + encodeURI(sanitizedImageSrc));
+                }
+
+                imageCandidates.push('/Assets/' + encodeURI(fileName));
+                imageCandidates.push('/Assets/' + encodeURI(slugFileName));
               }
 
               const boundsStr = getVal('bounds');
@@ -185,7 +201,37 @@ export default (() => {
                   zoomSnap: parseFloat(getVal('zoomDelta') || '1'),
                 });
 
-                L.imageOverlay(imageSrc, bounds).addTo(map);
+                const addOverlayWithFallback = (sources) => {
+                  if (!sources || sources.length === 0) {
+                    console.warn('[Leaflet Parser] No image source configured for map:', id);
+                    return;
+                  }
+
+                  const uniqueSources = Array.from(new Set(sources.filter(Boolean)));
+                  let activeOverlay = null;
+
+                  const trySource = (idx) => {
+                    if (idx >= uniqueSources.length) {
+                      console.error('[Leaflet Parser] Failed to load map overlay from all candidates:', uniqueSources);
+                      return;
+                    }
+
+                    activeOverlay = L.imageOverlay(uniqueSources[idx], bounds);
+
+                    activeOverlay.once('error', () => {
+                      if (activeOverlay) {
+                        map.removeLayer(activeOverlay);
+                      }
+                      trySource(idx + 1);
+                    });
+
+                    activeOverlay.addTo(map);
+                  };
+
+                  trySource(0);
+                };
+
+                addOverlayWithFallback(imageCandidates.length > 0 ? imageCandidates : [imageSrc]);
 
                 const lat = parseFloat(getVal('lat'));
                 const long = parseFloat(getVal('long'));
