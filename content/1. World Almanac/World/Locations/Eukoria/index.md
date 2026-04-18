@@ -14,7 +14,7 @@ id: Eukoria_Map
 lock: false
 recenter: true
 noScrollZoom: false
-image: [[Eukoria Map.webp]]
+image: [[Assets/Locations/Eukoria Map.webp]]
 height: 600px
 width: 95%
 minZoom: -4

@@ -13,7 +13,7 @@ tags:
 \[Danger Level::]
 \[Known For::]
 
-![[Eukoria Map.webp]]
+![[Assets/Locations/Eukoria Map.webp]]
 
 # Overview
 
