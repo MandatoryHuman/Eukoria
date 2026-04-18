@@ -122,7 +122,16 @@ export default (() => {
         {/* --- Obsidian Leaflet to Quartz Parser (With Wikilink Markers) --- */}
         <script dangerouslySetInnerHTML={{ __html: `
           document.addEventListener("nav", () => {
-            const blocks = document.querySelectorAll('code.language-leaflet');
+            // Grab all code blocks, just in case Quartz stripped the 'leaflet' class
+            const allCodeBlocks = document.querySelectorAll('code');
+            
+            // Filter only for blocks that actually contain Leaflet configurations
+            const blocks = Array.from(allCodeBlocks).filter(block => {
+              const text = block.innerText.toLowerCase();
+              return block.classList.contains('language-leaflet') || 
+                    (text.includes('id:') && text.includes('image:') && text.includes('zoom'));
+            });
+
             if (blocks.length === 0) return;
 
             blocks.forEach(block => {
