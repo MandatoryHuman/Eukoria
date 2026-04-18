@@ -6,12 +6,12 @@ tags:
   - Geography
 ---
 
-\[Type::]
-\[Region::]
-\[Size/Length::]
-\[Climate::]
-\[Danger Level::]
-\[Known For::]
+\[Type::Continent]
+\[Region::Western [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Size/Length::Approx 1600km North to South, 1200km East to West]
+\[Climate::Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south]
+\[Danger Level::Varies from Low to Extreme]
+\[Known For::The cradle of humanoid life, The Rust-Wastes, Relic Dismagic, Primal mega-flora]
 
 (LANDSCAPE / MAP IMAGE)
 

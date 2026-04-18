@@ -45,4 +45,4 @@ Followers of Eidas range from high-society sculptors in the grand cities to wand
 
 \[Minor Curse::Colours seem muted and sounds discordant to you. You take a -1 status penalty to Crafting and Performance checks.]
 \[Moderate Curse::You suffer from intense creative block. Whenever you attempt to Craft or Perform, you must succeed at a DC 11 flat check or lose the action.]
-\[Major Curse::In a cruel twist of fate, you are forced into being more creative with your actions; in combat, you can never take the same action twice in a row.]
+\[Major Curse::In a cruel twist of fate, you are forced into being more creative with your actions; in combat, you can never take the same action twice on the same turn.]

@@ -41,7 +41,7 @@ There are few traditional temples to Jovanna; instead, the most welcoming tavern
 
 \[Minor Boon::Any food or drink you consume is perfectly fresh, granting you a +1 status bonus to saving throws against ingested poisons or diseases.]
 \[Moderate Boon::Your inner warmth protects you. You gain a +1 status bonus to Diplomacy checks and never suffer the effects of severe environmental cold.]
-\[Major Boon::Once per week you may perform the Fortifying Brew ritual without spending the usual gp cost. When performed this way, you always receive a success on the Primary Check, and the ritual is always heightened to half your level (or is 5th rank if you are level 8 or lower).]
+\[Major Boon::Once per week you may perform the Fortifying Brew ritual without spending the usual gp cost. When performed this way, you always receive a success on the Primary Check, and the ritual is always heightened to half your level (or 5th rank if you are level 8 or lower).]
 
 \[Minor Curse::All food you eat tastes like ash, and any alcohol you drink turns to bitter water in your mouth.]
 \[Moderate Curse::Fires refuse to share their warmth with you. You constantly feel a chill deep in your bones and become clumsy 1 in any cold environment.]
