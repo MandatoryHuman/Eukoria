@@ -13,7 +13,7 @@ tags:
 \[Danger Level::Varies from Low to Extreme]
 \[Known For::The cradle of humanoid life, The Rust-Wastes, Relic Dismagic, Primal mega-flora]
 
-(LANDSCAPE / MAP IMAGE)
+![[Assets/Locations/Eukoria Map.webp]]
 
 # Overview
 
