@@ -1,1 +1,7 @@
+---
+publish: true
+aliases:
+  - 'Arbiter''s Spire'
+title: The Arbiter's Spire
+---
 The central seat of government and the personal estate of [[High Arbiter Garadwen]]. It is a marvel of Arcane transmutation that seemingly defies gravity, extending out over the cliffs to offer a perfect, detached view of the naval chokepoint below.

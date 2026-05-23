@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Solon'
+  - 'solon, god of law'
+title: Solon, God of Law
 created: 2026-03-30T12:31:05.447+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:
   - Gods
 ---
-
 Solon is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Law and the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] patron of Occult Magic. He is formed by the harmonious, cerebral blend of Spirit and Mind. Solon governs the intangible soul and pure consciousness, providing a structured, orthodox path to mastering psychic phenomena, astral projection, and the defence of the mind.
 
 ![[Assets/Gods/Solon.webp|400]]

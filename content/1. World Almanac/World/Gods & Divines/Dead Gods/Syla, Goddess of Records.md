@@ -1,8 +1,17 @@
-Syla, The Silent Witness, was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Record keeping. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represented the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Presence]]. The [[Fundamental Essences|Essence of Mind]] allows beings to think, rationalise, and remember , while the [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation. When combined, Syla embodied the physical manifestation of memory - actively recording and preserving the truths of the world into a vast shared consciousness.
+---
+publish: true
+aliases:
+  - 'Syla'
+  - 'syla, goddess of records'
+title: Syla, Goddess of Records
+---
+Syla, The Silent Witness, was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Record keeping. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represented the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Presence]]. The [[Fundamental Essences|Essence of Mind]] allows beings to think, rationalise, and remember, while the [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation. When combined, Syla embodied the physical manifestation of memory - actively recording and preserving the truths of the world into a vast shared consciousness.
 
 ![[Assets/Gods/Syla.webp|400]]
 
-During the [[War of Laws]], Syla was murdered by [[Lethos, God of Trickery]]. Her death caused great chaos as the shared consciousness her clerics possessed had been relied upon to store much of the history of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Lethos killed [[Syla, Goddess of Records]], causing all the many records she and her clerics had spent hundreds of years storing to be forever lost. The exact reason for this second murder is still uncertain to anyone but Lethos himself, but it is presumed it was done to ensure some other act of his would never be bought to light.
+During the [[War of Laws]], Syla was murdered by [[Lethos, God of Trickery]]. Her death caused great chaos as the shared consciousness her clerics possessed had been relied upon to store much of the history of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Lethos killed [[Syla, Goddess of Records]], causing all the many records she and her clerics had spent hundreds of years storing to be forever lost.  The exact reason for this second murder is still uncertain to anyone but Lethos himself, but it is presumed it was done to ensure some other act of his would never be bought to light.
+
+Syla's death also had a rippling effect on all types of records across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Written text was physically scrambled, turning into illegible gibberish and even the memories of living beings weren't left untouched. Though some of the remaining fragments have been pieced together to uncover mysteries of the eons past, large chunks of the world's history remains lost.
 
 Today, Syla is a dead god. However, her legacy survives in a fractured state. Refusing to let such a profound intellectual tool die with her, [[Oclera, God of Knowledge]] spent years meticulously researching and reverse-engineering the remnants of Syla's shared-consciousness magic. Where Syla used this psychic network passively to store records, Oclera applied the technique to actively process information.
 

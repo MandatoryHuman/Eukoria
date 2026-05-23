@@ -1,3 +1,10 @@
+---
+publish: true
+aliases:
+  - 'Xerith'
+  - 'xerith, god of erosion'
+title: Xerith, God of Erosion
+---
 **Xerith is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Erosion, rust, entropy, and the inevitable breakdown of physical reality.** In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Matter]] and the [[Basic Essences|Basic Essence of Absence]].
 
 ![[Assets/Gods/Xerith.webp|400]]

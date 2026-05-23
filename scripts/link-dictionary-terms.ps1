@@ -7,6 +7,17 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+$scriptRoot = if ($PSScriptRoot) { $PSScriptRoot } else { Split-Path -Parent $PSCommandPath }
+$repoRoot = Split-Path -Parent $scriptRoot
+
+if (-not [System.IO.Path]::IsPathRooted($ContentRoot)) {
+  $ContentRoot = Join-Path $repoRoot $ContentRoot
+}
+
+if (-not [System.IO.Path]::IsPathRooted($DictionaryDir)) {
+  $DictionaryDir = Join-Path $repoRoot $DictionaryDir
+}
+
 function Get-DictionaryEntries {
   param([string]$Dir)
 

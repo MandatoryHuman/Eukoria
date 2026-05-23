@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Oromur'
+  - 'oromur, god of medicine'
+title: Oromur, God of Medicine
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:
   - Gods
 ---
-
 Oromur, is the benevolent guardian of the sick, the injured, and the dying. Typically met in the form of a well dressed and groomed man drenched in perfumed oils, Oromur provides comfort where there is suffering. They do not view death as an enemy, but rather see unnecessary suffering as the true evil of the world.
 
 ![[Assets/Gods/Oromur.webp|400]]

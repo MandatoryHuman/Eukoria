@@ -1,3 +1,10 @@
+---
+publish: true
+aliases:
+  - 'Bella'
+  - 'bella, goddess of war'
+title: Bella, Goddess of War
+---
 Bella is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of War, martial glory, and unwavering willpower. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represents the harmonious blend of the [[Fundamental Essences|Fundamental Essence of Spirit]] - the intangible tether of willpower and faith - and the [[Basic Essences|Basic Essence of Presence]] - the unmitigated force of manifestation. She is the physical manifestation of courage and the literal embodiment of the fighting spirit.
 
 ![[Assets/Gods/Bella.webp|400]]

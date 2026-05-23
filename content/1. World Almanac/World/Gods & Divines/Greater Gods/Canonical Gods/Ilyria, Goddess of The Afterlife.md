@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Ilyria'
+  - 'ilyria, goddess of the afterlife'
+title: Ilyria, Goddess of The Afterlife
 created: 2026-03-30T12:31:05.447+01:00
 modified: 2026-03-31T15:15:46.073+01:00
 tags:
   - Gods
 ---
-
 Ilyria is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of the Afterlife, the final judge of mortal souls, and the keeper of prophecies. Representing the natural flow between the [[Fundamental Essences|Fundamental Essence of Spirit]] and the [[Basic Essences|Basic Essence of Absence]], they embody the quiet, inevitable erasure of the mortal tether.
 
 ![[Assets/Gods/Ilyria.webp|400]]

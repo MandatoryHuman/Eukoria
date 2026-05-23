@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Jovanna'
+  - 'jovanna, goddess of the hearth and revelry'
+title: Jovanna, Goddess of the Hearth and Revelry
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:
   - Gods
 ---
-
 Jovanna is a boisterous, warm-hearted goddess of the home fire and the tavern hall. She represents the joy that makes surviving in a harsh world worthwhile. Jovanna is prayed to when the harvest is brought in, when marriages are sealed, and when the winter is at its coldest.
 
 ![[Assets/Gods/Jovanna.webp|400]]

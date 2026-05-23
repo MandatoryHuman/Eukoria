@@ -1,13 +1,13 @@
 ---
 publish: true
 aliases:
-  - Reality Storm
+  - 'Reality Storm'
+title: Reality Storms
 created: 2026-03-30T12:31:05.511+01:00
 modified: 2026-03-31T15:15:46.086+01:00
 tags:
   - Lore
 ---
-
 Reality Storms are terrifying, unpredictable environmental hazards that plague specific, heavily scarred regions of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. They are not meteorological events driven by wind or rain, but rather violent, invisible waves of cosmic friction. They occur where the fabric of reality was permanently torn during the [[War of Laws]], or where the [[Basic Essences]] of Presence and Absence are forced into direct, clashing contact.
 
 To those caught inside a Reality Storm, the laws of physics, time, and biology cease to function correctly. Gravity may stutter, memories can be ripped from the mind, and matter may spontaneously transmute.

@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Venaria'
+  - 'venaria, goddess of the hunt'
+title: Venaria, Goddess of The Hunt
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:
   - Gods
 ---
-
 Venaria is an ancient, primal goddess of predator and prey. Represented as a towering woman clad in animal pelts with eyes like a hunting hawk, Venaria holds sway over the deep wilderness of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. She teaches that survival requires taking life, but that this cycle must be respected and never abused.
 
 ![[Assets/Venaria.webp|400]]

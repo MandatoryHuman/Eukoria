@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'Shattered Mind'
+title: The Shattered Mind
 created: 2026-03-30T12:31:05.489+01:00
 modified: 2026-03-31T15:15:46.082+01:00
 tags:
   - Settlement
 ---
-
 \[Type::]
 \[Level::]
 \[Population::]

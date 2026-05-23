@@ -1,11 +1,11 @@
 ---
 publish: true
 aliases:
-  - Dismagic
+  - 'Dismagic'
+title: Traditions of Dismagic
 created: 2026-03-30T12:31:05.511+01:00
 modified: 2026-03-31T15:15:46.087+01:00
 ---
-
 > [!quote|author] Manifesto of the Banned Traditions
 > "Let the orthodox beg the wheel to turn smoothly. We grasp the spokes, force them together, and let the friction burn away the impossible."
 

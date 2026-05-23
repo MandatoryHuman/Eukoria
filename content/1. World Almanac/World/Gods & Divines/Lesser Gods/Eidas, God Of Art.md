@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Eidas'
+  - 'eidas, god of art'
+title: Eidas, God Of Art
 created: 2026-03-30T12:31:05.458+01:00
 modified: 2026-03-31T15:15:46.076+01:00
 tags:
   - Gods
 ---
-
 Eidas is the patron of creatives across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Depicted often as an androgynous figure with hands stained in vibrant, ever-shifting pigments, Eidas represents the spark of inspiration. Their temples are not silent places of worship, but bustling galleries, messy studios, and grand amphitheatres where an act of creation is an act of prayer.
 
 ![[Assets/Gods/Eidas.webp|400]]

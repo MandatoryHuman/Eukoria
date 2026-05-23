@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'phylactery fleet'
+title: Phylactery Fleet
 created: 2026-03-30T12:31:05.468+01:00
 modified: 2026-03-31T16:08:55.711+01:00
 tags:
   - Geography
 ---
-
 \[Type::]
 \[Region::]
 \[Size/Length::]

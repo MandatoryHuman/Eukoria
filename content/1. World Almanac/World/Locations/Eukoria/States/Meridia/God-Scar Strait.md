@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'god-scar strait'
+title: God-Scar Strait
 created: 2026-03-30T12:31:05.481+01:00
 modified: 2026-03-31T15:15:46.080+01:00
 tags:
   - Geography
 ---
-
 \[Type::Oceanic Channel]
 \[Region::Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Size/Length::120km at its narrowest]

@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'Thorne'
+title: Captain-Admiral Thorne
 created: 2026-03-30T12:31:05.519+01:00
 modified: 2026-03-31T16:03:13.538+01:00
 tags:
   - NPCs
 ---
-
 \[Pronouns::He/Him]
 \[Ancestry::Human (Undead Lich)]
 \[Background::Exiled Scholar]

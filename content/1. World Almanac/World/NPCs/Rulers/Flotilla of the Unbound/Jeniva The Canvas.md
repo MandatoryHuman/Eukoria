@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'Jeniva'
+title: Jeniva The Canvas
 created: 2026-03-30T12:31:05.520+01:00
 modified: 2026-03-28T17:01:32.342+00:00
 tags:
   - NPCs
 ---
-
 \[Pronouns::]
 \[Ancestry::]
 \[Background::]

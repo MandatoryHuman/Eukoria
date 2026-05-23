@@ -19,7 +19,7 @@ tags:
 \[Major Exports::Spices, Tropical Woods, Exotic Fruits, Naval Vessels]
 \[Major Imports::Heavy Metals, Arcane Lore]
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Traclichua Symbol.svg|400]]
 
 # Overview
 

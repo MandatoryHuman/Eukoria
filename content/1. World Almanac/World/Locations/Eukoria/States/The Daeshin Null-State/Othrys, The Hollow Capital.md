@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Othrys'
+  - 'othrys, the hollow capital'
+title: Othrys, The Hollow Capital
 created: 2026-03-30T12:31:05.487+01:00
 modified: 2026-03-31T16:33:01.838+01:00
 tags:
   - Settlement
 ---
-
 \[Type::Ruined Capital / Quarantine Zone]
 \[Level::17]
 \[Population::~2,000]

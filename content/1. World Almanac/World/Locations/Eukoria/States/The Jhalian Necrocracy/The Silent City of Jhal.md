@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'Silent City of Jhal'
+title: The Silent City of Jhal
 created: 2026-03-30T12:31:05.504+01:00
 modified: 2026-03-31T15:15:46.084+01:00
 tags:
   - Settlement
 ---
-
 \[Type::Capital City]
 \[Level::14]
 \[Population::50,000, plus 300,000 mindless undead]

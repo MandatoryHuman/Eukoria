@@ -1,12 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'war of laws'
+title: War of Laws
 created: 2026-03-30T12:31:05.436+01:00
 modified: 2026-03-31T18:40:57.350+01:00
 tags:
   - Wars
   - Events
 ---
-
 \[Type:: Divine War]
 \[Location:: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Factions Involved:: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
@@ -40,5 +42,7 @@ The conflict ended only when [[1. World Almanac/World/Gods & Divines/The Twins/i
 # Aftermath & Legacy
 
 The heavens settled into an uneasy peace, but [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] remained permanently altered. The combined effects of divine bloodshed and The Twins' awakening left enduring dead-magic zones, warped terrain, and regions where fundamental essences still bleed into one another.
+
+The death of [[Syla, Goddess of Records]] left writings physically scrambled, and mortal beings' memories scattered, causing much of the planet's past shrouded in mystery.
 
 In modern memory, the War of Laws marks both an apocalypse and a constitutional pivot in divine order: the end of strict Canonical monopoly, the legitimization of Non-Canonical divinity, and the beginning of a new cosmological era whose consequences still govern mortal life.

@@ -1,11 +1,13 @@
 ---
 publish: true
+aliases:
+  - 'fort glandar'
+title: Fort Glandar
 created: 2026-03-31T20:19:18.497+01:00
 modified: 2026-03-31T20:19:41.510+01:00
 tags:
   - Settlement
 ---
-
 \[Type::]
 \[Level::]
 \[Population::]

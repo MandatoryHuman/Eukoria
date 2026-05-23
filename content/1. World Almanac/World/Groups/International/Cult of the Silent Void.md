@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - 'cult of the silent void'
+title: Cult of the Silent Void
 created: 2026-03-31T16:06:54.103+01:00
 modified: 2026-03-31T16:09:14.272+01:00
 ---
-
 \[Type::]
 \[Leader::]
 \[Headquarters::]

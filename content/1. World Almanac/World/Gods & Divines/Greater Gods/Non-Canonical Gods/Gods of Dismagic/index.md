@@ -22,7 +22,7 @@ The gods of Dismagic are [[Aethelgard, God of Relics]] and [[Lysia Bind-breaker,
 ## [[Lysia Bind-breaker, Goddess of Passion]]
 
 Lysia governs the clashing Dismagic of Life and Mind. Opponents of Dismagic would evoke images of cultists and practitioners channelling this volatile friction to dictate the shape of flesh with pure thought, hijack nervous systems through parasitic telepathy, as well as to force unnatural evolutionary leaps - or reduce stable lifeforms to agonizing, maddened aberrations. However, just as often, this magic has been used by Clerics of Lysia to protect those who cannot protect themselves; persecuted lovers, those ostracised for speaking their truth, and innocents tossed out for failing to fit in. All of these are under the Bind-breaker's protection.
-Many worshippers of Lysia take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97) dedication. In addition, many [Fleshwarps](https://2e.aonprd.com/Ancestries.aspx?ID=31) - as well as the Fleshwarpers who create them - follow her.
+Many worshippers of Lysia take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97)  or [[Emotion Mage]] dedications. In addition, many [Fleshwarps](https://2e.aonprd.com/Ancestries.aspx?ID=31) - as well as the Fleshwarpers who create them - follow her.
 
 ## [[Aethelgard, God of Relics]]
 

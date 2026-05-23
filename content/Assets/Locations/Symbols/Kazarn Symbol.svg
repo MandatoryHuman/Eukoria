@@ -1,0 +1,18 @@
+<svg width="1638" height="2044" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><clipPath id="shield_612756895"><path d="m 55,75 h 2 c 3,-25 38,-10 3,20 15,50 30,75 40,105 10,-30 25,-55 40,-105 -35,-30 0,-45 3,-20 h 2 C 150,30 110,20 100,0 90,20 50,30 55,75 Z"/></clipPath><style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style><linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+            <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+            <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+          </linearGradient><g id="rustre" author="Azgaar" license="https://creativecommons.org/publicdomain/zero/1.0">
+    <path d="M100 55l30 45-30 45-30-45zm-12 45a12 12 0 1024 0 12 12 0 10-24 0"/>
+  </g><style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style></defs>   <g clip-path="url(#shield_612756895)"><rect class="field" x="0" y="0" width="200" height="200" fill="#333333"/><g class="ordinary" i="0" transform="translate(-20 -20) scale(1.2)" fill="#777777" stroke="none" stroke-width="33.3"><path d="m 55,75 h 2 c 3,-25 38,-10 3,20 15,50 30,75 40,105 10,-30 25,-55 40,-105 -35,-30 0,-45 3,-20 h 2 C 150,30 110,20 100,0 90,20 50,30 55,75 Z" fill="none" stroke="#777777"/></g><g class="charge" i="0" charge="rustre" fill="#b63a3a" stroke="#000" style="--secondary: #b63a3a; --tertiary: #b63a3a; --stroke: #000; --background: block;"><use xlink:href="#rustre" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(75 60) scale(0.25)"/></g></g> <path class="grad" d="m 55,75 h 2 c 3,-25 38,-10 3,20 15,50 30,75 40,105 10,-30 25,-55 40,-105 -35,-30 0,-45 3,-20 h 2 C 150,30 110,20 100,0 90,20 50,30 55,75 Z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>   </svg>

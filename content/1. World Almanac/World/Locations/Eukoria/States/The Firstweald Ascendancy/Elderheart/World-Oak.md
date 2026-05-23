@@ -1,1 +1,7 @@
+---
+publish: true
+aliases:
+  - 'world-oak'
+title: World-Oak
+---
 The enormous, kilometre-high tree that acts as the centre of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]], as well as a religious site for worshippers of [[Kurnos, God of Nature]].

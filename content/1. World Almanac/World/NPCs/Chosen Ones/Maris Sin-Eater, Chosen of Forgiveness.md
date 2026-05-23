@@ -1,14 +1,14 @@
 ---
 publish: true
 aliases:
-  - Maris
+  - 'Maris'
+title: Maris Sin-Eater, Chosen of Forgiveness
 created: 2026-03-30T12:31:05.517+01:00
 modified: 2026-03-31T15:15:46.087+01:00
 tags:
   - NPCs
   - Chosen
 ---
-
 \[Pronouns::They/Them]
 \[Ancestry::]
 \[Background::Diplomat]

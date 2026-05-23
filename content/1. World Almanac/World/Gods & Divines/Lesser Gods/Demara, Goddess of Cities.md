@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - 'Demara'
+  - 'demara, goddess of cities'
+title: Demara, Goddess of Cities
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:
   - Gods
 ---
-
 Demara is the stoic goddess of urban life and the structures that make civilization possible. Often appearing as a sturdy, weathered stonemason carrying a massive hammer, Demara watches over the intricate dance of city life. She is the patron of architects, guards, politicians, and the common citizens who keep the gears of the city turning.
 
 ![[Assets/Gods/Demara.webp|400]]

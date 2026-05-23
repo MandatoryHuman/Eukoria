@@ -1,3 +1,10 @@
+---
+publish: true
+aliases:
+  - 'Aethelgard'
+  - 'aethelgard, god of relics'
+title: Aethelgard, God of Relics
+---
 Aethelgard is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Relics, unorthodox artifice, and the controversial preservation of the soul. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the volatile friction of [[Traditions of Dismagic|Dismagic]], formed by the clashing [[Fundamental Essences]] of Spirit and Matter. To his orthodox detractors, he is a cosmic perversion; to his followers, he is the ultimate saviour from the void.
 
 ![[Assets/Gods/Aethelgard.webp|400]]
