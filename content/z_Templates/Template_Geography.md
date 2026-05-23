@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'template_geography'
+title: Template_Geography
 created: 2026-03-30T12:31:05.567+01:00
 modified: 2026-03-31T11:33:09.158+01:00
 tags:

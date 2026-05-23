@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'template_settlement'
+title: Template_Settlement
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:32.968+01:00
 tags:

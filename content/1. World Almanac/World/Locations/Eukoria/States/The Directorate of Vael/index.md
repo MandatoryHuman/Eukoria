@@ -19,7 +19,7 @@ tags:
 \[Major Exports::Information, Arcane/Occult Wards, Legal/Magical Treatises]
 \[Major Imports::Raw materials, Historical Texts, Paper]
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Vael Symbol.svg|400]]
 
 # Overview
 

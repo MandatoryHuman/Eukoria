@@ -1,3 +1,10 @@
+---
+publish: true
+aliases:
+  - 'basic essences'
+title: Basic Essences
+---
+
 > [!quote|author] Origin Myths of Eukoria
 > "Before the wheel of the four Fundamentals could turn, there had to be a space for it to turn within, and a force to set it in motion."
 

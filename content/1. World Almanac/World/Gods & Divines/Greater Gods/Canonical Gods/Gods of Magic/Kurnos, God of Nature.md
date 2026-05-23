@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Kurnos'
+  - 'kurnos, god of nature'
+title: Kurnos, God of Nature
 created: 2026-03-30T12:31:05.446+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:

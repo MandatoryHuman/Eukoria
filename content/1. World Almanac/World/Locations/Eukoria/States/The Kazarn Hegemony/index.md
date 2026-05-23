@@ -19,7 +19,7 @@ tags:
 \[Major Exports::Mercenaries, Refined Metals, Weaponry]
 \[Major Imports::Food, Wood, Textiles]
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Kazarn Symbol.svg|400]]
 
 # Overview
 

@@ -1,8 +1,9 @@
 ---
 publish: true
 aliases:
-  - griot
-  - griots
+  - 'griot'
+  - 'griots'
+title: Griot
 created: 2026-04-02T13:22:08.012+01:00
 modified: 2026-04-02T13:42:36.747+01:00
 ---

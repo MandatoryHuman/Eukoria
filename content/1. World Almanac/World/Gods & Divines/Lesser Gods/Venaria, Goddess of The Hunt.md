@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Venaria'
+  - 'venaria, goddess of the hunt'
+title: Venaria, Goddess of The Hunt
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:

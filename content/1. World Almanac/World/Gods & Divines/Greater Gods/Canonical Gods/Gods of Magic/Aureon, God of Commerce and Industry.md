@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Aureon'
+  - 'aureon, god of commerce and industry'
+title: Aureon, God of Commerce and Industry
 created: 2026-03-30T12:31:05.445+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:

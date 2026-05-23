@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Oromur'
+  - 'oromur, god of medicine'
+title: Oromur, God of Medicine
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:

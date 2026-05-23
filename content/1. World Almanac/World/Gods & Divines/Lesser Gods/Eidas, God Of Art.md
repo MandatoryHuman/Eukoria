@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Eidas'
+  - 'eidas, god of art'
+title: Eidas, God Of Art
 created: 2026-03-30T12:31:05.458+01:00
 modified: 2026-03-31T15:15:46.076+01:00
 tags:

@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'rust-wastes'
+title: Rust-Wastes
 created: 2026-03-30T12:31:05.506+01:00
 modified: 2026-03-28T17:03:01.345+00:00
 tags:

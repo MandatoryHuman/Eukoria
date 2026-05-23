@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Maelis'
+  - 'maelis, goddess of fertility and harvest'
+title: Maelis, Goddess of Fertility and Harvest
 created: 2026-03-30T12:31:05.449+01:00
 modified: 2026-03-31T15:15:46.073+01:00
 tags:

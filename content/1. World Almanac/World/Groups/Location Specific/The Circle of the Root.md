@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'Circle of the Root'
+title: The Circle of the Root
 created: 2026-03-30T12:31:05.469+01:00
 modified: 2026-03-31T16:07:17.221+01:00
 ---

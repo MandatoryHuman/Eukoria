@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Cavera'
+  - 'cavera, goddess of death'
+title: Cavera, Goddess of Death
 created: 2026-03-30T12:31:05.443+01:00
 modified: 2026-03-31T15:15:46.070+01:00
 tags:

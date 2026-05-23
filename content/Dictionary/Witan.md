@@ -1,7 +1,8 @@
 ---
 publish: true
 aliases:
-  - witan
+  - 'witan'
+title: Witan
 created: 2026-04-02T13:22:08.011+01:00
 modified: 2026-04-02T13:43:46.776+01:00
 ---

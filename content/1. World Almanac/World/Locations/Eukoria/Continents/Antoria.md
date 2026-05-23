@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'antoria'
+title: Antoria
 created: 2026-03-30T12:31:05.471+01:00
 modified: 2026-03-22T19:07:41.463+00:00
 tags:
@@ -11,9 +14,9 @@ tags:
 \[Size/Length::Approx 1600km North to South, 1200km East to West]
 \[Climate::Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south]
 \[Danger Level::Varies from Low to Extreme]
-\[Known For::The cradle of humanoid life, The Rust-Wastes, Relic Dismagic, Primal mega-flora]
+\[Known For::The cradle of humanoid life, The Rust-Wastes]
 
-(LANDSCAPE / MAP IMAGE)
+![[Assets/Locations/Eukoria Map.webp]]
 
 # Overview
 

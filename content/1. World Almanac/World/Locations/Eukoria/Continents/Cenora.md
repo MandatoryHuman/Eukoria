@@ -1,17 +1,20 @@
 ---
 publish: true
+aliases:
+  - 'cenora'
+title: Cenora
 created: 2026-03-30T12:31:05.473+01:00
 modified: 2026-03-22T19:07:34.030+00:00
 tags:
   - Geography
 ---
 
-\[Type::]
-\[Region::]
-\[Size/Length::]
-\[Climate::]
-\[Danger Level::]
-\[Known For::]
+\[Type::Continent]
+\[Region::Eastern [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Size/Length::Approx 1800km North to South, 2000km East to West]
+\[Climate::Magically regulated temperate zones, shifting central anomalies, and arid southern expanses]
+\[Danger Level::Varies widely (Low in warded cities, Extreme in the Null-State)]
+\[Known For::High civilisations, The Daeshin Null-State, Orthodox Magic academies]
 
 ![[Assets/Locations/Eukoria Map.webp]]
 

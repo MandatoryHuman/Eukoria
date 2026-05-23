@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'template_deity'
+title: Template_Deity
 created: 2026-03-30T12:31:05.566+01:00
 modified: 2026-03-31T15:15:46.089+01:00
 tags:

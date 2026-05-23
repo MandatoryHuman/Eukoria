@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Ilyria'
+  - 'ilyria, goddess of the afterlife'
+title: Ilyria, Goddess of The Afterlife
 created: 2026-03-30T12:31:05.447+01:00
 modified: 2026-03-31T15:15:46.073+01:00
 tags:

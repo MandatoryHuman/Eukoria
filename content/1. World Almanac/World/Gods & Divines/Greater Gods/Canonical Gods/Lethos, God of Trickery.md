@@ -1,3 +1,11 @@
+---
+publish: true
+aliases:
+  - 'Lethos'
+  - 'lethos, god of trickery'
+title: Lethos, God of Trickery
+---
+
 > [!quote] "The law is a cage only for those who cannot read between its bars. A true master does not break the lock; he convinces the warden to hand over the key."
 
 As one of the prominent [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], Lethos governs the domains of wit, strategy, deception, and ruthless cunning. He represents the legally dubious boundaries of trickery, testing the structures of society, mostly without _overtly_ breaking its laws. He sits beneath [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - as a member of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]. To his worshippers, he embodies the concept that a sharp mind, statecraft, and strategic subterfuge have a rightful, structured place in the world.

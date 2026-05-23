@@ -1,3 +1,11 @@
+---
+publish: true
+aliases:
+  - 'Thrum'
+  - 'thrum, god of madness'
+title: Thrum, God of Madness
+---
+
 Thrum was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Madness and the unravelling of the mortal consciousness. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represented the terrifying, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Absence]]. He embodied the void within consciousness, the erasure of logic, and the sudden, silent collapse of reason.
 
 ![[Assets/Gods/Thrum.webp|400]]

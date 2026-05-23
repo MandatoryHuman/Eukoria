@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Solon'
+  - 'solon, god of law'
+title: Solon, God of Law
 created: 2026-03-30T12:31:05.447+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:

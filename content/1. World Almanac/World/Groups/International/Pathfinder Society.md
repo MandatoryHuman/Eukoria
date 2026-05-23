@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - 'pathfinder society'
+title: Pathfinder Society
 created: 2026-03-30T12:31:05.467+01:00
 modified: 2026-03-31T16:09:06.996+01:00
 ---

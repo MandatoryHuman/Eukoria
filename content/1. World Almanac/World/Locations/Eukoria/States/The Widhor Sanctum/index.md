@@ -1,8 +1,9 @@
 ---
 publish: true
 aliases:
-  - The Widhor Sanctum
-  - Widhor
+  - 'The Widhor Sanctum'
+  - 'Widhor'
+title: The Widhor Sanctum
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
 tags:

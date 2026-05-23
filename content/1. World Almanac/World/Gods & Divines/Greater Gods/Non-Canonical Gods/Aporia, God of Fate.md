@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Aporia'
+  - 'aporia, god of fate'
+title: Aporia, God of Fate
 created: 2026-03-30T12:31:05.453+01:00
 modified: 2026-03-31T15:15:46.074+01:00
 tags:

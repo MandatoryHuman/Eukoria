@@ -20,7 +20,7 @@ tags:
 \[Major Exports::Machinery, Firearms, Refined Steel, Civic Treatises]
 \[Major Imports::Raw Ore, Textiles, Exotic Primal Reagents]
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Ilsyaneas Symbol.svg|400]]
 
 # Overview
 

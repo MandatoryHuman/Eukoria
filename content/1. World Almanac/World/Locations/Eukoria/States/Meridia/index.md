@@ -19,8 +19,6 @@ tags:
 \[Major Exports::Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts]
 \[Major Imports::Practically everything]
 
-![[Assets/Meridia Crest.webp|400]]
-
 # Overview
 
 As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponized bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antoria]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] to the North.

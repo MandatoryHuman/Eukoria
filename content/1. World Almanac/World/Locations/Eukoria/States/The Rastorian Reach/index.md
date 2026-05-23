@@ -20,7 +20,7 @@ tags:
 \[Major Exports::Leviathan bone, runic weaponry, storm-charged amber, mercenaries]
 \[Major Imports::Kazarni steel, agricultural staples, heavy textiles]
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Rastor Symbol.svg|400]]
 
 # Overview
 

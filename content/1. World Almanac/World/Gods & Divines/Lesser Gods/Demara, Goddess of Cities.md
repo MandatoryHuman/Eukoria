@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - 'Demara'
+  - 'demara, goddess of cities'
+title: Demara, Goddess of Cities
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
 tags:
