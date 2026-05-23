@@ -8,6 +8,7 @@ modified: 2026-03-31T15:15:46.084+01:00
 tags:
   - Settlement
 ---
+
 \[Type::Capital City]
 \[Level::14]
 \[Population::50,000, plus 300,000 mindless undead]

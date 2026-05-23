@@ -4,6 +4,7 @@ aliases:
   - 'basic anchor - item 1'
 title: Basic Anchor - Item 1
 ---
+
 **Consumable, Magical, Anchor, Fortune**
 **Price** 3gp
 **Usage** worn or carried; **Bulk** -

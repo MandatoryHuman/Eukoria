@@ -8,6 +8,7 @@ modified: 2026-03-31T16:58:11.749+01:00
 tags:
   - NPCs
 ---
+
 \[Pronouns::They/Them]
 \[Ancestry::Lich]
 \[Background::Royalty]

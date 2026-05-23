@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'concordat'
+  - concordat
 title: Concordat
 created: 2026-04-02T13:22:08.005+01:00
 modified: 2026-04-02T13:42:12.034+01:00

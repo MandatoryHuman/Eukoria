@@ -8,6 +8,7 @@ modified: 2026-03-31T18:40:48.275+01:00
 tags:
   - Events
 ---
+
 \[Type:: State Formation]
 \[Location:: [[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Factions Involved:: Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers]

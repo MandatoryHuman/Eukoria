@@ -4,4 +4,5 @@ aliases:
   - 'Bough-Walks'
 title: The Bough-Walks
 ---
+
 The sprawling middle levels of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]] where the majority of the population resides. Homes are woven directly into the living branches. This district is a bustling centre of communal living, where artisans craft tools from shed bark and hunters trade their bounties.

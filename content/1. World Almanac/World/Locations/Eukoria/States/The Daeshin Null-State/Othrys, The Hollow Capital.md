@@ -9,6 +9,7 @@ modified: 2026-03-31T16:33:01.838+01:00
 tags:
   - Settlement
 ---
+
 \[Type::Ruined Capital / Quarantine Zone]
 \[Level::17]
 \[Population::~2,000]

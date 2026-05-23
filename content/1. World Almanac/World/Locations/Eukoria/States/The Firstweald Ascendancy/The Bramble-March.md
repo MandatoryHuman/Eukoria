@@ -8,6 +8,7 @@ modified: 2026-03-31T17:11:51.524+01:00
 tags:
   - Geography
 ---
+
 \[Type::Magically Engineered Border Forest]
 \[Region::North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]]
 \[Size/Length::Roughly 200km long and 20km deep]

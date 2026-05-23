@@ -8,6 +8,7 @@ modified: 2026-03-31T16:03:13.538+01:00
 tags:
   - NPCs
 ---
+
 \[Pronouns::He/Him]
 \[Ancestry::Human (Undead Lich)]
 \[Background::Exiled Scholar]

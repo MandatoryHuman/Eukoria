@@ -4,6 +4,7 @@ aliases:
   - 'fundamental essences'
 title: Fundamental Essences
 ---
+
 > [!quote|author] Eukorian Thaumaturgical Text
 > "Mind, Spirit, Life, and Matter. These are not merely abstract concepts; they are the four pillars holding up the ceiling of the world."
 

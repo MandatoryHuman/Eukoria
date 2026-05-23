@@ -5,6 +5,7 @@ aliases:
   - 'syla, goddess of records'
 title: Syla, Goddess of Records
 ---
+
 Syla, The Silent Witness, was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Record keeping. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represented the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Presence]]. The [[Fundamental Essences|Essence of Mind]] allows beings to think, rationalise, and remember, while the [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation. When combined, Syla embodied the physical manifestation of memory - actively recording and preserving the truths of the world into a vast shared consciousness.
 
 ![[Assets/Gods/Syla.webp|400]]

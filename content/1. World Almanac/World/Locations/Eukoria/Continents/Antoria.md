@@ -8,6 +8,7 @@ modified: 2026-03-22T19:07:41.463+00:00
 tags:
   - Geography
 ---
+
 \[Type::Continent]
 \[Region::Western [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Size/Length::Approx 1600km North to South, 1200km East to West]
@@ -15,7 +16,7 @@ tags:
 \[Danger Level::Varies from Low to Extreme]
 \[Known For::The cradle of humanoid life, The Rust-Wastes]
 
-![[Eukoria Map.webp]]
+![[Assets/Locations/Eukoria Map.webp]]
 
 # Overview
 

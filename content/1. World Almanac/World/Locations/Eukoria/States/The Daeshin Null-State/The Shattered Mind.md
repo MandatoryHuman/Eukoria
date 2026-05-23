@@ -8,6 +8,7 @@ modified: 2026-03-31T15:15:46.082+01:00
 tags:
   - Settlement
 ---
+
 \[Type::]
 \[Level::]
 \[Population::]

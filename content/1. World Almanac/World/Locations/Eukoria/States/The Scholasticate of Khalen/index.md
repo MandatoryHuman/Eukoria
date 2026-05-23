@@ -9,6 +9,7 @@ tags:
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
 ---
+
 \[Capital::[[The Cliff Archives]]]
 \[Government::Academic Meritocracy]
 \[Ruler::The Curator Assembly]
@@ -58,4 +59,3 @@ When the [[War of Laws]] shattered the world, much of this coastline was cast in
 
 - The Abyssal Delvers: An elite guild of aquatic scavengers, often utilising water-breathing magic, diving bells, and sometimes even mutated Beastkin biology to survive the crushing depths of the Strait.
 - [[Archaeologists' Society]]: Khalen is the base of operations for the Archaeologists' Society of Eukoria, from which frequent expeditions are chartered. Though the government of Khalen is highly supportive of the guild, they are kept at a distance to maintain the society's political neutrality.
-

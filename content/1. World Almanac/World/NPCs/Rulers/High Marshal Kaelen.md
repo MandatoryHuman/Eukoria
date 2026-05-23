@@ -8,6 +8,7 @@ modified: 2026-03-31T17:25:34.740+01:00
 tags:
   - NPCs
 ---
+
 \[Pronouns::He/Him]
 \[Ancestry::Dwarf]
 \[Background::Soldier]

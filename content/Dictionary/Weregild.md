@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'weregild'
+  - weregild
 title: Weregild
 created: 2026-04-02T13:03:13.219+01:00
 modified: 2026-04-02T13:05:43.363+01:00

@@ -4,4 +4,5 @@ aliases:
   - 'Toll Docks'
 title: The Toll Docks
 ---
+
 The vast, highly regulated port network at the base of the city. Here, desperate international captains are funnelled into long queues to pay [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]'s extortionate tariffs for the right to safely navigate the channel.

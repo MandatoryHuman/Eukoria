@@ -4,6 +4,7 @@ aliases:
   - 'traditions of magic'
 title: Traditions of Magic
 ---
+
 > [!quote|Author] Primer on Eukorian Thaumaturgy
 > "Magic is not a chaotic force to be tamed. It is a precise equation written in the language of the four Essences. Follow the wheel, and the universe will provide."
 

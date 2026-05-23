@@ -9,6 +9,7 @@ tags:
   - Wars
   - Events
 ---
+
 \[Type:: Divine War]
 \[Location:: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Factions Involved:: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]

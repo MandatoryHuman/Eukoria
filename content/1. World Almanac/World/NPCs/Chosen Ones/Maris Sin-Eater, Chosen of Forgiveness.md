@@ -9,6 +9,7 @@ tags:
   - NPCs
   - Chosen
 ---
+
 \[Pronouns::They/Them]
 \[Ancestry::]
 \[Background::Diplomat]

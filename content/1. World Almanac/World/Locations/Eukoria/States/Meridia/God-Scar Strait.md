@@ -8,6 +8,7 @@ modified: 2026-03-31T15:15:46.080+01:00
 tags:
   - Geography
 ---
+
 \[Type::Oceanic Channel]
 \[Region::Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Size/Length::120km at its narrowest]

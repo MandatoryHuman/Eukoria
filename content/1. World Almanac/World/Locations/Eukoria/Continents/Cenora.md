@@ -8,6 +8,7 @@ modified: 2026-03-22T19:07:34.030+00:00
 tags:
   - Geography
 ---
+
 \[Type::Continent]
 \[Region::Eastern [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Size/Length::Approx 1800km North to South, 2000km East to West]
