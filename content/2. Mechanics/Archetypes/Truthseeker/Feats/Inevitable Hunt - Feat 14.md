@@ -8,9 +8,10 @@ modified: 2026-06-11T16:01:00.825+01:00
 tags:
   - Archetype
   - Feat
+level: 14
 ---
 
-_Archetype_
+_Archetype, Primal_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
 The natural world whispers their exact location to you on the wind.
 **3 Pieces of Truth** If the creature attempts to use a teleportation effect, it must succeed at a Will save against your Spell or Class DC, or the teleportation fails and is wasted.

@@ -8,6 +8,7 @@ modified: 2026-06-11T16:30:29.444+01:00
 tags:
   - Archetype
   - Feat
+level: 10
 ---
 
 _Archetype_

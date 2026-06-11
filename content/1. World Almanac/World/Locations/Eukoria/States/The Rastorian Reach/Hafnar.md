@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 aliases:
   - hafnar
 title: Hafnar
