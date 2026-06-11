@@ -20,7 +20,7 @@ Oclera's current role in the pantheon was deeply shaped by the tragic loss of [[
 
 However, where Syla used this psychic network passively to store records, Oclera applied the technique to actively process information. Today, Oclera's most devoted clerics willingly link their consciousnesses together to form vast, hyper-intelligent hive-mind think tanks. These interconnected scholars - often secluded in great monasteries - pool their combined intellect to process complex magical theorems, solve ancient mysteries, and calculate the trajectory of Eukoria's future at a speed no single mortal mind could ever comprehend.
 
-To follow Oclera is to believe that expanding the boundaries of mortal understanding is the highest divine calling. Their [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are often the "hands" of these think tanks, tasked with plunging into ancient ruins, recovering forgotten texts, and bringing new data back to feed the collective mind.
+To follow Oclera is to believe that expanding the boundaries of mortal understanding is the highest divine calling. Their [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are often the "hands" of these think tanks, tasked with plunging into ancient ruins, recovering forgotten texts, and bringing new data back to feed the collective mind. Followers of Oclera often take the [[2. Mechanics/Archetypes/Truthseeker/index|Truthseeker]] Dedication to further their learning in esoteric ways.
 
 ---
 
@@ -34,7 +34,7 @@ To follow Oclera is to believe that expanding the boundaries of mortal understan
 \[Sacred Colours::White and Silver]
 \[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 
-![[Assets/Gods/Symbols/Oclera Symbol 1.webp|400]]
+![[Assets/Gods/Symbols/Oclera Symbol.webp|400]]
 
 ## Devotee Benefits
 

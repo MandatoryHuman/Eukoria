@@ -34,7 +34,7 @@ Khalen is defined by towering, wind-battered coastal cliffs that drop directly i
 
 Society in Khalen is quiet, deeply intellectual, and highly stratified based on academic achievement. Social rank is determined by one's contributions to the "Grand Archive." The population is roughly divided into two classes: the Delvers (brave, physically capable scavengers and aquatic explorers who brave the reality storms of the Strait) and the Curators (scholars who decode, restore, and weaponise the recovered knowledge).
 
-Worship of [[Oclera, God of Knowledge]] is heavily supported by the state, and many Curators utilise Oclera's hive-mind magic to process the fragmented, water-logged texts pulled from the sea. Some groups still pray to the memory of [[Syla, Goddess of Records|Syla]], hoping to one day piece together enough of her original shared-consciousness to resurrect her.
+Worship of [[Oclera, God of Knowledge]] is heavily supported by the state, and many Curators utilise Oclera's hive-mind magic to process the fragmented, water-logged texts pulled from the sea. Some groups still pray to the memory of [[Syla, Goddess of Records|Syla]], hoping to one day piece together enough of her original shared-consciousness to resurrect her. Both of these groups contain a large number of [[2. Mechanics/Archetypes/Truthseeker/index|Truthseekers]].
 
 # Government & Politics
 
