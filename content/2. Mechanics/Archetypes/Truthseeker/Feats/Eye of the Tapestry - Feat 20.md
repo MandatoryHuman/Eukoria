@@ -8,7 +8,6 @@ modified: 2026-06-11T16:33:47.179+01:00
 tags:
   - Archetype
   - Feat
-level: 20
 ---
 
 _Archetype, Stance_

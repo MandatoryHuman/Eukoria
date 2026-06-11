@@ -8,7 +8,6 @@ modified: 2026-06-11T15:38:43.339+01:00
 tags:
   - Archetype
   - Feat
-level: 14
 ---
 
 _Archetype, Divine_
