@@ -24,7 +24,7 @@ tags:
 
 # Overview
 
-Located in the northeast of [[Cenora]], The Radiant Court of Gethis is a nation in deep, opulent denial. Geographically located just next to the reality-warping madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] to the south to the North, Gethis should be a war-torn hellscape, much like [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]]. Instead, the aristocracy has utilised staggering amounts of Illusion and Occult magic to literally cloak their nation in an eternal, perfect twilight masquerade.
+Located in the northeast of [[Cenora]], The Radiant Court of Gethis is a nation in deep, opulent denial. With the reality-warping madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] directly to the South, Gethis should be a war-torn hellscape, much like [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]]. Instead, the aristocracy has utilised staggering amounts of Illusion and Occult magic to literally cloak their nation in an eternal, perfect twilight masquerade.
 
 # Geography & Climate
 

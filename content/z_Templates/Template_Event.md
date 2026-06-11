@@ -18,7 +18,7 @@ tags:
 
 # Overview
 
-(A brief summary of the event, when it happened, and why it is historically significant in Eukora.)
+(A brief summary of the event, when it happened, and why it is historically significant in Eukoria.)
 
 # Prelude & Causes
 

@@ -19,7 +19,7 @@ tags:
 
 # Overview
 
-(A brief summary of the settlement, its general vibe, and what a traveler would notice upon first arriving.)
+The sprawling capital city built high within the intertwined branches of the jungle's most massive trees, anchored by majestic, mortarless stone enclosures on the forest floor below.
 
 # Geography & Layout
 

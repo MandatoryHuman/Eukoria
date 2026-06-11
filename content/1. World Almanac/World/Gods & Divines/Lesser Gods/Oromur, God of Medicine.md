@@ -13,7 +13,7 @@ Oromur, is the benevolent guardian of the sick, the injured, and the dying. Typi
 
 ![[Assets/Gods/Oromur.webp|400]]
 
-Hospices, asylums, and rural apothecary shops across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] double as shrines to Oromur. Their clergy are almost universally pacifists, taking up arms only to defend their patients. Field medics who follow Oromur are highly respected on the battlefields of Eukora, often granted safe passage even by warring factions due to the universal necessity of their work.
+Hospices, asylums, and rural apothecary shops across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] double as shrines to Oromur. Their clergy are almost universally pacifists, taking up arms only to defend their patients. Field medics who follow Oromur are highly respected on the battlefields of Eukoria, often granted safe passage even by warring factions due to the universal necessity of their work.
 
 ---
 

@@ -20,28 +20,29 @@ tags:
 
 # Overview
 
-(A brief summary of the geographic feature, its general appearance, and its reputation among locals and travelers.)
+Antoria is the rugged, untamed western continent of Eukoria. Unlike its eastern counterpart of [[Cenora]], which is heavily populated by dense, politically complex nation-states, Antoria is defined by environmental extremes and ancient magic. It is widely considered the cradle of all humanoid life in [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], though the scars of the [[War of Laws]] have drastically reduced its habitable zones.
 
 # Ecology & Environment
 
-(Describe the dominant flora and fauna, seasonal changes, weather patterns, and the general terrain type. Are there magical or unusual ecological properties?)
+The ecology of Antoria is divided by its central, decaying heart. The south is dominated by the hyper-fertile, overgrown jungles of [[1. World Almanac/World/Locations/Eukoria/States/The Sovereign Heptarchy of Idgorna/index|The Sovereign Heptarchy of Idgorna]] and the magically engineered primordial forests of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. Moving north, the vitality abruptly dies, giving way to the [[Rust-Wastes]] - a sprawling, expanding desert of grey ash where the natural decay of the universe is hyper-accelerated. The northernmost peaks, claimed by [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|The Rastorian Reach]], are brutal, storm-battered tundras carved by glaciers and geothermal vents.
 
 # Hazards & Encounters
 
 (Detail the common dangers adventurers might face here.)
 
-- **Typical Creatures:** (List common monster types, e.g., Level 2-5 Beasts, Elementals, Bandits, etc.)
-- **Environmental Hazards:** (Describe specific PF2e hazards like avalanches, extreme cold, toxic flora, or magical phenomena.)
+- **Typical Creatures:** Awakened trees, elemental drakes, engineered bio-weapons (dire beasts), and reality-warped monstrosities leaking from the Rust-Wastes.
+- **Environmental Hazards:** Entropic squalls that instantly rust metal and age flesh in the central wastes; razor-vine thickets and hallucinogenic spore-clouds in the southern borders; and severe, magical blizzards in the north.
 
 # Landmarks & Points of Interest
 
-- **\[Landmark Name]:** (A notable peak, deep trench, ancient grove, or strange formation. Why is it important?)
-- **\[Ruins/Site Name]:** (Any remnants of older civilizations or specific dungeon entrances located within this region.)
+- **[[The Bramble-March]]:** The magically engineered, carnivorous border forest protecting the Firstweald Ascendancy.
+- **The Howling Vents:** Treacherous geothermal cave networks in the north where Rastorian Runesmiths forge Dismagic weaponry.
+- **The God-Scar Strait:** The apocalyptic, reality-warped oceanic channel that acts as the eastern border of the continent, separating it from Cenora.
 
 # Natural Resources
 
-(List valuable materials found here, such as rare herbs, precious metals, magical reagents, or abundant game.)
+Antoria is incredibly resource-rich, provided one can survive the harvest. The south offers living-lumber, rare primal reagents, and exotic venoms. The north provides leviathan bone, geothermal sulfur, and storm-charged amber. The central wastes, despite their decay, are the only source of pure Kazarni iron ore.
 
 # Myths & Lore
 
-(Background story of the region. Are there local legends about how this feature was created? Rumors of hidden treasure or slumbering ancient beasts?)
+Ancient druidic oral histories claim that humanoid life first crawled from the primordial rivers of the Firstweald Ascendancy. During the climax of the War of Laws, a massive celestial battle occurred directly over central Antoria. The sheer volume of divine friction broke the physical laws of [[Fundamental Essences|Matter]] in the region, resulting in the entropic sinkhole that is now the Rust-Wastes. The continent's surviving nations have spent the last century adapting their cultures entirely around surviving this lingering apocalypse.

@@ -24,7 +24,7 @@ tags:
 
 # Appearance
 
-aris is a breathtaking vision of serene elegance and divine radiance, acting as a living testament to [[Amnis the Burdened, Goddess of Forgiveness|Amnis's]] power. They dress in meticulously tailored, multi-layered garments of pristine white silk and rich fabrics. Their presence is defined by an ethereal glow, with eyes that radiate a soft, warm pearlescent light. They wear an elaborate headdress of gold filigree and delicate pearls.
+Maris is a breathtaking vision of serene elegance and divine radiance, acting as a living testament to [[Amnis the Burdened, Goddess of Forgiveness|Amnis's]] power. They dress in meticulously tailored, multi-layered garments of pristine white silk and rich fabrics. Their presence is defined by an ethereal glow, with eyes that radiate a soft, warm pearlescent light. They wear an elaborate headdress of gold filigree and delicate pearls.
 
 When Maris manifests divine energy, a swirling aura of light, silver particles, and wispy teal energy forms a dynamic halo effect around their head and raised hands, which glow with celestial light. Despite the ornate, heavily adorned appearance, they always appear profoundly calm.
 

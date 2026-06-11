@@ -1,0 +1,15 @@
+- Location of birth, to the nearest meter
+- Most recent cause of death of their Soul
+- The creature’s True Name
+- The name of the mentor, manual, or instinct that has taught them the most
+- Age to the nearest millisecond
+- The exact number of scars on their body, and the weapon that caused the oldest one
+- The entity, ideal, or memory they mentally call upon for strength when pushed to the brink
+- The achievement they are most proud of
+- The creature’s greatest fear
+- The most valuable possession they own
+- The one action or decision they would undo if they possessed the power to reverse time
+- Their resting heartrate
+- The exact number of steps they have taken since last resting in a place they consider “safe”
+- The lie they tell themselves most frequently
+- The first living creature they ever killed

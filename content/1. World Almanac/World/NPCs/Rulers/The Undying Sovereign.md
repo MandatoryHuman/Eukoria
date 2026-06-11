@@ -31,12 +31,12 @@ Underneath the heavy robes, their bones have been meticulously inscribed with gl
 
 The Sovereign is ancient, brilliant, and utterly devoid of mortal empathy, yet they do not view themselves as cruel. They view the living citizens of Jhal as beloved, fragile children who must be spared the horrors of physical labour and suffering so they can mature peacefully into their "perfected" state: useful corpses.
 
-They are infinitely patient, treating the geopolitical struggles of Eukora as a game measured in centuries. Their deepest, most closely guarded secret is their sheer hypocrisy: while they publicly enforce the orthodox worship of [[Cavera, Goddess of Death]] to control the populace, they are a devout follower of [[Aethelgard, God of Relics]].
+They are infinitely patient, treating the geopolitical struggles of Eukoria as a game measured in centuries. Their deepest, most closely guarded secret is their sheer hypocrisy: while they publicly enforce the orthodox worship of [[Cavera, Goddess of Death]] to control the populace, they are a devout follower of [[Aethelgard, God of Relics]].
 
 # Relationships
 
 - [[Cavera, Goddess of Death]] (False Patron): The Sovereign publicly champions Cavera's tenets of natural unlife to maintain order, fully aware that the Goddess of Death would annihilate them if she discovered their soul was artificially anchored.
-- [[Aethelgard, God of Relics]] (True Patron): The Sovereign is one of Eukora's most powerful practitioners of Relic Dismagic, utilizing Aethelgard's friction to maintain their own eternal consciousness and command the Hidden [[Phylactery]].
+- [[Aethelgard, God of Relics]] (True Patron): The Sovereign is one of Eukoria's most powerful practitioners of Relic Dismagic, utilizing Aethelgard's friction to maintain their own eternal consciousness and command the Hidden [[Phylactery]].
 - [[High Arbiter Garadwen]] (Business Partner): The Sovereign respects the High Arbiter's intellect. They frequently conduct shadow-deals, trading cheap, undead-manufactured goods to Meridia in exchange for the corpses of Meridian slum-dwellers.
 
 # History & Lore

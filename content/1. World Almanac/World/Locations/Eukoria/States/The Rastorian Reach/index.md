@@ -47,7 +47,7 @@ The Reach is not a unified empire but a coalition of powerful clans bound by "Th
 
 # History & Lore
 
-When the [[War of Laws]] broke out 116 years ago , the fundamental laws of reality broke down on Eukora's soil, grinding mountains into glass and boiling the oceans. The ancient ancestors of the Reach refused to flee inland. Instead, they survived the cataclysm by lashing themselves to the glaciers and carving the first great runes of anchoring into their flesh. They claim that during the height of the divine war, a gargantuan, reality-warping leviathan was driven mad by the cosmic friction and threatened to sink the entire peninsula. The original clan leaders united, slew the beast, and built their capital within its ribcage as a monument to mortal defiance.
+When the [[War of Laws]] broke out 116 years ago , the fundamental laws of reality broke down on Eukoria's soil, grinding mountains into glass and boiling the oceans. The ancient ancestors of the Reach refused to flee inland. Instead, they survived the cataclysm by lashing themselves to the glaciers and carving the first great runes of anchoring into their flesh. They claim that during the height of the divine war, a gargantuan, reality-warping leviathan was driven mad by the cosmic friction and threatened to sink the entire peninsula. The original clan leaders united, slew the beast, and built their capital within its ribcage as a monument to mortal defiance.
 
 # Notable Locations
 
