@@ -8,7 +8,6 @@ modified: 2026-06-11T16:19:17.527+01:00
 tags:
   - Archetype
   - Feat
-level: 6
 ---
 
 _Archetype, Linguistic_

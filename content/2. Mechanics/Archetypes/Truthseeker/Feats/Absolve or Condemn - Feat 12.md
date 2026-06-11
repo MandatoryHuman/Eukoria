@@ -8,7 +8,6 @@ modified: 2026-06-11T15:38:43.339+01:00
 tags:
   - Archetype
   - Feat
-level: 12
 ---
 
 _Archetype, Divine_
@@ -16,6 +15,7 @@ _Archetype, Divine_
 You use your knowledge to protect your allies.
 
 ## Truth of Sins ↩
-*Divine*
+
+_Divine_
 **Trigger** A creature you hold at least 1 Piece of Truth for attacks an ally within 60 feet of you.
 **Effect** You expend 1 Piece of Truth as a Reaction. You aggressively recite a truth of their past transgressions, imposing a -2 status penalty to their attack roll. If the attack misses, the creature takes 4d6 mental damage.

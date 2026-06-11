@@ -8,7 +8,6 @@ modified: 2026-06-11T16:01:00.825+01:00
 tags:
   - Archetype
   - Feat
-level: 12
 ---
 
 _Archetype, Primal_
