@@ -1,9 +1,11 @@
 ---
 publish: true
 aliases:
-  - 'Lethos'
-  - 'lethos, god of trickery'
+  - Lethos
+  - lethos, god of trickery
 title: Lethos, God of Trickery
+created: 2026-03-30T12:31:05.448+01:00
+modified: 2026-05-23T22:47:00.514+01:00
 ---
 
 > [!quote] "The law is a cage only for those who cannot read between its bars. A true master does not break the lock; he convinces the warden to hand over the key."

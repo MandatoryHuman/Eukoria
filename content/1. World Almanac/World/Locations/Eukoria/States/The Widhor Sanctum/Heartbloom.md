@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'tralicor'
+  - tralicor
 title: Tralicor
 created: 2026-03-30T12:31:05.508+01:00
 modified: 2026-03-31T15:15:46.085+01:00
@@ -19,7 +19,7 @@ tags:
 
 # Overview
 
-The dazzling capital city of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]], built across a series of vibrant coral reefs and white-sand barrier islands. The city is famous for its floating markets and grand naval academies.
+The capital settlement, built within the crater of a dormant volcano. The city is a vibrant, chaotic explosion of bioluminescent plants and fleshwarped architecture that pulses in time with the collective heartbeat of the population.
 
 # Geography & Layout
 

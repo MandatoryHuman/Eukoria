@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'axiom''s hold'
+  - axiom's hold
 title: Axiom's Hold
 created: 2026-03-30T12:31:05.489+01:00
 modified: 2026-03-31T15:15:46.082+01:00
@@ -19,7 +19,7 @@ tags:
 
 # Overview
 
-A bizarre, makeshift settlement built upon a series of floating, petrified earth-motes on the outer edges of the wastes of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. It acts as the only somewhat neutral trading hub in the region, populated largely by Fleshwarps devoted to [[Lysia Bind-breaker, Goddess of Passion]].
+The capital city, built in a perfect geometric grid. At its center lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
 
 # Geography & Layout
 

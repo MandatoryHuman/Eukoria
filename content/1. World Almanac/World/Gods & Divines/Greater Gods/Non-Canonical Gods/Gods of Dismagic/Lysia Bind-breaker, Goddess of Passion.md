@@ -1,15 +1,16 @@
 ---
 publish: true
 aliases:
-  - 'Lysia'
-  - 'Lysia Bind-breaker'
-  - 'Goddess of Passion'
+  - Lysia
+  - Lysia Bind-breaker
+  - Goddess of Passion
 title: Lysia Bind-breaker, Goddess of Passion
 created: 2026-03-30T12:31:05.455+01:00
 modified: 2026-03-31T15:15:46.076+01:00
 tags:
   - Gods
 ---
+
 Lysia Bind-breaker is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
 
 ![[Assets/Gods/Lysia.webp|400]]
@@ -18,7 +19,7 @@ Before the [[War of Laws]], Lysia was merely a [[1. World Almanac/World/Gods & D
 
 Because she draws upon cosmic friction rather than harmony, Lysia is highly controversial. Opponents of Dismagic evoke images of her practitioners hijacking nervous systems through parasitic telepathy, reducing stable lifeforms to maddened aberrations, and forcing unnatural evolutionary leaps. The [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] deity [[Maelis, Goddess of Fertility and Harvest]] stands in direct opposition to her, championing natural reproduction over Lysia's forced biological leaps.
 
-However, the reality of most of Lysia's faithful is often far more benevolent. Her Clerics frequently use this potent connection between intellect and vitality to protect those who cannot protect themselves: persecuted lovers, dissidents ostracised for speaking their truth, and innocents tossed out for failing to fit in. Many of her worshippers take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97) dedication, and she is heavily followed by Fleshwarps and the Fleshwarpers who create them, as well as many empathic Kashrishi.
+However, the reality of most of Lysia's faithful is often far more benevolent. Her Clerics frequently use this potent connection between intellect and vitality to protect those who cannot protect themselves: persecuted lovers, dissidents ostracised for speaking their truth, and innocents tossed out for failing to fit in. Many of her worshippers take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97), [Mind Smith](https://2e.aonprd.com/Archetypes.aspx?ID=351), or [Captivator](https://2e.aonprd.com/Archetypes.aspx?ID=125) dedications. She is heavily followed by Fleshwarps and the Fleshwarpers who create them, as well as many empathic Kashrishi.
 
 ---
 

@@ -1,8 +1,10 @@
 ---
 publish: true
 aliases:
-  - 'Anchor'
+  - Anchor
 title: Anchor
+created: 2026-05-23T22:12:14.608+01:00
+modified: 2026-06-11T13:26:12.129+01:00
 ---
 
 In [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] and [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]], the use of Anchors is a common method to resist the influence of [[Reality Storms]]. While every Anchor behaves differently, they all have at least the same effects as a Basic Anchor, normally with additional effects when they trigger.

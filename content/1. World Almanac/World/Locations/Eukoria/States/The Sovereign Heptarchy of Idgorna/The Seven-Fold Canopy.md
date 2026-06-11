@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'Seven-Fold Canopy'
+  - Seven-Fold Canopy
 title: The Seven-Fold Canopy
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:32.968+01:00
@@ -19,7 +19,7 @@ tags:
 
 # Overview
 
-(A brief summary of the settlement, its general vibe, and what a traveler would notice upon first arriving.)
+The sprawling capital city built high within the intertwined branches of the jungle's most massive trees, anchored by majestic, mortarless stone enclosures on the forest floor below.
 
 # Geography & Layout
 

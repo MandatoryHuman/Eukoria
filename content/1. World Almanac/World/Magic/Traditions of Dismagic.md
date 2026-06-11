@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'Dismagic'
+  - Dismagic
 title: Traditions of Dismagic
 created: 2026-03-30T12:31:05.511+01:00
 modified: 2026-03-31T15:15:46.087+01:00
@@ -32,7 +32,7 @@ Harnessing and controlling emotions, empathic manipulation, and inciting psychol
 Those who decry Passion-Magic - often heavily biased orthodox scholars - paint its practitioners as parasitic puppeteers who hijack the hearts and minds of the unwilling. In these orthodox cautionary tales, volatile cultists twist natural desires into maddened, violent frenzies, inciting mindless riots that tear communities apart from the inside.
 Yet, the reality of Lysia's followers is frequently far more benevolent. The Bind-breaker's true clerics leverage this potent connection between intellect and vitality to shield society's outcasts. Persecuted lovers, dissidents exiled for their honesty, and innocents rejected by rigid communities frequently find a haven and fierce, reality-bending protection through this very magic.
 
-## Relics (Spirit + Matter)
+# Relic-Magic (Spirit + Matter)
 
 Governed by [[Aethelgard, God of Relics]], this tradition forcefully merges the intangible Spirit into unyielding Matter, bypassing the warmth of Life and the reasoning of Mind.
 
@@ -48,7 +48,7 @@ The most notorious manifestation of this dismagic is the Lich, a being who unnat
 # The Toll of Cosmic Friction
 
 Because mortal bodies and the fabric of Eukoria were designed around the harmonious flow of adjacent Essences, casting Dismagic generates immense cosmic friction.
-When a practitioner acts upon the mortal plane, reality strains to accommodate them. Their magic actively defies the established rules of physics, frequently causing collateral damage or bizarre environmental side effects simply by being cast. This severe magical backlash, along with physical and mental deterioration, is the inevitable price of wielding cosmic friction—an objective mechanical danger that orthodox philosophers eagerly weaponize as proof of Dismagic's inherent "evil."
+When a practitioner acts upon the mortal plane, reality strains to accommodate them. Their magic actively defies the established rules of physics, frequently causing collateral damage or bizarre environmental side effects simply by being cast. This severe magical backlash, along with physical and mental deterioration, is the inevitable price of wielding cosmic friction - a danger that orthodox philosophers eagerly weaponize as proof of Dismagic's inherent "evil".
 
 # Related
 

@@ -1,14 +1,15 @@
 ---
 publish: true
 aliases:
-  - 'Amnis'
-  - 'Amnis, the Burdened'
+  - Amnis
+  - Amnis, the Burdened
 title: Amnis the Burdened, Goddess of Forgiveness
 created: 2026-03-30T12:31:05.444+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:
   - Gods
 ---
+
 Amnis is the Greater Goddess of Forgiveness and Redemption, and the Goddess of Divine Magic.
 
 ![[Assets/Gods/Amnis, The Burdened.webp|400]]
@@ -46,7 +47,7 @@ The followers of Amnis are staunch pacifists. Her [[1. World Almanac/World/NPCs/
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
-Amnis often gives boons to those who make a sacrifice to do better or take a risk to redeem another. She typically curses those who make use of another creatures mercy for their own personal gain.
+Amnis often gives boons to those who make a sacrifice to do better or take a risk to redeem another. She typically curses those who make use of another creature's mercy for their own personal gain.
 
 \[Minor Boon::You are able to disable enemies without killing them. You do not take the usual -2 circumstance penalty when making a non-lethal attack with a lethal weapon.]
 \[Moderate Boon::You are able to communicate effectively with almost all intelligent life. As long as your target knows at least one language, you are able to speak to them and use actions on them as though you knew their language.]

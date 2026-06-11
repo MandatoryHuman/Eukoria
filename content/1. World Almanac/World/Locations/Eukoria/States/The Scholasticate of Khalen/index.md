@@ -1,13 +1,13 @@
 ---
 publish: true
 aliases:
-  - 'The Scholasticate of Khalen'
-  - 'Khalen'
+  - The Scholasticate of Khalen
+  - Khalen
 title: The Scholasticate of Khalen
-tags:
-  - State
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
+tags:
+  - State
 ---
 
 \[Capital::[[The Cliff Archives]]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'Ranani'
+  - Ranani
 title: Empress Ranani the Unbroken
 created: 2026-03-30T12:31:05.518+01:00
 modified: 2026-03-31T15:15:46.088+01:00
@@ -23,9 +23,9 @@ tags:
 
 # Appearance
 
-Empress Ranani is a physically dominating presence, towering over most of her subjects with the heavy, muscular build characteristic of her Orc heritage. Her skin is deeply tanned from a life spent  on the open ocean, and her arms and shoulders are covered in jagged, scar tissue - trophies from close-quarters combat with reality-warped leviathans.
+Empress Ranani is a physically dominating presence, towering over most of her subjects with the heavy, muscular build characteristic of her Orc heritage. Her skin is deeply tanned from a life spent on the open ocean, and her arms and shoulders are covered in jagged, scar tissue - trophies from close-quarters combat with reality-warped leviathans.
 
-She rejects the suffocating silks and crowns of northern rulers. Instead, she wears simple and practical outfits - more than once a for She carries her favoured weapon, a massive, crackling trident named _Tide-Breaker_, wherever she goes.
+She rejects the suffocating silks and crowns of northern rulers. Instead, she wears simple and practical outfits - more than once a visiting foreign dignitary has mistaken her for a commoner. She carries her favoured weapon, a massive, crackling trident named _Tide-Breaker_, wherever she goes.
 
 # Personality
 

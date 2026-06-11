@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'Bramble-March'
+  - Bramble-March
 title: The Bramble-March
 created: 2026-03-30T12:31:05.500+01:00
 modified: 2026-03-31T17:11:51.524+01:00
@@ -49,4 +49,4 @@ The Bramble-March is a treasure trove of incredibly potent Primal reagents. Rare
 
 # Myths & Lore
 
-The March was rapidly cultivated 116 years ago during the climax of the [[War of Laws]]. As the divine collateral damage threatened to engulf the Firstweald, the ancestors of the [[The Circle of the Root]] channelled unprecedented amounts of Primal Magic. They forced a 200km stretch of forest to evolve and weaponize itself in a matter of days and successfully protected their sacred cradle from the grinding destruction that ravaged Eukoria most of.
+The March was rapidly cultivated 116 years ago during the climax of the [[War of Laws]]. As the divine collateral damage threatened to engulf the Firstweald, the ancestors of the [[The Circle of the Root]] channelled unprecedented amounts of Primal Magic. They forced a 200km stretch of forest to evolve and weaponize itself in a matter of days and successfully protected their sacred cradle from the grinding destruction that ravaged most of Eukoria.

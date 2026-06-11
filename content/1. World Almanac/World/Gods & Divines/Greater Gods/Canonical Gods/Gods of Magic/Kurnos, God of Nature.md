@@ -1,14 +1,15 @@
 ---
 publish: true
 aliases:
-  - 'Kurnos'
-  - 'kurnos, god of nature'
+  - Kurnos
+  - kurnos, god of nature
 title: Kurnos, God of Nature
 created: 2026-03-30T12:31:05.446+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:
   - Gods
 ---
+
 Kurnos is the Greater God of Nature and the divine arbiter of Primal Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the orthodox, visceral blend of the adjacent [[Fundamental Essences]] of Matter and Life. Unlike the calculated equations of Arcane magic, Kurnos's domain is deeply tied to the physical substance of the earth and the raw biological drive to survive. Because he lacks the extremes of the [[Basic Essences]], he exists as a stable loop of fundamental reality.
 
 ![[Assets/Gods/Kurnos.webp|400]]

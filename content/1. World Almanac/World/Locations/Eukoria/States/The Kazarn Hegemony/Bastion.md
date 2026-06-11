@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'bastion'
+  - bastion
 title: Bastion
 created: 2026-03-30T12:31:05.505+01:00
 modified: 2026-03-30T12:10:59.529+01:00

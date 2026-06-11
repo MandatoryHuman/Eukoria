@@ -1,14 +1,15 @@
 ---
 publish: true
 aliases:
-  - 'Maelis'
-  - 'maelis, goddess of fertility and harvest'
+  - Maelis
+  - maelis, goddess of fertility and harvest
 title: Maelis, Goddess of Fertility and Harvest
 created: 2026-03-30T12:31:05.449+01:00
 modified: 2026-03-31T15:15:46.073+01:00
 tags:
   - Gods
 ---
+
 Maelis is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Fertility, the harvest, and explosive biological growth. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represents the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Presence]].
 
 ![[Assets/Gods/Maelis.webp|400]]

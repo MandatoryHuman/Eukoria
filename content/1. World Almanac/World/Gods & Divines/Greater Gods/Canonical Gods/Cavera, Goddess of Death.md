@@ -1,14 +1,15 @@
 ---
 publish: true
 aliases:
-  - 'Cavera'
-  - 'cavera, goddess of death'
+  - Cavera
+  - cavera, goddess of death
 title: Cavera, Goddess of Death
 created: 2026-03-30T12:31:05.443+01:00
 modified: 2026-03-31T15:15:46.070+01:00
 tags:
   - Gods
 ---
+
 Cavera is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Death, the active cessation of vitality, and the patron of unlife. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she is the terrifying intersection of the [[Fundamental Essences|Fundamental Essence of Life]] and the [[Basic Essences|Basic Essence of Absence]]. She represents the biological certainty that all natural living things must eventually be erased to make way for a colder, eternal order.
 
 ![[Assets/Gods/Cavera.webp|400]]

@@ -1,9 +1,11 @@
 ---
 publish: true
 aliases:
-  - 'Aethelgard'
-  - 'aethelgard, god of relics'
+  - Aethelgard
+  - aethelgard, god of relics
 title: Aethelgard, God of Relics
+created: 2026-03-30T12:31:05.454+01:00
+modified: 2026-05-23T23:55:20.731+01:00
 ---
 
 Aethelgard is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Relics, unorthodox artifice, and the controversial preservation of the soul. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the volatile friction of [[Traditions of Dismagic|Dismagic]], formed by the clashing [[Fundamental Essences]] of Spirit and Matter. To his orthodox detractors, he is a cosmic perversion; to his followers, he is the ultimate saviour from the void.
@@ -14,8 +16,7 @@ Before the [[War of Laws]], Aethelgard was merely a [[1. World Almanac/World/God
 
 Aethelgard’s Dismagic forcefully merges the intangible Spirit into unyielding Matter, bypassing the warmth of Life and the reasoning of Mind. While orthodox critics view this as a cruel, agonizing confinement within a numb physical shell , his followers view it as a profound defiance of the natural, fleeting cycle of decay. Because of this, he is fiercely opposed by [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical deities]]: [[Ilyria, Goddess of The Afterlife]] despises him for anchoring souls to the material plane , and [[Xerith, God of Erosion]] views his eternal preservation as the ultimate perversion of matter's natural lifecycle.
 
-His worshippers are largely outcasts, and include rebel Runesmiths, [Rune Mages](https://2e.aonprd.com/Rules.aspx?ID=1567), [Talisman Dabblers](https://2e.aonprd.com/Archetypes.aspx?ID=266), and the infamous [Liches](https://2e.aonprd.com/Archetypes.aspx?ID=179) who anchor their souls to physical phylacteries. Other worshippers of his take the [Soulforger Dedication](https://2e.aonprd.com/Feats.aspx?ID=3016).
-Many of his faithful find refuge in the pirate-infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], free from Canonical law.
+His worshippers are largely outcasts, and include rebel Runesmiths, [Rune Mages](https://2e.aonprd.com/Rules.aspx?ID=1567), [Talisman Dabblers](https://2e.aonprd.com/Archetypes.aspx?ID=266), and the infamous [Liches](https://2e.aonprd.com/Archetypes.aspx?ID=179) who anchor their souls to physical phylacteries. Other worshippers of his take the [Soulforger](https://2e.aonprd.com/Feats.aspx?ID=3016), [Runescarred](https://2e.aonprd.com/Archetypes.aspx?ID=21), or [Undead Master](https://2e.aonprd.com/Archetypes.aspx?ID=176) dedications. Many of his faithful find refuge in the pirate-infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], free from Canonical law.
 
 ---
 
