@@ -11,7 +11,12 @@ tags:
 ---
 
 Aporia is the Greater god of Fate and Destiny. They are a composite of the Basic Essences of Presence and Absence. As these elements are so disparate, they fail to fully combine into one being leaving Aporia as a multitude of personalities and appearances which meld into each other unpredictably. While this temperamentality - alongside their non-canonical status - doesn't lend Aporia to having a very large following, those who do worship them have developed a number of special rituals that allow them to evoke a particular aspect of the god as they need.
+
 As a god, Aporia acts as an arbiter of what is (Presence) versus what could have been (Absence), weaving the threads of time, knowing both the events that manifest in reality, and those infinite possibilities that are cut away into nothingness.
+
+Aporia's followers, few as they are, are often Oracles, or may take the [[2. Mechanics/Archetypes/Truthseeker/index|Truthseeker]] dedication to manipulate the fates of others.
+
+---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Absence]
