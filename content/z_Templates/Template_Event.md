@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'template_event'
+  - template_event
 title: Template_Event
 created: 2026-03-31T18:33:29.371+01:00
 modified: 2026-03-31T18:36:02.599+01:00

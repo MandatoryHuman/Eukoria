@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'template_state'
+  - template_state
 title: Template_State
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00

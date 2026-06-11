@@ -1,8 +1,10 @@
 ---
 publish: true
 aliases:
-  - 'basic anchor - item 1'
+  - basic anchor - item 1
 title: Basic Anchor - Item 1
+created: 2026-05-23T21:59:39.993+01:00
+modified: 2026-05-23T22:47:00.491+01:00
 ---
 
 **Consumable, Magical, Anchor, Fortune**

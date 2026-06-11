@@ -1,14 +1,15 @@
 ---
 publish: true
 aliases:
-  - 'Oclera'
-  - 'oclera, god of knowledge'
+  - Oclera
+  - oclera, god of knowledge
 title: Oclera, God of Knowledge
 created: 2026-03-30T12:31:05.449+01:00
 modified: 2026-03-31T15:15:46.074+01:00
 tags:
   - Gods
 ---
+
 Oclera is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Knowledge, truth, and enlightenment. As a cosmic monolith comprised of exactly two Essences, they represent the harmonious, [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Presence]].
 
 ![[Assets/Gods/Oclera.webp]]

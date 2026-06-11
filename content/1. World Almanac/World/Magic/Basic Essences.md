@@ -1,8 +1,10 @@
 ---
 publish: true
 aliases:
-  - 'basic essences'
+  - basic essences
 title: Basic Essences
+created: 2026-03-30T12:31:05.510+01:00
+modified: 2026-06-11T13:53:35.811+01:00
 ---
 
 > [!quote|author] Origin Myths of Eukoria

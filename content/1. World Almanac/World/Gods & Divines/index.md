@@ -50,4 +50,4 @@ Chosen Ones are rare mortals who have been selected by a deity to act as a livin
 
 # All Gods
 
--- Insert Table Here --
+\-- Insert Table Here --

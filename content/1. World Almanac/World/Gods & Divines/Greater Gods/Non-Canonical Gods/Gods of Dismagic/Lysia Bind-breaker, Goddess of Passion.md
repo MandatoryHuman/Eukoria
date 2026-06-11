@@ -1,15 +1,16 @@
 ---
 publish: true
 aliases:
-  - 'Lysia'
-  - 'Lysia Bind-breaker'
-  - 'Goddess of Passion'
+  - Lysia
+  - Lysia Bind-breaker
+  - Goddess of Passion
 title: Lysia Bind-breaker, Goddess of Passion
 created: 2026-03-30T12:31:05.455+01:00
 modified: 2026-03-31T15:15:46.076+01:00
 tags:
   - Gods
 ---
+
 Lysia Bind-breaker is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
 
 ![[Assets/Gods/Lysia.webp|400]]

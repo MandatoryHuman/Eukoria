@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'war of laws'
+  - war of laws
 title: War of Laws
 created: 2026-03-30T12:31:05.436+01:00
 modified: 2026-03-31T18:40:57.350+01:00

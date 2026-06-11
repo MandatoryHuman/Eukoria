@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'tralicor'
+  - tralicor
 title: Tralicor
 created: 2026-03-30T12:31:05.508+01:00
 modified: 2026-03-31T15:15:46.085+01:00

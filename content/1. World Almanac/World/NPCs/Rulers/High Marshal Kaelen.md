@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'Kaelen'
+  - Kaelen
 title: High Marshal Kaelen
 created: 2026-03-30T12:31:05.522+01:00
 modified: 2026-03-31T17:25:34.740+01:00

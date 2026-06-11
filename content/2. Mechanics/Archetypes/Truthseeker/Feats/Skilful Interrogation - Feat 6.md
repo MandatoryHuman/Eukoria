@@ -3,16 +3,17 @@ publish: true
 aliases:
   - Skilful Interrogation
 title: Skilful Interrogation
-created:
-modified:
+created: 2026-06-11T14:11:05.900+01:00
+modified: 2026-06-11T15:21:59.459+01:00
 tags:
   - Archetype
   - Feat
-level: 6
 ---
-*Archetype*
-[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+
+_Archetype_
+\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 You actively carve secrets out of your foes through sheer skill. Add the following triggers to your _Uncover Truth_ reaction:
+
 - You critically succeed on an **Acrobatics** check to **Tumble Through** the creature's space.
 - You critically succeed on an **Athletics** check made as part of an **Attack** against the creature.
 - You critically succeed on a **Deception** check to **Feint** or **Create a Diversion** against the creature.

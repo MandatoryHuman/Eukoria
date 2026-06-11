@@ -1,14 +1,15 @@
 ---
 publish: true
 aliases:
-  - 'Aureon'
-  - 'aureon, god of commerce and industry'
+  - Aureon
+  - aureon, god of commerce and industry
 title: Aureon, God of Commerce and Industry
 created: 2026-03-30T12:31:05.445+01:00
 modified: 2026-03-31T15:15:46.072+01:00
 tags:
   - Gods
 ---
+
 Aureon is the Greater God of Commerce and Industry, and the divine arbiter of Arcane Magic. Representing the orthodox, calculated blend of the Fundamental Essences of Mind and Matter, Aureon teaches that physical reality can and should be manipulated through pure intellect. To his followers, magic is not a chaotic force to be tamed, but a precise equation written in the language of the cosmos, waiting to be solved to construct miraculous wonders of artifice.
 
 ![[Assets/Gods/Aureon.webp|400]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'antoria'
+  - antoria
 title: Antoria
 created: 2026-03-30T12:31:05.471+01:00
 modified: 2026-03-22T19:07:41.463+00:00

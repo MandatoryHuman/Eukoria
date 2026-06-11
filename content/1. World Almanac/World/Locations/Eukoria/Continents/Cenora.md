@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'cenora'
+  - cenora
 title: Cenora
 created: 2026-03-30T12:31:05.473+01:00
 modified: 2026-03-22T19:07:34.030+00:00
@@ -35,9 +35,8 @@ However, all of this order breaks down at the continent's core. The [[1. World A
 
 # Landmarks & Points of Interest
 
-- **[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]:** The opulent, heavily fortified capital of Meridia that grips the western coastal 
-- **[[Othrys, The Hollow Capital]]:** The ruined, gravity-defying epicenter of the Null-State, 
-- **The Glass Monasteries:** High-altitude retreats in Vael where clerics form massive psychic hive-minds.
+- **\[Landmark Name]:** (A notable peak, deep trench, ancient grove, or strange formation. Why is it important?)
+- **\[Ruins/Site Name]:** (Any remnants of older civilizations or specific dungeon entrances located within this region.)
 
 # Natural Resources
 

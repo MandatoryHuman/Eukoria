@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'Vaelis'
+  - Vaelis
 title: High Curator Vaelis
 created: 2026-03-30T12:31:05.568+01:00
 modified: 2026-03-31T11:33:24.663+01:00

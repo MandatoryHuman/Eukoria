@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - 'template_faction'
+  - template_faction
 title: Template_Faction
 created: 2026-03-31T08:40:06.167+01:00
 modified: 2026-03-31T11:33:02.220+01:00
