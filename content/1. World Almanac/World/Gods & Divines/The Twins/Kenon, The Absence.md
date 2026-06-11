@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 aliases:
   - 'Kenon'
   - 'kenon, the absence'
