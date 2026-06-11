@@ -1,8 +1,8 @@
 ---
 publish: true
 aliases:
-  - 'Ontos'
-  - 'ontos, the presence'
+  - Ontos
+  - ontos, the presence
 title: Ontos, The Presence
 created: 2026-03-30T12:31:05.464+01:00
 modified: 2026-03-30T11:28:01.145+01:00
