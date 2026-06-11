@@ -50,7 +50,7 @@ Widhor was settled seventy years ago by a massive refugee group fleeing the orth
 
 # Notable Locations
 
-- [[Heartbloom]]: The capital settlement, built within the crater of a dormant volcano. The city is a vibrant, chaotic explosion of bioluminescent plants and fleshwarped architecture that pulses in time with the collective heartbeat of the population.
+- [[Heartbloom]]: The capital settlement, built within the crater of a dormant volcano. The city is a vibrant, chaotic explosion of bioluminescent plants and fleshwarped architecture that pulses in time with the collective heartbeat of the population. The flora here is highly reactive; a sudden spike of communal grief or pain acts like a systemic shock, prompting the buildings to secrete a soothing, faintly anaesthetic sap to manage the distress, whilst periods of intense joy cause the local pathways to bloom violently with light.
 
 # Prominent Factions
 

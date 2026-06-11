@@ -43,8 +43,11 @@ They are infinitely patient, treating the geopolitical struggles of Eukoria as a
 
 The Sovereign was the mortal monarch of Jhal during the [[War of Laws]]. When a supernatural famine struck the region, they made the agonizing decision to turn to necromancy to save their people from starvation. However, as they watched their subjects live, they grew terrified of their own impending death and the loss of their kingdom. In secret, they contacted heretical Runesmiths fleeing the orthodox purges. The monarch bound their soul to a massive, subterranean vault deep beneath the city, becoming a Lich and ensuring they would rule Jhal for eternity.
 
+The Sovereign does not view their condition as a curse, but as the ultimate, albeit terrible, cure for mortality. They still perceive the citizens of Jhal - and even their enemies - as starving children who simply do not yet understand that death is a disease to be cured.
+
 # Stats & Equipment
 
 The Undying Sovereign is an apocalyptic threat in combat, wielding the pinnacle of both Arcane and Relic magic.
 
 - **Combat Style:** The Sovereign never fights fair. They are surrounded by an elite honor guard of Level 16 Sepulchral Wights. In combat, they rely on high-level Arcane spells such as Quandary and Foresight.
+- **Roleplaying in Combat:** The Sovereign rarely uses traditional villainous threats. Instead, their dialogue during battle sounds like a grief-stricken monarch protecting their subjects, referring to the party as "a blight upon the harvest" or "thieves stealing the bread from my people's mouths".
