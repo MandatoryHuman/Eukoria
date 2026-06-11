@@ -14,7 +14,7 @@ _Uncommon, Archetype, Dedication_
 \[Prerequisites::Trained in Nature, Occultism, or Religion]
 You gain the ability to parse objective truths from the chaos of battle. When you select this feat, choose your Truthseeker Path, which determines the source of your insight and the trait of your archetype abilities:
 
-- **Providential Path(Divine):** You read the cosmic ledgers of morality and fate. **Prerequisites** Trained in Religion.
+- **Providential Path (Divine):** You read the cosmic ledgers of morality and fate. **Prerequisites** Trained in Religion.
 - **Verdant Path (Primal):** You read the physical flaws and survival instincts etched into nature. **Prerequisites** Trained in Nature.
 - **Esoteric Path (Occult):** You read psychic echoes, spiritual attachments, and minds. **Prerequisites** Trained in Occultism.
   You gain the **Uncover Truth** reaction.
