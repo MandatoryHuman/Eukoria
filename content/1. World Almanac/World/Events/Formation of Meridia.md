@@ -22,7 +22,7 @@ The Formation of Meridia began in the same year the [[War of Laws]] ended, durin
 
 # Prelude & Causes
 
-In the immediate post-war years, safe movement between continents was one of Eukoria's most urgent needs. Trade routes had collapsed, many overland paths were unusable, and maritime passage through the God-Scar Strait remained unpredictable and lethal.
+In the immediate post-war years, safe movement between continents was one of Eukoria's most urgent needs. Trade routes had collapsed, many overland paths were unusable, and maritime passage through the God-Scar Strait remained unpredictable and lethal. The intense divine magic unleashed in the Strait during the war permanently fractured the area's Basic Essence of Matter, causing rogue gravity squalls, sudden petrification of the water, and the spontaneous creation of jagged, temporary glass reefs.
 
 Seeing both the need and the opportunity, a young [[High Arbiter Garadwen]] and a small cadre of allies set out to chart a viable route through the strait. Their effort was driven by survival economics as much as ambition: whoever could reliably move people and cargo would shape reconstruction across the continent.
 
