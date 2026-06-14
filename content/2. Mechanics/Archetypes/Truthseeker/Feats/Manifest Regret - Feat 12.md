@@ -1,13 +1,14 @@
 ---
 publish: true
 aliases:
-  - Project Mind
-title: Project Mind
+  - Manifest Regret
+title: Manifest Regret
 created: 2026-06-11T16:01:10.462+01:00
 modified: 2026-06-11T16:05:34.753+01:00
 tags:
   - Archetype
   - Feat
+level: 12
 ---
 
 _Archetype, Occult_

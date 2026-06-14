@@ -8,6 +8,7 @@ modified: 2026-06-11T15:22:19.662+01:00
 tags:
   - Archetype
   - Feat
+level: 2
 ---
 
 _Uncommon, Archetype, Dedication_

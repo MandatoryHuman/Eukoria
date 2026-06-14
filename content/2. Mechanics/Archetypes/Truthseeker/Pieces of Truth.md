@@ -4,6 +4,7 @@ When you meet the trigger to gain a Piece of Truth, the GM provides you with a t
 - You lose all Pieces of Truth about a creature if you do not perceive it for 24 hours, or if it dies.
 - If an ability requires a certain number of Pieces of Truth, you gain the benefit as long as you possess that number of pieces or more.
 - If an action requires you to expend a Piece of Truth, you lose any passive effects you gain from it _immediately after_ that effect resolves.
+- You need not track what each specific Piece of Truth about a creature is if you do not wish to - what's important is that you track how many unspent pieces you have on them.
 
 > [!warning] Guidance for GMs
 > [[Example Pieces of Truth|Here]] is a list of example Pieces of Truth that a character might learn using the different feats provided by this archetype.

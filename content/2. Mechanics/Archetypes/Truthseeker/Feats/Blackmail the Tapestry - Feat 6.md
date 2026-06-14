@@ -1,13 +1,14 @@
 ---
 publish: true
 aliases:
-  - Word of Execution
-title: Word of Execution
+  - Blackmail the Tapestry
+title: Blackmail the Tapestry
 created: 2026-06-11T16:13:29.666+01:00
 modified: 2026-06-11T16:19:17.527+01:00
 tags:
   - Archetype
   - Feat
+level: 6
 ---
 
 _Archetype, Linguistic_
