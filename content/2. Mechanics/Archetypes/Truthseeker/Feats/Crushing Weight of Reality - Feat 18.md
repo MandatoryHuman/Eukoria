@@ -5,6 +5,7 @@ aliases:
 title: Crushing Weight of Reality
 created: 2026-06-14T12:38:54.517+01:00
 modified: 2026-06-14T12:42:45.035+01:00
+published: 2026-06-14T13:03:37.597+01:00
 tags:
   - Archetype
   - Feat

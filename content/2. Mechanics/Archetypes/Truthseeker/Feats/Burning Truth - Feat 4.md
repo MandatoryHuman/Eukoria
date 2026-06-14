@@ -5,10 +5,10 @@ aliases:
 title: Burning Truth
 created: 2026-06-11T13:43:03.911+01:00
 modified: 2026-06-11T15:56:05.314+01:00
+published: 2026-06-14T13:03:32.218+01:00
 tags:
   - Archetype
   - Feat
-level: 4
 ---
 
 _Archetype_

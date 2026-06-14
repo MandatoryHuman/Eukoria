@@ -5,6 +5,7 @@ aliases:
 title: Precognitive Parry
 created: 2026-06-11T16:17:20.084+01:00
 modified: 2026-06-11T16:18:46.734+01:00
+published: 2026-06-14T13:05:20.944+01:00
 tags:
   - Archetype
   - Feat

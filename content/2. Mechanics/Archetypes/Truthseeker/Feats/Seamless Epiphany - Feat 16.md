@@ -5,6 +5,7 @@ aliases:
 title: Seamless Epiphany
 created: 2026-06-11T15:31:54.448+01:00
 modified: 2026-06-11T15:33:54.229+01:00
+published: 2026-06-14T13:05:51.709+01:00
 tags:
   - Archetype
   - Feat

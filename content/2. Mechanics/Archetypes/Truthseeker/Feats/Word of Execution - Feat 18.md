@@ -5,6 +5,7 @@ aliases:
 title: Word of Execution
 created: 2026-06-11T16:13:29.666+01:00
 modified: 2026-06-11T16:19:17.527+01:00
+published: 2026-06-14T13:06:30.166+01:00
 tags:
   - Archetype
   - Feat

@@ -5,6 +5,7 @@ aliases:
 title: Weight of Transgression
 created: 2026-06-11T14:15:15.161+01:00
 modified: 2026-06-11T16:15:47.505+01:00
+published: 2026-06-14T13:06:24.820+01:00
 tags:
   - Archetype
   - Feat
