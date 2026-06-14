@@ -3,12 +3,11 @@ publish: true
 aliases:
   - Word of Execution
 title: Word of Execution
-created:
-modified:
+created: 2026-06-14T12:38:54.517+01:00
+modified: 2026-06-14T12:42:45.035+01:00
 tags:
   - Archetype
   - Feat
-level: 18
 ---
 
 _Archetype_
