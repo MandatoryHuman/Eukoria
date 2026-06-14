@@ -8,6 +8,7 @@ modified: 2026-06-11T16:05:34.753+01:00
 tags:
   - Archetype
   - Feat
+level: 14
 ---
 
 _Archetype, Occult_

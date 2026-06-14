@@ -8,6 +8,7 @@ modified: 2026-06-11T16:15:47.505+01:00
 tags:
   - Archetype
   - Feat
+level: 8
 ---
 
 _Archetype, Divine_
