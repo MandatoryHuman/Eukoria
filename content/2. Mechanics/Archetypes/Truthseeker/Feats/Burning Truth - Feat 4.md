@@ -9,6 +9,8 @@ published: 2026-06-14T13:03:32.218+01:00
 tags:
   - Archetype
   - Feat
+"  - Archetype\n  - Feat\n---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
 ---
 
 _Archetype_
