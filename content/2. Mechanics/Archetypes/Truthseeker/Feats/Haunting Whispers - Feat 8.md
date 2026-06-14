@@ -8,7 +8,6 @@ modified: 2026-06-11T15:21:49.046+01:00
 tags:
   - Archetype
   - Feat
-level: 8
 ---
 
 _Archetype, Occult_
