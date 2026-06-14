@@ -5,9 +5,11 @@ aliases:
 title: Truths of Failure
 created: 2026-06-11T13:57:32.205+01:00
 modified: 2026-06-11T15:22:11.424+01:00
+published: 2026-06-14T13:06:06.490+01:00
 tags:
   - Archetype
   - Feat
+level: 4
 ---
 
 _Archetype_

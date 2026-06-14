@@ -5,9 +5,11 @@ aliases:
 title: Haunting Whispers
 created: 2026-06-11T14:22:32.035+01:00
 modified: 2026-06-11T15:21:49.046+01:00
+published: 2026-06-14T13:03:55.088+01:00
 tags:
   - Archetype
   - Feat
+level: 8
 ---
 
 _Archetype, Occult_

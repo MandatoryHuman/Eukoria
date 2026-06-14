@@ -5,9 +5,11 @@ aliases:
 title: Inescapable Scrutiny
 created: 2026-06-11T15:27:37.249+01:00
 modified: 2026-06-11T15:34:02.679+01:00
+published: 2026-06-14T13:04:01.960+01:00
 tags:
   - Archetype
   - Feat
+level: 8
 ---
 
 _Archetype_

@@ -5,9 +5,11 @@ aliases:
 title: Absolve or Condemn
 created: 2026-06-11T15:33:33.179+01:00
 modified: 2026-06-11T15:38:43.339+01:00
+published: 2026-06-14T13:03:21.210+01:00
 tags:
   - Archetype
   - Feat
+level: 12
 ---
 
 _Archetype, Divine_

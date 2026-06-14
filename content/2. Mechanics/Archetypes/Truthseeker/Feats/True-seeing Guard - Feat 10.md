@@ -5,9 +5,13 @@ aliases:
 title: True-seeing Guard
 created: 2026-06-14T12:34:31.322+01:00
 modified: 2026-06-14T12:44:33.135+01:00
+published: 2026-06-14T13:06:02.855+01:00
 tags:
   - Archetype
   - Feat
+level: 10
+"---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
 ---
 
 _Archetype_

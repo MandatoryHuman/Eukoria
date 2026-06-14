@@ -5,9 +5,13 @@ aliases:
 title: Environmental Resonance
 created: 2026-06-11T14:19:53.700+01:00
 modified: 2026-06-11T15:21:21.648+01:00
+published: 2026-06-14T13:03:47.791+01:00
 tags:
   - Archetype
   - Feat
+level: 8
+"---\n\n_Archetype, Aura, Primal_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
 ---
 
 _Archetype, Aura, Primal_

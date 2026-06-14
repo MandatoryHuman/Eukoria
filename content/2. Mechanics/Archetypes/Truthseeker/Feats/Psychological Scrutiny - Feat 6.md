@@ -5,9 +5,13 @@ aliases:
 title: Psychological Scrutiny
 created: 2026-06-11T13:35:25.292+01:00
 modified: 2026-06-11T13:35:55.850+01:00
+published: 2026-06-14T13:05:42.244+01:00
 tags:
   - Archetype
   - Feat
+level: 6
+"---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
 ---
 
 _Archetype_
