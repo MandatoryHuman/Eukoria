@@ -10,7 +10,7 @@ tags:
   - Feat
 ---
 
-_Archetype, Primal_
+_Archetype, Aura, Primal_
 \[Prerequisites:: [[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
 The world itself rebels against the prey you have meticulously studied.
-**2 Pieces of Truth** You automatically ignore any difficult terrain or hazardous terrain created by the creature or its spells. Furthermore, the creature treats all terrain within 10 feet of you as difficult terrain, as the primal forces of the world actively impede it.
+**2 Pieces of Truth** You automatically ignore any difficult terrain or hazardous terrain created by the creature or its spells. Furthermore, you emit a 10-foot aura; the target treats all ground within this aura as difficult terrain.
