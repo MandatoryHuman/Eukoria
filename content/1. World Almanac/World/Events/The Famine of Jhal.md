@@ -3,12 +3,23 @@ publish: true
 aliases:
   - the famine of jhal
 title: The Famine of Jhal
+created: 2026-06-26T19:00:02.002+01:00
+modified: 2026-06-26T19:15:52.332+01:00
+published: 2026-06-26T19:15:52.332+01:00
 tags:
-  - Events
+  - "#Events"
 fc-calendar: Eukoria
 fc-date: 15
 fc-end:
 fc-category:
+"---\n\n\\[Type": Supernatural Disaster & State Formation]
+\[Location: "[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]"
+\[Factions Involved: Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death]]; heretical Runesmiths]
+\[Key Figures: "[[The Undying Sovereign]]]"
+Type: Supernatural Disaster & State Formation
+Location: "[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy"
+Factions Involved: Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death
+Key Figures: "[[The Undying Sovereign"
 ---
 
 \[Type:: Supernatural Disaster & State Formation]
@@ -26,7 +37,7 @@ While the region escaped the sheer geographical destruction seen in the [[God-Sc
 
 # The Event
 
-Realising that mortal bodies were too frail to work the cursed surface, the monarch turned to the canonical magic of [[Cavera, Goddess of Death]]. In a massive, state-sponsored ritual, the first generation of the kingdom's dead were animated. These skeletal and zombie labourers, immune to the blistering sun and requiring no sustenance, were sent into the fields and strip mines to tend failing crops and gather resources. 
+Realising that mortal bodies were too frail to work the cursed surface, the monarch turned to the canonical magic of [[Cavera, Goddess of Death]]. In a massive, state-sponsored ritual, the first generation of the kingdom's dead were animated. These skeletal and zombie labourers, immune to the blistering sun and requiring no sustenance, were sent into the fields and strip mines to tend failing crops and gather resources.
 
 Simultaneously, gripped by the terror of their own mortality, the monarch secretly contacted fleeing heretical Runesmiths. While publicly praising Cavera, they bound their own soul to a massive subterranean vault using [[Traditions of Dismagic|Relic Dismagic]], becoming a Lich to ensure they could oversee their kingdom for eternity.
 

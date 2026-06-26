@@ -5,6 +5,7 @@ modified: 2026-06-26T13:59:31.570+01:00
 published: 2026-06-26T13:59:31.570+01:00
 ">>>>>>> origin/main\n---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
 Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
+"---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
 ---
 
 _Archetype_

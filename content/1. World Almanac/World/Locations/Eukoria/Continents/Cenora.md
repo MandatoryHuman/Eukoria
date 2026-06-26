@@ -5,6 +5,7 @@ aliases:
 title: Cenora
 created: 2026-03-30T12:31:05.473+01:00
 modified: 2026-03-22T19:07:34.030+00:00
+published: 2026-06-26T14:16:16.591+01:00
 tags:
   - Geography
 ---
@@ -16,7 +17,7 @@ tags:
 \[Danger Level::Varies widely (Low in warded cities, Extreme in the Null-State)]
 \[Known For::High civilisations, The Daeshin Null-State, Orthodox Magic academies]
 
-![[Eukoria Map.webp]]
+![[Assets/Maps/Eukoria Map.webp]]
 
 # Overview
 

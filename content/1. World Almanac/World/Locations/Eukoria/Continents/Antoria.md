@@ -5,6 +5,7 @@ aliases:
 title: Antoria
 created: 2026-03-30T12:31:05.471+01:00
 modified: 2026-03-22T19:07:41.463+00:00
+published: 2026-06-26T14:16:16.574+01:00
 tags:
   - Geography
 ---
@@ -16,7 +17,7 @@ tags:
 \[Danger Level::Varies from Low to Extreme]
 \[Known For::The cradle of humanoid life, The Rust-Wastes]
 
-![[Eukoria Map.webp]]
+![[Assets/Maps/Eukoria Map.webp]]
 
 # Overview
 
