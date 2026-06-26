@@ -1,13 +1,8 @@
 ---
 publish: true
-aliases:
-  - <% tp.file.title.toLowerCase() %>
-title: <% tp.file.title %>
 created: 2026-06-26T13:27:17.204+01:00
-modified: 2026-06-26T13:27:35.193+01:00
-published: 2026-06-26T13:27:35.193+01:00
-tags:
-  - "#Events"
+modified: 2026-06-26T13:56:49.660+01:00
+published: 2026-06-26T13:56:49.660+01:00
 ---
 
 \[Type::<% tp.system.prompt("Event Type? (e.g., Divine War, State Formation)") %>]
@@ -23,4 +18,12 @@ tags:
 
 # The Event
 
+<<<<<<< HEAD
+
 # Aftermath & Legacy
+
+\=======
+
+# Aftermath & Legacy
+
+> > > > > > > origin/main
