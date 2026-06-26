@@ -9,25 +9,24 @@ modified: 2026-03-31T15:15:46.086+01:00
 
 > [!info] Eukoria is a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
-```leaflet
-id: Eukoria_Map
-lock: false
-recenter: true
-noScrollZoom: false
-image: [[Assets/Locations/Eukoria Map.webp]]
-height: 600px
-width: 95%
-minZoom: -4
-maxZoom: 2
-defaultZoom: -3
-zoomDelta: 0.5
-bounds: [[0,0], [4320, 7680]]
-lat: 2160
-long: 3840
-unit: km
-scale: 0.5
-darkMode: false
+```zoommap
+imageBases:
+  - path: Assets/Maps/Eukoria Map.webp
+markers: Assets/Maps/Eukoria Map.markers.json
+markerLayers:
+  - Default
+minZoom: 0.25
+maxZoom: 8
+wrap: false
+responsive: false
+width: 100%
+height: 480px
+resizable: false
+resizeHandle: native
+render: dom
+id: map-mquygbov
 ```
+
 
 ## Gross Geography
 

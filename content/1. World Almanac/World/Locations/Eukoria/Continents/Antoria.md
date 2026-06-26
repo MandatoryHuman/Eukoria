@@ -16,7 +16,7 @@ tags:
 \[Danger Level::Varies from Low to Extreme]
 \[Known For::The cradle of humanoid life, The Rust-Wastes]
 
-![[Assets/Locations/Eukoria Map.webp]]
+![[Eukoria Map.webp]]
 
 # Overview
 

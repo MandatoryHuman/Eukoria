@@ -1,0 +1,38 @@
+{
+  "size": {
+    "w": 8192,
+    "h": 4608
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "Assets/Maps/Eukoria Map.webp"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Assets/Maps/Eukoria Map.webp",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

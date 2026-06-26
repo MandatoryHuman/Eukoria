@@ -1,0 +1,76 @@
+{
+  "size": {
+    "w": 8192,
+    "h": 4608
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_45gq6b",
+      "x": 0.4819091856479645,
+      "y": 0.5570855008231269,
+      "layer": "default",
+      "link": "1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "Assets/Locations/Eukoria Map.webp"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Assets/Locations/Eukoria Map.webp",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_eo4342",
+      "label": "Delete marker",
+      "createdAt": "2026-06-26T13:15:32.471Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "id": "marker_1ngdai",
+          "x": 0.37507159657790645,
+          "y": 0.5785169324398606,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": "",
+          "anchorSpace": "viewport",
+          "hudX": 261.95001220703125,
+          "hudY": 276.7624969482422,
+          "hudModeX": "left",
+          "hudModeY": "bottom",
+          "hudLastWidth": 698.4000244140625,
+          "hudLastHeight": 478.3999938964844
+        },
+        "index": 0
+      }
+    }
+  ]
+}

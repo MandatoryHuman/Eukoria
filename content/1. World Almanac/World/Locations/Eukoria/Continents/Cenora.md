@@ -16,7 +16,7 @@ tags:
 \[Danger Level::Varies widely (Low in warded cities, Extreme in the Null-State)]
 \[Known For::High civilisations, The Daeshin Null-State, Orthodox Magic academies]
 
-![[Assets/Locations/Eukoria Map.webp]]
+![[Eukoria Map.webp]]
 
 # Overview
 
