@@ -2,6 +2,7 @@
 publish: true
 created: 2026-06-11T13:43:03.911+01:00
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2026-06-11T15:56:05.314+01:00
 published: 2026-06-14T13:03:32.218+01:00
 tags:
@@ -14,6 +15,10 @@ level: 4
 =======
 modified: 2026-06-26T13:19:02.146+01:00
 published: 2026-06-26T13:19:02.146+01:00
+=======
+modified: 2026-06-26T13:56:49.653+01:00
+published: 2026-06-26T13:56:49.653+01:00
+>>>>>>> 0bec7ead81ef1a5648a2be685f997c125963bbec
 ">>>>>>> origin/main\n---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
 >>>>>>> origin/main
 Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
