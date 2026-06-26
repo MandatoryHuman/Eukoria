@@ -24,5 +24,3 @@ tags:
 # The Event
 
 # Aftermath & Legacy
-
-> > > > > > > origin/main
