@@ -1,43 +1,29 @@
 ---
 publish: true
 aliases:
-  - template_npc
-title: Template_NPC
-created: 2026-03-30T12:31:05.568+01:00
-modified: 2026-03-31T11:33:24.663+01:00
+  - <% tp.file.title.toLowerCase() %>
+title: <% tp.file.title %>
 tags:
   - NPCs
 ---
+\[Pronouns::<% tp.system.prompt("Pronouns? (e.g., They/Them)") %>]
+\[Ancestry::<% tp.system.prompt("Ancestry?") %>]
+\[Background::<% tp.system.prompt("Background?") %>]
+\[Class/Profession::<% tp.system.prompt("Class/Profession?") %>]
+\[Level::<% tp.system.prompt("Level?") %>]
+\[Location::<% tp.system.prompt("Location?") %>]
+\[Faction::<% tp.system.prompt("Faction?") %>]
+\[Role::<% tp.system.prompt("Role?") %>]
+\[Status::<% tp.system.suggester(["Alive", "Deceased", "Undead", "Unknown"], ["Alive", "Deceased", "Undead", "Unknown"]) %>]
 
-\[Pronouns::]
-\[Ancestry::]
-\[Background::]
-\[Class/Profession::]
-\[Level::]
-\[Location::]
-\[Faction::]
-\[Role::]
-\[Status::]
-
-(IMAGE)
+![[Assets/NPCs/<% tp.file.title %>.webp|400]]
 
 # Appearance
 
-(Describe their physical build, facial features, clothing, gear, and any distinguishing marks like scars or tattoos.)
-
 # Personality
-
-(Describe their general demeanour, motivations, goals, and any secrets they might be hiding.)
 
 # Relationships
 
-(Detail their allies, enemies, faction affiliations, and family ties.)
-
 # History & Lore
 
-(Background story of the NPC. Where did they grow up? How did they end up in their current location and role?)
-
 # Stats & Equipment
-
-Statblock:
-(Describe their combat style, preferred tactics, notable skills, and how they react when losing a fight.)

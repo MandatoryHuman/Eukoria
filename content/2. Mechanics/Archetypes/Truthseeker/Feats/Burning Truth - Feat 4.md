@@ -9,7 +9,12 @@ published: 2026-06-14T13:03:32.218+01:00
 tags:
   - Archetype
   - Feat
+<<<<<<< HEAD
 level: 4
+=======
+"  - Archetype\n  - Feat\n---\n\n_Archetype_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
+>>>>>>> origin/main
 ---
 
 _Archetype_
