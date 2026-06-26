@@ -7,8 +7,8 @@ created: 2026-06-11T16:05:08.906+01:00
 modified: 2026-06-11T16:12:10.760+01:00
 published: 2026-06-14T13:05:55.196+01:00
 tags:
-  - Archetype
-  - Feat
+  - "#Archetype"
+  - "#Feat"
 level: 14
 ---
 

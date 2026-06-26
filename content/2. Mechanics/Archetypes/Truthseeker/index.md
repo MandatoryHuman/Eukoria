@@ -7,7 +7,7 @@ created: 2026-03-30T12:31:05.566+01:00
 modified: 2026-03-31T15:15:46.089+01:00
 published: 2026-06-14T12:53:15.997+01:00
 tags:
-  - Archetype
+  - "#Archetype"
 ---
 
 You have learned to read the metaphysical tapestry of reality. Whether guided by the absolute judgment of the gods, the primal heartbeat of the world, or the unseen whispers of spirits, you pull hidden truths from the very souls of your foes to exploit in battle.

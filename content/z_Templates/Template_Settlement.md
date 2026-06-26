@@ -4,7 +4,8 @@ created: 2026-06-26T13:25:55.455+01:00
 modified: 2026-06-26T13:56:49.661+01:00
 published: 2026-06-26T13:56:49.661+01:00
 ---
-\[Type::<% tp.system.suggester(["Capital City", "City", "Town", "Village", "Outpost", "Ruins"], ["Capital City", "City", "Town", "Village", "Outpost", "Ruins"]) %>]
+
+\[Type::<% tp.system.suggester(\["Capital City", "City", "Town", "Village", "Outpost", "Ruins"], \["Capital City", "City", "Town", "Village", "Outpost", "Ruins"]) %>]
 \[Level::<% tp.system.prompt("Settlement Level?") %>]
 \[Population::<% tp.system.prompt("Population?") %>]
 \[Demographics::<% tp.system.prompt("Demographics?") %>]
@@ -64,7 +65,8 @@ published: 2026-06-26T13:56:49.661+01:00
 > > > > > > > origin/main
 
 # Factions & Guilds
-- 
+
+-
 
 -
 
