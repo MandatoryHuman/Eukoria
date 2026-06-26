@@ -12,7 +12,7 @@ tags:
 level: 12
 ---
 
-_Archetype, Primal_
+_Archetype, Primal_, _Revealing_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
 The physical truths of the world shelter you.
 **3 Pieces of Truth** You gain resistance to all damage dealt by the target equal to half your level.

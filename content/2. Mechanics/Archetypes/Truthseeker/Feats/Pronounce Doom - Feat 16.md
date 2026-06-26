@@ -12,7 +12,7 @@ tags:
 level: 16
 ---
 
-_Archetype_
+_Archetype_, _Revealing_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 Once you know enough about a creature, you can hasten their end.
 **4 Pieces of Truth** When you successfully Strike the creature, they become Doomed 1, or increase their Doomed Condition by 1 if they were already Doomed.

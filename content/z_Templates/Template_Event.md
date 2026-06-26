@@ -1,33 +1,26 @@
 ---
 publish: true
 aliases:
-  - template_event
-title: Template_Event
-created: 2026-03-31T18:33:29.371+01:00
-modified: 2026-03-31T18:36:02.599+01:00
+  - <% tp.file.title.toLowerCase() %>
+title: <% tp.file.title %>
+created: 2026-06-26T13:27:17.204+01:00
+modified: 2026-06-26T13:27:35.193+01:00
+published: 2026-06-26T13:27:35.193+01:00
 tags:
-  - Events
+  - "#Events"
 ---
 
-\[Type::]
-\[Location::]
-\[Factions Involved::]
-\[Key Figures::]
+\[Type::<% tp.system.prompt("Event Type? (e.g., Divine War, State Formation)") %>]
+\[Location::<% tp.system.prompt("Location?") %>]
+\[Factions Involved::<% tp.system.prompt("Factions Involved?") %>]
+\[Key Figures::<% tp.system.prompt("Key Figures?") %>]
 
-(Event Image)
+![[Assets/Events/<% tp.file.title %>.webp|400]]
 
 # Overview
 
-(A brief summary of the event, when it happened, and why it is historically significant in Eukoria.)
-
 # Prelude & Causes
-
-(What led up to this event? Detail the political tensions, religious disputes, or magical anomalies that sparked it. Were there signs of cosmic friction or mortal ambition?)
 
 # The Event
 
-(A detailed description of what actually happened. Outline the major battles, betrayals, divine interventions, or magical cataclysms. If Dismagic or Canonical magic was heavily used, how did it warp the area?)
-
 # Aftermath & Legacy
-
-(What were the short-term and long-term consequences? Did it create new dead-magic zones, elevate a god, destroy a city, or shift the balance of power? How do modern scholars or commoners view this event today?)
