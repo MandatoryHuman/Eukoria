@@ -6,6 +6,7 @@ aliases:
 title: Aureon, God of Commerce and Industry
 created: 2026-03-30T12:31:05.445+01:00
 modified: 2026-03-31T15:15:46.072+01:00
+published: 2026-06-26T21:41:23.109+01:00
 tags:
   - Gods
 ---

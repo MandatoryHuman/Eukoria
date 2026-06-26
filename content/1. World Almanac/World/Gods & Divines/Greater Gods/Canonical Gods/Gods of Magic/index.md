@@ -5,8 +5,9 @@ aliases:
 title: Gods of Magic
 created: 2026-03-30T12:31:05.445+01:00
 modified: 2026-03-31T15:15:46.073+01:00
+published: 2026-06-26T19:55:50.836+01:00
 tags:
-  - Lore
+  - "#Lore"
 ---
 
 > [!quote] "To channel the power of the Canonical cycle is to speak the language of creation itself. We do not break the rules; we simply ask the wheel to turn."
@@ -42,9 +43,3 @@ Unlike the forbidden arts associated with the [[1. World Almanac/World/Gods & Di
 
 - [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
 - [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]] - The opposing, unstable traditions of magic.
-  | Name                                                                                                                                                                          | Areas of Concern                                          | Category                                                                      | Aspects         | Domains                                                                                                                                                                                                             |
-  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | [[Amnis the Burdened, Goddess of Forgiveness|Amnis the Burdened, Goddess of Forgiveness]] | Honesty, Redemption, Divine magic                         | [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] | Life and Spirit | [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Healing](https://2e.aonprd.com/Domains.aspx?ID=78), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118), [Truth](https://2e.aonprd.com/Domains.aspx?ID=95)        |
-  | [[Aureon, God of Commerce and Industry|Aureon, God of Commerce and Industry]]             | Commerce, Industry, Arcane Magic, Artifice, Transmutation | [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] | Matter and Mind | [Wealth](https://2e.aonprd.com/Domains.aspx?ID=99), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73)      |
-  | [[Kurnos, God of Nature|Kurnos, God of Nature]]                                           | Nature, Primal magic                                      | [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] | Matter and Life | [Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Change](https://2e.aonprd.com/Domains.aspx?ID=102), [Might](https://2e.aonprd.com/Domains.aspx?ID=83)       |
-  | [[Solon, God of Law|Solon, God of Law]]                                                   | Law, Occult Magic, Psychic phenomena, Astral projection   | [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] | Spirit and Mind | [Truth](https://2e.aonprd.com/Domains.aspx?ID=95), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Knowledge](https://2e.aonprd.com/Domains.aspx?ID=80) |
