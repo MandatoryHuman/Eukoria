@@ -7,9 +7,10 @@ created: 2026-06-26T13:25:55.455+01:00
 modified: 2026-06-26T19:33:12.345+01:00
 published: 2026-06-26T19:33:12.345+01:00
 tags:
-  - Settlement
+  - "#Settlement"
 ---
-\[Type::<% tp.system.suggester(["Capital City", "City", "Town", "Village", "Outpost", "Ruins"], ["Capital City", "City", "Town", "Village", "Outpost", "Ruins"]) %>]
+
+\[Type::<% tp.system.suggester(\["Capital City", "City", "Town", "Village", "Outpost", "Ruins"], \["Capital City", "City", "Town", "Village", "Outpost", "Ruins"]) %>]
 \[Level::<% tp.system.prompt("Settlement Level?") %>]
 \[Population::<% tp.system.prompt("Population?") %>]
 \[Demographics::<% tp.system.prompt("Demographics?") %>]
@@ -37,7 +38,8 @@ tags:
 -
 
 # Factions & Guilds
-- 
+
+-
 
 -
 

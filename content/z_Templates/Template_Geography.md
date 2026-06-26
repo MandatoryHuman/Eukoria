@@ -27,8 +27,6 @@ tags:
 
 # Landmarks & Points of Interest
 
--
-
 # Natural Resources
 
 # Myths & Lore

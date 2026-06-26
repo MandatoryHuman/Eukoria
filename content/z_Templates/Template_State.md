@@ -7,8 +7,9 @@ created: 2026-06-26T13:24:39.956+01:00
 modified: 2026-06-26T19:33:40.738+01:00
 published: 2026-06-26T19:33:40.738+01:00
 tags:
-  - State
+  - "#State"
 ---
+
 \[Capital::<% tp.system.prompt("Capital City?") %>]
 \[Government::<% tp.system.prompt("Government Type?") %>]
 \[Ruler::<% tp.system.prompt("Ruler?") %>]

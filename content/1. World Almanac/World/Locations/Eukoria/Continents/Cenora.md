@@ -7,7 +7,7 @@ created: 2026-03-30T12:31:05.473+01:00
 modified: 2026-03-22T19:07:34.030+00:00
 published: 2026-06-26T14:16:16.591+01:00
 tags:
-  - Geography
+  - "#Geography"
 ---
 
 \[Type::Continent]
