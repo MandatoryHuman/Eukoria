@@ -5,10 +5,6 @@ aliases:
 title: <% tp.file.title %>
 tags:
   - Events
-fc-calendar: Eukoria
-fc-date:
-fc-end:
-fc-category: 
 ---
 
 \[Type::<% tp.system.prompt("Event Type? (e.g., Divine War, State Formation)") %>]
@@ -24,12 +20,4 @@ fc-category:
 
 # The Event
 
-<<<<<<< HEAD
-
 # Aftermath & Legacy
-
-\=======
-
-# Aftermath & Legacy
-
-> > > > > > > origin/main

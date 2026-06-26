@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-06-26T13:27:17.204+01:00
-modified: 2026-06-26T13:56:49.660+01:00
-published: 2026-06-26T13:56:49.660+01:00
+aliases:
+  - <% tp.file.title.toLowerCase() %>
+title: <% tp.file.title %>
 ---
 
 \[Type::<% tp.system.prompt("Faction Type?") %>]
@@ -25,19 +25,7 @@ published: 2026-06-26T13:56:49.660+01:00
 # Assets & Influence
 
 # Notable Members
-
-## <<<<<<< HEAD
-
-# Notable Locations
-
--
-
-\=======
-
--
+- 
 
 # Notable Locations
-
 -
-
-> > > > > > > origin/main

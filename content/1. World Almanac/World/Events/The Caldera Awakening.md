@@ -26,7 +26,7 @@ In the generations following the [[War of Laws]], the survivors at the base of M
 
 # The Event
 
-The turning point occurred when a coalition of radical engineers, led by the charismatic dwarven inventor [[Vondal Iron-Speaker]], successfully breached the deep geothermal vents of Mount Solace. They activated the "Grand Turbine" - a massive, steam-powered engine infused with primal earth magic. 
+The turning point occurred when a coalition of radical engineers, led by the charismatic dwarven inventor [[Vondal Iron-Speaker]], successfully breached the deep geothermal vents of Mount Solace. They constructed the "Grand Turbine" - a massive, steam-powered engine.
 
 When orthodox loyalists attempted to destroy the machine, Vondal's secular militia utilised newly invented, mass-produced firearms to repel the attackers. Standing before the roaring machinery, Vondal proclaimed the region a free Republic, formally severing the state's reliance on divine mandate. 
 

@@ -1,44 +1,22 @@
 ---
 publish: true
-created: 2026-03-30T12:31:05.568+01:00
-modified: 2026-06-26T13:56:49.661+01:00
-published: 2026-06-26T13:56:49.661+01:00
+aliases:
+  - vondal iron-speaker
+title: Vondal Iron-Speaker
+tags:
+  - NPCs
 ---
+\[Pronouns::He/Him]
+\[Ancestry::Dwarf]
+\[Background::Engineer]
+\[Class/Profession::Inventor]
+\[Level::17]
+\[Location::[[The Caldera Forum]]]
+\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]]
+\[Role::Revolutionary]
+\[Status::Alive]
 
-\[Pronouns::<% tp.system.prompt("Pronouns? (e.g., They/Them)") %>]
-\[Ancestry::<% tp.system.prompt("Ancestry?") %>]
-\[Background::<% tp.system.prompt("Background?") %>]
-\[Class/Profession::<% tp.system.prompt("Class/Profession?") %>]
-\[Level::<% tp.system.prompt("Level?") %>]
-\[Location::<% tp.system.prompt("Location?") %>]
-\[Faction::<% tp.system.prompt("Faction?") %>]
-\[Role::<% tp.system.prompt("Role?") %>]
-\[Status::<% tp.system.suggester(\["Alive", "Deceased", "Undead", "Unknown"], \["Alive", "Deceased", "Undead", "Unknown"]) %>]
-
-\[Pronouns::<% tp.system.prompt("Pronouns? (e.g., They/Them)") %>]
-\[Ancestry::<% tp.system.prompt("Ancestry?") %>]
-\[Background::<% tp.system.prompt("Background?") %>]
-\[Class/Profession::<% tp.system.prompt("Class/Profession?") %>]
-\[Level::<% tp.system.prompt("Level?") %>]
-\[Location::<% tp.system.prompt("Location?") %>]
-\[Faction::<% tp.system.prompt("Faction?") %>]
-\[Role::<% tp.system.prompt("Role?") %>]
-\[Status::<% tp.system.suggester(\["Alive", "Deceased", "Undead", "Unknown"], \["Alive", "Deceased", "Undead", "Unknown"]) %>]
-
-# <<<<<<< HEAD
-
-\[Pronouns::<% tp.system.prompt("Pronouns? (e.g., They/Them)") %>]
-\[Ancestry::<% tp.system.prompt("Ancestry?") %>]
-\[Background::<% tp.system.prompt("Background?") %>]
-\[Class/Profession::<% tp.system.prompt("Class/Profession?") %>]
-\[Level::<% tp.system.prompt("Level?") %>]
-\[Location::<% tp.system.prompt("Location?") %>]
-\[Faction::<% tp.system.prompt("Faction?") %>]
-\[Role::<% tp.system.prompt("Role?") %>]
-\[Status::<% tp.system.suggester(\["Alive", "Deceased", "Undead", "Unknown"], \["Alive", "Deceased", "Undead", "Unknown"]) %>]
-
-> > > > > > > origin/main
-> > > > > > > ![[Assets/NPCs/<% tp.file.title %>.webp|400]]
+![[Assets/NPCs/Vondal Iron-Speaker.webp|400]]
 
 # Appearance
 
@@ -48,12 +26,6 @@ published: 2026-06-26T13:56:49.661+01:00
 
 # History & Lore
 
-<<<<<<< HEAD
+An early revolutionary who kick-started [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]'s industrial revolution and served as Chancellor for many years before his retirement.
 
 # Stats & Equipment
-
-\=======
-
-# Stats & Equipment
-
-> > > > > > > origin/main
