@@ -7,9 +7,7 @@ tags:
   - Events
 fc-calendar: Eukoria
 fc-date:
-  year: 
-  month: 
-  day: 
+fc-end:
 fc-category: 
 ---
 
