@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - content
-title: content
+title: Eukoria
 created: 2026-03-30T12:31:05.525+01:00
 modified: 2026-03-31T16:51:09.677+01:00
 published: 2026-06-26T13:48:33.815+01:00
