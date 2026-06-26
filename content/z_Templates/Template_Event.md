@@ -1,8 +1,16 @@
 ---
 publish: true
-created: 2026-06-26T13:27:17.204+01:00
-modified: 2026-06-26T13:56:49.660+01:00
-published: 2026-06-26T13:56:49.660+01:00
+aliases:
+  - <% tp.file.title.toLowerCase() %>
+title: <% tp.file.title %>
+tags:
+  - Events
+fc-calendar: Eukoria
+fc-date:
+  year: 
+  month: 
+  day: 
+fc-category: 
 ---
 
 \[Type::<% tp.system.prompt("Event Type? (e.g., Divine War, State Formation)") %>]

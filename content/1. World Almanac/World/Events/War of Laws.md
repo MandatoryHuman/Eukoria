@@ -8,14 +8,16 @@ modified: 2026-03-31T18:40:57.350+01:00
 tags:
   - Wars
   - Events
+fc-calendar: Eukoria
+fc-date: -10
+fc-end: 0
+fc-category:
 ---
 
 \[Type:: Divine War]
 \[Location:: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Factions Involved:: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
 \[Key Figures:: [[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]
-
-(Event Image)
 
 # Overview
 
@@ -37,8 +39,8 @@ Amid the slaughter, Lethos advanced his own station by eliminating key targets. 
 
 The conflict ended only when [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] awakened. Their brief manifestation halted all hostilities and imposed a single decree: [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]] would be permitted to exist. This decree immediately produced two historic consequences:
 
-- **The Ascension:** Lysia and Aethelgard were elevated, establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
-- **The Birth of the Paradox:** The contradictory energies released during the decree coalesced into [[Aporia, God of Fate]], born of both Presence and Absence.
+- **The Ascension**, in which Lysia and Aethelgard were elevated, establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
+- **The Birth of the Paradox**, when the contradictory energies released during the decree coalesced into [[Aporia, God of Fate]], born of both Presence and Absence.
 
 # Aftermath & Legacy
 

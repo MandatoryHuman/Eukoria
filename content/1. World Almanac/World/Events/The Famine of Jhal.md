@@ -5,6 +5,10 @@ aliases:
 title: The Famine of Jhal
 tags:
   - Events
+fc-calendar: Eukoria
+fc-date: 15
+fc-end:
+fc-category:
 ---
 
 \[Type:: Supernatural Disaster & State Formation]

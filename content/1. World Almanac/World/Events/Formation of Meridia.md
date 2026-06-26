@@ -7,6 +7,10 @@ created: 2026-03-30T12:31:05.435+01:00
 modified: 2026-03-31T18:40:48.275+01:00
 tags:
   - Events
+fc-calendar: Eukoria
+fc-date: 0
+fc-end: 
+fc-category:
 ---
 
 \[Type:: State Formation]
