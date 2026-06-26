@@ -3,9 +3,22 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
+created: 2026-06-26T13:24:39.956+01:00
+modified: 2026-06-26T13:25:23.463+01:00
+published: 2026-06-26T13:25:23.463+01:00
 tags:
-  - State
+  - "#State"
 ---
+\[Capital::<% tp.system.prompt("Capital City?") %>]
+\[Government::<% tp.system.prompt("Government Type?") %>]
+\[Ruler::<% tp.system.prompt("Ruler?") %>]
+\[Population::<% tp.system.prompt("Population?") %>]
+\[Demographics::<% tp.system.prompt("Demographics?") %>]
+\[Languages::<% tp.system.prompt("Languages?") %>]
+\[Religions::<% tp.system.prompt("Religions?") %>]
+\[Major Exports::<% tp.system.prompt("Major Exports?") %>]
+\[Major Imports::<% tp.system.prompt("Major Imports?") %>]
+
 \[Capital::<% tp.system.prompt("Capital City?") %>]
 \[Government::<% tp.system.prompt("Government Type?") %>]
 \[Ruler::<% tp.system.prompt("Ruler?") %>]
@@ -31,7 +44,9 @@ tags:
 # History & Lore
 
 # Notable Locations
-- 
+
+-
 
 # Prominent Factions
+
 -
