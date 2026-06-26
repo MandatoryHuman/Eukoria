@@ -5,13 +5,22 @@ aliases:
 title: War of Laws
 created: 2026-03-30T12:31:05.436+01:00
 modified: 2026-03-31T18:40:57.350+01:00
+published: 2026-06-26T19:16:59.062+01:00
 tags:
-  - Wars
-  - Events
+  - "#Wars"
+  - "#Events"
 fc-calendar: Eukoria
 fc-date: -10
 fc-end: 0
 fc-category:
+"---\n\n\\[Type": Divine War]
+\[Location: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Factions Involved: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
+\[Key Figures: "[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]"
+Type: Divine War
+Location: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria
+Factions Involved: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods
+Key Figures: "[[Lysia Bind-breaker, Goddess of Passion"
 ---
 
 \[Type:: Divine War]

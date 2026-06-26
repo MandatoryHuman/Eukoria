@@ -3,6 +3,9 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
+created: 2026-06-26T13:27:17.204+01:00
+modified: 2026-06-26T19:34:10.410+01:00
+published: 2026-06-26T19:34:10.410+01:00
 ---
 
 \[Type::<% tp.system.prompt("Faction Type?") %>]
@@ -25,7 +28,9 @@ title: <% tp.file.title %>
 # Assets & Influence
 
 # Notable Members
-- 
+
+-
 
 # Notable Locations
+
 -

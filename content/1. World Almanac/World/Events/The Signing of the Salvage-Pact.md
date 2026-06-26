@@ -3,12 +3,23 @@ publish: true
 aliases:
   - the signing of the salvage-pact
 title: The Signing of the Salvage-Pact
+created: 2026-06-26T19:07:57.610+01:00
+modified: 2026-06-26T19:19:37.621+01:00
+published: 2026-06-26T19:19:37.621+01:00
 tags:
-  - Events
+  - "#Events"
 fc-calendar: Eukoria
 fc-date: 86
 fc-end:
 fc-category:
+"---\n\n\\[Type": Treaty & Ceasefire]
+\[Location: The Great Hulk, [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|Oremourn]]]
+\[Factions Involved: The Scrap-Baronies; The Rust-Riders; The Spark-Priests]
+\[Key Figures: The original Council of Iron]
+Type: Treaty & Ceasefire
+Location: The Great Hulk, [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|Oremourn
+Factions Involved: The Scrap-Baronies; The Rust-Riders; The Spark-Priests
+Key Figures: The original Council of Iron
 ---
 
 \[Type:: Treaty & Ceasefire]
