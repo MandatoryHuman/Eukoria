@@ -5,8 +5,9 @@ aliases:
 title: Template_State
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
+published: 2026-06-26T21:45:47.046+01:00
 tags:
-  - State
+  - "#State"
 ---
 
 \[Capital::The Floating Court]
@@ -44,7 +45,7 @@ The state operates as a Meritocratic Syndicate overseen by the Commodore Council
 - [[1. World Almanac/World/Locations/Eukoria/States/The Widhor Sanctum/index|The Widhor Sanctum]] (Symbiotic Trade): The Fathom-Court borders Widhor to the south. The syndicate safely smuggles Widhor’s biological remedies and pearls out to the broader world, bypassing the blockades set by orthodox nations.
 - [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]] (Smugglers): The syndicate operates covert supply lines to the desperate soldiers of the Marches, charging exorbitant rates to smuggle in food and weapons around the dangerous borders of the Null-State.
 - [[1. World Almanac/World/Locations/Eukoria/States/The Radiant Court of Gethis/index|The Radiant Court of Gethis]] (Exploited): The Fathom-Court's pirates frequently "tax" the luxury shipments heading into Gethis, knowing the illusion-obsessed nobles are too busy ignoring reality to mount a proper naval defence.
-- **[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]** (Highly Lucrative Black Market): The Syndicate views the Wake as their most profitable secret. The Fathom-Court acts as a lifeline for the exiled mages and dissidents living there, charging extortionate fees to smuggle refugees in, and smuggling unsanctioned magic and forbidden texts out to sell on the global black market.
+- [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] (Highly Lucrative Black Market): The Syndicate views the Wake as their most profitable secret. The Fathom-Court acts as a lifeline for the exiled mages and dissidents living there, charging extortionate fees to smuggle refugees in, and smuggling unsanctioned magic and forbidden texts out to sell on the global black market.
 
 # History & Lore
 
