@@ -18,5 +18,6 @@ You can briefly impart the immense weight of the truths you have gathered into a
 
 ## Whisper Truth ◆
 
-You share a secret with an ally within 30 feet about a creature you hold at least 2 Pieces of Truth for.
-Until the start of your next turn, that ally gains the same benefits as you do for having 2 Pieces of Truth against that creature, and you are able to use your Uncover Truth action in response to things that ally does, or that happen to that ally, rather than just yourself. Your ally only gains passive benefits, and is unable to use any actions that this Archetype or its feats grant.
+_Liguisitc_
+**Frequency** once per day
+**Effect** you share a secret with an ally within 30 feet about a creature you hold at least 3 Pieces of Truth for. For the next minute that ally gains the effects of all Revealing feats you have that require 3 of fewer Pieces of Truth to activate. Additionally, you are able to use Uncover Truth in response to things that ally does or has happen to them as though you were them. Your ally only gains passive benefits, and is unable to use any actions that this Archetype or its feats grant.

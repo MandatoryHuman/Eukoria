@@ -16,7 +16,7 @@ _Archetype_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 You understand how the flaws and fears of one creature ripple outward to affect those around them.
 
-## Truth Cascade ↩
+## Truth Cascade ◇
 
 _Concentrate_
 **Trigger** A creature you hold at least 1 Piece of Truth for is reduced to 0 Hit Points.

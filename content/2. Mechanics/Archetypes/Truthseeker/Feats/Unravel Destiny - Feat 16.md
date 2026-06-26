@@ -16,7 +16,7 @@ _Archetype_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 You possess such profound leverage over a creature's existence that you can outright reject their successes, forcing fate to rewrite itself.
 
-## Rewrite Tale ↩
+## Rewrite Tale ◇
 
 _Concentrate, Misfortune_
 **Trigger** A creature you hold at least 3 Pieces of Truth for rolls a Saving Throw, Attack Roll, or Skill Check.

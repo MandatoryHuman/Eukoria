@@ -12,7 +12,7 @@ tags:
 level: 6
 ---
 
-_Archetype_
+_Archetype_, _Uncovering_
 \[Prerequisites:: [[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 You map a creature's physical limits and reflexive instincts in the chaotic heat of battle. Add the following to the list of triggers you can Uncover Truth on.
 

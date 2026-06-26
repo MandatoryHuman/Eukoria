@@ -12,6 +12,6 @@ tags:
 level: 16
 ---
 
-_Archetype_
+_Archetype_, _Uncovering_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 The truths of the universe flow into your mind effortlessly. You can now use your _Uncover Truth_ ability as a Free Action instead of a Reaction.

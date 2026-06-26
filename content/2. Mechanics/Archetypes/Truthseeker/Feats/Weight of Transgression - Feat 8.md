@@ -18,6 +18,6 @@ You channel the absolute judgment of the heavens, weaponizing a creature's sins 
 
 ## Channel Sins ◆
 
-_Divine, Spirit_
+_Divine, Spirit, Flourish_
 **Requirements** You currently hold at least 1 Piece of Truth about the target.
-**Effect** You expend and forget 1 Piece of Truth about the creature to pronounce their guilt. The target takes 1d8 Spirit damage per level you possess, with a basic Will saving throw against your class or spell DC (whichever is higher). On a critical failure, they are also Stunned 1 as the weight of their sins crushes them.
+**Effect** The target takes 1d4 Spirit damage per level you possess, with a basic Will saving throw against your class or spell DC (whichever is higher). On a critical failure, they are also Stunned 1 as the weight of their sins crushes them.

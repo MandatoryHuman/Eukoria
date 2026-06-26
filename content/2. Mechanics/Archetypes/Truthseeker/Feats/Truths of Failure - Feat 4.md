@@ -12,7 +12,7 @@ tags:
 level: 4
 ---
 
-_Archetype_
+_Archetype_, _Uncovering_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 You learn to read a creature's failures and subjective experiences, pulling secrets from their mistakes. Add the following triggers to your _Uncover Truth_ reaction:
 

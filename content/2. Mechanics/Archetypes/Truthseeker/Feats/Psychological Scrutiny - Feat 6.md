@@ -12,7 +12,7 @@ tags:
 level: 6
 ---
 
-_Archetype_
+_Archetype_, _Uncovering_
 \[Prerequisites:: [[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
 You map the contours of a creature's mind through conversation, deception, and intimidation. Add the following to the list of triggers you can Uncover Truth on.
 
