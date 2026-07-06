@@ -281,8 +281,6 @@ plugins:
     enabled: true
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
-  - source: github:quartz-community/custom-og-images
-    enabled: true
 layout:
   groups:
     toolbar:
