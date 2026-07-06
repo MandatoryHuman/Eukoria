@@ -20,12 +20,13 @@ Type: Industrial Revolution & Political Uprising
 Location: Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas
 Factions Involved: Early Inventors Guilds; Secular Militias; Orthodox Loyalists
 Key Figures: Chancellor Vondal Iron-Speaker
+"[Key Figures": Chancellor Vondal Iron-Speaker]
 ---
 
 \[Type:: Industrial Revolution & Political Uprising]
 \[Location:: Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]]
 \[Factions Involved:: Early Inventors Guilds; Secular Militias; Orthodox Loyalists]
-[Key Figures:: Chancellor Vondal Iron-Speaker]
+\[Key Figures:: Chancellor Vondal Iron-Speaker]
 
 # Overview
 

@@ -9,6 +9,7 @@ published: 2026-06-26T19:33:23.274+01:00
 tags:
   - NPCs
 ---
+
 \[Pronouns::He/Him]
 \[Ancestry::Dwarf]
 \[Background::Engineer]

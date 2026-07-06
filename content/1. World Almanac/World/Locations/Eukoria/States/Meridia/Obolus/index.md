@@ -5,8 +5,12 @@ aliases:
 title: Obolus
 created: 2026-03-30T12:31:05.482+01:00
 modified: 2026-03-31T15:15:46.081+01:00
+published: 2026-07-06T11:58:58.371+01:00
 tags:
   - Settlement
+  - Location
+marker:
+  - coordinates: 1979,3820
 ---
 
 \[Type::Capital]

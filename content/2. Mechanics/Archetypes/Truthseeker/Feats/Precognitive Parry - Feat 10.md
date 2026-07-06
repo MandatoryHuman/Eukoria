@@ -10,6 +10,8 @@ tags:
   - "#Archetype"
   - "#Feat"
 level: 10
+"---\n\n_Archetype_, _Revealing_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
 ---
 
 _Archetype_, _Revealing_
