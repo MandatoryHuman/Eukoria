@@ -6,6 +6,7 @@ aliases:
 title: Lethos, God of Trickery
 created: 2026-03-30T12:31:05.448+01:00
 modified: 2026-05-23T22:47:00.514+01:00
+published: 2026-07-06T11:28:32.810+01:00
 enemy:
   - "[[Syla, Goddess of Records]]"
 ---
@@ -15,7 +16,7 @@ enemy:
 As one of the prominent [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], Lethos governs the domains of wit, strategy, deception, and ruthless cunning. He represents the legally dubious boundaries of trickery, testing the structures of society, mostly without _overtly_ breaking its laws. He sits beneath [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - as a member of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]. To his worshippers, he embodies the concept that a sharp mind, statecraft, and strategic subterfuge have a rightful, structured place in the world.
 However, to many, a shadow hangs over his faith. While his worship is technically legal in most regions, it is deeply frowned upon by hardliners who despise the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], owing to the dark and manipulative role Lethos played in their creation during the [[War of Laws]].
 
-![[Lethos.webp|400]]
+![[Assets/Gods/Lethos.webp|400]]
 
 ## Dogma
 

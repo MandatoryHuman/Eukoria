@@ -10,6 +10,8 @@ tags:
   - "#Archetype"
   - "#Feat"
 level: 8
+"---\n\n_Archetype, Aura, Primal_, _Revealing_\n\\[Prerequisites": "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]"
+Prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication"
 ---
 
 _Archetype, Aura, Primal_, _Revealing_
