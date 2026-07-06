@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.tags.contains("location")
+views:
+  - type: table
+    name: Table
+  - type: leaflet-map
+    name: View
+    image: Assets/Maps/Eukoria Map.webp
+    height: 800
+    defaultZoom: 0
+    unit: km
+  - type: leaflet-map
+    name: View 2
+    image: Assets/Maps/Eukoria Map.webp
+    height: 800
+    minZoom: -2
+    defaultZoom: -6
+    maxZoom: 4
