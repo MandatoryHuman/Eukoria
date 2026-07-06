@@ -277,6 +277,10 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/bases-page
+    enabled: true
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
 layout:
   groups:
     toolbar:
