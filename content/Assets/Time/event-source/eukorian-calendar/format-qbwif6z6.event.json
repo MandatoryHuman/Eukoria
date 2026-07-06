@@ -1,0 +1,18 @@
+{
+  "id": "format-qbwif6z6",
+  "calendarId": "eukorian-calendar",
+  "title": "Formation of Meridia",
+  "date": {
+    "year": 0,
+    "monthIndex": 8,
+    "day": 6
+  },
+  "description": "The Formation of Meridia began in the same year the War of Laws ended, during a period when Eukoria was still reeling from divine devastation. This was the day that High Arbiter Garadwen and the rest of the founders made their first voyage through the God Scar Strait. It's said that Obolus now stands at the location they originally landed.",
+  "color": "#4e3e3e",
+  "tagRefs": [
+    "event-scale:national"
+  ],
+  "noteRef": "1. World Almanac/World/Events/Formation of Meridia.md",
+  "createdAt": "2026-07-03T09:27:03.255Z",
+  "updatedAt": "2026-07-03T09:27:03.255Z"
+}

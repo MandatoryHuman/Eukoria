@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "eukorian-calendar",
+  "year": 0,
+  "days": {
+    "8-6": {
+      "items": [
+        {
+          "id": "format-qbwif6z6",
+          "title": "Formation of Meridia",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

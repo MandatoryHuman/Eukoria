@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "eukorian-calendar",
+  "name": "Eukorian Calendar",
+  "definition": {
+    "id": "eukorian-calendar",
+    "name": "Eukorian Calendar",
+    "eraLabel": "BW",
+    "weekdays": [
+      "Moonday",
+      "Toilday",
+      "Wealday",
+      "Oathday",
+      "Fireday",
+      "Starday",
+      "Sunday"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Prima",
+        "days": 31
+      },
+      {
+        "id": "month-2",
+        "name": "Snappe",
+        "days": 28
+      },
+      {
+        "id": "month-3",
+        "name": "Anu",
+        "days": 31
+      },
+      {
+        "id": "month-4",
+        "name": "Rusanne",
+        "days": 30
+      },
+      {
+        "id": "month-5",
+        "name": "Farlong",
+        "days": 31
+      },
+      {
+        "id": "month-6",
+        "name": "Sola",
+        "days": 30
+      },
+      {
+        "id": "month-7",
+        "name": "Fletch",
+        "days": 31
+      },
+      {
+        "id": "month-8",
+        "name": "Hazen",
+        "days": 31
+      },
+      {
+        "id": "month-9",
+        "name": "Nuvar",
+        "days": 30
+      },
+      {
+        "id": "month-10",
+        "name": "Shaldo",
+        "days": 31
+      },
+      {
+        "id": "month-11",
+        "name": "Joya",
+        "days": 30
+      },
+      {
+        "id": "month-12",
+        "name": "Kai",
+        "days": 31
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [
+      {
+        "id": "leap-day-1",
+        "name": "Leap day",
+        "placement": "append-to-month",
+        "insertAfterMonthIndex": 1,
+        "days": 1,
+        "cycleYears": 4,
+        "leapYearPositions": [
+          4
+        ]
+      }
+    ],
+    "weatherProfile": {
+      "mode": "absolute-day-cycle",
+      "climateYearLength": 360,
+      "baseOffsetDays": 59,
+      "cycleReset": "none"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Before War",
+        "shortName": "BW",
+        "startYear": -1000,
+        "startMonthIndex": 0,
+        "endYear": -1,
+        "endMonthIndex": 11,
+        "endDay": 30,
+        "startDay": 1
+      },
+      {
+        "id": "aw",
+        "name": "After War",
+        "shortName": "AW",
+        "startYear": 0,
+        "startMonthIndex": 0,
+        "endYear": 0,
+        "endMonthIndex": 11,
+        "endDay": 31,
+        "startDay": 1
+      }
+    ],
+    "moons": [],
+    "yearNames": [],
+    "monthWeekdayMode": "continuous",
+    "startWeekdayIndex": 0,
+    "yearDisplay": {
+      "negativeYearsMode": "signed",
+      "largeYearFormat": "plain"
+    },
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Spring",
+        "startDay": 1,
+        "endDay": 90,
+        "color": "#a7d36d"
+      },
+      {
+        "id": "summer",
+        "name": "Summer",
+        "startDay": 91,
+        "endDay": 180,
+        "color": "#e2b35d"
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn",
+        "startDay": 181,
+        "endDay": 270,
+        "color": "#d98859"
+      },
+      {
+        "id": "winter",
+        "name": "Winter",
+        "startDay": 271,
+        "endDay": 360,
+        "color": "#7fa8d8"
+      }
+    ],
+    "time": {
+      "enabled": false,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "year",
+    "todayDate": {
+      "year": 116,
+      "monthIndex": 0,
+      "day": 1
+    },
+    "cursorDate": {
+      "year": 0,
+      "monthIndex": 8,
+      "day": 6
+    }
+  },
+  "linkedTagPackIds": [
+    "event-scale"
+  ],
+  "linkedWeatherPackIds": [],
+  "defaultWeatherPackId": "general",
+  "autoGenerateLinkedWeatherReferences": false,
+  "markers": []
+}

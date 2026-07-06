@@ -1,0 +1,33 @@
+---
+publish: true
+aliases:
+  - basic essences
+title: Basic Essences
+created: 2026-03-30T12:31:05.510+01:00
+modified: 2026-06-11T13:53:35.811+01:00
+---
+
+> [!quote|author] Origin Myths of Eukoria
+> "Before the wheel of the four Fundamentals could turn, there had to be a space for it to turn within, and a force to set it in motion."
+
+While the four [[Fundamental Essences]] make up the complex reality of the mortal plane and the orthodox magic system, the Basic Essences serve as the absolute, binary anchors of existence.
+They are the most primordial forces in the cosmos. [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - the primordial deities of Eukoria - are solely comprised of a single Basic Essence each. When a Basic Essence interacts with a Fundamental, it creates the broader domains of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] outside of the Gods of Magic.
+
+# The Two Basic Essences
+
+## Presence
+
+The concept of something being created, existing, and reproducing. It is the unmitigated force of manifestation, growth, and the addition of new elements into reality. Pure Presence is too overwhelming for physical reality to sustain for long without the tempering of the Fundamentals.
+
+## Absence
+
+The concept of something being destroyed, decaying, and going extinct. It is the inevitable force of the void, erasure, and the subtraction of elements from reality. Pure Absence is a terrifying, consuming vacuum that reality naturally abhors.
+
+## The Paradox of Fate
+
+Combining Presence and Absence is a cosmic contradiction. The only known entity comprised of both Basic Essences is [[Aporia, God of Fate]], a deeply unnatural and taboo Greater God who embodies the boundary between what is and what is not.
+
+## Related
+
+- [[Fundamental Essences]] - Mind, Spirit, Life, and Matter.
+- [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - The primordial anchors of Presence and Absence.

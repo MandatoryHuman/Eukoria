@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "kind": "tag-pack",
+  "id": "event-scale",
+  "name": "Event Scale",
+  "tags": [
+    {
+      "id": "universal",
+      "name": "universal",
+      "color": "#d46b65"
+    },
+    {
+      "id": "global",
+      "name": "global",
+      "color": "#009919"
+    },
+    {
+      "id": "national",
+      "name": "national",
+      "color": "#e2b35d"
+    },
+    {
+      "id": "local",
+      "name": "local",
+      "color": "#2d70a4"
+    }
+  ],
+  "description": "The scale on which the event occured"
+}
