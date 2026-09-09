@@ -6,8 +6,11 @@ aliases:
 title: Amnis the Burdened, Goddess of Forgiveness
 created: 2026-03-30T12:31:05.444+01:00
 modified: 2026-03-31T15:15:46.072+01:00
+published: 2026-06-11T16:07:27.998Z
 tags:
   - Gods
+\[Areas of Concern: Honesty, Redemption, Divine magic]
+Areas of Concern: Honesty, Redemption, Divine magic
 ---
 
 Amnis is the Greater Goddess of Forgiveness and Redemption, and the Goddess of Divine Magic.

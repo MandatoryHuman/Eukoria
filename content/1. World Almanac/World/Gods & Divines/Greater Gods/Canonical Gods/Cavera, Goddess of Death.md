@@ -6,6 +6,7 @@ aliases:
 title: Cavera, Goddess of Death
 created: 2026-03-30T12:31:05.443+01:00
 modified: 2026-03-31T15:15:46.070+01:00
+published: 2026-06-11T16:07:27.994Z
 tags:
   - Gods
 ---

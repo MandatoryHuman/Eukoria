@@ -5,6 +5,7 @@ aliases:
 title: Archaeologists' Society
 created: 2026-03-30T12:31:05.467+01:00
 modified: 2026-03-31T16:09:20.692+01:00
+published: 2026-06-11T16:07:28.000Z
 ---
 
 \[Type::]

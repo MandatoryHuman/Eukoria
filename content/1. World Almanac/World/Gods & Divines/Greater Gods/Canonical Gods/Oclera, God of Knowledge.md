@@ -6,6 +6,7 @@ aliases:
 title: Oclera, God of Knowledge
 created: 2026-03-30T12:31:05.449+01:00
 modified: 2026-03-31T15:15:46.074+01:00
+published: 2026-06-11T20:04:25.008Z
 tags:
   - Gods
 ---

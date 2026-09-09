@@ -6,6 +6,7 @@ aliases:
 title: Greater Gods
 created: 2026-03-30T12:31:05.452+01:00
 modified: 2026-03-31T15:15:46.076+01:00
+published: 2026-06-11T16:07:28.042Z
 tags:
   - Lore
 ---

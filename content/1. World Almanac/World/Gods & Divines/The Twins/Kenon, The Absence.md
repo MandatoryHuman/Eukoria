@@ -6,6 +6,7 @@ aliases:
 title: Kenon, The Absence
 created: 2026-03-30T12:31:05.463+01:00
 modified: 2026-03-30T11:27:51.923+01:00
+published: 2026-07-06T11:01:28.460Z
 tags:
   - Gods
 ---

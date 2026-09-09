@@ -5,6 +5,7 @@ aliases:
 title: The Kazarn Hegemony
 created: 2026-03-30T12:31:05.506+01:00
 modified: 2026-03-31T17:08:47.456+01:00
+published: 2026-06-11T16:07:28.035Z
 tags:
   - State
 ---

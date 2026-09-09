@@ -6,6 +6,7 @@ aliases:
 title: Aporia, God of Fate
 created: 2026-03-30T12:31:05.453+01:00
 modified: 2026-03-31T15:15:46.074+01:00
+published: 2026-06-11T20:07:07.300Z
 tags:
   - Gods
 ---

@@ -6,6 +6,7 @@ aliases:
 title: Ontos, The Presence
 created: 2026-03-30T12:31:05.464+01:00
 modified: 2026-03-30T11:28:01.145+01:00
+published: 2026-07-06T11:01:28.460Z
 tags:
   - Gods
 ---

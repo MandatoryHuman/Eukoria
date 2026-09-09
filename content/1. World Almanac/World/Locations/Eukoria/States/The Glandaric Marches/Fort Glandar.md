@@ -5,6 +5,7 @@ aliases:
 title: Fort Glandar
 created: 2026-03-31T20:19:18.497+01:00
 modified: 2026-03-31T20:19:41.510+01:00
+published: 2026-06-11T16:07:28.001Z
 tags:
   - Settlement
 ---

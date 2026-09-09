@@ -7,8 +7,27 @@ aliases:
 title: The Salvage-Pact of Oremourn
 created: 2026-05-27T18:40:26.530+01:00
 modified: 2026-05-27T19:05:24.766+01:00
+published: 2026-06-11T16:07:28.042Z
 tags:
   - State
+"  - State\n---\n\n\\[Capital": The Great Hulk]
+\[Government: Decentralized Warlord Coalition]
+\[Ruler: The Council of Iron]
+\[Population: Approx. 600,000]
+\[Demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp]
+\[Languages: Common, Goblin, Orcish]
+\[Religions: Cults of [[Aethelgard, God of Relics]], various localized machine-spirits]
+\[Major Exports: Volatile steampunk technology, salvaged celestial metals, raw black-powder]
+\[Major Imports: Clean water, uncontaminated food, medical supplies]
+Capital: The Great Hulk
+Government: Decentralized Warlord Coalition
+Ruler: The Council of Iron
+Population: Approx. 600,000
+Demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
+Languages: Common, Goblin, Orcish
+Religions: Cults of [[Aethelgard, God of Relics
+Major Exports: Volatile steampunk technology, salvaged celestial metals, raw black-powder
+Major Imports: Clean water, uncontaminated food, medical supplies
 ---
 
 \[Capital:: The Great Hulk]

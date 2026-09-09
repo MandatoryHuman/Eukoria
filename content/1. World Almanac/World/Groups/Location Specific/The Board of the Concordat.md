@@ -5,6 +5,7 @@ aliases:
 title: The Board of the Concordat
 created: 2026-03-30T12:31:05.469+01:00
 modified: 2026-03-31T16:07:30.412+01:00
+published: 2026-06-11T16:07:27.999Z
 ---
 
 \[Type::]

@@ -17,6 +17,7 @@ Type: Supernatural Disaster & State Formation
 Location: "[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy"
 Factions Involved: Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death
 Key Figures: "[[The Undying Sovereign"
+"---\n\n\\[Type": Supernatural Disaster & State Formation]
 ---
 
 \[Type:: Supernatural Disaster & State Formation]

@@ -6,6 +6,7 @@ aliases:
 title: Opiroth Dependancy
 created: 2026-06-11T13:35:25.292+01:00
 modified: 2026-06-11T13:35:55.850+01:00
+published: 2026-06-13T18:06:21.422Z
 tags:
   - Disease
 ---

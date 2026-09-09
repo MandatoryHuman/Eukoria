@@ -6,6 +6,7 @@ aliases:
 title: Gods & Divines
 created: 2026-03-30T12:31:05.439+01:00
 modified: 2026-03-31T15:15:46.078+01:00
+published: 2026-06-11T16:07:28.042Z
 ---
 
 The theology of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] is inextricably linked to the mechanics of reality itself. The divine hierarchy is based on the exact cosmic geometry of the four [[Fundamental Essences]] (Life, Spirit, Mind, Matter) and the two [[Basic Essences]] (Presence, Absence). The Gods are separated into strict categories depending on how their underlying essences interact, align, or clash.
