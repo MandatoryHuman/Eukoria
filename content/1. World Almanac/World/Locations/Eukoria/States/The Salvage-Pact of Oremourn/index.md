@@ -20,7 +20,7 @@ tags:
 
 # Overview
 
-Situated in northern [[Antoria]], sandwiched between the storm-battered [[The Rastorian Reach|Rastorian Reach]] and the eroding [[The Kazarn Hegemony|Kazarn Hegemony]], is a brutal, industrial patchwork of "Scrap-Baronies" collectively known as the Salvage-Pact of Oremourn.
+Situated in northern [[Antoria]], sandwiched between the storm-battered [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|Rastorian Reach]] and the eroding [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarn Hegemony]], is a brutal, industrial patchwork of "Scrap-Baronies" collectively known as the Salvage-Pact of Oremourn.
 
 The society of Oremourn is built around the Pact is the blood-and-oil, a treaty that keeps the local warlords from entirely annihilating one another - most of the time. It regulated the harvest of rotting "god-corpses" left over from the apocalypse, which are then used to build crude, incredibly powerful magitek inventions.
 
@@ -38,9 +38,9 @@ There is no central monarch or prince. Oremourn is a patchwork of shifting terri
 
 # Diplomatic Relations
 
-- [[The Kazarn Hegemony]] (Border Skirmishes): Kazarn frequently invades Oremourn's southern borders to strip-mine their scrap and salvage pure iron for their eroding war machine, leading to brutal, mechanized trench warfare.
-- [[The Sealed Orthodoxy of the Chrysalis]] (Hostile): The strict abjurers to the east view the volatile tech and localized Dismagic of Oremourn as an apocalyptic contagion, frequently sending sabotage squads to destroy large scrap-hauls.
-- [[The Rastorian Reach]] (Trade Partners): The Rastorians trade their leviathan bone and storm-amber for Oremourn's black-powder and steam-engines to power their massive longships.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Border Skirmishes): Kazarn frequently invades Oremourn's southern borders to strip-mine their scrap and salvage pure iron for their eroding war machine, leading to brutal, mechanized trench warfare.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/index|The Sealed Orthodoxy of the Chrysalis]] (Hostile): The strict abjurers to the east view the volatile tech and localized Dismagic of Oremourn as an apocalyptic contagion, frequently sending sabotage squads to destroy large scrap-hauls.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|The Rastorian Reach]] (Trade Partners): The Rastorians trade their leviathan bone and storm-amber for Oremourn's black-powder and steam-engines to power their massive longships.
 
 # History & Lore
 

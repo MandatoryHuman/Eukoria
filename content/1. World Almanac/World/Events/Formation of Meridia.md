@@ -1,13 +1,17 @@
 ---
+publish: true
 aliases:
   - formation of meridia
 title: Formation of Meridia
+created: 2026-09-11T09:10:57.392Z
+modified: 2026-09-11T10:09:14.594Z
+published: 2026-09-11T10:09:14.594Z
 tags:
   - "#Events"
 ---
 
 \[Type::State Formation]
-\[Location::[[God-Scar Strait]]; [[Obolus]]; [[Eukoria]]]
+\[Location::[[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Factions Involved::Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers]
 \[Key Figures::[[High Arbiter Garadwen]]]
 
@@ -15,7 +19,7 @@ tags:
 
 # Overview
 
-The Formation of Meridia began in the same year the [[War of Laws]] ended, during a period when [[Eukoria]] was still reeling from divine devastation. This was the day that [[High Arbiter Garadwen]] and the rest of the founders made their first voyage through the [[God-Scar Strait]]. It's said that [[Obolus]] now stands at the location they originally landed.
+The Formation of Meridia began in the same year the [[War of Laws]] ended, during a period when [[index|Eukoria]] was still reeling from divine devastation. This was the day that [[High Arbiter Garadwen]] and the rest of the founders made their first voyage through the [[God-Scar Strait]]. It's said that [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] now stands at the location they originally landed.
 
 # Prelude & Causes
 
@@ -27,10 +31,10 @@ Seeing both the need and the opportunity, a young [[High Arbiter Garadwen]] and 
 
 Garadwen's company began operations with high risk and uneven results. Early crossings suffered losses and a far lower success rate than modern Meridian traffic, but each completed voyage proved the route could be learned and improved.
 
-Within two years, the group was offering regular transport services to recovering nations across [[Eukoria]]. Revenue from those voyages was reinvested into expanding their temporary camp, transforming it from a logistics outpost into a permanent settlement. By the end of that growth cycle, the settlement's trajectory was clear: it would become [[Obolus]].
+Within two years, the group was offering regular transport services to recovering nations across [[index|Eukoria]]. Revenue from those voyages was reinvested into expanding their temporary camp, transforming it from a logistics outpost into a permanent settlement. Even after just a half-dozen years of this cycle the settlement's potential to become a hub of activity became clear, and so it was named [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]].
 
 # Aftermath & Legacy
 
-The establishment of [[Obolus]] created a stable maritime gateway between major landmasses and gave Meridia its enduring political center. Over time, the shipping network born from Garadwen's hazardous expeditions became the backbone of Meridian influence.
+The establishment of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] created a stable maritime gateway between major landmasses and gave Meridia its enduring political centre. Over time, the shipping network born from Garadwen's hazardous expeditions became the backbone of Meridian influence.
 
 In modern historical accounts, the Formation of Meridia is remembered as a reconstruction-era turning point: a transition from post-war survival to organized statecraft, commerce, and long-distance connectivity.

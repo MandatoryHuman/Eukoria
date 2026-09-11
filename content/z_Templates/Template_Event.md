@@ -4,8 +4,8 @@ aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
 created: 2026-09-11T09:10:58.061Z
-modified: 2026-09-11T09:10:39.582Z
-published: 2026-09-11T09:10:39.582Z
+modified: 2026-09-11T10:09:14.821Z
+published: 2026-09-11T10:09:14.821Z
 tags:
   - "#Events"
 ---

@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Non-Canonical Gods
 title: Non-Canonical Gods
+created: 2026-09-11T09:10:57.463Z
+modified: 2026-09-11T10:11:26.992Z
+published: 2026-09-11T10:11:26.992Z
 tags:
   - Lore
 ---
@@ -9,7 +13,7 @@ tags:
 > [!quote|Author] Exiled Arcanist's Journal
 > "The church calls them heretics. Fools. They are not heretics; they are simply the friction of non-adjacent realities grinding against one another. They are the sudden spark in the dark - dangerous, yes, but brilliantly powerful."
 
-Non-Canonical Gods are a classification of [[Greater Gods]] defined by cosmic friction. They are comprised of two non-adjacent (opposing or clashing) Essences on the cosmic wheel.
+Non-Canonical Gods are a classification of [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] defined by cosmic friction. They are comprised of two non-adjacent (opposing or clashing) Essences on the cosmic wheel.
 
 # The Political vs. Scholarly Views
 
@@ -23,9 +27,9 @@ Because their component essences do not naturally flow into one another, Non-Can
 
 # Sub-Categories
 
-The most infamous subset of these deities are the [[Gods of Dismagic]], who combine clashing Fundamental Essences to create forbidden magical traditions.
-Aside from the [[Gods of Dismagic]], the only other Non-Canonical God that is known to exist today is [[Aporia, God of Fate]], who is comprised of Presence and Absence.
+The most infamous subset of these deities are the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]], who combine clashing Fundamental Essences to create forbidden magical traditions.
+Aside from the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]], the only other Non-Canonical God that is known to exist today is [[Aporia, God of Fate]], who is comprised of Presence and Absence.
 
 # Related
 
-- [[Canonical Gods]]
+- [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]

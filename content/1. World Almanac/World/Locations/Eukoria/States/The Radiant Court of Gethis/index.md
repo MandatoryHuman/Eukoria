@@ -21,7 +21,7 @@ tags:
 
 # Overview
 
-Located in the northeast of [[Cenora]], The Radiant Court of Gethis is a nation in deep, opulent denial. With the reality-warping madness of [[The Daeshin Null-State]] directly to the South, Gethis should be a war-torn hellscape, much like [[The Glandaric Marches]]. Instead, the aristocracy has utilised staggering amounts of Illusion and Occult magic to literally cloak their nation in an eternal, perfect twilight masquerade.
+Located in the northeast of [[Cenora]], The Radiant Court of Gethis is a nation in deep, opulent denial. With the reality-warping madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] directly to the South, Gethis should be a war-torn hellscape, much like [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]]. Instead, the aristocracy has utilised staggering amounts of Illusion and Occult magic to literally cloak their nation in an eternal, perfect twilight masquerade.
 
 # Geography & Climate
 
@@ -39,8 +39,8 @@ Gethis is ruled by an incredibly vain aristocracy led by Grand Duke Valerius, wh
 
 # Diplomatic Relations
 
-- [[The Glandaric Marches]] (Disgust/Pity): The scarred, traumatised soldiers of the Marches utterly loathe the Gethians, viewing them as cowardly, powdered fops ignoring the real war. Gethis views the Marches as depressing brutes who lack aesthetic taste.
-- [[The Directorate of Vael]] (Hostile): Vael’s obsession with absolute truth and transparency puts them at fundamental ideological odds with Gethis's illusionary society, frequently resulting in espionage and diplomatic sabotage.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]] (Disgust/Pity): The scarred, traumatised soldiers of the Marches utterly loathe the Gethians, viewing them as cowardly, powdered fops ignoring the real war. Gethis views the Marches as depressing brutes who lack aesthetic taste.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Hostile): Vael’s obsession with absolute truth and transparency puts them at fundamental ideological odds with Gethis's illusionary society, frequently resulting in espionage and diplomatic sabotage.
 
 # History & Lore
 
@@ -49,7 +49,7 @@ Before the [[War of Laws]], Gethis was the cultural and artistic capital of Ceno
 # Notable Locations
 
 - [[Prismathia]]: The capital city, a dizzying metropolis of glass, crystal, and hard-light illusions where the architecture changes daily based on the current artistic trends of the ruling Duke.
-- The Painted Border: The southern border where Gethis meets [[The Daeshin Null-State|Daeshin]]. It looks like a beautiful, serene painting of a mountain range from a distance, but stepping through the illusion reveals the horrific, ash-choked reality of the Null-State.
+- The Painted Border: The southern border where Gethis meets [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|Daeshin]]. It looks like a beautiful, serene painting of a mountain range from a distance, but stepping through the illusion reveals the horrific, ash-choked reality of the Null-State.
 
 # Prominent Factions
 

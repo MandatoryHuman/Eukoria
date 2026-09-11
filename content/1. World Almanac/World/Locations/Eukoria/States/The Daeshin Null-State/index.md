@@ -20,7 +20,7 @@ tags:
 
 # Overview
 
-The Daeshin Null-State is not a functioning country, but a massive, quarantined wasteland in the centre of [[Cenora]]. It is likely the most physically and psychologically dangerous landmass on [[Eukoria]]. Reality itself is fundamentally broken here; gravity stutters, rivers flow backward, and dead-magic zones frequently overlap with areas of hyper-volatile Dismagic. It is a haven only for the mad, the mutated, and those who have absolutely nowhere else to run, living in the shadow of a ruined, hollowed-out capital that stands as a monument to divine murder.
+The Daeshin Null-State is not a functioning country, but a massive, quarantined wasteland in the centre of [[Cenora]]. It is likely the most physically and psychologically dangerous landmass on [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Reality itself is fundamentally broken here; gravity stutters, rivers flow backward, and dead-magic zones frequently overlap with areas of hyper-volatile Dismagic. It is a haven only for the mad, the mutated, and those who have absolutely nowhere else to run, living in the shadow of a ruined, hollowed-out capital that stands as a monument to divine murder.
 
 # Geography & Climate
 
@@ -38,8 +38,8 @@ Anarchy reigns. Authority is held only by those powerful or mad enough to carve 
 
 # Diplomatic Relations
 
-- Global Quarantine: Every recognized nation on Eukoria enforces a strict blockade on the Null-State. [[The Directorate of Vael]] maintains the most heavily militarized and psychically warded border to the west, firing at anything or anyone that attempts to leave Daeshin on sight.
-- [[Heretic's Wake]]: Occasionally, desperate smugglers from the [[Flotilla]] of the Unbound - and even sometimes other Nations - will navigate the treacherous lands to trade smuggled goods for the highly potent, reality-warping artifacts found within the wastes.
+- Global Quarantine: Every recognized nation on Eukoria enforces a strict blockade on the Null-State. [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] maintains the most heavily militarized and psychically warded border to the west, firing at anything or anyone that attempts to leave Daeshin on sight.
+- [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]: Occasionally, desperate smugglers from the [[Flotilla]] of the Unbound - and even sometimes other Nations - will navigate the treacherous lands to trade smuggled goods for the highly potent, reality-warping artifacts found within the wastes.
 
 # History & Lore
 

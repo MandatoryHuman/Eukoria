@@ -14,7 +14,7 @@ tags:
 \[Demographics::Humans, Fleshwarps. Gobins, Automatons]
 \[Languages::Common, Sakvroth]
 \[Religions::[[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]]
-\[Major Exports::Biological [[Anchors]], potent analgesics, rare toxins, alchemical reagents]
+\[Major Exports::Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents]
 \[Major Imports::Base Metals, test subjects, raw foodstuffs]
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
@@ -33,7 +33,7 @@ Today, the flora that clings to the dry canyon walls is hyper-toxic and chemical
 
 Opirothian society is a ruthless, clinical meritocracy driven entirely by the pursuit of chemical perfection. Status is determined by one's contribution to the "Grand Synthesis" - the ongoing effort to cure the reality-warping afflictions of the world. Pain management is central to their culture; citizens frequently utilise mild, locally synthesised analgesics to endure the harsh environment, resulting in a remarkably sedate, focused, and quietly terrifying populace.
 
-The most controversial aspect of their culture is their approach to biological diversity. Because different ancestries metabolise active magical compounds completely differently, a dosage of Opiroth resin that successfully grounds a [[Nephilim]] might cause fatal arcane toxicity in a human. Consequently, "Volunteers" of varied bloodlines are highly prized and frequently abducted by mercenary snatch-squads to serve as test subjects in the Vales' subterranean laboratories.
+The most controversial aspect of their culture is their approach to biological diversity. Because different ancestries metabolise active magical compounds completely differently, a dosage of Opiroth resin that successfully grounds a [[2. Mechanics/Ancestries/Nephilim/index|Nephilim]] might cause fatal arcane toxicity in a human. Consequently, "Volunteers" of varied bloodlines are highly prized and frequently abducted by mercenary snatch-squads to serve as test subjects in the Vales' subterranean laboratories.
 
 # Government & Politics
 
@@ -41,9 +41,9 @@ The state is governed by the Pharmacopoeia Council, a syndicate of the most bril
 
 # Diplomatic Relations
 
-- [[The Directorate of Vael]] (Hostile): Vael view the chemical alterations and Dismagic experiments of Opiroth as a vile corruption of pure intellect. Vael has been known to dispatch teams to burn Opiroth's canyon laboratories to the ground - mostly when they are in need of building a little religious fervour in their homeland.
-- [[The Glandaric Marches]] (Covert Dependency): While the rigid Iron Wardens of the Marches publicly condemn Opiroth, the desperate border-soldiers secretly purchase massive quantities of Opirothian chemical Anchors to survive the memory-wiping storms of the [[The Daeshin Null-State|Daeshin Null-State]], as well as Opiroth resin to quell their pains.
-- [[The Widhor Sanctum]] (Ideological Split): Widhor's empathic Fleshwarpers use Passion-Magic for healing and mutual care, and are horrified by Opiroth’s cold, non-consensual biomantic experimentation.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Hostile): Vael view the chemical alterations and Dismagic experiments of Opiroth as a vile corruption of pure intellect. Vael has been known to dispatch teams to burn Opiroth's canyon laboratories to the ground - mostly when they are in need of building a little religious fervour in their homeland.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]] (Covert Dependency): While the rigid Iron Wardens of the Marches publicly condemn Opiroth, the desperate border-soldiers secretly purchase massive quantities of Opirothian chemical Anchors to survive the memory-wiping storms of the [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|Daeshin Null-State]], as well as Opiroth resin to quell their pains.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Widhor Sanctum/index|The Widhor Sanctum]] (Ideological Split): Widhor's empathic Fleshwarpers use Passion-Magic for healing and mutual care, and are horrified by Opiroth’s cold, non-consensual biomantic experimentation.
 
 # History & Lore
 

@@ -7,7 +7,7 @@ tags:
   - Gods
 ---
 
-\[Category::[[Lesser Gods]]]
+\[Category::[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]]
 \[Aspects::Survival and the Food Chain]
 \[Edicts::Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild]
 \[Anathema::Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem]
@@ -16,6 +16,17 @@ tags:
 \[Sacred Animal::Wolf]
 \[Sacred Colours::Green and Blood Red]
 \[Pantheons/Covenants::]
+
+Venaria is an ancient, primal goddess of predator and prey. Represented as a towering woman clad in animal pelts with eyes like a hunting hawk, Venaria holds sway over the deep wilderness of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. She teaches that survival requires taking life, but that this cycle must be respected and never abused.
+
+![[Assets/Gods/Venaria.webp|400]]
+
+Hunters, rangers, and frontier settlers form the core of Venaria's faithful. Before stepping into the untamed wilds of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], it is customary to snap a dry twig and whisper a prayer to Venaria, asking to be the predator rather than the prey today. Shrines to Venaria are usually simple stone altars hidden deep in the forest, adorned with antlers, bones, and the first cut of meat from a successful hunt.
+
+![[Assets/Gods/Symbols/Venaria Symbol.webp|400]]
+
+## Devotee Benefits
+
 \[Divine Attribute::Dexterity or Wisdom]
 \[Divine Font::heal or harm]
 \[Divine Sanctification::none]
@@ -24,16 +35,6 @@ tags:
 \[Domains::[Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Death](https://2e.aonprd.com/Domains.aspx?ID=70)]
 \[Alternate Domains::[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)]
 \[Cleric Spells::1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [Animal Messenger](https://2e.aonprd.com/Spells.aspx?ID=1441), 4th: [Arrow Salvo](https://2e.aonprd.com/Spells.aspx?ID=1399)]
-
-Venaria is an ancient, primal goddess of predator and prey. Represented as a towering woman clad in animal pelts with eyes like a hunting hawk, Venaria holds sway over the deep wilderness of [[Eukoria]]. She teaches that survival requires taking life, but that this cycle must be respected and never abused.
-
-![[Assets/Gods/Venaria.webp|400]]
-
-Hunters, rangers, and frontier settlers form the core of Venaria's faithful. Before stepping into the untamed wilds of [[Eukoria]], it is customary to snap a dry twig and whisper a prayer to Venaria, asking to be the predator rather than the prey today. Shrines to Venaria are usually simple stone altars hidden deep in the forest, adorned with antlers, bones, and the first cut of meat from a successful hunt.
-
-![[Assets/Gods/Symbols/Venaria Symbol.webp|400]]
-
-## Devotee Benefits
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

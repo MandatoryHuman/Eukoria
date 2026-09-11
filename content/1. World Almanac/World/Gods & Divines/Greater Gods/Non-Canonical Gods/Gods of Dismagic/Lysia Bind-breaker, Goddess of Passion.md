@@ -1,14 +1,18 @@
 ---
+publish: true
 aliases:
   - Lysia
   - Lysia Bind-breaker
   - Goddess of Passion
 title: Lysia Bind-breaker, Goddess of Passion
+created: 2026-09-11T09:10:57.471Z
+modified: 2026-09-11T10:18:00.990Z
+published: 2026-09-11T10:18:00.990Z
 tags:
   - Gods
 ---
 
-\[Category::[[Greater Gods]]]
+\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Life and Mind]
 \[Edicts::Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains]
 \[Anathema::Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression]
@@ -16,7 +20,22 @@ tags:
 \[Religious Symbol::A heart wrapped in iron chains]
 \[Sacred Animal::Chameleon]
 \[Sacred Colours::Vibrant Magenta and Crimson]
-\[Pantheons/Covenants::[[Non-Canonical Gods]], [[Gods of Dismagic]]]
+\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]]
+
+Lysia Bind-breaker is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
+
+![[Assets/Gods/Lysia.webp|400]]
+
+Before the [[War of Laws]], Lysia was merely a [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser God]]. Her ambition to ascend to the orthodox pantheon was weaponized by [[Lethos, God of Trickery]], who orchestrated a celestial rebellion using her righteous fury. When the primordial anchors known as [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] briefly awoke to halt the carnage, they issued a decree that officially elevated Lysia to the ranks of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]], formally establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
+
+Because she draws upon cosmic friction rather than harmony, Lysia is highly controversial. Opponents of Dismagic evoke images of her practitioners hijacking nervous systems through parasitic telepathy, reducing stable lifeforms to maddened aberrations, and forcing unnatural evolutionary leaps. The [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] deity [[Maelis, Goddess of Fertility and Harvest]] stands in direct opposition to her, championing natural reproduction over Lysia's forced biological leaps.
+
+However, the reality of most of Lysia's faithful is often far more benevolent. Her Clerics frequently use this potent connection between intellect and vitality to protect those who cannot protect themselves: persecuted lovers, dissidents ostracised for speaking their truth, and innocents tossed out for failing to fit in. Many of her worshippers take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97), [Mind Smith](https://2e.aonprd.com/Archetypes.aspx?ID=351), or [Captivator](https://2e.aonprd.com/Archetypes.aspx?ID=125) dedications. She is heavily followed by Fleshwarps and the Fleshwarpers who create them, as well as many empathic Kashrishi.
+
+![[Assets/Gods/Symbols/Lysia Symbol.webp|400]]
+
+## Devotee Benefits
+
 \[Divine Attribute::Charisma or Constitution]
 \[Divine Font::Harm or Heal]
 \[Divine Sanctification::None]
@@ -25,20 +44,6 @@ tags:
 \[Domains::Passion, Change, Freedom, Healing]
 \[Alternate Domains::Nightmares]
 \[Cleric Spells::1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 5th: [Aberrant Form](https://2e.aonprd.com/Spells.aspx?ID=861)]
-
-Lysia Bind-breaker is the [[Greater Gods|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[Eukoria]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
-
-![[Assets/Gods/Lysia.webp|400]]
-
-Before the [[War of Laws]], Lysia was merely a [[Lesser Gods|Lesser God]]. Her ambition to ascend to the orthodox pantheon was weaponized by [[Lethos, God of Trickery]], who orchestrated a celestial rebellion using her righteous fury. When the primordial anchors known as [[The Twins]] briefly awoke to halt the carnage, they issued a decree that officially elevated Lysia to the ranks of the [[Greater Gods]], formally establishing the [[Gods of Dismagic]].
-
-Because she draws upon cosmic friction rather than harmony, Lysia is highly controversial. Opponents of Dismagic evoke images of her practitioners hijacking nervous systems through parasitic telepathy, reducing stable lifeforms to maddened aberrations, and forcing unnatural evolutionary leaps. The [[Canonical Gods|Canonical]] deity [[Maelis, Goddess of Fertility and Harvest]] stands in direct opposition to her, championing natural reproduction over Lysia's forced biological leaps.
-
-However, the reality of most of Lysia's faithful is often far more benevolent. Her Clerics frequently use this potent connection between intellect and vitality to protect those who cannot protect themselves: persecuted lovers, dissidents ostracised for speaking their truth, and innocents tossed out for failing to fit in. Many of her worshippers take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97), [Mind Smith](https://2e.aonprd.com/Archetypes.aspx?ID=351), or [Captivator](https://2e.aonprd.com/Archetypes.aspx?ID=125) dedications. She is heavily followed by Fleshwarps and the Fleshwarpers who create them, as well as many empathic Kashrishi.
-
-![[Assets/Gods/Symbols/Lysia Symbol.webp|400]]
-
-## Devotee Benefits
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

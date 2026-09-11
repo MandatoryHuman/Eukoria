@@ -16,7 +16,7 @@ tags:
 
 # Overview
 
-The dazzling capital city of [[The Tralichuan Expanse]], built across a series of vibrant coral reefs and white-sand barrier islands. The city is famous for its floating markets and grand naval academies.
+The dazzling capital city of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]], built across a series of vibrant coral reefs and white-sand barrier islands. The city is famous for its floating markets and grand naval academies.
 
 # Geography & Layout
 

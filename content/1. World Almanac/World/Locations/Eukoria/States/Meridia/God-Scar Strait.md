@@ -7,17 +7,17 @@ tags:
 ---
 
 \[Type::Oceanic Channel]
-\[Region::Central [[Eukoria]]]
+\[Region::Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Size/Length::120km at its narrowest]
 \[Climate::Temperate, but magically volatile]
 \[Danger Level::Extreme]
-\[Known For::[[Reality Storms]], [[Meridia|Meridian]] toll blockades, Shipwrecks]
+\[Known For::[[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks]
 
 (LANDSCAPE / MAP IMAGE)
 
 # Overview
 
-The God-Scar Strait is the treacherous, churning body of water separating the continents of [[Antoria]] and [[Cenora]]. Widely considered one of the most dangerous, highly-trafficked regions in the world, it is the geographic choke-point that holds the global economy hostage. At its narrowest point sits the capital city of [[Obolus]], where the [[Meridia|Meridian]] navy enforces extortionate tariffs on any ship attempting to cross between the continents. To outsiders, the Strait is a graveyard of broken ships, as well as sunk bank accounts.
+The God-Scar Strait is the treacherous, churning body of water separating the continents of [[Antoria]] and [[Cenora]]. Widely considered one of the most dangerous, highly-trafficked regions in the world, it is the geographic choke-point that holds the global economy hostage. At its narrowest point sits the capital city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]], where the [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] navy enforces extortionate tariffs on any ship attempting to cross between the continents. To outsiders, the Strait is a graveyard of broken ships, as well as sunk bank accounts.
 
 # Ecology & Environment
 
@@ -33,7 +33,7 @@ Navigating the Strait without an expensive Meridian guide is considered suicide.
 # Landmarks & Points of Interest
 
 - The Glass Breakers: A massive, jagged reef protruding from the southern waters. It is not made of coral, but of actual, glittering glass—the melted remnants of a coastal mountain range that was ground down and superheated during a divine clash 116 years ago.
-- The [[Obolus]] Toll-Gates: A miles-long naval barricade of chained dreadnoughts and arcane siege platforms extending outward from the Meridian capital, serving as the inescapable customs checkpoint for the civilized world.
+- The [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] Toll-Gates: A miles-long naval barricade of chained dreadnoughts and arcane siege platforms extending outward from the Meridian capital, serving as the inescapable customs checkpoint for the civilized world.
 
 # Natural Resources
 

@@ -42,8 +42,8 @@ The kingdom is ruled by [[The Undying Sovereign]] and a council of ancient noble
 
 # Diplomatic Relations
 
-- [[The Firstweald Ascendancy]] (Universal Disgust): The Primal spellcasters of the Ascendancy view Jhal as the ultimate perversion of the natural cycle and kill Jhalian merchants on sight.
-- [[Meridia]] (Neutral): Meridia cares little for Jhal's theology, happily importing their mass-produced, undead-made goods, while secretly turning a blind eye to the illegal "corpse trade" smuggled out of Meridian slums to supply Jhal's armies.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Universal Disgust): The Primal spellcasters of the Ascendancy view Jhal as the ultimate perversion of the natural cycle and kill Jhalian merchants on sight.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Neutral): Meridia cares little for Jhal's theology, happily importing their mass-produced, undead-made goods, while secretly turning a blind eye to the illegal "corpse trade" smuggled out of Meridian slums to supply Jhal's armies.
 
 # History & Lore
 

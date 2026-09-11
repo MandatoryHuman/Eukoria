@@ -15,9 +15,9 @@ _Alchemical, Consumable, Drug, Ingested, Poison_
 **Usage** held in 1 hand; **Bulk** L
 **Activate** ◇ Interact
 
-A thick, sweet-smelling, amber-coloured resin derived from the toxic, reality-warped flora of the [[The Vales of Opiroth|Vales of Opiroth]]. Originally synthesised by radical biomancers to anchor the mind and body against the unravelling effects of Reality Storms, its profound analgesic properties dull both severe physical pain and emotional distress.
+A thick, sweet-smelling, amber-coloured resin derived from the toxic, reality-warped flora of the [[1. World Almanac/World/Locations/Eukoria/States/The Vales of Opiroth/index|Vales of Opiroth]]. Originally synthesised by radical biomancers to anchor the mind and body against the unravelling effects of Reality Storms, its profound analgesic properties dull both severe physical pain and emotional distress.
 
-For the desperate soldiers of the [[The Glandaric Marches|Glandaric Marches]], it is often the only way to survive their tours of duty. However, prolonged use causes a creeping, deep-seated physical dependency, as the body and soul slowly forget how to naturally regulate pain or tether themselves to reality without the resin's chemical assistance.
+For the desperate soldiers of the [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|Glandaric Marches]], it is often the only way to survive their tours of duty. However, prolonged use causes a creeping, deep-seated physical dependency, as the body and soul slowly forget how to naturally regulate pain or tether themselves to reality without the resin's chemical assistance.
 
 **Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 hours.
 

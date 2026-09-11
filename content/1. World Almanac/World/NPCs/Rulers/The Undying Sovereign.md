@@ -14,7 +14,7 @@ god:
 \[Class/Profession::Wizard]
 \[Level::19]
 \[Location::[[The Silent City of Jhal]]]
-\[Faction::[[The Jhalian Necrocracy]]]
+\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
 \[Role::Supreme Ruler of Jhal]
 \[Status::Undead]
 

@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Lethos
   - lethos, god of trickery
 title: Lethos, God of Trickery
+created: 2026-09-11T09:10:57.435Z
+modified: 2026-09-11T10:23:03.355Z
+published: 2026-09-11T10:23:03.355Z
 enemy:
   - "[[Syla, Goddess of Records]]"
 ---
@@ -15,20 +19,12 @@ enemy:
 \[Religious Symbol::A gold coin or amulet with an unsolvable labyrinth on its face with a mask in the centre]
 \[Sacred Animal::Fox]
 \[Sacred Colours::Silver and Gold]
-\[Pantheons/Covenants::[[Canonical Gods]]]
-\[Divine Attribute::Intelligence or Charisma]
-\[Divine Font::harm or heal]
-\[Divine Sanctification::Can choose unholy]
-\[Divine Skill::Deception]
-\[Favoured Weapon::Sword cane]
-\[Domains::Trickery, Knowledge, Ambition, Duty]
-\[Alternate Domains::Secrecy, Wealth]
-\[Cleric Spells::1st: illusory disguise, 4th: suggestion, 7th: true target]
+\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
 
 > [!quote] "The law is a cage only for those who cannot read between its bars. A true master does not break the lock; he convinces the warden to hand over the key."
 
-As one of the prominent [[Canonical Gods]] of [[Eukoria]], Lethos governs the domains of wit, strategy, deception, and ruthless cunning. He represents the legally dubious boundaries of trickery, testing the structures of society, mostly without _overtly_ breaking its laws. He sits beneath [[The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - as a member of the [[Greater Gods]]. To his worshippers, he embodies the concept that a sharp mind, statecraft, and strategic subterfuge have a rightful, structured place in the world.
-However, to many, a shadow hangs over his faith. While his worship is technically legal in most regions, it is deeply frowned upon by hardliners who despise the [[Non-Canonical Gods]], owing to the dark and manipulative role Lethos played in their creation during the [[War of Laws]].
+As one of the prominent [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], Lethos governs the domains of wit, strategy, deception, and ruthless cunning. He represents the legally dubious boundaries of trickery, testing the structures of society, mostly without _overtly_ breaking its laws. He sits beneath [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - as a member of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]. To his worshippers, he embodies the concept that a sharp mind, statecraft, and strategic subterfuge have a rightful, structured place in the world.
+However, to many, a shadow hangs over his faith. While his worship is technically legal in most regions, it is deeply frowned upon by hardliners who despise the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], owing to the dark and manipulative role Lethos played in their creation during the [[War of Laws]].
 
 ![[Assets/Gods/Lethos.webp|400]]
 
@@ -52,6 +48,15 @@ The majority of the faithful of Lethos are not anarchists or petty criminals; th
 ![[Assets/Gods/Symbols/Lethos Symbol.webp|400]]
 
 ### Devotee Benefits
+
+\[Divine Attribute::Intelligence or Charisma]
+\[Divine Font::harm or heal]
+\[Divine Sanctification::Can choose unholy]
+\[Divine Skill::Deception]
+\[Favoured Weapon::Sword cane]
+\[Domains::Trickery, Knowledge, Ambition, Duty]
+\[Alternate Domains::Secrecy, Wealth]
+\[Cleric Spells::1st: illusory disguise, 4th: suggestion, 7th: true target]
 
 ### Divine Intercession
 

@@ -7,7 +7,7 @@ tags:
   - Gods
 ---
 
-\[Category::[[Lesser Gods]]]
+\[Category::[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]]
 \[Aspects::Architecture and Community]
 \[Edicts::Build and maintain structures that benefit the community, foster cooperation among citizens, abide by the laws of the settlement, shelter the vulnerable]
 \[Anathema::Destroy civic infrastructure, incite riots or needless chaos, live permanently outside of civilization by choice, abandon your community in its time of need]
@@ -16,6 +16,17 @@ tags:
 \[Sacred Animal::Draft Horse]
 \[Sacred Colours::Slate Grey and Bronze]
 \[Pantheons/Covenants::]
+
+Demara is the stoic goddess of urban life and the structures that make civilization possible. Often appearing as a sturdy, weathered stonemason carrying a massive hammer, Demara watches over the intricate dance of city life. She is the patron of architects, guards, politicians, and the common citizens who keep the gears of the city turning.
+
+![[Assets/Gods/Demara.webp|400]]
+
+Just about every major metropolis in [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] has a central plaza or grand hall dedicated to Demara. Priests of Demara often act as neutral arbiters in civil disputes, building inspectors, or urban planners. Their magic is highly practical, focused on reinforcing walls, paving safe roads, and ensuring the collective health of the urban populace.
+
+![[Assets/Gods/Symbols/Demara Symbol.webp|400]]
+
+## Devotee Benefits
+
 \[Divine Attribute::Constitution or Intelligence]
 \[Divine Font::heal or harm]
 \[Divine Sanctification::none]
@@ -24,16 +35,6 @@ tags:
 \[Domains::[Cities](https://2e.aonprd.com/Domains.aspx?ID=66), [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Family](https://2e.aonprd.com/Domains.aspx?ID=74), [Wealth](https://2e.aonprd.com/Domains.aspx?ID=99)]
 \[Alternate Domains::[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)]
 \[Cleric Spells::1st: [Anticipate Peril](https://2e.aonprd.com/Spells.aspx?ID=2343), 3rd: [Cozy Cabin](https://2e.aonprd.com/Spells.aspx?ID=1474), 5th: [Wall of Stone](https://2e.aonprd.com/Spells.aspx?ID=1751)]
-
-Demara is the stoic goddess of urban life and the structures that make civilization possible. Often appearing as a sturdy, weathered stonemason carrying a massive hammer, Demara watches over the intricate dance of city life. She is the patron of architects, guards, politicians, and the common citizens who keep the gears of the city turning.
-
-![[Assets/Gods/Demara.webp|400]]
-
-Just about every major metropolis in [[Eukoria]] has a central plaza or grand hall dedicated to Demara. Priests of Demara often act as neutral arbiters in civil disputes, building inspectors, or urban planners. Their magic is highly practical, focused on reinforcing walls, paving safe roads, and ensuring the collective health of the urban populace.
-
-![[Assets/Gods/Symbols/Demara Symbol.webp|400]]
-
-## Devotee Benefits
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

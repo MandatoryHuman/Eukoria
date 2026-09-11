@@ -7,7 +7,7 @@ tags:
   - Gods
 ---
 
-\[Category::[[Lesser Gods]]]
+\[Category::[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]]
 \[Aspects::Healing and Respite]
 \[Edicts::Heal the sick regardless of their allegiances, provide comfort to the dying, share medical knowledge freely, cultivate healing plants]
 \[Anathema::Refuse healing to one in dire need based on prejudice, cause unnecessary physical pain, hoard medical supplies during a crisis, experiment cruelly on the living]
@@ -16,6 +16,17 @@ tags:
 \[Sacred Animal::Dove]
 \[Sacred Colours::White and Herbal Green]
 \[Pantheons/Covenants::]
+
+Oromur, is the benevolent guardian of the sick, the injured, and the dying. Typically met in the form of a well dressed and groomed man drenched in perfumed oils, Oromur provides comfort where there is suffering. They do not view death as an enemy, but rather see unnecessary suffering as the true evil of the world.
+
+![[Assets/Gods/Oromur.webp|400]]
+
+Hospices, asylums, and rural apothecary shops across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] double as shrines to Oromur. Their clergy are almost universally pacifists, taking up arms only to defend their patients. Field medics who follow Oromur are highly respected on the battlefields of Eukoria, often granted safe passage even by warring factions due to the universal necessity of their work.
+
+![[Assets/Gods/Symbols/Oromur Symbol.webp|400]]
+
+## Devotee Benefits
+
 \[Divine Attribute::Wisdom or Intelligence]
 \[Divine Font::heal]
 \[Divine Sanctification::can choose holy]
@@ -24,16 +35,6 @@ tags:
 \[Domains::Healing, Repose, Knowledge, Protection]
 \[Alternate Domains::Nature]
 \[Cleric Spells::1st: [Soothe](https://2e.aonprd.com/Spells.aspx?ID=1678), 2nd: [Extract Poison](https://2e.aonprd.com/Spells.aspx?ID=907), 5th: [Blister](https://2e.aonprd.com/Spells.aspx?ID=1969)]
-
-Oromur, is the benevolent guardian of the sick, the injured, and the dying. Typically met in the form of a well dressed and groomed man drenched in perfumed oils, Oromur provides comfort where there is suffering. They do not view death as an enemy, but rather see unnecessary suffering as the true evil of the world.
-
-![[Assets/Gods/Oromur.webp|400]]
-
-Hospices, asylums, and rural apothecary shops across [[Eukoria]] double as shrines to Oromur. Their clergy are almost universally pacifists, taking up arms only to defend their patients. Field medics who follow Oromur are highly respected on the battlefields of Eukoria, often granted safe passage even by warring factions due to the universal necessity of their work.
-
-![[Assets/Gods/Symbols/Oromur Symbol.webp|400]]
-
-## Devotee Benefits
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

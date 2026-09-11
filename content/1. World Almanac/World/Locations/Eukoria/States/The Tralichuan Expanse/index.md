@@ -20,7 +20,7 @@ tags:
 
 # Overview
 
-Dominating the South-Western coastlines of [[Cenora]], The Tralichuan Expanse is a vast, vibrant, and fiercely competitive empire. To a Tralichuan, physical endurance and booming, natural vitality are the true measures of a civilization's worth. Guided by the [[Canonical Gods]] of the sea and the harvest, they have built an empire of golden beaches, sprawling agricultural terraces, and one of the most formidable armadas outside of [[Meridia]].
+Dominating the South-Western coastlines of [[Cenora]], The Tralichuan Expanse is a vast, vibrant, and fiercely competitive empire. To a Tralichuan, physical endurance and booming, natural vitality are the true measures of a civilization's worth. Guided by the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] of the sea and the harvest, they have built an empire of golden beaches, sprawling agricultural terraces, and one of the most formidable armadas outside of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
 
 # Geography & Climate
 
@@ -36,12 +36,12 @@ The Empire is ruled by [[Empress Ranani the Unbroken]], a follower of [[Vellora,
 
 # Diplomatic Relations
 
-- [[The Jhalian Necrocracy]] (Violently Hostile): Tralicor borders Jhal to the east and utterly despises them. They view Jhal's use of undead for agriculture as a gross, offensive violation of Maelis's domain of natural growth, and Tralichuan paladins frequently launch holy crusades into Jhalian strip mines.
-- [[Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antoria]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
+- [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]] (Violently Hostile): Tralicor borders Jhal to the east and utterly despises them. They view Jhal's use of undead for agriculture as a gross, offensive violation of Maelis's domain of natural growth, and Tralichuan paladins frequently launch holy crusades into Jhalian strip mines.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antoria]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
 
 # History & Lore
 
-While much of Eukoria was shattered by the [[War of Laws]], the deep south of [[Cenora]] remained relatively physically intact, though battered by immense tidal waves. Tralicor capitalized on this stability, rapidly expanding their agricultural footprint while the rest of the world starved. Over the last century, they have grown from a loose coalition of fishing tribes into a golden superpower, determined to wrest control of the oceans from [[Meridia]].
+While much of Eukoria was shattered by the [[War of Laws]], the deep south of [[Cenora]] remained relatively physically intact, though battered by immense tidal waves. Tralicor capitalized on this stability, rapidly expanding their agricultural footprint while the rest of the world starved. Over the last century, they have grown from a loose coalition of fishing tribes into a golden superpower, determined to wrest control of the oceans from [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
 
 # Notable Locations
 

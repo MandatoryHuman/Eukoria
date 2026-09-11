@@ -11,8 +11,8 @@ tags:
 \[Background::Engineer]
 \[Class/Profession::Inventor]
 \[Level::17]
-\[Location::[[The Federal Republic of Ilsyaneas]]]
-\[Faction::[[The Federal Republic of Ilsyaneas]]]
+\[Location::[[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]]
+\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]]
 \[Role::Revolutionary]
 \[Status::Alive]
 
@@ -26,6 +26,6 @@ tags:
 
 # History & Lore
 
-One of the original revolutionaries who kick-started the industrial revolution of [[The Federal Republic of Ilsyaneas]], and acted as its Chancellor for many years before his retirement.
+One of the original revolutionaries who kick-started the industrial revolution of [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]], and acted as its Chancellor for many years before his retirement.
 
 # Stats & Equipment

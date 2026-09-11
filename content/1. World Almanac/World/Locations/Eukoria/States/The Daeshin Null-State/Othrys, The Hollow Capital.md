@@ -17,7 +17,7 @@ tags:
 
 # Overview
 
-Once the shining centre of a prosperous pre-war eastern kingdom, Othrys is now an all-but-abandoned nightmare. It sits dead-centre in the wastes of [[The Daeshin Null-State]]. The architecture completely defies physics; great spiralling towers float entirely disconnected from their bases, frozen mid-collapse by the cosmic vacuum of [[Thrum, God of Madness]]'s death. The city is cloaked in an eternal, localized twilight. It is mostly empty save for a few fanatical cultists, reality-warped monstrosities, and the ghostly "Echoes" - images of its erased citizens playing out their final moments on an eternal loop.
+Once the shining centre of a prosperous pre-war eastern kingdom, Othrys is now an all-but-abandoned nightmare. It sits dead-centre in the wastes of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. The architecture completely defies physics; great spiralling towers float entirely disconnected from their bases, frozen mid-collapse by the cosmic vacuum of [[Thrum, God of Madness]]'s death. The city is cloaked in an eternal, localized twilight. It is mostly empty save for a few fanatical cultists, reality-warped monstrosities, and the ghostly "Echoes" - images of its erased citizens playing out their final moments on an eternal loop.
 
 # Geography & Layout
 

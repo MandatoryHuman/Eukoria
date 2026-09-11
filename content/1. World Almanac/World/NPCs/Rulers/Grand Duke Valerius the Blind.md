@@ -32,7 +32,7 @@ tags:
 
 # History & Lore
 
-The ruler of the city of [[Prismathia]] and the country of [[The Radiant Court of Gethis]]. Decades ago, he magically blinded himself so he would never accidentally see the un-illusioned world again if the Veil were to flicker.
+The ruler of the city of [[Prismathia]] and the country of [[1. World Almanac/World/Locations/Eukoria/States/The Radiant Court of Gethis/index|The Radiant Court of Gethis]]. Decades ago, he magically blinded himself so he would never accidentally see the un-illusioned world again if the Veil were to flicker.
 
 # Stats & Equipment
 

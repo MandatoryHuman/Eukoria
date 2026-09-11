@@ -38,8 +38,8 @@ Vael is governed by the Panopticon Council, a body of elite Occult mages and hig
 
 # Diplomatic Relations
 
-- [[Meridia]] (Cold/Hostile): Vael views Meridia and [[High Arbiter Garadwen]] with utter disgust. To the Directorate, Meridia's use of loopholes and their worship of [[Lethos, God of Trickery]] is a profound mockery of true law and order.
-- [[The Daeshin Null-State]] (Active Containment): Vael devotes a massive amount of its military and psychic resources to maintaining a hard quarantine on its eastern border to prevent the madness of Daeshin from bleeding into their perfect society.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Cold/Hostile): Vael views Meridia and [[High Arbiter Garadwen]] with utter disgust. To the Directorate, Meridia's use of loopholes and their worship of [[Lethos, God of Trickery]] is a profound mockery of true law and order.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] (Active Containment): Vael devotes a massive amount of its military and psychic resources to maintaining a hard quarantine on its eastern border to prevent the madness of Daeshin from bleeding into their perfect society.
 
 # History & Lore
 

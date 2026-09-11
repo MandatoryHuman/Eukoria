@@ -15,7 +15,7 @@ title: The Board of the Concordat
 
 # Overview
 
-The ruling coalition of oligarchs who control [[Meridia]]'s wealth and maritime tariffs.
+The ruling coalition of oligarchs who control [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]'s wealth and maritime tariffs.
 
 # Goals & Motivations
 
