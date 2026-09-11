@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"b6a33e45b20f0334","type":"text","text":"# Matter","x":-430,"y":-505,"width":271,"height":60},
+		{"id":"94186f37e2884755","type":"text","text":"# Life","x":320,"y":-505,"width":250,"height":60},
+		{"id":"a1386759998c0f30","type":"text","text":"# Mind","x":-430,"y":90,"width":271,"height":60},
+		{"id":"80fe1bba1fb82030","type":"text","text":"# Spirit","x":320,"y":90,"width":250,"height":60},
+		{"id":"e774848ef4822d76","x":320,"y":-380,"width":390,"height":431,"type":"text","text":"## [[Amnis the Burdened, Goddess of Forgiveness]]\n\n![[Amnis, The Burdened.webp|200]]"}
+	],
+	"edges":[]
+}

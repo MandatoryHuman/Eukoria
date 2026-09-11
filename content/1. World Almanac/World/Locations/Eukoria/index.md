@@ -10,24 +10,6 @@ published: 2026-06-26T14:16:50.649+01:00
 
 > [!info] Eukoria is a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
-```zoommap
-imageBases:
-  - path: Assets/Maps/Eukoria Map.webp
-markers: Assets/Maps/Eukoria Map.markers.json
-markerLayers:
-  - Default
-minZoom: 0.25
-maxZoom: 8
-wrap: false
-responsive: false
-width: 100%
-height: 480px
-resizable: false
-resizeHandle: native
-render: dom
-id: map-mquygbov
-```
-
 ## Gross Geography
 
 Eukoria is made up of a pair of continents; [[Antoria]] to the West and [[Cenora]] to the East. Much of the land's history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], but it is known that humanoid life first appeared on the continents on the South-West coast of [[Antoria]] and spread from there.
