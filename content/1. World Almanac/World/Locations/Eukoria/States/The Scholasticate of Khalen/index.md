@@ -6,6 +6,7 @@ aliases:
 title: The Scholasticate of Khalen
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:57.571+01:00
+published: 2026-06-11T20:09:41.071Z
 tags:
   - State
 ---

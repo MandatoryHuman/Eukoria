@@ -17,6 +17,7 @@ Type: Naval Coup
 Location: The Eastern Seaboard of [[Cenora
 Factions Involved: The Royal Navy of Old Cenora; The Anchor-Breakers; Early Navigators
 Key Figures: Pirate King Malachi "The Lash"
+"---\n\n\\[Type": Naval Coup]
 ---
 
 \[Type:: Naval Coup]

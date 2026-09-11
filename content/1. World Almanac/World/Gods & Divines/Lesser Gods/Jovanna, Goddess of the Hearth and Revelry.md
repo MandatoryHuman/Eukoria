@@ -6,6 +6,7 @@ aliases:
 title: Jovanna, Goddess of the Hearth and Revelry
 created: 2026-04-09T16:55:00.000+01:00
 modified: 2026-04-09T16:55:00.000+01:00
+published: 2026-06-11T16:07:28.001Z
 tags:
   - Gods
 ---

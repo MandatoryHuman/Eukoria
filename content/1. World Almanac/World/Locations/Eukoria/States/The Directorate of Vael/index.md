@@ -5,6 +5,7 @@ aliases:
 title: The Directorate of Vael
 created: 2026-03-30T12:31:05.491+01:00
 modified: 2026-03-31T15:15:46.082+01:00
+published: 2026-06-11T16:07:28.038Z
 tags:
   - State
 ---

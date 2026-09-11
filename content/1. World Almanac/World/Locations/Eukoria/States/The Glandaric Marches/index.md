@@ -5,6 +5,7 @@ aliases:
 title: The Glandaric Marches
 created: 2026-03-30T12:31:05.501+01:00
 modified: 2026-03-31T20:19:16.260+01:00
+published: 2026-06-11T16:07:28.035Z
 tags:
   - State
 ---

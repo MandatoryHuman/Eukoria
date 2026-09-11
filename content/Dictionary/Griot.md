@@ -6,6 +6,7 @@ aliases:
 title: Griot
 created: 2026-04-02T13:22:08.012+01:00
 modified: 2026-04-02T13:42:36.747+01:00
+published: 2026-06-11T16:07:28.042Z
 ---
 
 A griot is a traditional storyteller, historian, and musician who preserves oral history and cultural memory.

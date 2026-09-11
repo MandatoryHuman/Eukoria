@@ -5,6 +5,7 @@ aliases:
 title: Grand Duke Valerius the Blind
 created: 2026-03-30T12:31:05.568+01:00
 modified: 2026-03-31T11:33:24.663+01:00
+published: 2026-06-11T16:07:27.999Z
 tags:
   - NPCs
 ---

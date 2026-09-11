@@ -5,6 +5,7 @@ aliases:
 title: Hafnar
 created: 2026-03-30T12:31:05.569+01:00
 modified: 2026-03-31T11:33:32.968+01:00
+published: 2026-06-11T20:10:23.565Z
 tags:
   - Settlement
 ---

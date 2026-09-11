@@ -5,6 +5,7 @@ aliases:
 title: Basic Anchor - Item 1
 created: 2026-05-23T21:59:39.993+01:00
 modified: 2026-05-23T22:47:00.491+01:00
+published: 2026-06-13T10:14:11.988Z
 tags:
   - Item
   - Anchor
