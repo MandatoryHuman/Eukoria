@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Thorne
 title: Captain-Admiral Thorne
-created: 2026-03-30T12:31:05.519+01:00
-modified: 2026-03-31T16:03:13.538+01:00
-published: 2026-06-27T21:01:15.338+01:00
 tags:
   - NPCs
 rival: "[[Jeniva The Canvas]]"
@@ -17,7 +13,7 @@ enemy: "[[High Arbiter Garadwen]]"
 \[Background::Exiled Scholar]
 \[Class/Profession::Wizard/Runemage]
 \[Level::16]
-\[Location::[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]]
+\[Location::[[Heretic's Wake]]]
 \[Faction::[[Captains' Council]]/The [[Phylactery Fleet]]]
 \[Role::Pirate Lord]
 \[Status::Undead]
@@ -34,17 +30,17 @@ He constantly smells of sharp ozone and dried seaweed. Rather than a traditional
 
 In a region defined by chaos, and volatile magic, Thorne is terrifyingly, clinically calm. He is a master of calculation and logistics, viewing his undead state not as a curse, but as the perfect, logical preservation against the harsh entropy of the sea.
 
-He is ruthlessly efficient, conducting piracy not for the thrill of bloodlust, but as a heavily structured extortion business. He possesses a dark, dry wit, and takes immense pleasure in legally and physically dismantling the ships of his former homeland, [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
+He is ruthlessly efficient, conducting piracy not for the thrill of bloodlust, but as a heavily structured extortion business. He possesses a dark, dry wit, and takes immense pleasure in legally and physically dismantling the ships of his former homeland, [[Meridia]].
 
 # Relationships
 
 - [[Aethelgard, God of Relics]]: Thorne is a devout practitioner of Relic Dismagic, believing that binding the soul to unyielding matter is the ultimate victory over the frailties of life.
 - [[Jeniva The Canvas]] (Respected Rival): Despite Jeniva's use of Passion-Magic (which Thorne views as messy and emotionally volatile), he respects her capabilities and frequently votes alongside her on the Captains' Council.
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] & [[High Arbiter Garadwen]] (Sworn Enemies): Thorne harbours a cold hatred for the Meridian oligarchy, treating the plundering of their merchant vessels as an exercise in dismantling their monopoly.
+- [[Meridia]] & [[High Arbiter Garadwen]] (Sworn Enemies): Thorne harbours a cold hatred for the Meridian oligarchy, treating the plundering of their merchant vessels as an exercise in dismantling their monopoly.
 
 # History & Lore
 
-Decades ago, Thorne was a brilliant naval architect and orthodox arcane scholar working for the Board of the [[Concordat]] in [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]. However, while reviewing old shipping ledgers, he discovered a fatal, deeply illegal loophole utilized by the ruling oligarchs. Knowing the Board would have him quietly executed to protect their secret, Thorne stole a prototype dreadnought and fled north into the reality storms of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]].
+Decades ago, Thorne was a brilliant naval architect and orthodox arcane scholar working for the Board of the [[Concordat]] in [[Obolus]]. However, while reviewing old shipping ledgers, he discovered a fatal, deeply illegal loophole utilized by the ruling oligarchs. Knowing the Board would have him quietly executed to protect their secret, Thorne stole a prototype dreadnought and fled north into the reality storms of [[Heretic's Wake]].
 
 To survive the brutal environment and the Meridian assassins sent after him, he abandoned canonical magic and embraced the forbidden teachings of Aethelgard. In a horrific ritual of Relic Dismagic, he bound his soul not to a small trinket, but to the very hull of his stolen dreadnought, _The Iron Eternity_.
 

@@ -1,16 +1,12 @@
 ---
-publish: true
 aliases:
   - Meridia
 title: Meridia
-created: 2026-03-30T12:31:05.482+01:00
-modified: 2026-03-31T15:15:46.081+01:00
-published: 2026-06-11T16:07:28.035Z
 tags:
   - State
 ---
 
-\[Capital::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
+\[Capital::[[Obolus]]]
 \[Government::Mercantile Oligarchy]
 \[Ruler::[[High Arbiter Garadwen]]]
 \[Population::1.5 Million]
@@ -22,7 +18,7 @@ tags:
 
 # Overview
 
-As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponized bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antoria]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] to the North.
+As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponized bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antoria]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate infested waters of [[Heretic's Wake]] to the North.
 
 # Geography & Climate
 
@@ -30,7 +26,7 @@ Meridia’s mainland is dominated by the [[God-Scar Strait]], the treacherous bo
 
 # Society & Culture
 
-Meridian society views the strict structures of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] as a complex game to be mastered. High-society diplomats, shrewd negotiators, and state-sanctioned spies form the upper echelons of their culture. Clerics and devotees to [[Lethos, God of Trickery]] are common, to whom outwitting a rival through a clever legal loophole or a predatory contract is the highest form of devotion. Despite the ruthless economic competition, violence in the streets is rare. Brute force is viewed as an amateur's tool; why murder a rival when you can legally acquire their estate and banish them through perfectly drafted paperwork?
+Meridian society views the strict structures of [[Eukoria]] as a complex game to be mastered. High-society diplomats, shrewd negotiators, and state-sanctioned spies form the upper echelons of their culture. Clerics and devotees to [[Lethos, God of Trickery]] are common, to whom outwitting a rival through a clever legal loophole or a predatory contract is the highest form of devotion. Despite the ruthless economic competition, violence in the streets is rare. Brute force is viewed as an amateur's tool; why murder a rival when you can legally acquire their estate and banish them through perfectly drafted paperwork?
 
 # Government & Politics
 
@@ -38,15 +34,15 @@ Meridia is governed by the Board of the [[Concordat]], a ruthless coalition of m
 
 # Diplomatic Relations
 
-Meridia holds the world hostage through ink and geography. The nations of the continents to its East and West openly despise their's extortionate tolls, but they face little choice. Some of the coastal nations try to navigate the dangers of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], but this generally results in little more than lost ships and stolen cargo. Some even more desperate nations have even resorted to paying off the pirate captains of the wake to ensure their ships safety; the leadership of Meridia considers this development a huge threat to their stranglehold, though they wouldn't admit it in public.
+Meridia holds the world hostage through ink and geography. The nations of the continents to its East and West openly despise their's extortionate tolls, but they face little choice. Some of the coastal nations try to navigate the dangers of [[Heretic's Wake]], but this generally results in little more than lost ships and stolen cargo. Some even more desperate nations have even resorted to paying off the pirate captains of the wake to ensure their ships safety; the leadership of Meridia considers this development a huge threat to their stranglehold, though they wouldn't admit it in public.
 
 # History & Lore
 
-Exactly 116 years ago, the heavens were torn apart by the [[War of Laws]]. The conflict spilled directly onto the mortal soil of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], and the region that is now Meridia became a canvas for divine collateral damage. As Canonical and rebel gods clashed, oceans boiled and mountains were ground into glass. From the ashes of this devastation, clever survivors recognized an opportunity. While the rest of the world reeled from the permanent scars and dead-magic zones left behind, the founders of Meridia meticulously mapped the safe paths through the newly warped strait. By monopolizing this knowledge, they transitioned from survivors of a cataclysm into the wealthiest oligarchs in the world.
+Exactly 116 years ago, the heavens were torn apart by the [[War of Laws]]. The conflict spilled directly onto the mortal soil of [[Eukoria]], and the region that is now Meridia became a canvas for divine collateral damage. As Canonical and rebel gods clashed, oceans boiled and mountains were ground into glass. From the ashes of this devastation, clever survivors recognized an opportunity. While the rest of the world reeled from the permanent scars and dead-magic zones left behind, the founders of Meridia meticulously mapped the safe paths through the newly warped strait. By monopolizing this knowledge, they transitioned from survivors of a cataclysm into the wealthiest oligarchs in the world.
 
 # Notable Locations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]: The sprawling capital city built directly over the narrowest point of the strait.
+- [[Obolus]]: The sprawling capital city built directly over the narrowest point of the strait.
 - [[God-Scar Strait]]: The dangerous stretch of water that separates the mainland of the nation from the islands it controls.
 
 # Prominent Factions

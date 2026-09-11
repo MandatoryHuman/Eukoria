@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Obolus
 title: Obolus
-created: 2026-03-30T12:31:05.482+01:00
-modified: 2026-03-31T15:15:46.081+01:00
-published: 2026-07-06T11:58:58.371+01:00
 tags:
   - Settlement
   - Location
@@ -23,7 +19,7 @@ marker:
 
 # Overview
 
-[[Obolus]] is the sprawling, opulent capital city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]], built into the western coastline of [[Cenora]] where the [[God-Scar Strait]] narrows. Rather than bridging the entire 80-mile expanse, [[Obolus]] projects its power across the water to a massive, Meridian-controlled island just offshore. Together, the mainland city and this island fortress act as a vice, gripping the only safe navigational channel through the treacherous strait. To a traveller, [[Obolus]] is a breath-taking monument to orthodox Arcane magic, extreme wealth, and suffocating bureaucracy. While the streets are remarkably safe from brute-force violence, a traveller's greatest danger here is signing the wrong piece of paper, as legal warfare is the city's true blood sport.
+[[Obolus]] is the sprawling, opulent capital city of [[Meridia]], built into the western coastline of [[Cenora]] where the [[God-Scar Strait]] narrows. Rather than bridging the entire 80-mile expanse, [[Obolus]] projects its power across the water to a massive, Meridian-controlled island just offshore. Together, the mainland city and this island fortress act as a vice, gripping the only safe navigational channel through the treacherous strait. To a traveller, [[Obolus]] is a breath-taking monument to orthodox Arcane magic, extreme wealth, and suffocating bureaucracy. While the streets are remarkably safe from brute-force violence, a traveller's greatest danger here is signing the wrong piece of paper, as legal warfare is the city's true blood sport.
 
 # Geography & Layout
 

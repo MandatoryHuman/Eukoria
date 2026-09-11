@@ -1,19 +1,16 @@
 ---
-publish: true
 aliases:
   - Project Mind
 title: Project Mind
-created: 2026-06-11T16:01:10.462+01:00
-modified: 2026-06-11T16:05:34.753+01:00
-published: 2026-06-14T13:05:24.293+01:00
 tags:
   - Archetype
   - Feat
 level: 14
 ---
 
-_Archetype, Occult_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Esoteric Path]
+
+_Archetype, Occult_
 You understand a target's mind so thoroughly that you can simply slip inside it.
 
 ## Psychic Hijack ◆

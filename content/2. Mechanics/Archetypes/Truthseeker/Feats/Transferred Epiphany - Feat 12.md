@@ -1,19 +1,16 @@
 ---
-publish: true
 aliases:
   - Transferred Epiphany
 title: Transferred Epiphany
-created: 2026-06-11T16:34:44.070+01:00
-modified: 2026-06-11T16:40:16.618+01:00
-published: 2026-06-14T13:05:58.525+01:00
 tags:
   - Archetype
   - Feat
 level: 12
 ---
 
-_Archetype_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+
+_Archetype_
 You understand how the flaws and fears of one creature ripple outward to affect those around them.
 
 ## Truth Cascade ◇

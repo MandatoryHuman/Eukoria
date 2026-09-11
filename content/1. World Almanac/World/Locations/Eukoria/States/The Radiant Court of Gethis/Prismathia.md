@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - prismathia
 title: Prismathia
-created: 2026-03-30T12:31:05.569+01:00
-modified: 2026-03-31T11:33:32.968+01:00
-published: 2026-06-11T16:07:28.016Z
 tags:
   - Settlement
 ---
@@ -20,11 +16,11 @@ tags:
 
 # Overview
 
-Prismathia is the dazzling, illusory capital of [[1. World Almanac/World/Locations/Eukoria/States/The Radiant Court of Gethis/index|The Radiant Court of Gethis]]. To a traveller passing through the city gates, it is a breathtaking metropolis of impossible architecture, hovering crystal spires, and eternal twilight festivals. The air always smells of blooming jasmine and sweet wine. However, almost none of it is real. The true city is built on a bleak, rocky wasteland, but it is entirely cloaked in a state-supported, city-wide Occult mirage known as the "Great Masquerade," designed to hide the horrific reality of the apocalypse lurking on their southern borders.
+Prismathia is the dazzling, illusory capital of [[The Radiant Court of Gethis]]. To a traveller passing through the city gates, it is a breathtaking metropolis of impossible architecture, hovering crystal spires, and eternal twilight festivals. The air always smells of blooming jasmine and sweet wine. However, almost none of it is real. The true city is built on a bleak, rocky wasteland, but it is entirely cloaked in a state-supported, city-wide Occult mirage known as the "Great Masquerade," designed to hide the horrific reality of the apocalypse lurking on their southern borders.
 
 # Geography & Layout
 
-The actual, physical terrain of Prismathia is uneven, scarred, and covered in grey dust blowing in from [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. The illusory layout, however, is a masterpiece of magical urban planning. There are glowing, hard-light bridges that span phantom canals, and the buildings shift their aesthetic styles daily based on the artistic whims of the ruling Duke. Navigating the city requires trusting the illusions; stepping where a phantom bridge appears to be is safe, as telekinetic wards physically support the mirage.
+The actual, physical terrain of Prismathia is uneven, scarred, and covered in grey dust blowing in from [[The Daeshin Null-State]]. The illusory layout, however, is a masterpiece of magical urban planning. There are glowing, hard-light bridges that span phantom canals, and the buildings shift their aesthetic styles daily based on the artistic whims of the ruling Duke. Navigating the city requires trusting the illusions; stepping where a phantom bridge appears to be is safe, as telekinetic wards physically support the mirage.
 
 # Government & Law
 

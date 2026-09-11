@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - traditions of magic
 title: Traditions of Magic
-created: 2026-03-30T12:31:05.513+01:00
-modified: 2026-06-11T17:07:28.042+01:00
-published: 2026-06-11T20:00:19.726Z
 ---
 
 > [!quote|Author] Primer on Eukorian Thaumaturgy
@@ -13,7 +9,7 @@ published: 2026-06-11T20:00:19.726Z
 
 In Eukoria, orthodox spellcasting is divided into four distinct **Traditions of Magic**. These traditions are entirely dependent on the cosmic wheel of the four Fundamental Essences. A tradition is formed when two adjacent Essences are channeled in perfect harmony.
 
-Because these pairs naturally flow into one another, they create stable, predictable phenomena that do not inherently damage the fabric of reality or the caster's soul. These four pillars are governed by the pact-bound [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]].
+Because these pairs naturally flow into one another, they create stable, predictable phenomena that do not inherently damage the fabric of reality or the caster's soul. These four pillars are governed by the pact-bound [[Gods of Magic]].
 
 # Divine Magic (Life + Spirit)
 
@@ -65,5 +61,5 @@ Druids, Rangers, and Fey channel this visceral blend to command the raw strength
 
 # Related
 
-- [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]] - The divine arbiters of these traditions.
+- [[Gods of Magic]] - The divine arbiters of these traditions.
 - [[Traditions of Dismagic|Traditions of Dismagic]] - The unstable, clashing combinations of non-adjacent Essences.

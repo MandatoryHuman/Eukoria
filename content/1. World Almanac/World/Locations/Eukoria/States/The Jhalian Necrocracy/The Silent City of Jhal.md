@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Silent City of Jhal
 title: The Silent City of Jhal
-created: 2026-03-30T12:31:05.504+01:00
-modified: 2026-03-31T15:15:46.084+01:00
-published: 2026-06-26T19:51:12.391+01:00
 tags:
   - "#Settlement"
 ---
@@ -20,7 +16,7 @@ tags:
 
 # Overview
 
-Serving as the capital of [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]], the Silent City of Jhal is a subterranean metropolis carved entirely from a massive limestone cavern system miles below the sun-baked surface. To a visiting outsider, the city is an eerie, beautiful, and profoundly unsettling utopia. The streets are entirely silent save for the clicking of skeletal servants, the shuffling of zombies carrying out their labour, and the soft, echoing classical music drifting from high-society lounges. Sentient citizens do no manual labour, spending their days entirely in the pursuit of art, philosophy, and aesthetic perfection.
+Serving as the capital of [[The Jhalian Necrocracy]], the Silent City of Jhal is a subterranean metropolis carved entirely from a massive limestone cavern system miles below the sun-baked surface. To a visiting outsider, the city is an eerie, beautiful, and profoundly unsettling utopia. The streets are entirely silent save for the clicking of skeletal servants, the shuffling of zombies carrying out their labour, and the soft, echoing classical music drifting from high-society lounges. Sentient citizens do no manual labour, spending their days entirely in the pursuit of art, philosophy, and aesthetic perfection.
 
 # Geography & Layout
 
@@ -44,7 +40,7 @@ Publicly, the city is managed by the high priests of [[Cavera, Goddess of Death]
 
 # Key NPCs
 
-- Viscountess Vespera: (Level 9 Dhampir Aristocrat) A highly influential living noble obsessed with curating the perfect skeletal aesthetic. She frequently hires adventurers to procure rare gems from [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]] to embed in her spine.
+- Viscountess Vespera: (Level 9 Dhampir Aristocrat) A highly influential living noble obsessed with curating the perfect skeletal aesthetic. She frequently hires adventurers to procure rare gems from [[The Tralichuan Expanse]] to embed in her spine.
 - Overseer Malakor: (Level 11 Wight / Sepulchral Guard) An intelligent, fiercely patriotic undead military commander who patrols the Still-Works. He strictly enforces Cavera's tenets and is entirely unaware that his supreme rulers practice heretical Relic Dismagic. He is currently stretched incredibly thin trying to contain a rising number of Feral Undead outbreaks in the lower refineries, making him open to looking the other way and hiring foreign adventurers to do his dirty work.
 
 # Factions & Guilds

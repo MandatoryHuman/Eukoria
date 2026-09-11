@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - chosen of nature
 title: Chosen of Nature
-created: 2026-03-30T12:31:05.514+01:00
-modified: 2026-03-25T11:16:33.936+00:00
-published: 2026-06-11T16:07:27.999Z
 tags:
   - NPCs
   - Chosen

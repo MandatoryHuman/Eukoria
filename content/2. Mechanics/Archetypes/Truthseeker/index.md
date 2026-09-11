@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Truthseeker
 title: Truthseeker
-created: 2026-03-30T12:31:05.566+01:00
-modified: 2026-03-31T15:15:46.089+01:00
-published: 2026-06-14T12:53:15.997+01:00
 tags:
   - "#Archetype"
 ---

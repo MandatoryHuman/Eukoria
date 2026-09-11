@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - The Scholasticate of Khalen
   - Khalen
 title: The Scholasticate of Khalen
-created: 2026-03-30T12:31:05.569+01:00
-modified: 2026-03-31T11:33:57.571+01:00
-published: 2026-06-11T20:09:41.071Z
 tags:
   - State
 ---
@@ -25,7 +21,7 @@ tags:
 
 # Overview
 
-Occupying the eastern coastline of [[Antoria]], the Scholasticate of Khalen is a nation of obsessive historians, deep-sea scavengers, and austere monks. While [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] controls the economic flow of the [[God-Scar Strait]], Khalen controls its historical wealth. They are a neutral, fiercely academic state dedicated to recovering the lost history of the world erased by the death of [[Syla, Goddess of Records]].
+Occupying the eastern coastline of [[Antoria]], the Scholasticate of Khalen is a nation of obsessive historians, deep-sea scavengers, and austere monks. While [[Meridia]] controls the economic flow of the [[God-Scar Strait]], Khalen controls its historical wealth. They are a neutral, fiercely academic state dedicated to recovering the lost history of the world erased by the death of [[Syla, Goddess of Records]].
 
 # Geography & Climate
 
@@ -35,7 +31,7 @@ Khalen is defined by towering, wind-battered coastal cliffs that drop directly i
 
 Society in Khalen is quiet, deeply intellectual, and highly stratified based on academic achievement. Social rank is determined by one's contributions to the "Grand Archive." The population is roughly divided into two classes: the Delvers (brave, physically capable scavengers and aquatic explorers who brave the reality storms of the Strait) and the Curators (scholars who decode, restore, and weaponise the recovered knowledge).
 
-Worship of [[Oclera, God of Knowledge]] is heavily supported by the state, and many Curators utilise Oclera's hive-mind magic to process the fragmented, water-logged texts pulled from the sea. Some groups still pray to the memory of [[Syla, Goddess of Records|Syla]], hoping to one day piece together enough of her original shared-consciousness to resurrect her. Both of these groups contain a large number of [[2. Mechanics/Archetypes/Truthseeker/index|Truthseekers]].
+Worship of [[Oclera, God of Knowledge]] is heavily supported by the state, and many Curators utilise Oclera's hive-mind magic to process the fragmented, water-logged texts pulled from the sea. Some groups still pray to the memory of [[Syla, Goddess of Records|Syla]], hoping to one day piece together enough of her original shared-consciousness to resurrect her. Both of these groups contain a large number of [[Truthseeker|Truthseekers]].
 
 # Government & Politics
 
@@ -43,9 +39,9 @@ The state is governed by the Curator Assembly, a council of the nation's most br
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Cold Rivalry): Meridia constantly tries to tariff Khalen's salvage ships. Khalen retaliates by occasionally uncovering pre-war land deeds or legal precedents that invalidate Meridia's modern contracts, engaging in a tense cold war of paperwork.
+- [[Meridia]] (Cold Rivalry): Meridia constantly tries to tariff Khalen's salvage ships. Khalen retaliates by occasionally uncovering pre-war land deeds or legal precedents that invalidate Meridia's modern contracts, engaging in a tense cold war of paperwork.
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Symbiotic): Khalen shares a western border with Kazarn. Khalen trades scavenged, high-quality pre-war steel to the Kazarni war machine in exchange for heavily armed military escorts and border defence against opportunistic raids.
+- [[The Kazarn Hegemony]] (Symbiotic): Khalen shares a western border with Kazarn. Khalen trades scavenged, high-quality pre-war steel to the Kazarni war machine in exchange for heavily armed military escorts and border defence against opportunistic raids.
 
 # History & Lore
 

@@ -1,31 +1,21 @@
 ---
-publish: true
 aliases:
   - Ontos
   - ontos, the presence
 title: Ontos, The Presence
-created: 2026-03-30T12:31:05.464+01:00
-modified: 2026-03-30T11:28:01.145+01:00
-published: 2026-07-06T11:01:28.460Z
 tags:
   - Gods
----
-
 ---
 
 \[Category::]
 \[Aspects::]
 \[Edicts::]
-\[[[Anathema]]::]
+\[Anathema::]
 \[Areas of Concern::]
 \[Religious Symbol::]
 \[Sacred Animal::]
 \[Sacred Colours::]
 \[Pantheons/Covenants::]
-![[Assets/Gods/Symbols/Amnis Symbol.webp]]
-
-## Devotee Benefits
-
 \[Divine Attribute::]
 \[Divine Font::]
 \[Divine Sanctification::]
@@ -35,12 +25,16 @@ tags:
 \[Alternate Domains::]
 \[Cleric Spells::]
 
+![[Assets/Gods/Symbols/Amnis Symbol.webp]]
+
+## Devotee Benefits
+
+
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 \[Minor Boon::]
 \[Moderate Boon::]
 \[Major Boon::]
-
 \[Minor Curse::]
 \[Moderate Curse::]
 \[Major Curse::]

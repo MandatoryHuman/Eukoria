@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Kaelen
 title: High Marshal Kaelen
-created: 2026-03-30T12:31:05.522+01:00
-modified: 2026-03-31T17:25:34.740+01:00
-published: 2026-06-11T16:07:27.999Z
 tags:
   - NPCs
 ---
@@ -16,7 +12,7 @@ tags:
 \[Class/Profession::Champion of [[Bella, Goddess of War]]]
 \[Level::17]
 \[Location::[[Bastion]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]]
+\[Faction::[[The Kazarn Hegemony]]]
 \[Role::Supreme Military Commander]
 \[Status::Alive]
 
@@ -38,8 +34,8 @@ He is a devout, fanatical follower of [[Bella, Goddess of War]]. To Kaelen, the 
 
 - [[Bella, Goddess of War]]: Kaelen lives his entire life by Bella's edicts. He believes his grueling campaign of expansion is a holy crusade to secure the survival of his people.
 - Cults of [[Xerith, God of Erosion]] (Enemies): While he accepts the entropy of the world, he violently purges the nihilistic cultists of Xerith who attempt to actively accelerate the decay of Kazarn's infrastructure.
-- [[High Arbiter Garadwen]] (Disdain): Kaelen views the leader of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] with utter contempt. He considers her use of legal loopholes, spies, and predatory contracts to be the tools of a pathetic coward who is afraid to bleed for her own victories.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Honoured Enemies): Though Kazarn is locked in a brutal border war with the druids for fertile land, Kaelen respects their ferocity and their willingness to fight directly.
+- [[High Arbiter Garadwen]] (Disdain): Kaelen views the leader of [[Meridia]] with utter contempt. He considers her use of legal loopholes, spies, and predatory contracts to be the tools of a pathetic coward who is afraid to bleed for her own victories.
+- [[The Firstweald Ascendancy]] (Honoured Enemies): Though Kazarn is locked in a brutal border war with the druids for fertile land, Kaelen respects their ferocity and their willingness to fight directly.
 
 # History & Lore
 

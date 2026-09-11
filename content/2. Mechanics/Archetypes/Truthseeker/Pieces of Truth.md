@@ -1,3 +1,4 @@
+
 When you meet the trigger to gain a Piece of Truth, the GM provides you with a thematic secret about the creature based on your Methodology (e.g., a repressed sin for Divine, a biological weakness for Primal, or a haunting regret for Occult).
 
 - You can hold a maximum of **5 Pieces of Truth** for any given creature.

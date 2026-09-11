@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Ranani
 title: Empress Ranani the Unbroken
-created: 2026-03-30T12:31:05.518+01:00
-modified: 2026-03-31T15:15:46.088+01:00
-published: 2026-06-27T21:07:21.472+01:00
 tags:
   - NPCs
 rival: "[[High Arbiter Garadwen]]"
@@ -16,10 +12,10 @@ enemy:
 \[Pronouns::She/Her]
 \[Ancestry::Dromaar]
 \[Background::Sailor]
-\[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
+\[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[The Tralichuan Expanse]]]
 \[Level::18]
 \[Location::[[Tralicor]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
+\[Faction::[[The Tralichuan Expanse]]]
 \[Role::Empress and Supreme Naval Commander]
 \[Status::Alive]
 
@@ -33,7 +29,7 @@ She rejects the suffocating silks and crowns of northern rulers. Instead, she we
 
 # Personality
 
-Ranani embodies the loud, vibrant, and enduring spirit of her empire. She is boisterous, direct, and completely unyielding. She believes that a ruler must lead from the front, viewing physical endurance and strength as the truest measures of a leader's worth. She has no patience for the cowardly, loophole-ridden paperwork of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]], nor the stagnant, artificial unlife of the [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]].
+Ranani embodies the loud, vibrant, and enduring spirit of her empire. She is boisterous, direct, and completely unyielding. She believes that a ruler must lead from the front, viewing physical endurance and strength as the truest measures of a leader's worth. She has no patience for the cowardly, loophole-ridden paperwork of [[Meridia]], nor the stagnant, artificial unlife of the [[The Jhalian Necrocracy]].
 
 To Ranani, the world is a storm meant to be weathered. Her primary goal is to break Meridia's absolute stranglehold over the oceans, charting new trade routes through sheer force of will and determination.
 

@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - malachi the lash
 title: Malachi The Lash
-created: 2026-03-30T12:31:05.568+01:00
-modified: 2026-06-26T19:33:23.274+01:00
-published: 2026-06-26T19:33:23.274+01:00
 tags:
   - NPCs
 ---

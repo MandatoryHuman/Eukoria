@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-created: 2026-03-30T12:31:05.569+01:00
-modified: 2026-03-31T11:33:57.571+01:00
-published: 2026-06-11T20:42:52.515Z
 tags:
   - State
 ---
@@ -25,7 +21,7 @@ tags:
 
 # Overview
 
-Located on a crescent-shaped area of land on the eastern edge of [[Cenora]], the Widhor Sanctum is an isolationist, utopian commune. Devoted to [[Lysia Bind-breaker, Goddess of Passion]], it serves as a haven for Fleshwarps, persecuted lovers, Cathartic Mages, and outcasts fleeing orthodox inquisitions. Unlike the violent pirates of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], the citizens of Widhor use Dismagic to create a profoundly empathetic, biologically adaptive society.
+Located on a crescent-shaped area of land on the eastern edge of [[Cenora]], the Widhor Sanctum is an isolationist, utopian commune. Devoted to [[Lysia Bind-breaker, Goddess of Passion]], it serves as a haven for Fleshwarps, persecuted lovers, Cathartic Mages, and outcasts fleeing orthodox inquisitions. Unlike the violent pirates of [[Heretic's Wake]], the citizens of Widhor use Dismagic to create a profoundly empathetic, biologically adaptive society.
 
 # Geography & Climate
 
@@ -41,13 +37,13 @@ Widhor operates as an anarcho-syndicalist commune governed by "The Chorus of Voi
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Hated): Vael views the existence of a Dismagic state as an existential threat. They frequently dispatch covert naval strikes and psychic assassins to wipe out the Sanctum, forcing Widhor's empaths to defend their shores with weaponized trauma.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]] (Passive Threat): Being relatively close to Jhal, mindless undead occasionally wander across the borders of Widhor or wash up on their beaches. Because the undead possess no emotions to manipulate, they are terrifying adversaries for the island's Passion-Mages.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]] (Trade): Widhor frequently sends emotional "Anchors" (objects imbued with powerful psychic grounding) to the desperate soldiers of the Marches to help them survive the reality storms of the Null-State.
+- [[The Directorate of Vael]] (Hated): Vael views the existence of a Dismagic state as an existential threat. They frequently dispatch covert naval strikes and psychic assassins to wipe out the Sanctum, forcing Widhor's empaths to defend their shores with weaponized trauma.
+- [[The Jhalian Necrocracy]] (Passive Threat): Being relatively close to Jhal, mindless undead occasionally wander across the borders of Widhor or wash up on their beaches. Because the undead possess no emotions to manipulate, they are terrifying adversaries for the island's Passion-Mages.
+- [[The Glandaric Marches]] (Trade): Widhor frequently sends emotional "Anchors" (objects imbued with powerful psychic grounding) to the desperate soldiers of the Marches to help them survive the reality storms of the Null-State.
 
 # History & Lore
 
-Widhor was settled seventy years ago by a massive refugee group fleeing the orthodox inquisitions of central Cenora. Guided by a [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]] of [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]], the refugees settled the uninhabited lands. The Chosen One exhausted their divine power to permanently fuse the area's biological network with a psychic field, creating an environment that would naturally sustain and protect those who lived in emotional harmony.
+Widhor was settled seventy years ago by a massive refugee group fleeing the orthodox inquisitions of central Cenora. Guided by a [[Chosen Ones|Chosen One]] of [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]], the refugees settled the uninhabited lands. The Chosen One exhausted their divine power to permanently fuse the area's biological network with a psychic field, creating an environment that would naturally sustain and protect those who lived in emotional harmony.
 
 # Notable Locations
 

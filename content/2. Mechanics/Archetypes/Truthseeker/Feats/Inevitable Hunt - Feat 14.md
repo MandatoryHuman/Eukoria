@@ -1,19 +1,16 @@
 ---
-publish: true
 aliases:
   - Inevitable Hunt
 title: Inevitable Hunt
-created: 2026-06-11T15:52:28.640+01:00
-modified: 2026-06-11T16:01:00.825+01:00
-published: 2026-06-14T13:04:05.332+01:00
 tags:
   - Archetype
   - Feat
 level: 14
 ---
 
-_Archetype, Primal_
 \[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
+
+_Archetype, Primal_
 The natural world whispers their exact location to you on the wind.
 
 ## Lead Me To My Quarry ◆◆◆

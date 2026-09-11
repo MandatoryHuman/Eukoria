@@ -1,17 +1,13 @@
 ---
-publish: true
 aliases:
   - cenora
 title: Cenora
-created: 2026-03-30T12:31:05.473+01:00
-modified: 2026-03-22T19:07:34.030+00:00
-published: 2026-06-26T14:16:16.591+01:00
 tags:
   - "#Geography"
 ---
 
 \[Type::Continent]
-\[Region::Eastern [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Region::Eastern [[Eukoria]]]
 \[Size/Length::Approx 1800km North to South, 2000km East to West]
 \[Climate::Magically regulated temperate zones, shifting central anomalies, and arid southern expanses]
 \[Danger Level::Varies widely (Low in warded cities, Extreme in the Null-State)]
@@ -25,9 +21,9 @@ Cenora is the sprawling, highly civilized eastern continent of Eukoria, defined 
 
 # Ecology & Environment
 
-Cenora's natural ecology has been heavily suppressed and regulated by advanced Arcane and Occult magic. Nations like [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] employ weather-mages to ensure perfectly predictable seasons, while [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]] magically channels monsoon rains to flood continental agricultural terraces.
+Cenora's natural ecology has been heavily suppressed and regulated by advanced Arcane and Occult magic. Nations like [[The Directorate of Vael]] employ weather-mages to ensure perfectly predictable seasons, while [[The Tralichuan Expanse]] magically channels monsoon rains to flood continental agricultural terraces.
 
-However, all of this order breaks down at the continent's core. The [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|Daeshin Null-State]] is a sprawling, logic-defying wasteland where gravity stutters, colours invert, and reality storms violently rewrite the landscape on a daily basis.
+However, all of this order breaks down at the continent's core. The [[The Daeshin Null-State|Daeshin Null-State]] is a sprawling, logic-defying wasteland where gravity stutters, colours invert, and reality storms violently rewrite the landscape on a daily basis.
 
 # Hazards & Encounters
 

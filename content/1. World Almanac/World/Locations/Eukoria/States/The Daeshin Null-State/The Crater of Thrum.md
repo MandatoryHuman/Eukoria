@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Crater of Thrum
 title: The Crater of Thrum
-created: 2026-03-30T12:31:05.488+01:00
-modified: 2026-03-28T17:38:38.306+00:00
-published: 2026-06-11T16:07:28.001Z
 tags:
   - Geography
 ---

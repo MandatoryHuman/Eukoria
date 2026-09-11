@@ -1,27 +1,23 @@
 ---
-publish: true
 aliases:
   - god-scar strait
 title: God-Scar Strait
-created: 2026-03-30T12:31:05.481+01:00
-modified: 2026-03-31T15:15:46.080+01:00
-published: 2026-06-11T16:07:27.993Z
 tags:
   - Geography
 ---
 
 \[Type::Oceanic Channel]
-\[Region::Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
+\[Region::Central [[Eukoria]]]
 \[Size/Length::120km at its narrowest]
 \[Climate::Temperate, but magically volatile]
 \[Danger Level::Extreme]
-\[Known For::[[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks]
+\[Known For::[[Reality Storms]], [[Meridia|Meridian]] toll blockades, Shipwrecks]
 
 (LANDSCAPE / MAP IMAGE)
 
 # Overview
 
-The God-Scar Strait is the treacherous, churning body of water separating the continents of [[Antoria]] and [[Cenora]]. Widely considered one of the most dangerous, highly-trafficked regions in the world, it is the geographic choke-point that holds the global economy hostage. At its narrowest point sits the capital city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]], where the [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] navy enforces extortionate tariffs on any ship attempting to cross between the continents. To outsiders, the Strait is a graveyard of broken ships, as well as sunk bank accounts.
+The God-Scar Strait is the treacherous, churning body of water separating the continents of [[Antoria]] and [[Cenora]]. Widely considered one of the most dangerous, highly-trafficked regions in the world, it is the geographic choke-point that holds the global economy hostage. At its narrowest point sits the capital city of [[Obolus]], where the [[Meridia|Meridian]] navy enforces extortionate tariffs on any ship attempting to cross between the continents. To outsiders, the Strait is a graveyard of broken ships, as well as sunk bank accounts.
 
 # Ecology & Environment
 

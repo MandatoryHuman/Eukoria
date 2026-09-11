@@ -1,19 +1,15 @@
 ---
-publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-created: 2026-06-26T13:27:17.204+01:00
-modified: 2026-06-26T19:33:50.160+01:00
-published: 2026-06-26T19:33:50.160+01:00
 tags:
   - "#Gods"
 ---
 
-\[Category::<% tp.system.suggester(\["Greater Gods", "Lesser Gods", "The Twins"], \["[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]", "[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]", "[[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]"]) %>]
+\[Category::<% tp.system.suggester(\["Greater Gods", "Lesser Gods", "The Twins"], \["[[Greater Gods]]", "[[Lesser Gods]]", "[[The Twins]]"]) %>]
 \[Aspects::<% tp.system.prompt("Aspects? (e.g., Absence and Life)") %>]
 \[Edicts::<% tp.system.prompt("Edicts?") %>]
-\[[[Anathema]]::<% tp.system.prompt("Anathema?") %>]
+\[Anathema::<% tp.system.prompt("Anathema?") %>]
 \[Areas of Concern::<% tp.system.prompt("Areas of Concern?") %>]
 \[Religious Symbol::<% tp.system.prompt("Religious Symbol?") %>]
 \[Sacred Animal::<% tp.system.prompt("Sacred Animal?") %>]

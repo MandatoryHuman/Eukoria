@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - Opiroth Dependancy
   - opiroth dependancy
 title: Opiroth Dependancy
-created: 2026-06-11T13:35:25.292+01:00
-modified: 2026-06-11T13:35:55.850+01:00
-published: 2026-06-13T18:06:21.422Z
 tags:
   - Disease
 ---
@@ -21,7 +17,6 @@ Because Opiroth Resin fundamentally alters how a body processes cosmic friction,
 - **Stage 2:** You become Fatigued and Enfeebled 1. (1 week)
 - **Stage 3:** You become Fatigued, Enfeebled 2, and take a -2 penalty to Will saves against emotion effects as your emotional grounding unravels. (1 week)
 
----
 
 > [!warning]
 >

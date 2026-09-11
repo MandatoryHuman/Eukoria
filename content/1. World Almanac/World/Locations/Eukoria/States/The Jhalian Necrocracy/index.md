@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
-created: 2026-03-30T12:31:05.503+01:00
-modified: 2026-03-31T15:15:46.084+01:00
-published: 2026-06-26T19:49:39.775+01:00
 tags:
   - "#State"
 ---
@@ -13,7 +9,7 @@ tags:
 \[Capital::[[The Silent City of Jhal]]]
 \[Government::Feudal [[Necrocracy]]]
 \[Ruler::[[The Undying Sovereign]]]
-\[Population::400,000 plus, 1.2 Million mindless undead ]
+\[Population::400,000 plus, 1.2 Million mindless undead]
 \[Demographics::Humans, Dhampirs, Intelligent Undead]
 \[Languages::Common, Necril]
 \[Religions::[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]]
@@ -46,8 +42,8 @@ The kingdom is ruled by [[The Undying Sovereign]] and a council of ancient noble
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Universal Disgust): The Primal spellcasters of the Ascendancy view Jhal as the ultimate perversion of the natural cycle and kill Jhalian merchants on sight.
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Neutral): Meridia cares little for Jhal's theology, happily importing their mass-produced, undead-made goods, while secretly turning a blind eye to the illegal "corpse trade" smuggled out of Meridian slums to supply Jhal's armies.
+- [[The Firstweald Ascendancy]] (Universal Disgust): The Primal spellcasters of the Ascendancy view Jhal as the ultimate perversion of the natural cycle and kill Jhalian merchants on sight.
+- [[Meridia]] (Neutral): Meridia cares little for Jhal's theology, happily importing their mass-produced, undead-made goods, while secretly turning a blind eye to the illegal "corpse trade" smuggled out of Meridian slums to supply Jhal's armies.
 
 # History & Lore
 

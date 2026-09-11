@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
-created: 2026-03-30T12:31:05.500+01:00
-modified: 2026-03-31T15:15:46.084+01:00
-published: 2026-06-11T16:07:28.035Z
 tags:
   - State
 ---
@@ -42,7 +38,7 @@ The Ascendancy is ruled by a Conclave of elder druids and powerful shapeshifters
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Hostile/Cold): The Firstweald openly despises the rampant commercialism, industrialization, and Arcane infrastructure of Meridia. They refuse to pay Meridia's tariffs, preferring to remain entirely self-sufficient.
+- [[Meridia]] (Hostile/Cold): The Firstweald openly despises the rampant commercialism, industrialization, and Arcane infrastructure of Meridia. They refuse to pay Meridia's tariffs, preferring to remain entirely self-sufficient.
 
 # History & Lore
 
@@ -52,10 +48,10 @@ When the celestial rebellion of the [[War of Laws]] spilled onto mortal soil, br
 
 # Notable Locations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]]
+- [[Elderheart]]
 - [[The Bramble-March]]
 
 # Prominent Factions
 
-- [[The Circle of the Root]]: The elite governing body of elder druids and [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] of Kurnos who dictate the nation's ecological and political laws.
+- [[The Circle of the Root]]: The elite governing body of elder druids and [[Chosen Ones]] of Kurnos who dictate the nation's ecological and political laws.
 - The Wildhunt Wardens: A militaristic sect of Rangers and shapeshifters dedicated to patrolling the borders and violently neutralizing incursions from loggers, poachers, or Dismagic cultists.

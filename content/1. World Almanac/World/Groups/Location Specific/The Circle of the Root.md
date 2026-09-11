@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Circle of the Root
 title: The Circle of the Root
-created: 2026-03-30T12:31:05.469+01:00
-modified: 2026-03-31T16:07:17.221+01:00
-published: 2026-06-11T16:07:27.999Z
 ---
 
 \[Type::]
@@ -19,7 +15,7 @@ published: 2026-06-11T16:07:27.999Z
 
 # Overview
 
-The governing conclave that dictates the political and ecological direction of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]], led by [[Hierophant Rinebrior]].
+The governing conclave that dictates the political and ecological direction of [[The Firstweald Ascendancy]], led by [[Hierophant Rinebrior]].
 
 # Goals & Motivations
 

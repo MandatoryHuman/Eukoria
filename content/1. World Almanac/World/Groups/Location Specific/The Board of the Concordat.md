@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Board of the Concordat
 title: The Board of the Concordat
-created: 2026-03-30T12:31:05.469+01:00
-modified: 2026-03-31T16:07:30.412+01:00
-published: 2026-06-11T16:07:27.999Z
 ---
 
 \[Type::]
@@ -19,7 +15,7 @@ published: 2026-06-11T16:07:27.999Z
 
 # Overview
 
-The ruling coalition of oligarchs who control [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]'s wealth and maritime tariffs.
+The ruling coalition of oligarchs who control [[Meridia]]'s wealth and maritime tariffs.
 
 # Goals & Motivations
 

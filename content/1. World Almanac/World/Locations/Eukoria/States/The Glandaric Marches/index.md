@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - The Glandaric Marches
 title: The Glandaric Marches
-created: 2026-03-30T12:31:05.501+01:00
-modified: 2026-03-31T20:19:16.260+01:00
-published: 2026-06-11T16:07:28.035Z
 tags:
   - State
 ---
@@ -24,7 +20,7 @@ tags:
 
 # Overview
 
-The Glandaric Marches are a fractured, desperate coalition of territories that serve as a brutal quarantine line against the madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. While [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] uses elegant psychic wards to keep the horrors at bay on the western border, the Marches hold the eastern line with nothing but physical steel, sheer willpower, and deeply traumatic survival mechanisms. It is a scarred, gothic, heavily militarised state where survival is a daily, bloody battle against unravelling reality.
+The Glandaric Marches are a fractured, desperate coalition of territories that serve as a brutal quarantine line against the madness of [[The Daeshin Null-State]]. While [[The Directorate of Vael]] uses elegant psychic wards to keep the horrors at bay on the western border, the Marches hold the eastern line with nothing but physical steel, sheer willpower, and deeply traumatic survival mechanisms. It is a scarred, gothic, heavily militarised state where survival is a daily, bloody battle against unravelling reality.
 
 # Geography & Climate
 
@@ -44,8 +40,8 @@ The Marches operate under continuous martial law, governed by the Marchwarden Co
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Ideological Hatred): Glandaric soldiers view Vael's reliance on psychic wards as cowardly and weak. Vael, in turn, views the Marches as a barbaric, mutated buffer zone barely better than the Null-State itself.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] (Active Containment): The Marches are in a state of perpetual, defensive warfare against the reality-warped monstrosities and nihilistic cultists that attempt to spill out of the wastes.
+- [[The Directorate of Vael]] (Ideological Hatred): Glandaric soldiers view Vael's reliance on psychic wards as cowardly and weak. Vael, in turn, views the Marches as a barbaric, mutated buffer zone barely better than the Null-State itself.
+- [[The Daeshin Null-State]] (Active Containment): The Marches are in a state of perpetual, defensive warfare against the reality-warped monstrosities and nihilistic cultists that attempt to spill out of the wastes.
 
 # History & Lore
 

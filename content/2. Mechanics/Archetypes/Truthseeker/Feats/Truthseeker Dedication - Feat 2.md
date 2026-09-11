@@ -1,19 +1,16 @@
 ---
-publish: true
 aliases:
   - Truthseeker Dedication
 title: Truthseeker Dedication
-created: 2026-06-11T13:35:00.810+01:00
-modified: 2026-06-11T15:22:19.662+01:00
-published: 2026-06-14T13:06:09.489+01:00
 tags:
   - Archetype
   - Feat
 level: 2
 ---
 
-_Uncommon, Archetype, Dedication_
 \[Prerequisites::Trained in Nature, Occultism, or Religion]
+
+_Uncommon, Archetype, Dedication_
 You gain the ability to parse objective truths from the chaos of battle. When you select this feat, choose your Truthseeker Path, which determines the source of your insight and the trait of your archetype abilities:
 
 - **Providential Path (Divine):** You read the cosmic ledgers of morality and fate. **Prerequisites** Trained in Religion.

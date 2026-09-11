@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Undying Sovereign
 title: The Undying Sovereign
-created: 2026-03-30T12:31:05.523+01:00
-modified: 2026-03-31T16:58:11.749+01:00
-published: 2026-06-27T21:09:36.688+01:00
 tags:
   - NPCs
 god:
@@ -18,7 +14,7 @@ god:
 \[Class/Profession::Wizard]
 \[Level::19]
 \[Location::[[The Silent City of Jhal]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
+\[Faction::[[The Jhalian Necrocracy]]]
 \[Role::Supreme Ruler of Jhal]
 \[Status::Undead]
 

@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Aegis Isle
 title: Aegis Isle
-created: 2026-03-30T12:31:05.480+01:00
-modified: 2026-03-31T15:15:46.080+01:00
-published: 2026-06-11T16:07:28.038Z
 tags:
   - Settlement
 ---
@@ -20,7 +16,7 @@ tags:
 
 # Overview
 
-A large, purple-bannered island to the west of the city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]. It is a heavily militarized naval base and artillery battery. Cannons and Arcane siege engines line its eastern shores, ensuring that any ship attempting to run the toll in the channel below is mathematically deconstructed into driftwood.
+A large, purple-bannered island to the west of the city of [[Obolus]]. It is a heavily militarized naval base and artillery battery. Cannons and Arcane siege engines line its eastern shores, ensuring that any ship attempting to run the toll in the channel below is mathematically deconstructed into driftwood.
 
 # Geography & Layout
 

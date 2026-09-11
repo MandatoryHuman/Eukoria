@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Shattered Mind
 title: The Shattered Mind
-created: 2026-03-30T12:31:05.489+01:00
-modified: 2026-03-31T15:15:46.082+01:00
-published: 2026-06-11T16:07:28.001Z
 tags:
   - Settlement
 ---
@@ -20,7 +16,7 @@ tags:
 
 # Overview
 
-A bizarre, makeshift settlement built upon a series of floating, petrified earth-motes on the outer edges of the wastes of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. It acts as the only somewhat neutral trading hub in the region, populated largely by Fleshwarps devoted to [[Lysia Bind-breaker, Goddess of Passion]].
+A bizarre, makeshift settlement built upon a series of floating, petrified earth-motes on the outer edges of the wastes of [[The Daeshin Null-State]]. It acts as the only somewhat neutral trading hub in the region, populated largely by Fleshwarps devoted to [[Lysia Bind-breaker, Goddess of Passion]].
 
 # Geography & Layout
 

@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
-created: 2026-03-30T12:31:05.569+01:00
-modified: 2026-03-31T11:33:57.571+01:00
-published: 2026-06-11T16:07:28.042Z
 tags:
   - State
 ---
@@ -29,7 +25,7 @@ The Rastorian Reach occupies the freezing, jagged northwestern coast of [[Antori
 
 # Geography & Climate
 
-The northern waters of the Reach are tumultuous with the reality storms and Dismagic fallout bleeding over from [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]. This sometime causes the local marine and wildlife to mutate into gargantuan, warped monstrosities. The climate is punishingly cold, with long, bitter winters and short, violent summers. Inland, the terrain is dominated by impassable, snow-capped peaks and deep geothermal vents that the locals use to heat their mead-halls and runic forges.
+The northern waters of the Reach are tumultuous with the reality storms and Dismagic fallout bleeding over from [[Heretic's Wake]]. This sometime causes the local marine and wildlife to mutate into gargantuan, warped monstrosities. The climate is punishingly cold, with long, bitter winters and short, violent summers. Inland, the terrain is dominated by impassable, snow-capped peaks and deep geothermal vents that the locals use to heat their mead-halls and runic forges.
 
 # Society & Culture
 
@@ -43,8 +39,8 @@ The Reach is not a unified empire but a coalition of powerful clans bound by "Th
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Uneasy Trade Partners): Located to their south, Kazarn's rusting war machine constantly needs resources. The Reach trades volatile monster-reagents and raw lumber for Kazarni forged steel. Both cultures respect martial strength, but the Kazarni find Rastor's use of Relic Dismagic in the artificial preservation of matter distasteful.
-- [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] (Violent Clashes): The pirate armada of the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|Flotilla of the Unbound]] frequently tries to raid Rastorian coastal settlements. The Rastorians do not fear the pirates; they simply view them as another type of dangerous prey to be hunted and stripped of their loot.
+- [[The Kazarn Hegemony]] (Uneasy Trade Partners): Located to their south, Kazarn's rusting war machine constantly needs resources. The Reach trades volatile monster-reagents and raw lumber for Kazarni forged steel. Both cultures respect martial strength, but the Kazarni find Rastor's use of Relic Dismagic in the artificial preservation of matter distasteful.
+- [[Heretic's Wake]] (Violent Clashes): The pirate armada of the [[Flotilla of the Unbound]] frequently tries to raid Rastorian coastal settlements. The Rastorians do not fear the pirates; they simply view them as another type of dangerous prey to be hunted and stripped of their loot.
 
 # History & Lore
 

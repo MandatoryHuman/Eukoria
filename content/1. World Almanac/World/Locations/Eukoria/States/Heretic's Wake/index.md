@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-created: 2026-03-30T12:31:05.478+01:00
-modified: 2026-03-31T15:15:46.080+01:00
-published: 2026-06-11T16:07:28.035Z
 tags:
   - State
 ---
@@ -24,11 +20,11 @@ tags:
 
 # Overview
 
-Heretic's Wake is a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for its dangerous fleets of pirates who openly utilize the volatile and forbidden arts of Dismagic. Because of the extortionate tariffs [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] charges to use the central passage, many desperate nations attempt to transport their cargo through the Wake, a gamble that usually results in stolen goods and lost ships.
+Heretic's Wake is a treacherous, pirate-infested body of water located to the north of [[Meridia]]. It is infamous across [[Eukoria]] for its dangerous fleets of pirates who openly utilize the volatile and forbidden arts of Dismagic. Because of the extortionate tariffs [[Meridia]] charges to use the central passage, many desperate nations attempt to transport their cargo through the Wake, a gamble that usually results in stolen goods and lost ships.
 
 # Geography & Climate
 
-Located in the northern waters of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], Heretic's Wake is a harsh, unpredictable maritime environment. Like the [[God-Scar Strait]] to the South, these waters still bear the lingering, reality-warping scars of the [[War of Laws]]. The environment is made even more unstable by the constant, reckless use of Dismagic, which generates immense cosmic friction and frequently causes bizarre environmental side effects and collateral damage.
+Located in the northern waters of [[Eukoria]], Heretic's Wake is a harsh, unpredictable maritime environment. Like the [[God-Scar Strait]] to the South, these waters still bear the lingering, reality-warping scars of the [[War of Laws]]. The environment is made even more unstable by the constant, reckless use of Dismagic, which generates immense cosmic friction and frequently causes bizarre environmental side effects and collateral damage.
 
 # Society & Culture
 
@@ -40,7 +36,7 @@ There is no central legal authority in Heretic's Wake; the region is governed by
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Enemies): The Wake's very existence is a thorn in Meridia's side. [[High Arbiter Garadwen]] views the Dismagic fleets as a volatile stain on her perfect order and meticulously studies their tactics to engineer their legal and physical annihilation.
+- [[Meridia]] (Enemies): The Wake's very existence is a thorn in Meridia's side. [[High Arbiter Garadwen]] views the Dismagic fleets as a volatile stain on her perfect order and meticulously studies their tactics to engineer their legal and physical annihilation.
 - Desperate Coastal Nations (Exploited/Neutral): While most nations view the Wake as a graveyard for their cargo, some desperate states have recently resorted to paying off the pirate captains directly to ensure their ships' safety. Meridia considers this direct bribery a massive threat to its global trade stranglehold.
 
 # History & Lore

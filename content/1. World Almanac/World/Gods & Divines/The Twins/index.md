@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - The Twins
 title: The Twins
-created: 2026-03-30T12:31:05.465+01:00
-modified: 2026-03-31T15:15:46.078+01:00
-published: 2026-06-11T16:07:28.035Z
 tags:
   - Lore
 ---
@@ -28,7 +24,7 @@ Kenon is the embodiment of pure Absence. This deity represents the inevitable co
 
 Despite being the anchors of Eukoria, the Twins rarely, if ever, interact with the mortal plane. Their unmitigated nature is fundamentally incompatible with the delicate balance of the material world.
 If Ontos were to directly manifest, the sheer density of pure Presence would be too overwhelming for physical reality to sustain, causing rampant, uncontrolled overgrowth and spontaneous manifestation that would rupture the plane. Conversely, a direct manifestation from Kenon would introduce a terrifying, consuming vacuum that reality naturally abhors, erasing everything it touched from existence.
-Because of this, the Twins remain distant. They allow the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] and the mediating flow of the Fundamental Essences to safely regulate the world on their behalf.
+Because of this, the Twins remain distant. They allow the [[Canonical Gods]] and the mediating flow of the Fundamental Essences to safely regulate the world on their behalf.
 
 # The Paradox of Fate
 

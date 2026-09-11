@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Cliff Archives
 title: The Cliff Archives
-created: 2026-03-30T12:31:05.569+01:00
-modified: 2026-03-31T11:33:32.968+01:00
-published: 2026-06-11T16:07:27.994Z
 tags:
   - Settlement
 ---
@@ -20,7 +16,7 @@ tags:
 
 # Overview
 
-The Cliff-Archives serve as the sheer, vertical capital of [[1. World Almanac/World/Locations/Eukoria/States/The Scholasticate of Khalen/index|The Scholasticate of Khalen]]. Built directly into the colossal cliff faces overlooking the churning [[God-Scar Strait]], it is a dizzying labyrinth of libraries, scriptoriums, and pulley-elevators. To a traveller arriving by sea, the city looks like a massive honeycomb of pale stone glowing with lamplight against the dark rock. The air is a constant mixture of freezing, salty sea spray and the dry, musty scent of old parchment.
+The Cliff-Archives serve as the sheer, vertical capital of [[The Scholasticate of Khalen]]. Built directly into the colossal cliff faces overlooking the churning [[God-Scar Strait]], it is a dizzying labyrinth of libraries, scriptoriums, and pulley-elevators. To a traveller arriving by sea, the city looks like a massive honeycomb of pale stone glowing with lamplight against the dark rock. The air is a constant mixture of freezing, salty sea spray and the dry, musty scent of old parchment.
 
 # Geography & Layout
 

@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
-created: 2026-03-30T12:31:05.569+01:00
-modified: 2026-03-31T11:33:57.571+01:00
-published: 2026-06-11T16:07:28.041Z
 tags:
   - State
 ---
@@ -17,7 +13,7 @@ tags:
 \[Population::Approx. 2.2 Million]
 \[Demographics::60% Human, 20% Dwarf, 10% Elf, 10% Other]
 \[Languages::Common, Celestial, Dwarven]
-\[Religions::Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+\[Religions::Strict Adherence to the [[Canonical Gods]]]
 \[Major Exports::Sanctioned magical texts, worked steel, enchanted warding]
 \[Major Imports::Raw magically-inert materials, grain, historical artifacts]
 
@@ -25,7 +21,7 @@ tags:
 
 # Overview
 
-The Sealed Orthodoxy of the Chrysalis is a sprawling, rigidly bureaucratic theocracy located in northern [[Antoria]]. Surrounded by the entropic decay of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarn]], the wild storms of the [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|Rastorian Reach]], and the volatile magitek of [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|Oremourn]], the Chrysalis survived the [[War of Laws]] through an extreme act of magical isolation; spinning a literal, state-spanning cocoon of Abjuration magic over their borders.
+The Sealed Orthodoxy of the Chrysalis is a sprawling, rigidly bureaucratic theocracy located in northern [[Antoria]]. Surrounded by the entropic decay of [[The Kazarn Hegemony|Kazarn]], the wild storms of the [[The Rastorian Reach|Rastorian Reach]], and the volatile magitek of [[The Salvage-Pact of Oremourn|Oremourn]], the Chrysalis survived the [[War of Laws]] through an extreme act of magical isolation; spinning a literal, state-spanning cocoon of Abjuration magic over their borders.
 
 Today, they are a hyper-organized hegemony that views themselves as the final bastion of cosmic order, waiting in absolute quarantine for the "diseased" world outside their shell to simply die off. They are feared for their "Mage-Hounds" - inquisitors specialized in counter-magic who aggressively ensure this internal purity.
 
@@ -43,9 +39,9 @@ The state operates as a Theocratic Bureaucracy. The [[Hierophant|Grand Hierophan
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|The Salvage-Pact of Oremourn]] (Hostile): The strict abjurers of the Chrysalis view the volatile scrap-tech and localized Dismagic of their western neighbour as an apocalyptic threat, frequently attempting to blockade or sabotage them to prevent their "rot" from spreading.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Tense Cold War): While both are highly militarized and value order, the Chrysalis finds Kazarn's philosophical acceptance of entropy to be deeply heretical. They heavily garrison their southern border to prevent Kazarn's Rust-Wastes from creeping towards their pristine walls.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Scholasticate of Khalen/index|The Scholasticate of Khalen]] (Trade Partners): The Chrysalis respects Khalen's orthodox preservation of history, frequently trading elite Mage-Hound protection for copies of recovered pre-war magical theory.
+- [[The Salvage-Pact of Oremourn]] (Hostile): The strict abjurers of the Chrysalis view the volatile scrap-tech and localized Dismagic of their western neighbour as an apocalyptic threat, frequently attempting to blockade or sabotage them to prevent their "rot" from spreading.
+- [[The Kazarn Hegemony]] (Tense Cold War): While both are highly militarized and value order, the Chrysalis finds Kazarn's philosophical acceptance of entropy to be deeply heretical. They heavily garrison their southern border to prevent Kazarn's Rust-Wastes from creeping towards their pristine walls.
+- [[The Scholasticate of Khalen]] (Trade Partners): The Chrysalis respects Khalen's orthodox preservation of history, frequently trading elite Mage-Hound protection for copies of recovered pre-war magical theory.
 
 # History & Lore
 
