@@ -33,12 +33,9 @@ Aethelgard’s Dismagic forcefully merges the intangible Spirit into unyielding 
 
 His worshippers are largely outcasts, and include rebel Runesmiths, [Rune Mages](https://2e.aonprd.com/Rules.aspx?ID=1567), [Talisman Dabblers](https://2e.aonprd.com/Archetypes.aspx?ID=266), and the infamous [Liches](https://2e.aonprd.com/Archetypes.aspx?ID=179) who anchor their souls to physical phylacteries. Other worshippers of his take the [Soulforger](https://2e.aonprd.com/Feats.aspx?ID=3016), [Runescarred](https://2e.aonprd.com/Archetypes.aspx?ID=21), or [Undead Master](https://2e.aonprd.com/Archetypes.aspx?ID=176) dedications. Many of his faithful find refuge in the pirate-infested waters of [[Heretic's Wake]], free from Canonical law.
 
-
-
 ![[Assets/Gods/Symbols/Aethelgard Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

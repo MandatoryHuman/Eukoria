@@ -30,12 +30,9 @@ As a prominent figure among the [[Canonical Gods]], Bella’s domain over confli
 
 Her worshippers are predominantly soldiers, paladins, marshals, and honourable mercenaries. To follow Bella is to believe that the ultimate test of a mortal's Spirit is manifested on the battlefield. Her [[Chosen Ones]] are living banners of morale, tasked with leading from the front and physically manifesting their divine willpower to turn the tide of impossible battles.
 
-
-
 ![[Assets/Gods/Symbols/Bella Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

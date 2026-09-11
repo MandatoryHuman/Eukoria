@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Kurnos
   - kurnos, god of nature
 title: Kurnos, God of Nature
+created: 2026-09-11T09:10:57.452Z
+modified: 2026-09-11T09:10:40.026Z
+published: 2026-09-11T09:10:40.026Z
 tags:
   - Gods
 ---
@@ -31,11 +35,9 @@ Kurnos is the Greater God of Nature and the divine arbiter of Primal Magic. In t
 
 To his followers - predominantly Druids, Rangers, and Fey - magic is a tool to command the raw strength of nature. Kurnos's teachings focus heavily on shapeshifting, biokinesis, and environmental control. Those who channel his power can mould the physical forms of living beasts, cultivate flourishing new ecosystems, or violently reclaim civilized lands for the earth. Like all the Canonical Gods of Magic, Kurnos's arts are taught openly in academies and temples across Eukoria, and his practice is viewed as upholding the natural laws of the universe. Furthermore, he is pact-bound to remain neutral in his influence upon the world's magics, often acting as an impartial arbiter in divine conflicts alongside the other [[Gods of Magic]].
 
-
 ![[Assets/Gods/Symbols/Kurnos Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

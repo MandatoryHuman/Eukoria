@@ -37,12 +37,9 @@ However, where Syla used this psychic network passively to store records, Oclera
 
 To follow Oclera is to believe that expanding the boundaries of mortal understanding is the highest divine calling. Their [[Chosen Ones]] are often the "hands" of these think tanks, tasked with plunging into ancient ruins, recovering forgotten texts, and bringing new data back to feed the collective mind. Followers of Oclera often take the [[Truthseeker]] Dedication to further their learning in esoteric ways.
 
-
-
 ![[Assets/Gods/Symbols/Oclera Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

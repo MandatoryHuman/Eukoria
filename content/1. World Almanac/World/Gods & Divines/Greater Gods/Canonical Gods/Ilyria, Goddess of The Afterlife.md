@@ -35,12 +35,9 @@ While orthodox theology states that [[The Twins]] - [[Ontos, The Presence]] and 
 
 As a [[Canonical Gods|Canonical]] Greater God, they are completely neutral. They do not pass moral judgment on the souls that come before them; they merely ensure they reach their designated resting place. However, they harbour an uncompromising, icy wrath for those who subvert this natural cycle. They view the [[Traditions of Dismagic|Relic Dismagic]] practiced by Liches and soul-binders under [[Aethelgard, God of Relics]] as a deeply offensive perversion, as it unnaturally anchors the Spirit to [[Fundamental Essences|Matter]] instead of allowing it to peacefully pass into Absence.
 
-
-
 ![[Assets/Gods/Symbols/Ilyria Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

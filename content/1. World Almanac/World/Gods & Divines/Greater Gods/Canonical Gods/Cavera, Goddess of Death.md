@@ -33,12 +33,9 @@ Within the pantheon of deities, Cavera acts as a counterpart to [[Ilyria, Goddes
 
 As a [[Canonical Gods|Canonical God]], she fundamentally disagrees with [[Aethelgard, God of Relics|Aethelgard's]] use of [[Traditions of Dismagic|Dismagic]] to bind [[Fundamental Essences|Spirit]] to [[Fundamental Essences|Matter]]; to Cavera, true unlife is purely biological and primal, fueled by [[Fundamental Essences|Life]] and [[Basic Essences|Absence]]. Her worshippers include necromancers who practice sanctioned magic, executioners, and intelligent undead. Her [[Chosen Ones]] are tasked with culling the breathing, halting natural lifespans, and raising armies of the dead to enforce her eternal silence.
 
-
-
 ![[Assets/Gods/Symbols/Cavera Symbol.webp|500]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

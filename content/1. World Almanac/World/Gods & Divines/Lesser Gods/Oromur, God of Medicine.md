@@ -31,12 +31,9 @@ Oromur, is the benevolent guardian of the sick, the injured, and the dying. Typi
 
 Hospices, asylums, and rural apothecary shops across [[Eukoria]] double as shrines to Oromur. Their clergy are almost universally pacifists, taking up arms only to defend their patients. Field medics who follow Oromur are highly respected on the battlefields of Eukoria, often granted safe passage even by warring factions due to the universal necessity of their work.
 
-
-
 ![[Assets/Gods/Symbols/Oromur Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

@@ -35,12 +35,9 @@ Legends claim that because of the sheer volume of sin she contains, her death wo
 
 The followers of Amnis are staunch pacifists. Her [[Chosen Ones]] are strictly forbidden from killing or lying, tasked instead with spreading her message through diplomacy and grace. To aid them, Amnis provides her Champions with no offensive magic, instead granting them two miraculous gifts. The first is universal communion - the ability to speak with and understand any intelligent lifeform. The second is a conditional immortality; should a Chosen fall while pursuing their peaceful duties - a frequent hazard for unarmed diplomats - they are able to return to life, resurrecting at a sanctuary of their choosing.
 
-
-
 ![[Assets/Gods/Symbols/Amnis Symbol.webp]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

@@ -31,11 +31,9 @@ During the [[War of Laws]], Thrum was murdered by [[Lethos, God of Trickery]]. L
 
 Today, Thrum is a dead god. He no longer actively answers prayers or consciously intervenes in the mortal realm. His murder left a permanent psychological scar on the orthodox pantheon. [[Solon, God of Law]] completely despises Lethos for Thrum's murder, viewing it as the ultimate, unforgivable subversion of cosmic order. While Thrum is gone, desperate cultists and those suffering from severe psychic trauma sometimes still whisper his name, drawing upon the residual, volatile energies left behind by his death, with some Clerics claiming to still gain power from his memory.
 
-
 ![[Assets/Gods/Symbols/Amnis Symbol.webp]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

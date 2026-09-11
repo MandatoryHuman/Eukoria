@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - content
 title: Eukoria
+created: 2026-09-11T09:10:56.767Z
+modified: 2026-09-11T09:07:55.720Z
+published: 2026-09-11T09:07:55.720Z
 ---
 
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."

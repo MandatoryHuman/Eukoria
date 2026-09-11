@@ -31,12 +31,9 @@ Demara is the stoic goddess of urban life and the structures that make civilizat
 
 Just about every major metropolis in [[Eukoria]] has a central plaza or grand hall dedicated to Demara. Priests of Demara often act as neutral arbiters in civil disputes, building inspectors, or urban planners. Their magic is highly practical, focused on reinforcing walls, paving safe roads, and ensuring the collective health of the urban populace.
 
-
-
 ![[Assets/Gods/Symbols/Demara Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

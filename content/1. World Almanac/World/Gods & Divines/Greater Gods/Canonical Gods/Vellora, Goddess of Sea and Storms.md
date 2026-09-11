@@ -35,11 +35,9 @@ Vellora’s storms aren't malicious; they are the necessary, predictable laws of
 
 Her [[Chosen Ones]] are forces of nature, tasked with physically manifesting her weather, protecting coastal communities from unnatural disasters, and ensuring that the physical laws of the sea are respected.
 
-
 ![[Assets/Gods/Symbols/Vellora Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

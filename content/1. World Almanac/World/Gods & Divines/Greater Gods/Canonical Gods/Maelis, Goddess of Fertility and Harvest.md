@@ -35,11 +35,9 @@ Unlike the  unnatural, forced evolutionary leaps practiced by followers of the [
 
 Her [[Chosen Ones]] act as avatars of her will on Eukoria , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
 
-
 ![[Assets/Gods/Symbols/Maelis Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

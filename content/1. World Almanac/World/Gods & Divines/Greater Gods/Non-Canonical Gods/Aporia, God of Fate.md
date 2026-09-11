@@ -31,12 +31,9 @@ As a god, Aporia acts as an arbiter of what is (Presence) versus what could have
 
 Aporia's followers, few as they are, are often Oracles, or may take the [[Truthseeker]] dedication to manipulate the fates of others.
 
-
-
 ![[Assets/Gods/Symbols/Aporia Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## Divine Intercession
 

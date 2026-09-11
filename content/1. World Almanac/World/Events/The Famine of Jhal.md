@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - the famine of jhal
 title: The Famine of Jhal
+created: 2026-09-11T09:10:57.396Z
+modified: 2026-09-11T09:08:16.288Z
+published: 2026-09-11T09:08:16.288Z
 tags:
   - "#Events"
   - National

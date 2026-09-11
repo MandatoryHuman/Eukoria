@@ -27,7 +27,6 @@ For the desperate soldiers of the [[The Glandaric Marches|Glandaric Marches]], i
 
 **Special** If a character reaches Stage 3 of Opiroth Resin's effects, they are exposed to [[Opiroth Dependancy]] and must make the DC 24 Fortitude save against that affliction.
 
-
 > [!warning]
 >
 > # Drugs in Fantasy

@@ -29,7 +29,6 @@ tags:
 
 ## Devotee Benefits
 
-
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 \[Minor Boon::]

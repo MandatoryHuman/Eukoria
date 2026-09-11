@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - the mutiny of the fathom-court
 title: The Mutiny of the Fathom-Court
+created: 2026-09-11T09:10:57.399Z
+modified: 2026-09-11T09:08:17.279Z
+published: 2026-09-11T09:08:17.279Z
 tags:
   - Events
   - National

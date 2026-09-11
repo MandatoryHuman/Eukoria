@@ -37,12 +37,9 @@ Today, Syla is a dead god. However, her legacy survives in a fractured state. Re
 
 While Syla is long since dead, some of her clerics still gain magic from her latent power.
 
-
-
 ![[Assets/Gods/Symbols/Syla Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

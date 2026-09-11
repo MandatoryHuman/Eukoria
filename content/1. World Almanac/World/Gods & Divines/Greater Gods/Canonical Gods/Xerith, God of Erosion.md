@@ -33,11 +33,9 @@ Xerith is not a malicious god; he is simply patient. He represents the natural, 
 
 His [[Chosen Ones]] are tasked with breaking down monuments of vanity, returning hoarded wealth to the earth, and accelerating the decay of structures that have outlived their natural purpose.
 
-
 ![[Assets/Gods/Symbols/Xerith Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

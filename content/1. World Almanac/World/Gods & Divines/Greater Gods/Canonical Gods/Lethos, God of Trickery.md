@@ -49,12 +49,9 @@ The majority of the faithful of Lethos are not anarchists or petty criminals; th
 - **Allies:** [[Aureon, God of Commerce and Industry]] (frequent partners in political and financial manoeuvring); [[Lysia Bind-breaker, Goddess of Passion]] and [[Aethelgard, God of Relics]], with whom he still maintains an uneasy truce ever since the [[War of Laws]].
 - **Enemies:** [[Solon, God of Law]] (who despises Lethos's mockery of the spirit of the law, as well as his murder of [[Thrum, God of Madness]]); [[Bella, Goddess of War]] (who favors direct, honourable conflict over subterfuge)
 
-
-
 ![[Assets/Gods/Symbols/Lethos Symbol.webp|400]]
 
 ### Devotee Benefits
-
 
 ### Divine Intercession
 

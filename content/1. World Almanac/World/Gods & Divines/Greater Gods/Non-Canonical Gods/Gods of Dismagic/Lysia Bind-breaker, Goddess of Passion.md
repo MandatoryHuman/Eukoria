@@ -36,12 +36,9 @@ Because she draws upon cosmic friction rather than harmony, Lysia is highly cont
 
 However, the reality of most of Lysia's faithful is often far more benevolent. Her Clerics frequently use this potent connection between intellect and vitality to protect those who cannot protect themselves: persecuted lovers, dissidents ostracised for speaking their truth, and innocents tossed out for failing to fit in. Many of her worshippers take the [Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97), [Mind Smith](https://2e.aonprd.com/Archetypes.aspx?ID=351), or [Captivator](https://2e.aonprd.com/Archetypes.aspx?ID=125) dedications. She is heavily followed by Fleshwarps and the Fleshwarpers who create them, as well as many empathic Kashrishi.
 
-
-
 ![[Assets/Gods/Symbols/Lysia Symbol.webp|400]]
 
 ## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
