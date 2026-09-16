@@ -21,7 +21,7 @@ tags:
 
 # Overview
 
-Situated on the western shores of [[Cenora]], the Federal Republic of Ilsyaneas is an ideological anomaly in a world dominated by absolute monarchs and divine theocracies. It is a society striving for self-determination and civic equality, explicitly rejecting the absolute mandates of the [[Canonical Gods]]. By democratising power through advanced innovation and strict secular governance, Ilsyaneas stands as a beacon of progressive engineering and a fierce rival to the world's established autocracies.
+Situated on the western shores of [[Cenora]], the Federal Republic of Ilsyaneas is an ideological anomaly in a world dominated by absolute monarchs and divine theocracies. It is a society striving for self-determination and civic equality, explicitly rejecting the absolute mandates of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]. By democratising power through advanced innovation and strict secular governance, Ilsyaneas stands as a beacon of progressive engineering and a fierce rival to the world's established autocracies.
 
 # Geography & Climate
 
@@ -37,9 +37,9 @@ The government operates under a complex system of representative democracy. A bi
 
 # Diplomatic Relations
 
-- [[The Directorate of Vael]] (Cold War): Vael views the Republic as an ideological contagion, fearing that Ilsyaneas's promotion of free thought and secular democracy will unravel their perfect order. Vael constantly deploys psychic infiltrators to spread propaganda and assassinate progressive senators.
-- [[Meridia]] (Fierce Economic Rivals): The Republic's ability to mass-produce high-quality goods via the geothermal forges of Mount Solace directly threatens Meridia's trade monopolies. [[High Arbiter Garadwen]] frequently attempts to entangle Ilsyaneas in predatory legal disputes, which the robust legal minds of the Senate consistently counter.
-- [[The Daeshin Null-State]] (Pragmatic Neutrality): While Ilsyaneas heavily patrols its borders to keep reality-warped horrors at bay, state-sponsored scientists frequently launch heavily armed expeditions into the fringes of the Null-State to harvest the rare, volatile materials needed for advanced magitech experiments.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Cold War): Vael views the Republic as an ideological contagion, fearing that Ilsyaneas's promotion of free thought and secular democracy will unravel their perfect order. Vael constantly deploys psychic infiltrators to spread propaganda and assassinate progressive senators.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Fierce Economic Rivals): The Republic's ability to mass-produce high-quality goods via the geothermal forges of Mount Solace directly threatens Meridia's trade monopolies. [[High Arbiter Garadwen]] frequently attempts to entangle Ilsyaneas in predatory legal disputes, which the robust legal minds of the Senate consistently counter.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] (Pragmatic Neutrality): While Ilsyaneas heavily patrols its borders to keep reality-warped horrors at bay, state-sponsored scientists frequently launch heavily armed expeditions into the fringes of the Null-State to harvest the rare, volatile materials needed for advanced magitech experiments.
 
 # History & Lore
 

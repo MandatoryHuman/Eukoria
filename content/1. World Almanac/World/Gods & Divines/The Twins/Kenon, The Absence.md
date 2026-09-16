@@ -16,6 +16,11 @@ tags:
 \[Sacred Animal::]
 \[Sacred Colours::]
 \[Pantheons/Covenants::]
+
+![[Assets/Gods/Symbols/Amnis Symbol.webp]]
+
+## Devotee Benefits
+
 \[Divine Attribute::]
 \[Divine Font::]
 \[Divine Sanctification::]
@@ -24,11 +29,6 @@ tags:
 \[Domains::]
 \[Alternate Domains::]
 \[Cleric Spells::]
-
-![[Assets/Gods/Symbols/Amnis Symbol.webp]]
-
-## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

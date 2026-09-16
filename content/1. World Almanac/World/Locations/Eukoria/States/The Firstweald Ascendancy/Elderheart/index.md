@@ -16,7 +16,7 @@ tags:
 
 # Overview
 
-Elderheart is not a city that was built, but rather grown. Serving as the capital of [[The Firstweald Ascendancy]] in the deep forests of [[Antoria]], the entire settlement is vertically integrated into the boughs, trunk, and roots of a single, titanic tree known as the World-Oak.
+Elderheart is not a city that was built, but rather grown. Serving as the capital of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] in the deep forests of [[Antoria]], the entire settlement is vertically integrated into the boughs, trunk, and roots of a single, titanic tree known as the World-Oak.
 
 To a traveller, Elderheart is a breath taking, overwhelming sensory experience. The air is thick with the scent of pine and blooming flora, and the architecture consists of living wood coaxed into elegant platforms, bridges, and hollows through the precise application of Primal Magic. It is a living monument to the orthodox harmony of Matter and Life.
 
@@ -26,7 +26,7 @@ Situated deep within the treacherous, magically warded borders of the Firstweald
 
 # Government & Law
 
-Elderheart is governed by the Circle of the Root, a conclave of elder druids and [[Chosen Ones]] of [[Kurnos, God of Nature]]. Their laws are fundamentally tied to the natural laws of the universe and the survival of the ecosystem. Justice here is swift, primal, and restorative. There are no stone prisons; instead, minor offenders are subjected to forced labour to cultivate the lands. Serious offenders - especially those who needlessly destroy habitats or practice the forbidden arts of Dismagic - face horrifying primal punishments, such as being permanently shapeshifted into harmless beasts or having their physical forms violently reclaimed by the earth.
+Elderheart is governed by the Circle of the Root, a conclave of elder druids and [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] of [[Kurnos, God of Nature]]. Their laws are fundamentally tied to the natural laws of the universe and the survival of the ecosystem. Justice here is swift, primal, and restorative. There are no stone prisons; instead, minor offenders are subjected to forced labour to cultivate the lands. Serious offenders - especially those who needlessly destroy habitats or practice the forbidden arts of Dismagic - face horrifying primal punishments, such as being permanently shapeshifted into harmless beasts or having their physical forms violently reclaimed by the earth.
 
 # Districts
 

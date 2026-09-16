@@ -7,7 +7,7 @@ tags:
 ---
 
 \[Type::Continent]
-\[Region::Western [[Eukoria]]]
+\[Region::Western [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
 \[Size/Length::Approx 1600km North to South, 1200km East to West]
 \[Climate::Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south]
 \[Danger Level::Varies from Low to Extreme]
@@ -17,11 +17,11 @@ tags:
 
 # Overview
 
-Antoria is the rugged, untamed western continent of Eukoria. Unlike its eastern counterpart of [[Cenora]], which is heavily populated by dense, politically complex nation-states, Antoria is defined by environmental extremes and ancient magic. It is widely considered the cradle of all humanoid life in [[Eukoria]], though the scars of the [[War of Laws]] have drastically reduced its habitable zones.
+Antoria is the rugged, untamed western continent of Eukoria. Unlike its eastern counterpart of [[Cenora]], which is heavily populated by dense, politically complex nation-states, Antoria is defined by environmental extremes and ancient magic. It is widely considered the cradle of all humanoid life in [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], though the scars of the [[War of Laws]] have drastically reduced its habitable zones.
 
 # Ecology & Environment
 
-The ecology of Antoria is divided by its central, decaying heart. The south is dominated by the hyper-fertile, overgrown jungles of [[The Sovereign Heptarchy of Idgorna]] and the magically engineered primordial forests of [[The Firstweald Ascendancy]]. Moving north, the vitality abruptly dies, giving way to the [[Rust-Wastes]] - a sprawling, expanding desert of grey ash where the natural decay of the universe is hyper-accelerated. The northernmost peaks, claimed by [[The Rastorian Reach]], are brutal, storm-battered tundras carved by glaciers and geothermal vents.
+The ecology of Antoria is divided by its central, decaying heart. The south is dominated by the hyper-fertile, overgrown jungles of [[1. World Almanac/World/Locations/Eukoria/States/The Sovereign Heptarchy of Idgorna/index|The Sovereign Heptarchy of Idgorna]] and the magically engineered primordial forests of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. Moving north, the vitality abruptly dies, giving way to the [[Rust-Wastes]] - a sprawling, expanding desert of grey ash where the natural decay of the universe is hyper-accelerated. The northernmost peaks, claimed by [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|The Rastorian Reach]], are brutal, storm-battered tundras carved by glaciers and geothermal vents.
 
 # Hazards & Encounters
 

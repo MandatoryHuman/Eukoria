@@ -4,7 +4,7 @@ aliases:
 title: Bella, Goddess of War
 ---
 
-\[Category::[[Greater Gods]]]
+\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
 \[Aspects::Presence and Spirit]
 \[Edicts::Fight with honor and discipline, face your enemies head-on, protect those who cannot protect themselves, test your spirit through martial prowess]
 \[Anathema::Flee from an honourable duel, strike an unarmed or yielding foe, utilize poison or subterfuge in combat, abandon a comrade on the battlefield]
@@ -12,7 +12,22 @@ title: Bella, Goddess of War
 \[Religious Symbol::A golden shield bearing a lion symbol]
 \[Sacred Animal::Lion]
 \[Sacred Colours::Crimson and Gold]
-\[Pantheons/Covenants::[[Canonical Gods]]]
+\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+
+Bella is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of War, martial glory, and unwavering willpower. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she represents the harmonious blend of the [[Fundamental Essences|Fundamental Essence of Spirit]] - the intangible tether of willpower and faith - and the [[Basic Essences|Basic Essence of Presence]] - the unmitigated force of manifestation. She is the physical manifestation of courage and the literal embodiment of the fighting spirit.
+
+![[Assets/Gods/Bella.webp|400]]
+
+As a prominent figure among the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]], Bella’s domain over conflict is highly structured and predictable. She does not revel in senseless slaughter or chaotic bloodlust; rather, she governs the disciplined march of armies, the sanctity of an honourable duel, and the martial codes that elevate soldiers above mere beasts. Because she favours direct, honourable conflict over subterfuge, she is a staunch ideological enemy of [[Lethos, God of Trickery]].
+
+Her worshippers are predominantly soldiers, paladins, marshals, and honourable mercenaries. To follow Bella is to believe that the ultimate test of a mortal's Spirit is manifested on the battlefield. Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are living banners of morale, tasked with leading from the front and physically manifesting their divine willpower to turn the tide of impossible battles.
+
+
+
+![[Assets/Gods/Symbols/Bella Symbol.webp|400]]
+
+## Devotee Benefits
+
 \[Divine Attribute::Strength or Charisma]
 \[Divine Font::Heal]
 \[Divine Sanctification::Can choose Holy]
@@ -21,21 +36,6 @@ title: Bella, Goddess of War
 \[Domains::[Might](https://2e.aonprd.com/Domains.aspx?ID=83), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Duty](https://2e.aonprd.com/Domains.aspx?ID=108)]
 \[Alternate Domains::[Confidence](https://2e.aonprd.com/Domains.aspx?ID=67)]
 \[Cleric Spells::1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 4th: [Weapon Storm](https://2e.aonprd.com/Spells.aspx?ID=1758), 5th: [Flowing Strike](https://2e.aonprd.com/Spells.aspx?ID=914)]
-
-Bella is the [[Greater Gods|Greater God]] of War, martial glory, and unwavering willpower. In the cosmic geometry of [[Eukoria]], she represents the harmonious blend of the [[Fundamental Essences|Fundamental Essence of Spirit]] - the intangible tether of willpower and faith - and the [[Basic Essences|Basic Essence of Presence]] - the unmitigated force of manifestation. She is the physical manifestation of courage and the literal embodiment of the fighting spirit.
-
-![[Assets/Gods/Bella.webp|400]]
-
-As a prominent figure among the [[Canonical Gods]], Bella’s domain over conflict is highly structured and predictable. She does not revel in senseless slaughter or chaotic bloodlust; rather, she governs the disciplined march of armies, the sanctity of an honourable duel, and the martial codes that elevate soldiers above mere beasts. Because she favours direct, honourable conflict over subterfuge, she is a staunch ideological enemy of [[Lethos, God of Trickery]].
-
-Her worshippers are predominantly soldiers, paladins, marshals, and honourable mercenaries. To follow Bella is to believe that the ultimate test of a mortal's Spirit is manifested on the battlefield. Her [[Chosen Ones]] are living banners of morale, tasked with leading from the front and physically manifesting their divine willpower to turn the tide of impossible battles.
-
-
-
-![[Assets/Gods/Symbols/Bella Symbol.webp|400]]
-
-## Devotee Benefits
-
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

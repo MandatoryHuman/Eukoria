@@ -16,7 +16,7 @@ tags:
 
 # Overview
 
-A bizarre, makeshift settlement built upon a series of floating, petrified earth-motes on the outer edges of the wastes of [[The Daeshin Null-State]]. It acts as the only somewhat neutral trading hub in the region, populated largely by Fleshwarps devoted to [[Lysia Bind-breaker, Goddess of Passion]].
+A bizarre, makeshift settlement built upon a series of floating, petrified earth-motes on the outer edges of the wastes of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. It acts as the only somewhat neutral trading hub in the region, populated largely by Fleshwarps devoted to [[Lysia Bind-breaker, Goddess of Passion]].
 
 # Geography & Layout
 

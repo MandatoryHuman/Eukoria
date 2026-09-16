@@ -13,7 +13,7 @@ tags:
 \[Population::1.1 Million]
 \[Demographics::Humans, Elves, Leshies, Lizardfolk, Half-Orcs]
 \[Languages::Common, Elven, Iruxi]
-\[Religions::Ancestral Spirits, [[Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]]
+\[Religions::Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]]
 \[Major Exports::Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies]
 \[Major Imports::Heavy Armour, Cold-Iron Weapons, Arcane Texts]
 
@@ -25,13 +25,13 @@ The Sovereign [[Heptarchy]] of Idgorna is a vibrant, hyper-competitive nation oc
 
 # Geography & Climate
 
-Idgorna thrives in warm, stable tropical and subtropical zones, defined by dense rainforests, sprawling river deltas, sweeping savannahs, and coastal archipelagos. The environment is overflowing with the [[Fundamental Essences]] of Life and Matter, resulting in a hyper-fertile, aggressively overgrown landscape deeply infused with Primal magic. The region experiences intense monsoon seasons, feeding the great rivers that serve as the nation's primary highways. This bursting vitality stands in stark contrast to the decaying [[Rust-Wastes]] of [[The Kazarn Hegemony]] to its north.
+Idgorna thrives in warm, stable tropical and subtropical zones, defined by dense rainforests, sprawling river deltas, sweeping savannahs, and coastal archipelagos. The environment is overflowing with the [[Fundamental Essences]] of Life and Matter, resulting in a hyper-fertile, aggressively overgrown landscape deeply infused with Primal magic. The region experiences intense monsoon seasons, feeding the great rivers that serve as the nation's primary highways. This bursting vitality stands in stark contrast to the decaying [[Rust-Wastes]] of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] to its north.
 
 # Society & Culture
 
 Idgornan culture is a visually magnificent and fiercely competitive tapestry of ancient traditions. Cities are marvels of integrated architecture, combining mortarless, sweeping stone walls - reminiscent of lost, ancient empires - with elegant structures woven directly into the massive trunks of towering jungle trees, such as giant baobabs and ironwoods.
 
-Oral history is paramount; deeply respected griots (storytellers, musicians, and lore-keepers) memorise the complex lineages and shifting alliances of the [[Heptarchy]]. Citizens adorn themselves in vibrant, geometrically patterned textiles and intricate beadwork, with specific colours and materials denoting one’s House allegiance and social standing. The people largely revere a pantheon of [[Lesser Gods]] and venerated ancestral spirits associated with the hunt, the river, and the hearth, finding the uncompromising monoliths of the [[Greater Gods]] too rigid for the realities of jungle survival. High-stakes political manoeuvring is a way of life, and nobles frequently utilise subterfuge, ritual enchantment, and calculated gossip to dismantle rivals before combat even begins.
+Oral history is paramount; deeply respected griots (storytellers, musicians, and lore-keepers) memorise the complex lineages and shifting alliances of the [[Heptarchy]]. Citizens adorn themselves in vibrant, geometrically patterned textiles and intricate beadwork, with specific colours and materials denoting one’s House allegiance and social standing. The people largely revere a pantheon of [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]] and venerated ancestral spirits associated with the hunt, the river, and the hearth, finding the uncompromising monoliths of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] too rigid for the realities of jungle survival. High-stakes political manoeuvring is a way of life, and nobles frequently utilise subterfuge, ritual enchantment, and calculated gossip to dismantle rivals before combat even begins.
 
 # Government & Politics
 
@@ -39,9 +39,9 @@ The state is governed by an intricate, highly formalised [[Heptarchy]]; seven di
 
 # Diplomatic Relations
 
-- [[The Kazarn Hegemony]] (Hostile): The supernatural entropy of Kazarn poses a direct, existential threat to the booming vitality of the Idgornan jungles. Despite their internal squabbling, the seven houses maintain a unified, heavily fortified northern front against the [[Hegemony]].
-- [[The Firstweald Ascendancy]] (Tense): Sharing the southwestern landmass, the purist druids of the Firstweald view Idgorna's industrialisation and political manipulation of the jungle as a corruption of Kurnos's natural laws. Border skirmishes and sabotage by Firstweald shapeshifters are common.
-- [[Meridia]] (Cautious/Lucrative Trade): Idgornan merchants engage in highly profitable trade with Meridia. Utilising the sanctioned deception of [[Lethos, God of Trickery]], Idgornan diplomats are among the few capable of navigating loopholes to hold their own against Meridian contract-lawyers.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Hostile): The supernatural entropy of Kazarn poses a direct, existential threat to the booming vitality of the Idgornan jungles. Despite their internal squabbling, the seven houses maintain a unified, heavily fortified northern front against the [[Hegemony]].
+- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Tense): Sharing the southwestern landmass, the purist druids of the Firstweald view Idgorna's industrialisation and political manipulation of the jungle as a corruption of Kurnos's natural laws. Border skirmishes and sabotage by Firstweald shapeshifters are common.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Cautious/Lucrative Trade): Idgornan merchants engage in highly profitable trade with Meridia. Utilising the sanctioned deception of [[Lethos, God of Trickery]], Idgornan diplomats are among the few capable of navigating loopholes to hold their own against Meridian contract-lawyers.
 
 # History & Lore
 

@@ -6,7 +6,7 @@ tags:
   - "#Gods"
 ---
 
-\[Category::<% tp.system.suggester(\["Greater Gods", "Lesser Gods", "The Twins"], \["[[Greater Gods]]", "[[Lesser Gods]]", "[[The Twins]]"]) %>]
+\[Category::<% tp.system.suggester(\["Greater Gods", "Lesser Gods", "The Twins"], \["[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]", "[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]", "[[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]"]) %>]
 \[Aspects::<% tp.system.prompt("Aspects? (e.g., Absence and Life)") %>]
 \[Edicts::<% tp.system.prompt("Edicts?") %>]
 \[Anathema::<% tp.system.prompt("Anathema?") %>]
@@ -29,7 +29,7 @@ tags:
 \[Alternate Domains::<% tp.system.prompt("Alternate Domains?") %>]
 \[Cleric Spells::<% tp.system.prompt("Cleric Spells?") %>]
 
-## \[Divine Intercession]
+## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 \[Minor Boon::]
 \[Moderate Boon::]

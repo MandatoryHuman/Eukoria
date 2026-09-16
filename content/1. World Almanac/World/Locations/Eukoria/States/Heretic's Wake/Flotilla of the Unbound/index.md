@@ -16,7 +16,7 @@ tags:
 
 # Overview
 
-The [[Flotilla]] of the Unbound is not a city of stone and earth, but a sprawling metropolis of lashed-together galleons, dreadnoughts, and stolen merchant vessels. Serving as the de facto capital of [[Heretic's Wake]], the [[Flotilla]] is constantly on the move through the treacherous northern waters.
+The [[Flotilla]] of the Unbound is not a city of stone and earth, but a sprawling metropolis of lashed-together galleons, dreadnoughts, and stolen merchant vessels. Serving as the de facto capital of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], the [[Flotilla]] is constantly on the move through the treacherous northern waters.
 
 To a newly arriving traveller - assuming they weren't brought aboard as a prisoner  - the [[Flotilla]] is a sight of both freedom and danger. The air smells of salt, black powder, and the sharp ozone tang of volatile magic. Because its citizens openly utilize the forbidden [[Traditions of Dismagic]], the armada is frequently surrounded by bizarre environmental side effects, from unnaturally coloured fog to minor reality-warping phenomena.
 
@@ -26,7 +26,7 @@ The "geography" of the [[Flotilla]] changes daily. While the core of the city co
 
 # Government & Law
 
-There is no central legal authority in the [[Flotilla]]. Instead, the armada is governed by the brutal, decentralized authority of pirate captains. The closest thing to a governing body is the [[Captains' Council]], a shouting match of warlords where authority is maintained only by those with the strongest ships and the most potent command of Dismagic. Laws as the [[Canonical Gods]] understand them do not exist here. Disputes are settled through duels, extortion, or the sheer destructive power of clashing Fundamental Essences. Surviving the volatile magical backlash of their own power is simply accepted as the price of living free from canonical law.
+There is no central legal authority in the [[Flotilla]]. Instead, the armada is governed by the brutal, decentralized authority of pirate captains. The closest thing to a governing body is the [[Captains' Council]], a shouting match of warlords where authority is maintained only by those with the strongest ships and the most potent command of Dismagic. Laws as the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] understand them do not exist here. Disputes are settled through duels, extortion, or the sheer destructive power of clashing Fundamental Essences. Surviving the volatile magical backlash of their own power is simply accepted as the price of living free from canonical law.
 
 # Districts
 
@@ -48,4 +48,4 @@ There is no central legal authority in the [[Flotilla]]. Instead, the armada is 
 
 # History & Lore
 
-The [[Flotilla]]'s origins trace back to the direct aftermath of the [[War of Laws]], which concluded 116 years ago. When the [[Canonical Gods|Canonical]] gods solidified their rule and outlawed the [[Traditions of Dismagic]], fleeing practitioners, heretics, and outcasts took to the northern waters to escape execution. What began as a desperate, disorganized flight for survival on stolen fishing boats evolved over a century into a formidable, decentralized naval power. Today, the [[Flotilla]] is a terrifying armada that holds the orthodox world's trade routes hostage, directly challenging [[Meridia]]'s global monopoly.
+The [[Flotilla]]'s origins trace back to the direct aftermath of the [[War of Laws]], which concluded 116 years ago. When the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] gods solidified their rule and outlawed the [[Traditions of Dismagic]], fleeing practitioners, heretics, and outcasts took to the northern waters to escape execution. What began as a desperate, disorganized flight for survival on stolen fishing boats evolved over a century into a formidable, decentralized naval power. Today, the [[Flotilla]] is a terrifying armada that holds the orthodox world's trade routes hostage, directly challenging [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]'s global monopoly.

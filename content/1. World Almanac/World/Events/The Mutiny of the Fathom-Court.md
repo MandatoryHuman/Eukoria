@@ -18,7 +18,7 @@ The Mutiny of the Fathom-Court was a violent naval coup that extinguished the la
 
 # Prelude & Causes
 
-As the overland trade routes collapsed and the [[The Daeshin Null-State|Daeshin Null-State]] expanded, eastern coastal survivors fled to the water. The original royal family of the region attempted to maintain their strict taxation and aristocratic hierarchy over these desperate, floating refugee camps. As starvation set in and the royals hoarded resources aboard their heavily armed galleons, unrest grew among the smugglers, pirates, and magical navigators who were doing the actual work to keep the flotilla afloat.
+As the overland trade routes collapsed and the [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] expanded, eastern coastal survivors fled to the water. The original royal family of the region attempted to maintain their strict taxation and aristocratic hierarchy over these desperate, floating refugee camps. As starvation set in and the royals hoarded resources aboard their heavily armed galleons, unrest grew among the smugglers, pirates, and magical navigators who were doing the actual work to keep the flotilla afloat.
 
 # The Event
 
@@ -28,4 +28,4 @@ In a highly theatrical display, Malachi executed the aristocracy and sank their 
 
 # Aftermath & Legacy
 
-The mutiny completely reorganised eastern coastal society. The old royal decrees were replaced by the "Favour Economy," establishing a meritocracy based entirely on maritime skill and survival. The term "Fathom-Court" stuck, eventually becoming the namesake for the sprawling, semi-mobile naval syndicate that now controls the illicit oceanic trade of [[Eukoria]].
+The mutiny completely reorganised eastern coastal society. The old royal decrees were replaced by the "Favour Economy," establishing a meritocracy based entirely on maritime skill and survival. The term "Fathom-Court" stuck, eventually becoming the namesake for the sprawling, semi-mobile naval syndicate that now controls the illicit oceanic trade of [[index|Eukoria]].

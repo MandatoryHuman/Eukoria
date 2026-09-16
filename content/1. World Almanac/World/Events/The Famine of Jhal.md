@@ -8,7 +8,7 @@ tags:
 ---
 
 \[Type::Supernatural Disaster & State Formation]
-\[Location::[[The Jhalian Necrocracy]]]
+\[Location::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
 \[Factions Involved::Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death]]; heretical Runesmiths]
 \[Key Figures::[[The Undying Sovereign]]]
 

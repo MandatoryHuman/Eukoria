@@ -4,6 +4,7 @@ aliases:
 title: <% tp.file.title %>
 tags:
   - "#State"
+marker:
 ---
 
 \[Capital::<% tp.system.prompt("Capital City?") %>]

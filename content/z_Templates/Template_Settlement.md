@@ -4,6 +4,7 @@ aliases:
 title: <% tp.file.title %>
 tags:
   - "#Settlement"
+marker:
 ---
 
 \[Type::<% tp.system.suggester(\["Capital City", "City", "Town", "Village", "Outpost", "Ruins"], \["Capital City", "City", "Town", "Village", "Outpost", "Ruins"]) %>]

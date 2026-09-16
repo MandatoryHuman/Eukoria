@@ -38,8 +38,8 @@ The nation is a strict Stratocracy ruled by the High Marshal and a council of Ge
 
 # Diplomatic Relations
 
-- [[The Firstweald Ascendancy]] (Hostile): Kazarn's need for fresh wood and fertile soil puts them in conflict with the isolationist druids to their south. The Ascendancy views the Kazarni as an industrial plague. Kazarn conducts frequent coastal raids upon the ascendancy, attacking by boat so as to avoid [[The Bramble-March]].
-- [[Meridia]] (Strained): While the [[Hegemony]] frequently exports mercenary companies to Meridia, they deeply despise the Meridian reliance on [[Lethos, God of Trickery|Lethos's]] subterfuge and predatory contracts, viewing them as dishonourable cowards who refuse to fight their own battles.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Hostile): Kazarn's need for fresh wood and fertile soil puts them in conflict with the isolationist druids to their south. The Ascendancy views the Kazarni as an industrial plague. Kazarn conducts frequent coastal raids upon the ascendancy, attacking by boat so as to avoid [[The Bramble-March]].
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Strained): While the [[Hegemony]] frequently exports mercenary companies to Meridia, they deeply despise the Meridian reliance on [[Lethos, God of Trickery|Lethos's]] subterfuge and predatory contracts, viewing them as dishonourable cowards who refuse to fight their own battles.
 
 # History & Lore
 
