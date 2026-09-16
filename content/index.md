@@ -1,47 +1,142 @@
 ---
 publish: true
-aliases:
-  - content
-title: Eukoria
-created: 2026-09-11T09:10:56.767Z
-modified: 2026-09-11T10:09:14.592Z
-published: 2026-09-11T10:09:14.592Z
+title: Season of Ghosts Vault
+created: 2026-08-21T11:43:41.619Z
+modified: 2026-09-16T13:19:44.441Z
+published: 2026-09-16T13:19:44.441Z
+banner: "[[SoG Banner.webp]]"
 ---
 
-> [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
+# Map of [[Willowshore]]
 
-Welcome to Eukoria, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
+```base
+filters:
+  and:
+    - file.path.startsWith("1. World Almanac/Locations/Settlements/Willowshore")
+views:
+  - type: leaflet-map
+    name: Willowshore-Map
+    mapName: Willowshore-Map
+    image: z_assets/Maps/Willowshore.webp
+    height: 400
+    minZoom: -3.5
+    maxZoom: 2
+    defaultZoom: -3
+    zoomDelta: 1
+    scale: "1.5"
+    unit: feet
+```
 
-# The War of Laws
+# Timeline
 
-Exactly 116 years ago, the heavens were torn apart by a cataclysmic celestial rebellion known as the War of Laws. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition that spilled directly onto mortal soil.
+![[History of Willowshore.canvas]]
 
-During the [[War of Laws]], Eukoria became the epicentre of divine collateral damage. The [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] and the rebel forces of [[Lethos, God of Trickery]] clashed so violently here that their conflict boiled the oceans and permanently tore the physical fabric of the Universe.
+# Important Pages
 
-When the dust settled, the world was forever changed. While the heavens are now at an uneasy peace, the mortal world must navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another. Yet, from this apocalypse, mortals found opportunity. Various nations have risen from the ashes, each hoping to lead the inhabitants of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] into a prosperous future.
+### Heroes of Willowshore
 
-# Directory
+```base
+views:
+  - type: cards
+    name: PCs
+    filters:
+      and:
+        - file.folder == "1. World Almanac/PCs"
+    image: note.npcimage
+    cardSize: 200
 
-## Core Lore & Mechanics
+```
 
-- [[Fundamental Essences]] - The building blocks of reality (Life, Spirit, Mind, Matter).
-- [[Basic Essences]] - The absolute anchors of the void (Presence and Absence).
-- [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
-- [[Traditions of Dismagic]] - The forbidden, volatile magic born of cosmic friction.
+### Factions and Organisations
 
-### [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]
+```base
+views:
+  - type: table
+    name: Factions
+    filters:
+      and:
+        - file.folder == "1. World Almanac/Factions"
+    order:
+      - file.name
+      - leader
+    markers: none
 
-## Geography & Nations
+```
 
-### Continents
+---
 
-- [[Antoria]] (West)
-- [[Cenora]] (East)
+# Locations in Willowshore
 
-### Nations
+### Businesses
 
-### Notable Locations:
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("business")
+views:
+  - type: table
+    name: Businesses
+    order:
+      - file.name
+      - buildingtype
+      - owner
 
-- [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
+```
 
-### Characters & Factions
+### Temples & Shrines
+
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("shrine")
+views:
+  - type: table
+    name: Temples & Shrines
+    order:
+      - file.name
+      - buildingtype
+      - owner
+
+```
+
+### Houses
+
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("residential")
+views:
+  - type: table
+    name: Residential
+    order:
+      - file.name
+      - owner
+
+```
+
+---
+
+> [!tip] Five Tips for Tian Xia
+>
+> #### Celestials aren't always good
+>
+> Most [Avistani](https://pathfinderwiki.com/wiki/Avistan) are familiar with the departure of [Asmodeus](https://pathfinderwiki.com/wiki/Asmodeus) from Heaven, a migration that changed him and his followers into devils. The dichotomy between righteous celestials and profane fiends is thus often taken for granted and further enforced by dramatic tales of angels falling from grace. In Tian Xia, a celestial’s behaviour has little to do with their status as a creature of Heaven. Even a banished godling or a drunken priest can still conjure incredible sacred powers.
+>
+> #### Appearances are deceiving
+>
+> Shapeshifters abound in Tian Xia, and no one can be certain if a priest or merchant they’re talking to is really who they seem to be. Kitsune move through cities wearing human faces, tanuki hide as teakettles or statues, and rats who snatch a stray fingernail can turn into someone’s doppelganger. Even Tian Xia’s goblins, known as [[Dokkaebi]], are known to transform into other forms, often appearing as attractive but troublesome members of other ancestries.
+>
+> #### Dragons aren't monsters
+>
+> Heroic tales of [Taldan](https://pathfinderwiki.com/wiki/Taldor) knights facing down dragons are common entertainment in [Avistan](https://pathfinderwiki.com/wiki/Avistan)—but in Tian Xia, dragons aren’t massive beasts to slay. They’re people, just like humans, [[Nagaji]], [[Tengu]], [[Elf|Elves]], and others who live upon the continent. They’ve served as rulers, advisors, guardians, and spiritual leaders across history, and they’re chosen agents of the [Empress of Heaven](https://pathfinderwiki.com/wiki/Shizuru). If a Tian person comes into conflict with a dragon, their first thought usually isn’t how to kill it, but how to negotiate with it.
+>
+> #### Spirits aren't abstract
+>
+> Elsewhere in the world, spirits are often insubstantial and thus remain out of mind for the average person. Those who know how to call to these strange entities can wield incredible power, but most will never see a spirit beyond a stray leshy or a summoned eidolon. In Tian Xia, [[Kami]] walk the forests, Anito teem in the jungles, and [[Yaksha|Yakshas]] help in the villages—tangible beings that feel very real. Offending the spirit of a river is much more serious when that river spirit might manifest as a dragon in response!
+>
+> #### The dead are never truly gone
+>
+> In many philosophies, a soul is judged by [Pharasma](https://pathfinderwiki.com/wiki/Pharasma), then moves on to its final reward. In Tian Xia, ancestors linger, watching their family and affecting their fortunes. Village heroes can straddle the line between ghost and god; sages who cultivate their spirit can even transcend mortality. The [Celestial Court](https://pathfinderwiki.com/wiki/Celestial_Court) of Tian Xia also offers a different path for those who choose it: reincarnation. Much like history, souls move around the universe in circles, and death isn’t always a permanent ending.

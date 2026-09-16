@@ -1,12 +1,15 @@
 ---
+publish: true
 aliases:
   - Obolus
 title: Obolus
+created: 2026-09-11T09:10:57.562Z
+modified: 2026-09-12T09:36:57.219Z
+published: 2026-09-12T09:36:57.219Z
 tags:
   - Settlement
   - Location
 marker:
-  - coordinates: 1979,3820
 ---
 
 \[Type::Capital]

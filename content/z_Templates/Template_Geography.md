@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
+created: 2026-09-11T09:10:58.064Z
+modified: 2026-09-12T09:37:40.190Z
+published: 2026-09-12T09:37:40.190Z
 tags:
   - Geography
 ---
