@@ -23,8 +23,6 @@ Venaria is an ancient, primal goddess of predator and prey. Represented as a tow
 
 Hunters, rangers, and frontier settlers form the core of Venaria's faithful. Before stepping into the untamed wilds of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], it is customary to snap a dry twig and whisper a prayer to Venaria, asking to be the predator rather than the prey today. Shrines to Venaria are usually simple stone altars hidden deep in the forest, adorned with antlers, bones, and the first cut of meat from a successful hunt.
 
-
-
 ![[Assets/Gods/Symbols/Venaria Symbol.webp|400]]
 
 ## Devotee Benefits

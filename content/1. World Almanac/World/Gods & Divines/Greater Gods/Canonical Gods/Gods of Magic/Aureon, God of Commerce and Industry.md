@@ -25,8 +25,6 @@ Unlike deities driven by emotion or vengeance, Aureon operates on strict logic a
 
 The followers of Aureon, most notably traditional Wizards and Magi, practice an art that is seen as upholding the natural laws of the universe, and are openly taught in academies and temples across Eukoria. His Chosen Ones are tasked with driving societal progress, overseeing monumental architectural feats, and ensuring that binding contracts are upheld. To aid them in these tasks, Aureon grants his mortal conduits absolute authority over physical substance. The first gift is miraculous transmutation - the ability to instantly reshape base elements to build or repair structures with mathematically perfect precision. The second is the power of absolute dissolution; should an enemy threaten his works or breach a sacred contract, his Chosen can weaponize their logic to mathematically deconstruct the offender and their creations into mere dust.
 
-
-
 ![[Assets/Gods/Symbols/Aureon Symbol.webp|400]]
 
 ## Devotee Benefits

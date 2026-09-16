@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Bella
 title: Bella, Goddess of War
+created: 2026-09-16T15:12:54.795Z
+modified: 2026-09-11T10:18:34.180Z
+published: 2026-09-11T10:18:34.180Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
@@ -21,8 +25,6 @@ Bella is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater 
 As a prominent figure among the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]], Bella’s domain over conflict is highly structured and predictable. She does not revel in senseless slaughter or chaotic bloodlust; rather, she governs the disciplined march of armies, the sanctity of an honourable duel, and the martial codes that elevate soldiers above mere beasts. Because she favours direct, honourable conflict over subterfuge, she is a staunch ideological enemy of [[Lethos, God of Trickery]].
 
 Her worshippers are predominantly soldiers, paladins, marshals, and honourable mercenaries. To follow Bella is to believe that the ultimate test of a mortal's Spirit is manifested on the battlefield. Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are living banners of morale, tasked with leading from the front and physically manifesting their divine willpower to turn the tide of impossible battles.
-
-
 
 ![[Assets/Gods/Symbols/Bella Symbol.webp|400]]
 

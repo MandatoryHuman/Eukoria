@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Ilyria
   - ilyria, goddess of the afterlife
 title: Ilyria, Goddess of The Afterlife
+created: 2026-09-16T15:12:54.798Z
+modified: 2026-09-11T10:20:03.543Z
+published: 2026-09-11T10:20:03.543Z
 tags:
   - Gods
 ---
@@ -26,8 +30,6 @@ Within the pantheon of deities, Ilyria acts as a counterpart to [[Cavera, Goddes
 While orthodox theology states that [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - [[Ontos, The Presence]] and [[Kenon, The Absence]] - are the primordial anchors of reality that set the cosmic wheel in motion, secretive sects of Ilyria's most ancient clerics whisper a different truth. They claim Ilyria is a survivor of a previous universe - a reality that crumbled into dust long before [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] was ever born. According to these myths, Ilyria sits upon a throne of spiralling stone, merely observing this current universe play out, waiting for the wheel to finally stop turning so they can guide the last souls into the void.
 
 As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] Greater God, they are completely neutral. They do not pass moral judgment on the souls that come before them; they merely ensure they reach their designated resting place. However, they harbour an uncompromising, icy wrath for those who subvert this natural cycle. They view the [[Traditions of Dismagic|Relic Dismagic]] practiced by Liches and soul-binders under [[Aethelgard, God of Relics]] as a deeply offensive perversion, as it unnaturally anchors the Spirit to [[Fundamental Essences|Matter]] instead of allowing it to peacefully pass into Absence.
-
-
 
 ![[Assets/Gods/Symbols/Ilyria Symbol.webp|400]]
 

@@ -23,8 +23,6 @@ Jovanna is a boisterous, warm-hearted goddess of the home fire and the tavern ha
 
 There are few traditional temples to Jovanna; instead, the most welcoming taverns and inns in [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] act as her holy sites. The bartender often works double duty as priest, and the sharing of a drink and a story is considered an act of worship. Adventurers frequently pray to Jovanna for a safe return to a warm bed and a hot meal.
 
-
-
 ![[Assets/Gods/Symbols/Jovanna Symbol.webp|400]]
 
 ## Devotee Benefits

@@ -23,8 +23,6 @@ Eidas is the patron of creatives across [[1. World Almanac/World/Locations/Eukor
 
 Followers of Eidas range from high-society sculptors in the grand cities to wandering bards in the rural reaches of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. They believe that when mortals create, they echo the original shaping of the world. Shrines to Eidas are often left at crossroads or scenic vistas, equipped with a small set of paints or a carving knife for travellers to add their own mark.
 
-
-
 ![[Assets/Gods/Symbols/Eidas Symbol.webp|400]]
 
 ## Devotee Benefits

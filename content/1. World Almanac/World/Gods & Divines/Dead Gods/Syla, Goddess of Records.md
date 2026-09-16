@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Syla
   - syla, goddess of records
 title: Syla, Goddess of Records
+created: 2026-09-16T15:12:54.786Z
+modified: 2026-09-11T10:10:31.040Z
+published: 2026-09-11T10:10:31.040Z
 enemy:
   - "[[Lethos, God of Trickery]]"
 ---
@@ -28,8 +32,6 @@ Syla's death also had a rippling effect on all types of records across [[index|E
 Today, Syla is a dead god. However, her legacy survives in a fractured state. Refusing to let such a profound intellectual tool die with her, [[Oclera, God of Knowledge]] spent years meticulously researching and reverse-engineering the remnants of Syla's shared-consciousness magic. Where Syla used this psychic network passively to store records, Oclera applied the technique to actively process information.
 
 While Syla is long since dead, some of her clerics still gain magic from her latent power.
-
-
 
 ![[Assets/Gods/Symbols/Syla Symbol.webp|400]]
 

@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Aporia
   - aporia, god of fate
 title: Aporia, God of Fate
+created: 2026-09-16T15:12:54.821Z
+modified: 2026-09-11T10:13:54.230Z
+published: 2026-09-11T10:13:54.230Z
 tags:
   - Gods
 ---
@@ -22,8 +26,6 @@ Aporia is the Greater god of Fate and Destiny. They are a composite of the Basic
 As a god, Aporia acts as an arbiter of what is (Presence) versus what could have been (Absence), weaving the threads of time, knowing both the events that manifest in reality, and those infinite possibilities that are cut away into nothingness.
 
 Aporia's followers, few as they are, are often Oracles, or may take the [[2. Mechanics/Archetypes/Truthseeker/index|Truthseeker]] dedication to manipulate the fates of others.
-
-
 
 ![[Assets/Gods/Symbols/Aporia Symbol.webp|400]]
 

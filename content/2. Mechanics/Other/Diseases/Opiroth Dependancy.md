@@ -17,7 +17,6 @@ Because Opiroth Resin fundamentally alters how a body processes cosmic friction,
 - **Stage 2:** You become Fatigued and Enfeebled 1. (1 week)
 - **Stage 3:** You become Fatigued, Enfeebled 2, and take a -2 penalty to Will saves against emotion effects as your emotional grounding unravels. (1 week)
 
-
 > [!warning]
 >
 > # Drugs in Fantasy

@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Non-Canonical Gods
 title: Non-Canonical Gods
+created: 2026-09-16T15:12:54.822Z
+modified: 2026-09-11T10:11:26.992Z
+published: 2026-09-11T10:11:26.992Z
 tags:
   - Lore
 ---

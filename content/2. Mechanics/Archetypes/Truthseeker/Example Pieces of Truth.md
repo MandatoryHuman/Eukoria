@@ -1,4 +1,3 @@
-
 - Location of birth, to the nearest meter
 - Most recent cause of death of their Soul
 - The creature’s True Name

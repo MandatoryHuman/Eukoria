@@ -25,8 +25,6 @@ Practitioners of Solon’s tradition, such as bards and psychics, channel his ca
 
 Despite his pact-bound neutrality regarding the flow of magic, Solon represents absolute, unyielding order. This places him and his followers in direct ideological conflict with [[Lethos, God of Trickery]], whom Solon despises for his mockery of the spirit of the law and his historical murder of [[Thrum, God of Madness]]. Solon's hardliner orthodox followers are notoriously rigid; for instance, they completely despise leaders like [[High Arbiter Garadwen]] of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]], viewing her loophole-ridden administration as a mockery of justice, even if they are legally unable to prosecute her.
 
-
-
 ![[Assets/Gods/Symbols/Solon Symbol.webp|400]]
 
 ## Devotee Benefits

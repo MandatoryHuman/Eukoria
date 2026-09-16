@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Maelis
   - maelis, goddess of fertility and harvest
 title: Maelis, Goddess of Fertility and Harvest
+created: 2026-09-16T15:12:54.802Z
+modified: 2026-09-11T10:23:44.383Z
+published: 2026-09-11T10:23:44.383Z
 tags:
   - Gods
 ---
@@ -26,7 +30,6 @@ The [[Fundamental Essences|Essence of Life]] governs the beating of the heart, t
 Unlike the  unnatural, forced evolutionary leaps practiced by followers of the [[Traditions of Dismagic|Dismagic]] Goddess [[Lysia Bind-breaker, Goddess of Passion|Lysia]], Maelis governs natural, orthodox reproduction and growth. Her worshippers are predominantly farmers, midwives, parents, and community leaders. To follow Maelis is to believe that the ultimate expression of the divine is the creation and nurturing of new life.
 
 Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] act as avatars of her will on Eukoria , tasked with protecting the vulnerable young, ensuring communities survive harsh winters with bountiful crops, and cultivating life in the barren, warped landscapes left behind by the [[War of Laws|War of Laws]].
-
 
 ![[Assets/Gods/Symbols/Maelis Symbol.webp|400]]
 

@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Xerith
   - xerith, god of erosion
 title: Xerith, God of Erosion
+created: 2026-09-16T15:12:54.806Z
+modified: 2026-09-11T10:34:37.258Z
+published: 2026-09-11T10:34:37.258Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
@@ -24,7 +28,6 @@ While the [[Fundamental Essences|Essence of Matter]] dictates the tangible subst
 Xerith is not a malicious god; he is simply patient. He represents the natural, necessary clearing of the canvas so that creation does not suffocate the world. His worshippers include desert nomads, ascetic monks who reject material wealth, and demolitionists. They believe that attempting to make physical things last forever is pure arrogance. Because of this, Xerith's followers harbour a deep, philosophical hatred for [[Aethelgard, God of Relics|Aethelgard]] and the [[Traditions of Dismagic|Relic Dismagic]] tradition. To Xerith, binding a [[Fundamental Essences|Spirit]] to an unfeeling physical prison in an attempt to grant it eternal preservation is the ultimate perversion of matter's natural, decaying lifecycle.
 
 His [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are tasked with breaking down monuments of vanity, returning hoarded wealth to the earth, and accelerating the decay of structures that have outlived their natural purpose.
-
 
 ![[Assets/Gods/Symbols/Xerith Symbol.webp|400]]
 

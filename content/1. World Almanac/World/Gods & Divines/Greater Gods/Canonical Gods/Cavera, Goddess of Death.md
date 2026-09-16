@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Cavera
   - cavera, goddess of death
 title: Cavera, Goddess of Death
+created: 2026-09-16T15:12:54.796Z
+modified: 2026-09-11T10:19:09.962Z
+published: 2026-09-11T10:19:09.962Z
 tags:
   - Gods
 ---
@@ -24,8 +28,6 @@ Cavera is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater
 Within the pantheon of deities, Cavera acts as a counterpart to [[Ilyria, Goddess of The Afterlife]]. While Cavera governs the active cessation of vitality - the erasure of [[Fundamental Essences|Life]] - Ilyria oversees what comes after. However, their relationship is deeply fractured. Because the [[Fundamental Essences|Fundamental Essence of Life]] encompasses the animating force that fuels unlife, Cavera views the undead not as an abomination, but as the ultimate, perfected state of her domain - vitality scrubbed clean of mortal frailty and Ilyria's "natural" cycle.
 
 As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical God]], she fundamentally disagrees with [[Aethelgard, God of Relics|Aethelgard's]] use of [[Traditions of Dismagic|Dismagic]] to bind [[Fundamental Essences|Spirit]] to [[Fundamental Essences|Matter]]; to Cavera, true unlife is purely biological and primal, fueled by [[Fundamental Essences|Life]] and [[Basic Essences|Absence]]. Her worshippers include necromancers who practice sanctioned magic, executioners, and intelligent undead. Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are tasked with culling the breathing, halting natural lifespans, and raising armies of the dead to enforce her eternal silence.
-
-
 
 ![[Assets/Gods/Symbols/Cavera Symbol.webp|500]]
 

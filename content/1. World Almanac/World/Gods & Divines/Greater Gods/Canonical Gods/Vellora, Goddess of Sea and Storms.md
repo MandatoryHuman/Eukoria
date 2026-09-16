@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Vellora
   - vellora, goddess of sea and storms
 title: Vellora, Goddess of Sea and Storms
+created: 2026-09-16T15:12:54.805Z
+modified: 2026-09-11T10:25:41.304Z
+published: 2026-09-11T10:25:41.304Z
 tags:
   - Gods
 ---
@@ -26,7 +30,6 @@ The [[Fundamental Essences|Essence of Matter]] dictates the tangible substance o
 Vellora’s storms aren't malicious; they are the necessary, predictable laws of nature that drive the physical world's cycles. She is widely worshipped across coastal nations and island fleets. Sailors, navigators, and coastal farmers all pay her deep respect, understanding that the ocean does not negotiate. In regions like [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] and the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], where the waters of the [[God-Scar Strait]] were permanently warped by the [[War of Laws]], Vellora's followers often seek to map, survive, or even heal the unnatural currents caused by the lingering cosmic friction.
 
 Her [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen Ones]] are forces of nature, tasked with physically manifesting her weather, protecting coastal communities from unnatural disasters, and ensuring that the physical laws of the sea are respected.
-
 
 ![[Assets/Gods/Symbols/Vellora Symbol.webp|400]]
 
