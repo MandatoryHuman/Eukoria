@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-created: 2026-09-11T09:10:58.060Z
-modified: 2026-09-11T10:10:34.901Z
-published: 2026-09-11T10:10:34.901Z
 tags:
   - "#Gods"
 ---

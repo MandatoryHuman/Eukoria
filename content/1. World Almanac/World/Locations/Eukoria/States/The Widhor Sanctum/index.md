@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-created: 2026-09-11T09:10:57.724Z
-modified: 2026-09-16T14:31:24.701Z
-published: 2026-09-16T14:31:24.701Z
 tags:
   - State
 ---

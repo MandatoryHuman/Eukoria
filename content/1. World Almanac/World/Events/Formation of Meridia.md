@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - formation of meridia
 title: Formation of Meridia
-created: 2026-09-11T09:10:57.392Z
-modified: 2026-09-11T10:09:14.594Z
-published: 2026-09-11T10:09:14.594Z
 tags:
   - "#Events"
 ---

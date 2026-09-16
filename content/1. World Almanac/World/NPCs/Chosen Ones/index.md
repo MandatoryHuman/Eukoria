@@ -24,7 +24,7 @@ Almost all Chosen are granted a single 10th level spell they can cast once per d
 
 | Name                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- |
-| [[Chosen of Nature\|Chosen of Nature]]                                             |
-| [[Chosen of Passion\|Chosen of Passion]]                                           |
-| [[Chosen of the Sea and Storms\|Chosen of the Sea and Storms]]                     |
-| [[Maris Sin-Eater, Chosen of Forgiveness\|Maris Sin-Eater, Chosen of Forgiveness]] |
+| [[Chosen of Nature|Chosen of Nature]]                                             |
+| [[Chosen of Passion|Chosen of Passion]]                                           |
+| [[Chosen of the Sea and Storms|Chosen of the Sea and Storms]]                     |
+| [[Maris Sin-Eater, Chosen of Forgiveness|Maris Sin-Eater, Chosen of Forgiveness]] |

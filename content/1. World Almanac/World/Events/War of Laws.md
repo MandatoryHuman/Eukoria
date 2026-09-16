@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - war of laws
 title: War of Laws
-created: 2026-09-11T09:10:57.402Z
-modified: 2026-09-11T10:09:14.602Z
-published: 2026-09-11T10:09:14.602Z
 tags:
   - "#Wars"
   - "#Events"

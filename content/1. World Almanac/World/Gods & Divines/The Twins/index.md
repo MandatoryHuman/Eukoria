@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - The Twins
 title: The Twins
-created: 2026-09-11T09:10:57.490Z
-modified: 2026-09-11T10:46:50.836Z
-published: 2026-09-11T10:46:50.836Z
 tags:
   - Lore
 ---

@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - Greater God
   - Greater Gods
 title: Greater Gods
-created: 2026-09-11T09:10:57.423Z
-modified: 2026-09-11T10:11:05.202Z
-published: 2026-09-11T10:11:05.202Z
 tags:
   - Lore
 ---

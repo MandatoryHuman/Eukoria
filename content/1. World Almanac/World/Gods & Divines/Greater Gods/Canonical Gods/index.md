@@ -1,13 +1,9 @@
 ---
-publish: true
 aliases:
   - Orthodox Deities
   - Canonical
   - Canonical Gods
 title: Canonical Gods
-created: 2026-09-11T09:10:57.432Z
-modified: 2026-09-11T10:18:02.092Z
-published: 2026-09-11T10:18:02.092Z
 tags:
   - "#Lore"
 ---
