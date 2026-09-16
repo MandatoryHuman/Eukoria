@@ -5,8 +5,8 @@ aliases:
   - Widhor
 title: The Widhor Sanctum
 created: 2026-09-11T09:10:57.724Z
-modified: 2026-09-12T09:51:20.187Z
-published: 2026-09-12T09:51:20.187Z
+modified: 2026-09-16T14:31:24.701Z
+published: 2026-09-16T14:31:24.701Z
 tags:
   - State
 ---
@@ -25,7 +25,7 @@ tags:
 
 # Overview
 
-Located on a crescent-shaped area of land on the eastern edge of [[Cenora]], the Widhor Sanctum is an isolationist, utopian commune. Devoted to [[Lysia Bind-breaker, Goddess of Passion]], it serves as a haven for Fleshwarps, persecuted lovers, Cathartic Mages, and outcasts fleeing orthodox inquisitions. Unlike the violent pirates of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], the citizens of Widhor use [[Traditions of Dismagic|Dismagic]] to create a empathetic and biologically adaptive society.
+Located on a crescent-shaped area of land on the eastern edge of [[Cenora]], the Widhor Sanctum is an isolationist, utopian commune. Devoted to [[Lysia Bind-breaker, Goddess of Passion]], it serves as a haven for Fleshwarps, persecuted lovers, Cathartic Mages, and outcasts fleeing orthodox inquisitions. Unlike the violent pirates of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], the citizens of [[1. World Almanac/World/Locations/Eukoria/States/The Widhor Sanctum/index|The Widhor Sanctum]] use [[Traditions of Dismagic|Dismagic]] to create a empathetic and biologically adaptive society.
 
 # Geography & Climate
 
