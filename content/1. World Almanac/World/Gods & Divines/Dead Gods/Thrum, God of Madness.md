@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Thrum
   - thrum, god of madness
 title: Thrum, God of Madness
+created: 2026-09-11T09:10:57.417Z
+modified: 2026-09-11T10:10:56.966Z
+published: 2026-09-11T10:10:56.966Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
@@ -22,7 +26,6 @@ Thrum was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater
 During the [[War of Laws]], Thrum was murdered by [[Lethos, God of Trickery]]. Lethos, who was merely a [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser God]] at the time, used the chaos of the celestial rebellion as a smokescreen to assassinate Thrum. By erasing the God of Madness, Lethos successfully created a vacant position in the pantheon of [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] for himself to fill, usurping Thrum's cosmic position of Absence and Mind.
 
 Today, Thrum is a dead god. He no longer actively answers prayers or consciously intervenes in the mortal realm. His murder left a permanent psychological scar on the orthodox pantheon. [[Solon, God of Law]] completely despises Lethos for Thrum's murder, viewing it as the ultimate, unforgivable subversion of cosmic order. While Thrum is gone, desperate cultists and those suffering from severe psychic trauma sometimes still whisper his name, drawing upon the residual, volatile energies left behind by his death, with some Clerics claiming to still gain power from his memory.
-
 
 ![[Assets/Gods/Symbols/Amnis Symbol.webp]]
 

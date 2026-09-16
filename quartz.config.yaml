@@ -10,7 +10,7 @@ configuration:
   baseUrl: eukoria.vercel.app
   ignorePatterns:
     - private
-    - templates
+    - z_Templates
     - .obsidian
   theme:
     fontOrigin: googleFonts

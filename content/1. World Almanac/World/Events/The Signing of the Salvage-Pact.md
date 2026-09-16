@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - the signing of the salvage-pact
 title: The Signing of the Salvage-Pact
+created: 2026-09-11T09:10:57.400Z
+modified: 2026-09-11T10:09:14.600Z
+published: 2026-09-11T10:09:14.600Z
 tags:
   - "#Events"
 ---
