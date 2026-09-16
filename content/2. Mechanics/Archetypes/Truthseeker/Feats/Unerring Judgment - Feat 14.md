@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Unerring Judgment
 title: Unerring Judgment
+created: 2026-09-16T15:12:55.134Z
+modified: 2026-09-16T21:02:20.372Z
+published: 2026-09-16T21:02:20.372Z
 tags:
   - Archetype
   - Feat

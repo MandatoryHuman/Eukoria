@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Kenon
   - kenon, the absence
 title: Kenon, The Absence
+created: 2026-09-16T15:12:54.845Z
+modified: 2026-09-16T21:02:20.325Z
+published: 2026-09-16T21:02:20.325Z
 tags:
   - Gods
 ---

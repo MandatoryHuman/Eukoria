@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Board of the Concordat
 title: The Board of the Concordat
+created: 2026-09-16T15:12:54.862Z
+modified: 2026-09-16T21:02:20.328Z
+published: 2026-09-16T21:02:20.328Z
 ---
 
 \[Type::]

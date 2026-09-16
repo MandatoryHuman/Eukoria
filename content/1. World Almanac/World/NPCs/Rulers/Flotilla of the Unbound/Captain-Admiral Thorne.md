@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Thorne
 title: Captain-Admiral Thorne
+created: 2026-09-16T15:12:55.071Z
+modified: 2026-09-16T21:02:20.357Z
+published: 2026-09-16T21:02:20.357Z
 tags:
   - NPCs
 rival: "[[Jeniva The Canvas]]"

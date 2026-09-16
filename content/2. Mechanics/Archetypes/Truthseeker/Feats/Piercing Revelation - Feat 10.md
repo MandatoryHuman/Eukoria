@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Piercing Revelation
 title: Piercing Revelation
+created: 2026-09-16T15:12:55.118Z
+modified: 2026-09-16T21:02:20.368Z
+published: 2026-09-16T21:02:20.368Z
 tags:
   - Archetype
   - Feat

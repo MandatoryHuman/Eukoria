@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - cenora
 title: Cenora
+created: 2026-09-16T15:12:54.876Z
+modified: 2026-09-16T21:02:20.329Z
+published: 2026-09-16T21:02:20.329Z
 tags:
   - "#Geography"
 ---

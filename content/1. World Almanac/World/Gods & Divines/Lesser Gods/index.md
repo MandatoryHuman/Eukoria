@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Lesser Gods
 title: Lesser Gods
+created: 2026-09-16T15:12:54.836Z
+modified: 2026-09-16T21:02:20.325Z
+published: 2026-09-16T21:02:20.325Z
 tags:
   - Lore
 ---

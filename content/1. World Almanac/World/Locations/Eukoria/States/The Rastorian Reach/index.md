@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
+created: 2026-09-16T15:12:54.988Z
+modified: 2026-09-16T21:02:20.346Z
+published: 2026-09-16T21:02:20.346Z
 tags:
   - State
 ---

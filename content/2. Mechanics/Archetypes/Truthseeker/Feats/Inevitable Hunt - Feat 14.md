@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Inevitable Hunt
 title: Inevitable Hunt
+created: 2026-09-16T15:12:55.114Z
+modified: 2026-09-16T21:02:20.366Z
+published: 2026-09-16T21:02:20.366Z
 tags:
   - Archetype
   - Feat

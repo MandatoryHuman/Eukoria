@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Venaria
   - venaria, goddess of the hunt
 title: Venaria, Goddess of The Hunt
+created: 2026-09-16T15:12:54.840Z
+modified: 2026-09-16T21:02:20.325Z
+published: 2026-09-16T21:02:20.325Z
 tags:
   - Gods
 ---

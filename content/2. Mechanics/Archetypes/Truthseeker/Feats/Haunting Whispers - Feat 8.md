@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Haunting Whispers
 title: Haunting Whispers
+created: 2026-09-16T15:12:55.109Z
+modified: 2026-09-16T21:02:20.365Z
+published: 2026-09-16T21:02:20.365Z
 tags:
   - Archetype
   - Feat

@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Seven-Fold Canopy
 title: The Seven-Fold Canopy
+created: 2026-09-16T15:12:55.009Z
+modified: 2026-09-16T21:02:20.348Z
+published: 2026-09-16T21:02:20.348Z
 tags:
   - Settlement
 ---

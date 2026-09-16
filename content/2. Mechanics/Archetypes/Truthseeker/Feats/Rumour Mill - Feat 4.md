@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Rumour Mill
 title: Rumour Mill
+created: 2026-09-16T15:12:55.124Z
+modified: 2026-09-16T21:02:20.369Z
+published: 2026-09-16T21:02:20.369Z
 tags:
   - "#Archetype"
   - "#Feat"
