@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Jeniva
 title: Jeniva The Canvas
+created: 2026-09-21T11:42:37.360Z
+modified: 2026-09-21T23:19:18.774Z
+published: 2026-09-21T23:19:18.774Z
 tags:
   - NPCs
 rival: "[[Captain-Admiral Thorne]]"

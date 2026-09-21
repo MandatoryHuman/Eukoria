@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Silent City of Jhal
 title: The Silent City of Jhal
+created: 2026-09-21T11:42:37.241Z
+modified: 2026-09-21T23:19:18.902Z
+published: 2026-09-21T23:19:18.902Z
 tags:
   - "#Settlement"
 ---

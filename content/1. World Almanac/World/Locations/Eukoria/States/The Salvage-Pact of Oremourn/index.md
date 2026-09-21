@@ -1,9 +1,13 @@
 ---
+publish: true
 aliases:
   - the salvage-pact of Oremourn
   - Oremourn
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
+created: 2026-09-21T11:42:37.269Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 tags:
   - State
 ---

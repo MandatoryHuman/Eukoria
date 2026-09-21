@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Circle of the Root
 title: The Circle of the Root
+created: 2026-09-21T11:42:37.118Z
+modified: 2026-09-21T23:19:18.853Z
+published: 2026-09-21T23:19:18.853Z
 ---
 
 \[Type::]

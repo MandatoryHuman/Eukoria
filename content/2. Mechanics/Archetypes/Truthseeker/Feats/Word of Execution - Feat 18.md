@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Word of Execution
 title: Word of Execution
+created: 2026-09-21T11:42:37.437Z
+modified: 2026-09-21T23:19:18.799Z
+published: 2026-09-21T23:19:18.799Z
 tags:
   - Archetype
   - Feat

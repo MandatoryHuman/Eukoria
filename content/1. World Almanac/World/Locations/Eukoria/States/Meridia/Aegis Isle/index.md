@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Aegis Isle
 title: Aegis Isle
+created: 2026-09-21T11:42:37.162Z
+modified: 2026-09-21T23:19:18.858Z
+published: 2026-09-21T23:19:18.858Z
 tags:
   - Settlement
 ---

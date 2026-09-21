@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Dismagic
 title: Traditions of Dismagic
+created: 2026-09-21T11:42:37.322Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 ---
 
 > [!quote|author] Manifesto of the Banned Traditions

@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - The Scholasticate of Khalen
   - Khalen
 title: The Scholasticate of Khalen
+created: 2026-09-21T11:42:37.273Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 tags:
   - State
 ---

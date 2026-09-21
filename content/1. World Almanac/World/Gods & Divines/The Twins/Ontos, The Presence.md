@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Ontos
   - ontos, the presence
 title: Ontos, The Presence
+created: 2026-09-21T11:42:37.096Z
+modified: 2026-09-21T23:19:18.799Z
+published: 2026-09-21T23:19:18.799Z
 tags:
   - Gods
 ---

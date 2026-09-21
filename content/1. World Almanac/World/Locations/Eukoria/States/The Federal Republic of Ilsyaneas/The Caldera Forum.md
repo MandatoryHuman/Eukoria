@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Caldera Forum
 title: The Caldera Forum
+created: 2026-09-21T11:42:37.202Z
+modified: 2026-09-21T23:19:18.902Z
+published: 2026-09-21T23:19:18.902Z
 tags:
   - Settlement
 ---

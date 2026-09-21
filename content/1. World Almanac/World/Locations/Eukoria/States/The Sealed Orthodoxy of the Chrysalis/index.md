@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
+created: 2026-09-21T11:42:37.280Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 tags:
   - State
 ---

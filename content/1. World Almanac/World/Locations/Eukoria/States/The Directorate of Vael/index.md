@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
+created: 2026-09-21T11:42:37.193Z
+modified: 2026-09-21T23:19:18.902Z
+published: 2026-09-21T23:19:18.902Z
 tags:
   - State
 ---

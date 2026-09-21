@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Othrys
   - othrys, the hollow capital
 title: Othrys, The Hollow Capital
+created: 2026-09-21T11:42:37.183Z
+modified: 2026-09-21T23:19:18.902Z
+published: 2026-09-21T23:19:18.902Z
 tags:
   - Settlement
 ---

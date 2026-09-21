@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
+created: 2026-09-21T11:42:37.284Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 tags:
   - State
 ---

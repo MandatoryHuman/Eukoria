@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - The Glandaric Marches
 title: The Glandaric Marches
+created: 2026-09-21T11:42:37.234Z
+modified: 2026-09-21T23:19:18.902Z
+published: 2026-09-21T23:19:18.902Z
 tags:
   - State
 ---

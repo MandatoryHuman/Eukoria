@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Opiroth
   - The Vales of Opiroth
 title: The Vales of Opiroth
+created: 2026-09-21T11:42:37.304Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 tags:
   - State
 ---

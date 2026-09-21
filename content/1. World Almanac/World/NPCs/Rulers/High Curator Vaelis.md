@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Vaelis
 title: High Curator Vaelis
+created: 2026-09-21T11:42:37.347Z
+modified: 2026-09-21T23:19:18.765Z
+published: 2026-09-21T23:19:18.765Z
 tags:
   - NPCs
 ---

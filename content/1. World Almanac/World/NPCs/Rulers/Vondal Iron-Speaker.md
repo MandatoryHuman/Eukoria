@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - vondal iron-speaker
 title: Vondal Iron-Speaker
+created: 2026-09-21T11:42:37.354Z
+modified: 2026-09-21T23:19:18.771Z
+published: 2026-09-21T23:19:18.771Z
 tags:
   - NPCs
 ---

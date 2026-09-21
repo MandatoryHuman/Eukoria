@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Bramble-March
 title: The Bramble-March
+created: 2026-09-21T11:42:37.210Z
+modified: 2026-09-21T23:19:18.902Z
+published: 2026-09-21T23:19:18.902Z
 tags:
   - Geography
 ---
