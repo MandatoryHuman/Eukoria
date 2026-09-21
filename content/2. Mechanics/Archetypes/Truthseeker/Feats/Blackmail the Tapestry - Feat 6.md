@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Blackmail the Tapestry
 title: Blackmail the Tapestry
+created: 2026-09-16T15:12:55.100Z
+modified: 2026-09-16T21:02:20.363Z
+published: 2026-09-16T21:02:20.363Z
 tags:
   - Archetype
   - Feat

@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Kurnos
   - kurnos, god of nature
 title: Kurnos, God of Nature
+created: 2026-09-16T15:12:54.815Z
+modified: 2026-09-16T21:02:20.317Z
+published: 2026-09-16T21:02:20.317Z
 tags:
   - Gods
 ---

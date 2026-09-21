@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - fundamental essences
 title: Fundamental Essences
+created: 2026-09-16T15:12:55.038Z
+modified: 2026-09-16T21:02:20.353Z
+published: 2026-09-16T21:02:20.353Z
 ---
 
 > [!quote|author] Eukorian Thaumaturgical Text

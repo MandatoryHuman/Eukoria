@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - tralicor
 title: Tralicor
+created: 2026-09-16T15:12:55.029Z
+modified: 2026-09-16T21:02:20.351Z
+published: 2026-09-16T21:02:20.351Z
 tags:
   - Settlement
 ---

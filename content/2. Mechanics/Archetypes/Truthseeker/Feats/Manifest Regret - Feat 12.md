@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Manifest Regret
 title: Manifest Regret
+created: 2026-09-16T15:12:55.116Z
+modified: 2026-09-16T21:02:20.367Z
+published: 2026-09-16T21:02:20.367Z
 tags:
   - Archetype
   - Feat

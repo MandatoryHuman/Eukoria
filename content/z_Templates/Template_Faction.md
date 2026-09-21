@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
+created: 2026-09-16T15:12:55.291Z
+modified: 2026-09-16T21:02:20.382Z
+published: 2026-09-16T21:02:20.382Z
 ---
 
 \[Type::<% tp.system.prompt("Faction Type?") %>]

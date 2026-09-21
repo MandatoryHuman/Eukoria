@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - rust-wastes
 title: Rust-Wastes
+created: 2026-09-16T15:12:54.976Z
+modified: 2026-09-16T21:02:20.344Z
+published: 2026-09-16T21:02:20.344Z
 tags:
   - Geography
 ---

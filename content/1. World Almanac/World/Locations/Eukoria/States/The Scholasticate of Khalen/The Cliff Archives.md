@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Cliff Archives
 title: The Cliff Archives
+created: 2026-09-16T15:12:54.998Z
+modified: 2026-09-16T21:02:20.347Z
+published: 2026-09-16T21:02:20.347Z
 tags:
   - Settlement
 ---
