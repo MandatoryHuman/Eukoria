@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Eye of the Tapestry
 title: Eye of the Tapestry
-created: 2026-09-16T15:12:55.108Z
-modified: 2026-09-16T21:02:20.365Z
-published: 2026-09-16T21:02:20.365Z
 tags:
   - Archetype
   - Feat

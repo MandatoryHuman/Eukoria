@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
-created: 2026-09-16T15:12:55.017Z
-modified: 2026-09-16T21:02:20.350Z
-published: 2026-09-16T21:02:20.350Z
 tags:
   - State
 ---

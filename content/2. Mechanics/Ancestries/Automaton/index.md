@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Automaton
 title: Automaton
-created: 2026-09-16T15:12:55.082Z
-modified: 2026-09-16T21:02:20.361Z
-published: 2026-09-16T21:02:20.361Z
 ---
 
 In [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|Ilsyaneas]], these artificial forms are used to house the souls of terminally ill citizens. Because the process isolates the soul from the biological memory centres of the original body, the newly housed citizens experience profound amnesia, retaining their basic essence but losing their personal histories. The wealthiest elites, however, can afford illegal Memory-Weaver spells to artificially back up and imprint their original personalities onto their new chassis, creating a severe societal divide between the "Blank" working class and the "Retained" upper class.

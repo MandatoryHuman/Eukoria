@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Shared Epiphany
 title: Shared Epiphany
-created: 2026-09-16T15:12:55.126Z
-modified: 2026-09-16T21:02:20.370Z
-published: 2026-09-16T21:02:20.370Z
 tags:
   - "#Archetype"
   - "#Feat"

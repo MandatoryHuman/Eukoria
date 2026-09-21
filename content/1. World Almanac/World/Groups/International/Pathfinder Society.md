@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - pathfinder society
 title: Pathfinder Society
-created: 2026-09-16T15:12:54.856Z
-modified: 2026-09-16T21:02:20.327Z
-published: 2026-09-16T21:02:20.327Z
 ---
 
 \[Type::]

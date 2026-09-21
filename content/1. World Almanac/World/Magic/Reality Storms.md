@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Reality Storm
 title: Reality Storms
-created: 2026-09-16T15:12:55.040Z
-modified: 2026-09-16T21:02:20.353Z
-published: 2026-09-16T21:02:20.353Z
 tags:
   - Lore
 ---

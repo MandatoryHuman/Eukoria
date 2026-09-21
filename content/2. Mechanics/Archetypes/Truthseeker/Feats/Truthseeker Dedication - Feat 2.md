@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Truthseeker Dedication
 title: Truthseeker Dedication
-created: 2026-09-16T15:12:55.133Z
-modified: 2026-09-16T21:02:20.372Z
-published: 2026-09-16T21:02:20.372Z
 tags:
   - Archetype
   - Feat

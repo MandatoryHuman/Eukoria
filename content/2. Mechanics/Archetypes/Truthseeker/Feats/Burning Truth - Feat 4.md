@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2026-09-16T15:12:55.101Z
-modified: 2026-09-16T21:02:20.363Z
-published: 2026-09-16T21:02:20.363Z
 tags:
   - Archetype
   - Feat

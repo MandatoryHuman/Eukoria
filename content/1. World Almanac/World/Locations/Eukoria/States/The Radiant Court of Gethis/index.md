@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
-created: 2026-09-16T15:12:54.980Z
-modified: 2026-09-16T21:02:20.345Z
-published: 2026-09-16T21:02:20.345Z
 tags:
   - State
 ---

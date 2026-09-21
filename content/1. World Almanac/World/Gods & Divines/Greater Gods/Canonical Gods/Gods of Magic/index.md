@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Gods of Magic
 title: Gods of Magic
-created: 2026-09-16T15:12:54.812Z
-modified: 2026-09-16T21:02:20.318Z
-published: 2026-09-16T21:02:20.318Z
 tags:
   - "#Lore"
 ---

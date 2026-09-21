@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Unravel Destiny
 title: Unravel Destiny
-created: 2026-09-16T15:12:55.136Z
-modified: 2026-09-16T21:02:20.372Z
-published: 2026-09-16T21:02:20.372Z
 tags:
   - Archetype
   - Feat

@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Chosen Ones
 title: Chosen Ones
-created: 2026-09-16T15:12:55.052Z
-modified: 2026-09-16T21:02:20.356Z
-published: 2026-09-16T21:02:20.356Z
 ---
 
 > [!quote] "The monoliths do not walk among us, but they have hands. Be wary of the mortals who wield them."

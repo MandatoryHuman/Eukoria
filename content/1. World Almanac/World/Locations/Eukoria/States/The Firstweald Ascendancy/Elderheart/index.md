@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Elderheart
 title: Elderheart
-created: 2026-09-16T15:12:54.945Z
-modified: 2026-09-16T21:02:20.341Z
-published: 2026-09-16T21:02:20.341Z
 tags:
   - Settlement
 ---

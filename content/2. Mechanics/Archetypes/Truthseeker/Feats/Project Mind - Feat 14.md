@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Project Mind
 title: Project Mind
-created: 2026-09-16T15:12:55.121Z
-modified: 2026-09-16T21:02:20.368Z
-published: 2026-09-16T21:02:20.368Z
 tags:
   - Archetype
   - Feat

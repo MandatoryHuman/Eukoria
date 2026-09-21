@@ -136,8 +136,7 @@ export function parsePluginSource(source: PluginSource): GitPluginSpec {
   // Handle npm scoped packages (e.g. @quartz-community/syntax-highlighting)
   if (
     typeof source === "string" &&
-    source.startsWith("@") &&
-    source.includes("/") &&
+    (source.startsWith("@") ? source.includes("/") : !source.includes("/")) &&
     !source.includes(":")
   ) {
     return { name: source, repo: "", npmPackage: true }

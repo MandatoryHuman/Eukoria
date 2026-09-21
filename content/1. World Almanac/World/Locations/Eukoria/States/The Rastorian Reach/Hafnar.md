@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - hafnar
 title: Hafnar
-created: 2026-09-16T15:12:54.986Z
-modified: 2026-09-16T21:02:20.346Z
-published: 2026-09-16T21:02:20.346Z
 tags:
   - Settlement
 ---

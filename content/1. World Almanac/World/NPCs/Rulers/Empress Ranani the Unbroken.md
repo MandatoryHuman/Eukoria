@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Ranani
 title: Empress Ranani the Unbroken
-created: 2026-09-16T15:12:55.057Z
-modified: 2026-09-16T21:02:20.357Z
-published: 2026-09-16T21:02:20.357Z
 tags:
   - NPCs
 rival: "[[High Arbiter Garadwen]]"

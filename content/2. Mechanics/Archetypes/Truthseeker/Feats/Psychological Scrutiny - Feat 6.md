@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Psychological Scrutiny
 title: Psychological Scrutiny
-created: 2026-09-16T15:12:55.123Z
-modified: 2026-09-16T21:02:20.369Z
-published: 2026-09-16T21:02:20.369Z
 tags:
   - "#Archetype"
   - "#Feat"

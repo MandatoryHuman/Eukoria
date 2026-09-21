@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - god-scar strait
 title: God-Scar Strait
-created: 2026-09-16T15:12:54.895Z
-modified: 2026-09-16T21:02:20.332Z
-published: 2026-09-16T21:02:20.332Z
 tags:
   - Geography
 ---

@@ -1,11 +1,7 @@
 ---
-publish: true
 aliases:
   - Kaelen
 title: High Marshal Kaelen
-created: 2026-09-16T15:12:55.063Z
-modified: 2026-09-16T21:02:20.360Z
-published: 2026-09-16T21:02:20.360Z
 tags:
   - NPCs
 ---
