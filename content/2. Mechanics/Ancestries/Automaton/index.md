@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Automaton
 title: Automaton
-created: 2026-09-16T15:12:55.082Z
+created: 2026-09-21T11:42:37.371Z
 modified: 2026-09-16T21:02:20.361Z
 published: 2026-09-16T21:02:20.361Z
 ---

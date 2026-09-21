@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Inescapable Scrutiny
 title: Inescapable Scrutiny
-created: 2026-09-16T15:12:55.113Z
+created: 2026-09-21T11:42:37.406Z
 modified: 2026-09-16T21:02:20.366Z
 published: 2026-09-16T21:02:20.366Z
 tags:

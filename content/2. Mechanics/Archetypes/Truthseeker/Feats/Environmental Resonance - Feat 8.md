@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Environmental Resonance
 title: Environmental Resonance
-created: 2026-09-16T15:12:55.107Z
+created: 2026-09-21T11:42:37.400Z
 modified: 2026-09-16T21:02:20.365Z
 published: 2026-09-16T21:02:20.365Z
 tags:

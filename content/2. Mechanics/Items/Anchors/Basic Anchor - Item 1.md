@@ -3,7 +3,7 @@ publish: true
 aliases:
   - basic anchor - item 1
 title: Basic Anchor - Item 1
-created: 2026-09-16T15:12:55.147Z
+created: 2026-09-21T11:42:37.446Z
 modified: 2026-09-16T21:02:20.375Z
 published: 2026-09-16T21:02:20.375Z
 tags:

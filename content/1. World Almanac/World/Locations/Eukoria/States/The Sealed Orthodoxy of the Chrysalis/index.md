@@ -4,7 +4,7 @@ aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
-created: 2026-09-16T15:12:55.002Z
+created: 2026-09-21T11:42:37.280Z
 modified: 2026-09-16T21:02:20.348Z
 published: 2026-09-16T21:02:20.348Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Aegis Isle
 title: Aegis Isle
-created: 2026-09-16T15:12:54.900Z
+created: 2026-09-21T11:42:37.162Z
 modified: 2026-09-16T21:02:20.332Z
 published: 2026-09-16T21:02:20.332Z
 tags:

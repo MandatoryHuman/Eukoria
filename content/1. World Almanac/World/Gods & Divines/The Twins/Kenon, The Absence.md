@@ -4,7 +4,7 @@ aliases:
   - Kenon
   - kenon, the absence
 title: Kenon, The Absence
-created: 2026-09-16T15:12:54.845Z
+created: 2026-09-21T11:42:37.095Z
 modified: 2026-09-16T21:02:20.325Z
 published: 2026-09-16T21:02:20.325Z
 tags:

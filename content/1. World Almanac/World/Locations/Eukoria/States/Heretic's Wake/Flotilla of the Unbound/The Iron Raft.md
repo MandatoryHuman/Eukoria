@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Iron Raft
 title: The Iron Raft
-created: 2026-09-16T15:12:54.888Z
+created: 2026-09-21T11:42:37.148Z
 modified: 2026-09-16T21:02:20.330Z
 published: 2026-09-16T21:02:20.330Z
 ---

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Rust Market
 title: The Rust Market
-created: 2026-09-16T15:12:54.890Z
+created: 2026-09-21T11:42:37.150Z
 modified: 2026-09-16T21:02:20.330Z
 published: 2026-09-16T21:02:20.330Z
 ---

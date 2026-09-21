@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Sun-Catcher Markets
 title: The Sun-Catcher Markets
-created: 2026-09-16T15:12:54.953Z
+created: 2026-09-21T11:42:37.223Z
 modified: 2026-09-16T21:02:20.340Z
 published: 2026-09-16T21:02:20.340Z
 ---

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Word of Execution
 title: Word of Execution
-created: 2026-09-16T15:12:55.139Z
+created: 2026-09-21T11:42:37.437Z
 modified: 2026-09-16T21:02:20.373Z
 published: 2026-09-16T21:02:20.373Z
 tags:

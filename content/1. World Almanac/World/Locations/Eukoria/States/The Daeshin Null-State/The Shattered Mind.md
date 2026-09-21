@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Shattered Mind
 title: The Shattered Mind
-created: 2026-09-16T15:12:54.922Z
+created: 2026-09-21T11:42:37.186Z
 modified: 2026-09-16T21:02:20.335Z
 published: 2026-09-16T21:02:20.335Z
 tags:

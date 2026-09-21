@@ -4,7 +4,7 @@ aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
 title: The Federal Republic of Ilsyaneas
-created: 2026-09-16T15:12:54.934Z
+created: 2026-09-21T11:42:37.200Z
 modified: 2026-09-16T21:02:20.339Z
 published: 2026-09-16T21:02:20.339Z
 tags:

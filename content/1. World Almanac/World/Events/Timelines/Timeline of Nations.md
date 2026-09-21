@@ -3,7 +3,7 @@ publish: true
 aliases:
   - timeline of nations
 title: Timeline of Nations
-created: 2026-09-16T15:12:54.774Z
+created: 2026-09-21T11:42:37.001Z
 modified: 2026-09-16T21:02:20.312Z
 published: 2026-09-16T21:02:20.312Z
 ---

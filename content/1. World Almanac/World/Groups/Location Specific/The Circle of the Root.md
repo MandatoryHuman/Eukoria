@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Circle of the Root
 title: The Circle of the Root
-created: 2026-09-16T15:12:54.863Z
+created: 2026-09-21T11:42:37.118Z
 modified: 2026-09-16T21:02:20.328Z
 published: 2026-09-16T21:02:20.328Z
 ---

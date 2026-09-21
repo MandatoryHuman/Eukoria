@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Blackmail the Tapestry
 title: Blackmail the Tapestry
-created: 2026-09-16T15:12:55.100Z
+created: 2026-09-21T11:42:37.393Z
 modified: 2026-09-16T21:02:20.363Z
 published: 2026-09-16T21:02:20.363Z
 tags:

@@ -4,7 +4,7 @@ aliases:
   - Demara
   - demara, goddess of cities
 title: Demara, Goddess of Cities
-created: 2026-09-16T15:12:54.834Z
+created: 2026-09-21T11:42:37.079Z
 modified: 2026-09-16T21:02:20.323Z
 published: 2026-09-16T21:02:20.323Z
 tags:

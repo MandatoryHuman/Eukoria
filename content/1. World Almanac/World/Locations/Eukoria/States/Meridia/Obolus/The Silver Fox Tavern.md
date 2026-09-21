@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Silver Fox Tavern
 title: The Silver Fox Tavern
-created: 2026-09-16T15:12:54.909Z
+created: 2026-09-21T11:42:37.172Z
 modified: 2026-09-16T21:02:20.333Z
 published: 2026-09-16T21:02:20.333Z
 ---

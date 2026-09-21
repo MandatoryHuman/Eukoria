@@ -3,7 +3,7 @@ publish: true
 aliases:
   - cult of the silent void
 title: Cult of the Silent Void
-created: 2026-09-16T15:12:54.855Z
+created: 2026-09-21T11:42:37.107Z
 modified: 2026-09-16T21:02:20.327Z
 published: 2026-09-16T21:02:20.327Z
 ---
