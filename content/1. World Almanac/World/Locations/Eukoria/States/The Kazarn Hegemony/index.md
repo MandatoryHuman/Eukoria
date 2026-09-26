@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony

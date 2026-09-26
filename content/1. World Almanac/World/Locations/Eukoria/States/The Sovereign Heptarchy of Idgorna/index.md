@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna

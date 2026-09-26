@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Radiant Court of Gethis
   - Gethis

@@ -1,8 +1,12 @@
 ---
+publish: true
 aliases:
   - Demara
   - demara, goddess of cities
 title: Demara, Goddess of Cities
+created: 2026-09-21T11:42:37.079Z
+modified: 2026-09-21T23:19:18.799Z
+published: 2026-09-21T23:19:18.799Z
 tags:
   - Gods
 ---

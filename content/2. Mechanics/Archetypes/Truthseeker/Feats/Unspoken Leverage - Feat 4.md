@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Unspoken Leverage
 title: Unspoken Leverage
+created: 2026-09-21T11:42:37.434Z
+modified: 2026-09-21T23:19:18.799Z
+published: 2026-09-21T23:19:18.799Z
 tags:
   - "#Archetype"
   - "#Feat"

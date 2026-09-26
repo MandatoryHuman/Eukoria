@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - the salvage-pact of Oremourn
   - Oremourn

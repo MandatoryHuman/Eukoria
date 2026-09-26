@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Garadwen
 title: High Arbiter Garadwen
+created: 2026-09-21T11:42:37.345Z
+modified: 2026-09-21T23:19:18.904Z
+published: 2026-09-21T23:19:18.904Z
 tags:
   - NPCs
 enemy:

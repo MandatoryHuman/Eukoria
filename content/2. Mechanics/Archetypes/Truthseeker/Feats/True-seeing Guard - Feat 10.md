@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - True-seeing Guard
 title: True-seeing Guard
+created: 2026-09-21T11:42:37.426Z
+modified: 2026-09-21T23:19:18.798Z
+published: 2026-09-21T23:19:18.798Z
 tags:
   - "#Archetype"
   - "#Feat"

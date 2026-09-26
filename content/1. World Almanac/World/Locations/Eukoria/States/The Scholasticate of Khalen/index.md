@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Scholasticate of Khalen
   - Khalen

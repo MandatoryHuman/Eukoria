@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas

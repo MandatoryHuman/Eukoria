@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse

@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - Opiroth
   - The Vales of Opiroth

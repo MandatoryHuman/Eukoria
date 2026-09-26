@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State

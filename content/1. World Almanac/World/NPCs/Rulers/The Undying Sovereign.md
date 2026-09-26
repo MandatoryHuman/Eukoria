@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - Undying Sovereign
 title: The Undying Sovereign
+created: 2026-09-21T11:42:37.352Z
+modified: 2026-09-21T23:19:18.771Z
+published: 2026-09-21T23:19:18.771Z
 tags:
   - NPCs
 god:

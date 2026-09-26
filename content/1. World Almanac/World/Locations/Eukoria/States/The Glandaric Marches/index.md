@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Glandaric Marches
 title: The Glandaric Marches

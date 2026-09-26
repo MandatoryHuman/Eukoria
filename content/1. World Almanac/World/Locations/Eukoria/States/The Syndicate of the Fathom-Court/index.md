@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - template_state
 title: Template_State

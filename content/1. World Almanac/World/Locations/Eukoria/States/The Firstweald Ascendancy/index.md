@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy

@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake

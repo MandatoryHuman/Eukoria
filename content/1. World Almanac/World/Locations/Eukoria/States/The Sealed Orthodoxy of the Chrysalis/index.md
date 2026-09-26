@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
