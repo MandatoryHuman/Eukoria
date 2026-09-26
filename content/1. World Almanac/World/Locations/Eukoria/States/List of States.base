@@ -6,9 +6,6 @@ filters:
 views:
   - type: cards
     name: States
-    image: symbol
-    cardSize: 260
-    imageAspectRatio: 1.5
     order:
       - title
       - symbol
@@ -16,3 +13,6 @@ views:
       - Government
       - Ruler
       - Population
+    image: symbol
+    cardSize: 200
+    imageAspectRatio: 1

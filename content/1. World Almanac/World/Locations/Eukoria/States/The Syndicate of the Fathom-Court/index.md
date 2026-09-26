@@ -1,11 +1,11 @@
 ---
 publish: true
 aliases:
-  - template_state
-title: Template_State
+  - Syndicate of the Fathom-Court
+title: The Syndicate of the Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:03:39.072Z
+published: 2026-09-26T17:03:39.072Z
 tags:
   - "#State"
 symbol: "[[The_Syndicate_of_the_Fathom-Court_Symbol.webp]]"
