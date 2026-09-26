@@ -1,0 +1,19 @@
+---
+publish: true
+aliases:
+  - Inescapable Scrutiny
+title: Inescapable Scrutiny
+created: 2026-09-26T16:52:54.208Z
+modified: 2026-09-21T23:19:18.798Z
+published: 2026-09-21T23:19:18.798Z
+tags:
+  - Archetype
+  - Feat
+level: 8
+---
+
+\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+
+_Archetype_, _Revealing_
+Your prey cannot hide from one who knows their every instinct.
+**3 Pieces of Truth** The target is off-guard against your attacks and cannot benefit from the concealed condition against you (though they can still use concealment to hide). In addition, if the creature is Undetected and ends its turn within 30 feet of you, it becomes Hidden to you instead.

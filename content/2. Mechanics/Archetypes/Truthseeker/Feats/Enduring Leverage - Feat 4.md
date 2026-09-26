@@ -1,0 +1,18 @@
+---
+publish: true
+aliases:
+  - Enduring Leverage
+title: Enduring Leverage
+created: 2026-09-26T16:52:54.201Z
+modified: 2026-09-21T23:19:18.798Z
+published: 2026-09-21T23:19:18.798Z
+tags:
+  - "#Archetype"
+  - "#Feat"
+level: 4
+---
+
+\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+
+_Archetype_
+You are able to sustain the influence of your knowledge for longer than usual. Rather than expiring after 24 hours, your Pieces of Truth expire after 1 month.

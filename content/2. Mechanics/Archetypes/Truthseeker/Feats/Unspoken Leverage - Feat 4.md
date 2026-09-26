@@ -1,0 +1,20 @@
+---
+publish: true
+aliases:
+  - Unspoken Leverage
+title: Unspoken Leverage
+created: 2026-09-26T16:52:54.236Z
+modified: 2026-09-21T23:19:18.799Z
+published: 2026-09-21T23:19:18.799Z
+tags:
+  - "#Archetype"
+  - "#Feat"
+level: 4
+---
+
+\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+
+_Archetype_, _Revealing_
+
+The sheer volume of secrets you hold about a creature bleeds into your demeanour, unnerving them in any social or combat interaction.
+**3 Pieces of Truth:** You gain a +2 circumstance bonus to Deception, Diplomacy, and Intimidation checks directed at the target creature. Additionally, if you critically fail a Diplomacy check to make a Request against the creature, you get a failure on that check instead.

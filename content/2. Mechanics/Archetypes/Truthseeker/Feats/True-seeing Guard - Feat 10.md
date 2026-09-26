@@ -1,0 +1,20 @@
+---
+publish: true
+aliases:
+  - True-seeing Guard
+title: True-seeing Guard
+created: 2026-09-26T16:52:54.229Z
+modified: 2026-09-21T23:19:18.798Z
+published: 2026-09-21T23:19:18.798Z
+tags:
+  - "#Archetype"
+  - "#Feat"
+level: 10
+---
+
+\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+
+_Archetype_, _Revealing_
+When you know a creature's physical limits, instincts, and preferred tactics, they can no longer catch you unaware.
+
+**4 Pieces of Truth:** You are never treated as Off-Guard to the creature (though their abilities can still cause you to be Off-Guard to their allies). If the creature attempts to use a Feint or Create a Diversion action against you, they treat the result of their check as one degree of success worse.
