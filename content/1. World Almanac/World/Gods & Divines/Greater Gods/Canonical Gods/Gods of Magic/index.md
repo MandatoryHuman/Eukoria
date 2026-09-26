@@ -17,7 +17,7 @@ Based on the cosmic wheel, there are exactly four divine pillars that govern saf
 
 ## The Goddess of Divine Magic
 
-[[Amnis the Burdened, Goddess of Forgiveness]] governs the magic of combined Spirit and Soul. Worshippers and spellcasters channel this harmonious blend to mend flesh through spiritual intervention, commune with spirits, as well as to protect the living from leaving the mortal coil - or hasten their departure from it.
+[[Amnis the Burdened, Goddess of Forgiveness]] governs the magic of combined Spirit and Life. Worshippers and spellcasters channel this harmonious blend to mend flesh through spiritual intervention, commune with spirits, as well as to protect the living from leaving the mortal coil - or hasten their departure from it.
 
 ## The God of Occult Magic
 

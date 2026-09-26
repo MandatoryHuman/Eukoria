@@ -4,9 +4,6 @@ aliases:
   - Vellora
   - vellora, goddess of sea and storms
 title: Vellora, Goddess of Sea and Storms
-created: 2026-09-16T15:12:54.805Z
-modified: 2026-09-11T10:25:41.304Z
-published: 2026-09-11T10:25:41.304Z
 tags:
   - Gods
 ---

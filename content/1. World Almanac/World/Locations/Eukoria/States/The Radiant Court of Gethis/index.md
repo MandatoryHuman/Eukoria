@@ -3,6 +3,7 @@ aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
+symbol: "[[The_Radiant_Court_of_Gethis_Symbol.webp]]"
 tags:
   - State
 ---

@@ -3,6 +3,7 @@ aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
 title: The Federal Republic of Ilsyaneas
+symbol: "[[The_Federal_Republic_of_Ilsyaneas_Symbol.webp]]"
 tags:
   - State
 ---

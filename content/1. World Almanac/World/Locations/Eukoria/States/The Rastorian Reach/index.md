@@ -3,6 +3,7 @@ aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
+symbol: "[[The_Rastorian_Reach_Symbol.webp]]"
 tags:
   - State
 ---

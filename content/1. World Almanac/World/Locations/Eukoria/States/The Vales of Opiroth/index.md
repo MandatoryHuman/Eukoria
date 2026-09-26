@@ -3,6 +3,7 @@ aliases:
   - Opiroth
   - The Vales of Opiroth
 title: The Vales of Opiroth
+symbol: "[[The_Vales_of_Opiroth_Symbol.webp]]"
 tags:
   - State
 ---

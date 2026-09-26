@@ -4,9 +4,6 @@ aliases:
   - Syla
   - syla, goddess of records
 title: Syla, Goddess of Records
-created: 2026-09-16T15:12:54.786Z
-modified: 2026-09-11T10:10:31.040Z
-published: 2026-09-11T10:10:31.040Z
 enemy:
   - "[[Lethos, God of Trickery]]"
 ---

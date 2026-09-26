@@ -4,9 +4,6 @@ aliases:
   - Maelis
   - maelis, goddess of fertility and harvest
 title: Maelis, Goddess of Fertility and Harvest
-created: 2026-09-16T15:12:54.802Z
-modified: 2026-09-11T10:23:44.383Z
-published: 2026-09-11T10:23:44.383Z
 tags:
   - Gods
 ---

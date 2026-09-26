@@ -4,9 +4,6 @@ aliases:
   - Thrum
   - thrum, god of madness
 title: Thrum, God of Madness
-created: 2026-09-16T15:12:54.787Z
-modified: 2026-09-11T10:10:56.966Z
-published: 2026-09-11T10:10:56.966Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]

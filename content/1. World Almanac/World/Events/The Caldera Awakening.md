@@ -3,9 +3,6 @@ publish: true
 aliases:
   - the caldera awakening
 title: The Caldera Awakening
-created: 2026-09-16T15:12:54.765Z
-modified: 2026-09-11T10:09:14.596Z
-published: 2026-09-11T10:09:14.596Z
 tags:
   - "#Events"
 ---

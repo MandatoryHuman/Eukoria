@@ -4,6 +4,7 @@ aliases:
   - Oremourn
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
+symbol: "[[The_Salvage-Pact_of_Oremourn_Symbol.webp]]"
 tags:
   - State
 ---

@@ -32,6 +32,8 @@ When the dust settled, the world was forever changed. While the heavens are now 
 
 ### Nations
 
+![[1. World Almanac/World/Locations/Eukoria/States/List of States.base]]
+
 ### Notable Locations:
 - [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
 

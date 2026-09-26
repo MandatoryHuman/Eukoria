@@ -26,7 +26,7 @@ The "geography" of the [[Flotilla]] changes daily. While the core of the city co
 
 # Government & Law
 
-There is no central legal authority in the [[Flotilla]]. Instead, the armada is governed by the brutal, decentralized authority of pirate captains. The closest thing to a governing body is the [[Captains' Council]], a shouting match of warlords where authority is maintained only by those with the strongest ships and the most potent command of Dismagic. Laws as the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] understand them do not exist here. Disputes are settled through duels, extortion, or the sheer destructive power of clashing Fundamental Essences. Surviving the volatile magical backlash of their own power is simply accepted as the price of living free from canonical law.
+There is no central legal authority in the [[Flotilla]]. Instead, the armada is governed by the brutal, decentralized authority of pirate captains. The closest thing to a governing body is the [[Captains' Council]], a shouting match of warlords where authority is maintained only by those with the strongest ships and the most potent command of Dismagic. Laws as the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] understand them do not exist here. Disputes are settled through duels, extortion, or the sheer destructive power of clashing Fundamental Essences. The possibility of volatile magical feedback is simply accepted as the risk of living free from canonical law.
 
 # Districts
 

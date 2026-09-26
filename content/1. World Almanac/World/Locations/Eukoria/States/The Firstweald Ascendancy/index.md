@@ -2,6 +2,7 @@
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
+symbol: "[[The_Firstweald_Ascendancy_Symbol.webp]]"
 tags:
   - State
 ---

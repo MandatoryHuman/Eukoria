@@ -2,6 +2,7 @@
 aliases:
   - template_state
 title: Template_State
+symbol: "[[The_Syndicate_of_the_Fathom-Court_Symbol.webp]]"
 tags:
   - "#State"
 ---

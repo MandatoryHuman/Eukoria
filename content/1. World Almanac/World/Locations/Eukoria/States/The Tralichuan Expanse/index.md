@@ -2,6 +2,7 @@
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
+symbol: "[[The_Tralichuan_Expanse_Symbol.webp]]"
 tags:
   - State
 ---

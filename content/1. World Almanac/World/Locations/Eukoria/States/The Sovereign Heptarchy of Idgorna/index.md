@@ -3,6 +3,7 @@ aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
+symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_Symbol.webp]]"
 tags:
   - State
 ---

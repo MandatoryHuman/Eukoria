@@ -3,9 +3,6 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-created: 2026-09-16T15:12:55.294Z
-modified: 2026-09-12T09:37:47.585Z
-published: 2026-09-12T09:37:47.585Z
 tags:
   - "#Settlement"
 marker:

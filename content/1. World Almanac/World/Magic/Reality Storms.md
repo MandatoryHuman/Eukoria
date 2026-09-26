@@ -33,7 +33,7 @@ The body of water dividing [[Antoria]] and [[Cenora]] was ground zero for immens
 The northern waters are already unstable, but the constant, reckless use of the [[Traditions of Dismagic]] by the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|Flotilla of the Unbound]] generates immense cosmic friction that actively feeds the local storms.
 
 - Arcane Mutations: A storm rolling through the Wake often resembles a neon, kaleidoscopic fog. Getting caught in it can trigger forced evolutionary leaps tied to [[Lysia Bind-breaker, Goddess of Passion]]. Sailors might temporarily sprout extra appendages, lose their sight to gain telepathy, or have their ships' timber spontaneously sprout writhing, fleshy tentacles.
-- Wild Magic Surges: Spells cast within these storms are almost guaranteed to misfire, amplifying their effects tenfold or completely altering their intended [[Fundamental Essences]].
+- Wild Magic Surges: Spells cast within these storms are more likely to produce Dismagic-like feedback. Most still function normally, but some misfire, amplify their effects, or express an entirely different [[Fundamental Essences]].
 
 ## The [[Rust-Wastes]] of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarn]]
 

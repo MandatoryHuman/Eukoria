@@ -2,6 +2,7 @@
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
+symbol: "[[The_Daeshin_Null-State_Symbol.webp]]"
 tags:
   - State
 ---

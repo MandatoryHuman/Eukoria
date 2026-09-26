@@ -3,9 +3,6 @@ publish: true
 aliases:
   - Bella
 title: Bella, Goddess of War
-created: 2026-09-16T15:12:54.795Z
-modified: 2026-09-11T10:18:34.180Z
-published: 2026-09-11T10:18:34.180Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]

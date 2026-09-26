@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.tags.containsAny("state")
+    - file.path.startsWith("1. World Almanac/World/Locations/Eukoria/States/")
+    - file.name == "index"
+views:
+  - type: cards
+    name: States
+    image: symbol
+    cardSize: 260
+    imageAspectRatio: 1.5
+    order:
+      - title
+      - symbol
+      - Capital
+      - Government
+      - Ruler
+      - Population

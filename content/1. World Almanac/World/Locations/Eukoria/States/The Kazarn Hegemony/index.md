@@ -2,6 +2,7 @@
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
+symbol: "[[The_Kazarn_Hegemony_Symbol.webp]]"
 tags:
   - State
 ---

@@ -2,6 +2,7 @@
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
+symbol: "[[Heretic's_Wake_Symbol.webp]]"
 tags:
   - State
 ---
@@ -28,7 +29,7 @@ Located in the northern waters of [[1. World Almanac/World/Locations/Eukoria/ind
 
 # Society & Culture
 
-Heretic's Wake is a haven for those cast out by the rigid, orthodox societies of Eukoria. It is heavily populated by practitioners of the Traditions of Dismagic, who harness the clashing Fundamental Essences to fuel their survival. Runesmiths, Passion Mages, and outcasts who worship Non-Canonical gods like [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]] and [[Aethelgard, God of Relics]] find freedom here. For these pirates, surviving the volatile magical backlash of their own power is the price of living free from canonical law.
+Heretic's Wake is a haven for those cast out by the rigid, orthodox societies of Eukoria. It is heavily populated by practitioners of the Traditions of Dismagic, who harness the clashing Fundamental Essences to fuel their survival. Runesmiths, Passion Mages, and outcasts who worship Non-Canonical gods like [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]] and [[Aethelgard, God of Relics]] find freedom here. For these pirates, the possibility of volatile magical feedback is an accepted risk of living free from canonical law.
 
 # Government & Politics
 

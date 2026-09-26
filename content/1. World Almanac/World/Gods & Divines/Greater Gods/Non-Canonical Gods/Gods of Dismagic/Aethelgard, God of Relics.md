@@ -4,9 +4,6 @@ aliases:
   - Aethelgard
   - aethelgard, god of relics
 title: Aethelgard, God of Relics
-created: 2026-09-16T15:12:54.825Z
-modified: 2026-09-11T10:15:57.779Z
-published: 2026-09-11T10:15:57.779Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]

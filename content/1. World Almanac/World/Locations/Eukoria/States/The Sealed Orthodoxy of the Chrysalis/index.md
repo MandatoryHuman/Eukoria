@@ -3,6 +3,7 @@ aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
+symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_Symbol.webp]]"
 tags:
   - State
 ---

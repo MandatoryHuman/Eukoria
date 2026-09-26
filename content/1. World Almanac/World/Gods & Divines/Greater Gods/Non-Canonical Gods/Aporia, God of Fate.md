@@ -4,9 +4,6 @@ aliases:
   - Aporia
   - aporia, god of fate
 title: Aporia, God of Fate
-created: 2026-09-16T15:12:54.821Z
-modified: 2026-09-11T10:13:54.230Z
-published: 2026-09-11T10:13:54.230Z
 tags:
   - Gods
 ---

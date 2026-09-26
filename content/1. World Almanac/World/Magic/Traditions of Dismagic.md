@@ -11,7 +11,7 @@ The Traditions of Dismagic represent the volatile, unorthodox counterpart to est
 Because they lack a mediating bridge on the cosmic wheel, the friction of these combinations produces highly unpredictable, reality-warping power. These restricted arts are governed by the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
 
 > [!NOTE] Mechanics of Dismagic
-> In aim of keeping players in control of their own characters, there are no inherent consequences for a player using Dismagic, however both players and GMs are highly encouraged to add small cosmetic effects and quirks when a character casts a spell using Dismagic. This could range from a Dismagic Fireball being green instead of red, to a Charm spell forcing the target to crab walk while under its effects.
+> Dismagic is unpredictable, but not every casting produces feedback. To keep players in control of their characters, there are no automatic mechanical consequences for using Dismagic. Players and GMs are encouraged to add small cosmetic effects and quirks when a character casts a spell using it, such as a Dismagic Fireball being green instead of red or a Charm spell forcing the target to crab walk while affected. Sometimes, however, the conflicting Essences produce dangerous feedback: a spell may change, a nearby creature or object may be affected, or the caster may suffer a harmful magical backlash.
 > If a player wants to demonstrate these effects mechanically, they could take the [Wellspring Mage](https://2e.aonprd.com/Archetypes.aspx?ID=104) Class Archetype to represent the chaos that is inherent to Dismagic, and they could work with the GM to create a custom Wellspring Surge table that fits their character. This archetype is not particularly powerful - and can even be detrimental at times - so generous GMs might even consider giving the initial Wellspring Mage Dedication Feat as a Free Archetype, or waiving its reduction to the number of cantrips known, spells per day, or both.
 > Keep in mind, that in many areas of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], Dismagic is explicitly outlawed, so a caster might have to hide what kind of magic they are using.
 > You can check the pages for [[Aethelgard, God of Relics]] and [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]] for specific character choices that represent the practices they teach.
@@ -44,8 +44,8 @@ The most notorious manifestation of this dismagic is the Lich, a being who unnat
 
 # The Toll of Cosmic Friction
 
-Because mortal bodies and the fabric of Eukoria were designed around the harmonious flow of adjacent Essences, casting Dismagic generates immense cosmic friction.
-When a practitioner acts upon the mortal plane, reality strains to accommodate them. Their magic actively defies the established rules of physics, frequently causing collateral damage or bizarre environmental side effects simply by being cast. This severe magical backlash, along with physical and mental deterioration, is the inevitable price of wielding cosmic friction - a danger that orthodox philosophers eagerly weaponize as proof of Dismagic's inherent "evil".
+Because mortal bodies and the fabric of Eukoria were designed around the harmonious flow of adjacent Essences, casting Dismagic can generate immense cosmic friction.
+When a practitioner acts upon the mortal plane, reality sometimes strains to accommodate them. Most castings work as intended, but any casting can produce unpredictable feedback, ranging from a bizarre environmental side effect to serious collateral damage or physical and mental strain. Dangerous feedback is a risk of wielding cosmic friction, not an inevitable price, and orthodox philosophers eagerly weaponize even rare incidents as proof of Dismagic's inherent "evil".
 
 # Related
 

@@ -3,6 +3,7 @@ aliases:
   - The Scholasticate of Khalen
   - Khalen
 title: The Scholasticate of Khalen
+symbol: "[[The_Scholasticate_of_Khalen_Symbol.webp]]"
 tags:
   - State
 ---

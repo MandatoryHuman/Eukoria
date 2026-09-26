@@ -2,6 +2,7 @@
 aliases:
   - The Glandaric Marches
 title: The Glandaric Marches
+symbol: "[[The_Glandaric_Marches_Symbol.webp]]"
 tags:
   - State
 ---

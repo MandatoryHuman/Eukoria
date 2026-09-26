@@ -2,6 +2,7 @@
 aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
+symbol: "[[The_Directorate_of_Vael_Symbol.webp]]"
 tags:
   - State
 ---

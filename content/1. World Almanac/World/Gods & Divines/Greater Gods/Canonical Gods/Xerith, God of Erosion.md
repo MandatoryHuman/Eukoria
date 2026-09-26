@@ -4,9 +4,6 @@ aliases:
   - Xerith
   - xerith, god of erosion
 title: Xerith, God of Erosion
-created: 2026-09-16T15:12:54.806Z
-modified: 2026-09-11T10:34:37.258Z
-published: 2026-09-11T10:34:37.258Z
 ---
 
 \[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
