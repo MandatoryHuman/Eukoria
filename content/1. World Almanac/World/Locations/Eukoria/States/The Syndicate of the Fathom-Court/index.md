@@ -4,8 +4,8 @@ aliases:
   - Syndicate of the Fathom-Court
 title: The Syndicate of the Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-09-26T17:03:39.072Z
-published: 2026-09-26T17:03:39.072Z
+modified: 2026-09-26T17:07:15.637Z
+published: 2026-09-26T17:07:15.637Z
 tags:
   - "#State"
 symbol: "[[The_Syndicate_of_the_Fathom-Court_Symbol.webp]]"
