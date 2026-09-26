@@ -4,22 +4,32 @@ aliases:
   - Syndicate of the Fathom-Court
 title: The Syndicate of the Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-09-26T17:07:15.637Z
-published: 2026-09-26T17:07:15.637Z
+modified: 2026-09-26T17:18:39.674Z
+published: 2026-09-26T17:18:39.674Z
 tags:
   - "#State"
 symbol: "[[The_Syndicate_of_the_Fathom-Court_Symbol.webp]]"
+capital: The Floating Court
+demographics: 30% Human, 30% Azarketi, 20% Halfling, 20% Other
+government: Meritocratic Naval Syndicate
+languages: Common, Thalassic, localized Trader's Cant
+major_exports: Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
+major_imports: Lumber, sailcloth, fresh water
+population: Approx. 220,000
+religions: "[[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities"
+ruler: The First Navigator
 ---
 
-\[Capital::The Floating Court]
-\[Government::Meritocratic Naval Syndicate]
-\[Ruler::The First Navigator]
-\[Population::Approx. 220,000]
-\[Demographics::30% Human, 30% Azarketi, 20% Halfling, 20% Other]
-\[Languages::Common, Thalassic, localized Trader's Cant]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities]
-\[Major Exports::Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents]
-\[Major Imports::Lumber, sailcloth, fresh water]
+> [!info]+ Details
+> **Capital:** The Floating Court
+> **Government:** Meritocratic Naval Syndicate
+> **Ruler:** The First Navigator
+> **Population:** Approx. 220,000
+> **Demographics:** 30% Human, 30% Azarketi, 20% Halfling, 20% Other
+> **Languages:** Common, Thalassic, localized Trader's Cant
+> **Religions:** [[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities
+> **Major Exports:** Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
+> **Major Imports:** Lumber, sailcloth, fresh water
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

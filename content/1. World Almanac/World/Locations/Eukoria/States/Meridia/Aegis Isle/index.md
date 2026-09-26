@@ -4,17 +4,23 @@ aliases:
   - Aegis Isle
 title: Aegis Isle
 created: 2026-09-26T16:52:53.975Z
-modified: 2026-09-21T23:19:18.858Z
-published: 2026-09-21T23:19:18.858Z
+modified: 2026-09-26T17:18:39.594Z
+published: 2026-09-26T17:18:39.594Z
 tags:
   - Settlement
+demographics: ""
+level: ""
+population: ""
+ruler: ""
+type: ""
 ---
 
-\[Type::]
-\[Level::]
-\[Population::]
-\[Demographics::]
-\[Ruler::]
+> [!info]+ Details
+> **Type:**
+> **Level:**
+> **Population:**
+> **Demographics:**
+> **Ruler:**
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

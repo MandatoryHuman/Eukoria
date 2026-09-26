@@ -4,22 +4,32 @@ aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
 created: 2026-09-26T16:52:54.056Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.647Z
+published: 2026-09-26T17:18:39.647Z
 tags:
   - State
 symbol: "[[The_Kazarn_Hegemony_Symbol.webp]]"
+capital: "[[Bastion]]"
+demographics: Dwarves, Humans, Orcs
+government: Stratocracy
+languages: Common, Dwarven
+major_exports: Mercenaries, Refined Metals, Weaponry
+major_imports: Food, Wood, Textiles
+population: 1.2 Million
+religions: "[[Bella, Goddess of War]], [[Xerith, God of Erosion]]"
+ruler: "[[High Marshal Kaelen]]"
 ---
 
-\[Capital::[[Bastion]]]
-\[Government::Stratocracy]
-\[Ruler::[[High Marshal Kaelen]]]
-\[Population::1.2 Million]
-\[Demographics::Dwarves, Humans, Orcs]
-\[Languages::Common, Dwarven]
-\[Religions::[[Bella, Goddess of War]], [[Xerith, God of Erosion]]]
-\[Major Exports::Mercenaries, Refined Metals, Weaponry]
-\[Major Imports::Food, Wood, Textiles]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/Bastion.md|Bastion]]
+> **Government:** Stratocracy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/High Marshal Kaelen.md|High Marshal Kaelen]]
+> **Population:** 1.2 Million
+> **Demographics:** Dwarves, Humans, Orcs
+> **Languages:** Common, Dwarven
+> **Religions:** [[Bella, Goddess of War]], [[Xerith, God of Erosion]]
+> **Major Exports:** Mercenaries, Refined Metals, Weaponry
+> **Major Imports:** Food, Wood, Textiles
 
 ![[Kazarn Symbol.svg|400]]
 

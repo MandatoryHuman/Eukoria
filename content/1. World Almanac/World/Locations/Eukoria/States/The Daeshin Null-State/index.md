@@ -4,22 +4,32 @@ aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
 created: 2026-09-26T16:52:53.995Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.599Z
+published: 2026-09-26T17:18:39.599Z
 tags:
   - State
 symbol: "[[The_Daeshin_Null-State_Symbol.webp]]"
+capital: "[[Othrys, The Hollow Capital]] (Largely Abandoned)"
+demographics: Fleshwarps, Mutants, Exiles, Cultists
+government: Anarchic Quarantine Zone
+languages: None
+major_exports: None
+major_imports: Desperate exiles, Smuggled Dismagic supplies
+population: Unknown, likely <100,000
+religions: "[[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]"
+ruler: Various Cult Leaders and Warlords
 ---
 
-\[Capital::[[Othrys, The Hollow Capital]] (Largely Abandoned)]
-\[Government::Anarchic Quarantine Zone]
-\[Ruler::Various Cult Leaders and Warlords]
-\[Population::Unknown, likely <100,000]
-\[Demographics::Fleshwarps, Mutants, Exiles, Cultists]
-\[Languages::None]
-\[Religions::[[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]]
-\[Major Exports::None]
-\[Major Imports::Desperate exiles, Smuggled Dismagic supplies]
+> [!info]+ Details
+> **Capital:** [[Othrys, The Hollow Capital]] (Largely Abandoned)
+> **Government:** Anarchic Quarantine Zone
+> **Ruler:** Various Cult Leaders and Warlords
+> **Population:** Unknown, likely <100,000
+> **Demographics:** Fleshwarps, Mutants, Exiles, Cultists
+> **Languages:** None
+> **Religions:** [[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]
+> **Major Exports:** None
+> **Major Imports:** Desperate exiles, Smuggled Dismagic supplies
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

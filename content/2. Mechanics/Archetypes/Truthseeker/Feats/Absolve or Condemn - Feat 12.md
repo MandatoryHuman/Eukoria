@@ -4,15 +4,17 @@ aliases:
   - Absolve or Condemn
 title: Absolve or Condemn
 created: 2026-09-26T16:52:54.192Z
-modified: 2026-09-21T23:19:18.797Z
-published: 2026-09-21T23:19:18.797Z
+modified: 2026-09-26T17:18:39.723Z
+published: 2026-09-26T17:18:39.723Z
 tags:
   - Archetype
   - Feat
 level: 12
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path"
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path]
+> [!info]+ Details
+> **Prerequisites:** [[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path
 
 _Archetype, Divine_
 You use your knowledge to protect your allies.

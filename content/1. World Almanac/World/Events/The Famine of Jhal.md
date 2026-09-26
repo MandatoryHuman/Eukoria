@@ -4,17 +4,22 @@ aliases:
   - the famine of jhal
 title: The Famine of Jhal
 created: 2026-09-26T16:52:53.828Z
-modified: 2026-09-26T16:49:43.128Z
-published: 2026-09-26T16:49:43.128Z
+modified: 2026-09-26T17:18:39.480Z
+published: 2026-09-26T17:18:39.480Z
 tags:
   - "#Events"
   - National
+factions_involved: Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death]]; heretical Runesmiths
+key_figures: "[[The Undying Sovereign]]"
+location: "[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]"
+type: Supernatural Disaster & State Formation
 ---
 
-\[Type::Supernatural Disaster & State Formation]
-\[Location::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
-\[Factions Involved::Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death]]; heretical Runesmiths]
-\[Key Figures::[[The Undying Sovereign]]]
+> [!info]+ Details
+> **Type:** Supernatural Disaster & State Formation
+> **Location:** [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index.md|The Jhalian Necrocracy]]
+> **Factions Involved:** Pre-war Jhalian royalty; early clerics of [[Cavera, Goddess of Death]]; heretical Runesmiths
+> **Key Figures:** [[1. World Almanac/World/NPCs/Rulers/The Undying Sovereign.md|The Undying Sovereign]]
 
 # Overview
 

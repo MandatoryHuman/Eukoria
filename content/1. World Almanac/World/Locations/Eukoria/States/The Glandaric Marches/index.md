@@ -4,22 +4,32 @@ aliases:
   - The Glandaric Marches
 title: The Glandaric Marches
 created: 2026-09-26T16:52:54.043Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.626Z
+published: 2026-09-26T17:18:39.626Z
 tags:
   - State
 symbol: "[[The_Glandaric_Marches_Symbol.webp]]"
+capital: "[[Fort Glandar]]"
+demographics: Humans, Orcs, Dwarves, Fleshwarps
+government: Decentralised Military Coalition
+languages: Common
+major_exports: Monster trophies, "Anchor" items, hardened mercenaries
+major_imports: Weapons, food supplies, psychiatric/medical aid
+population: '"750,000"'
+religions: "[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]"
+ruler: The Marchwarden Council
 ---
 
-\[Capital::[[Fort Glandar]]]
-\[Government::Decentralised Military Coalition]
-\[Ruler::The Marchwarden Council]
-\[Population::"750,000"]
-\[Demographics::Humans, Orcs, Dwarves, Fleshwarps]
-\[Languages::Common]
-\[Religions::[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]]
-\[Major Exports::Monster trophies, "Anchor" items, hardened mercenaries]
-\[Major Imports::Weapons, food supplies, psychiatric/medical aid]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/Fort Glandar.md|Fort Glandar]]
+> **Government:** Decentralised Military Coalition
+> **Ruler:** The Marchwarden Council
+> **Population:** "750,000"
+> **Demographics:** Humans, Orcs, Dwarves, Fleshwarps
+> **Languages:** Common
+> **Religions:** [[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]
+> **Major Exports:** Monster trophies, "Anchor" items, hardened mercenaries
+> **Major Imports:** Weapons, food supplies, psychiatric/medical aid
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

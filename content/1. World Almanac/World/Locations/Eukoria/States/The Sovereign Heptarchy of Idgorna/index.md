@@ -5,22 +5,32 @@ aliases:
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
 created: 2026-09-26T16:52:54.091Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.670Z
+published: 2026-09-26T17:18:39.670Z
 tags:
   - State
 symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_Symbol.webp]]"
+capital: "[[The Seven-Fold Canopy]]"
+demographics: Humans, Elves, Leshies, Lizardfolk, Half-Orcs
+government: Feudal Oligarchy
+languages: Common, Elven, Iruxi
+major_exports: Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies
+major_imports: Heavy Armour, Cold-Iron Weapons, Arcane Texts
+population: 1.1 Million
+religions: Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]
+ruler: The [[Witan]]
 ---
 
-\[Capital::[[The Seven-Fold Canopy]]]
-\[Government::Feudal Oligarchy]
-\[Ruler::The [[Witan]]]
-\[Population::1.1 Million]
-\[Demographics::Humans, Elves, Leshies, Lizardfolk, Half-Orcs]
-\[Languages::Common, Elven, Iruxi]
-\[Religions::Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]]
-\[Major Exports::Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies]
-\[Major Imports::Heavy Armour, Cold-Iron Weapons, Arcane Texts]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Sovereign Heptarchy of Idgorna/The Seven-Fold Canopy.md|The Seven-Fold Canopy]]
+> **Government:** Feudal Oligarchy
+> **Ruler:** The [[Witan]]
+> **Population:** 1.1 Million
+> **Demographics:** Humans, Elves, Leshies, Lizardfolk, Half-Orcs
+> **Languages:** Common, Elven, Iruxi
+> **Religions:** Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]
+> **Major Exports:** Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies
+> **Major Imports:** Heavy Armour, Cold-Iron Weapons, Arcane Texts
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

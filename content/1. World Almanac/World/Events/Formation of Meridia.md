@@ -4,16 +4,21 @@ aliases:
   - formation of meridia
 title: Formation of Meridia
 created: 2026-09-26T16:52:53.824Z
-modified: 2026-09-26T16:49:43.127Z
-published: 2026-09-26T16:49:43.127Z
+modified: 2026-09-26T17:18:39.476Z
+published: 2026-09-26T17:18:39.476Z
 tags:
   - "#Events"
+factions_involved: Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers
+key_figures: "[[High Arbiter Garadwen]]"
+location: "[[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]"
+type: State Formation
 ---
 
-\[Type::State Formation]
-\[Location::[[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
-\[Factions Involved::Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers]
-\[Key Figures::[[High Arbiter Garadwen]]]
+> [!info]+ Details
+> **Type:** State Formation
+> **Location:** [[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+> **Factions Involved:** Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers
+> **Key Figures:** [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md|High Arbiter Garadwen]]
 
 (Event Image)
 

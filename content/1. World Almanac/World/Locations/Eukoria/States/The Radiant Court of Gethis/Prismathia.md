@@ -4,17 +4,23 @@ aliases:
   - prismathia
 title: Prismathia
 created: 2026-09-26T16:52:54.065Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
+modified: 2026-09-26T17:18:39.654Z
+published: 2026-09-26T17:18:39.654Z
 tags:
   - Settlement
+demographics: Elves, Humans, Fetchlings, Nephilim
+level: "16"
+population: '"150,000"'
+ruler: "[[Grand Duke Valerius the Blind]]"
+type: Capital City
 ---
 
-\[Type::Capital City]
-\[Level::16]
-\[Population::"150,000"]
-\[Demographics::Elves, Humans, Fetchlings, Nephilim]
-\[Ruler::[[Grand Duke Valerius the Blind]]]
+> [!info]+ Details
+> **Type:** Capital City
+> **Level:** 16
+> **Population:** "150,000"
+> **Demographics:** Elves, Humans, Fetchlings, Nephilim
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Grand Duke Valerius the Blind.md|Grand Duke Valerius the Blind]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

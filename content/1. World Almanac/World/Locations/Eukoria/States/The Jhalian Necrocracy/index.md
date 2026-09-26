@@ -4,22 +4,32 @@ aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
 created: 2026-09-26T16:52:54.048Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.639Z
+published: 2026-09-26T17:18:39.639Z
 tags:
   - "#State"
 symbol: "[[The_Jhalian_Necrocracy_Symbol.webp]]"
+capital: "[[The Silent City of Jhal]]"
+demographics: Humans, Dhampirs, Intelligent Undead
+government: Feudal [[Necrocracy]]
+languages: Common, Necril
+major_exports: Cheap manufactured goods, Alchemical reagents, Mined Minerals
+major_imports: Corpses (smuggled), Luxury goods
+population: 400,000 plus, 1.2 Million mindless undead
+religions: "[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]"
+ruler: "[[The Undying Sovereign]]"
 ---
 
-\[Capital::[[The Silent City of Jhal]]]
-\[Government::Feudal [[Necrocracy]]]
-\[Ruler::[[The Undying Sovereign]]]
-\[Population::400,000 plus, 1.2 Million mindless undead]
-\[Demographics::Humans, Dhampirs, Intelligent Undead]
-\[Languages::Common, Necril]
-\[Religions::[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]]
-\[Major Exports::Cheap manufactured goods, Alchemical reagents, Mined Minerals]
-\[Major Imports::Corpses (smuggled), Luxury goods]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/The Silent City of Jhal.md|The Silent City of Jhal]]
+> **Government:** Feudal [[Necrocracy]]
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/The Undying Sovereign.md|The Undying Sovereign]]
+> **Population:** 400,000 plus, 1.2 Million mindless undead
+> **Demographics:** Humans, Dhampirs, Intelligent Undead
+> **Languages:** Common, Necril
+> **Religions:** [[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]
+> **Major Exports:** Cheap manufactured goods, Alchemical reagents, Mined Minerals
+> **Major Imports:** Corpses (smuggled), Luxury goods
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

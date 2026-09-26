@@ -4,18 +4,25 @@ aliases:
   - Bramble-March
 title: The Bramble-March
 created: 2026-09-26T16:52:54.021Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
+modified: 2026-09-26T17:18:39.617Z
+published: 2026-09-26T17:18:39.617Z
 tags:
   - Geography
+climate: Temperate, Hyper-Humid, and Unnaturally Overgrown
+danger_level: Severe
+known_for: Carnivorous Flora, Awakened Trees, Anti-Industrial Wards
+region: North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]
+size_length: Roughly 200km long and 20km deep
+type: Magically Engineered Border Forest
 ---
 
-\[Type::Magically Engineered Border Forest]
-\[Region::North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]]
-\[Size/Length::Roughly 200km long and 20km deep]
-\[Climate::Temperate, Hyper-Humid, and Unnaturally Overgrown]
-\[Danger Level::Severe]
-\[Known For::Carnivorous Flora, Awakened Trees, Anti-Industrial Wards]
+> [!info]+ Details
+> **Type:** Magically Engineered Border Forest
+> **Region:** North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]
+> **Size/Length:** Roughly 200km long and 20km deep
+> **Climate:** Temperate, Hyper-Humid, and Unnaturally Overgrown
+> **Danger Level:** Severe
+> **Known For:** Carnivorous Flora, Awakened Trees, Anti-Industrial Wards
 
 (LANDSCAPE / MAP IMAGE)
 

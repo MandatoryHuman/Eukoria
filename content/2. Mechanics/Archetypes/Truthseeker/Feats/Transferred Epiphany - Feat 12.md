@@ -4,15 +4,17 @@ aliases:
   - Transferred Epiphany
 title: Transferred Epiphany
 created: 2026-09-26T16:52:54.227Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
+modified: 2026-09-26T17:18:39.742Z
+published: 2026-09-26T17:18:39.742Z
 tags:
   - Archetype
   - Feat
 level: 12
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]"
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** [[2. Mechanics/Archetypes/Truthseeker/Feats/Truthseeker Dedication - Feat 2.md|Truthseeker Dedication]]
 
 _Archetype_
 You understand how the flaws and fears of one creature ripple outward to affect those around them.

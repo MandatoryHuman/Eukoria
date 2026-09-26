@@ -5,19 +5,37 @@ aliases:
   - thrum, god of madness
 title: Thrum, God of Madness
 created: 2026-09-26T16:52:53.850Z
-modified: 2026-09-26T16:49:43.134Z
-published: 2026-09-26T16:49:43.134Z
+modified: 2026-09-26T17:18:39.494Z
+published: 2026-09-26T17:18:39.494Z
+alternate_domains: "[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)"
+anathema: Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity
+areas_of_concern: Madness, paranoia, the breakdown of consciousness, the void of thought
+aspects: Absence and Mind
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)"
+cleric_spells: "1st: 2e.aonprd.com/Spells.aspx?ID=1500, 4th: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), 7th: [Warp Mind](https://2e.aonprd.com/Spells.aspx?ID=1754)"
+divine_attribute: Intelligence or Charisma
+divine_font: Harm
+divine_sanctification: Must choose Unholy
+divine_skill: Occultism
+domains: "[Delirium](https://2e.aonprd.com/Domains.aspx?ID=105), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69)"
+edicts: Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers
+favoured_weapon: Whip
+pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]"
+religious_symbol: A shattered mirror reflecting a pitch-black void
+sacred_animal: Moth
+sacred_colours: Deep Purple and Void Black
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
-\[Aspects::Absence and Mind]
-\[Edicts::Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers]
-\[Anathema::Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity]
-\[Areas of Concern::Madness, paranoia, the breakdown of consciousness, the void of thought]
-\[Religious Symbol::A shattered mirror reflecting a pitch-black void]
-\[Sacred Animal::Moth]
-\[Sacred Colours::Deep Purple and Void Black]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+> [!info]+ Details
+> **Category:** [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)
+> **Aspects:** Absence and Mind
+> **Edicts:** Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers
+> **Anathema:** Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity
+> **Areas of Concern:** Madness, paranoia, the breakdown of consciousness, the void of thought
+> **Religious Symbol:** A shattered mirror reflecting a pitch-black void
+> **Sacred Animal:** Moth
+> **Sacred Colours:** Deep Purple and Void Black
+> **Pantheons/Covenants:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index.md|Canonical Gods]]
 
 Thrum was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Madness and the unravelling of the mortal consciousness. In the cosmic geometry of [[index|Eukoria]], he represented the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Absence]]. He embodied the void within consciousness, the erasure of logic, and the collapse of reason.
 
@@ -31,14 +49,15 @@ Today, Thrum is a dead god. He no longer actively answers prayers or consciously
 
 ## Devotee Benefits
 
-\[Divine Attribute::Intelligence or Charisma]
-\[Divine Font::Harm]
-\[Divine Sanctification::Must choose Unholy]
-\[Divine Skill::Occultism]
-\[Favoured Weapon::Whip]
-\[Domains::[Delirium](https://2e.aonprd.com/Domains.aspx?ID=105), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69)]
-\[Alternate Domains::[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)]
-\[Cleric Spells::1st: 2e.aonprd.com/Spells.aspx?ID=1500, 4th: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), 7th: [Warp Mind](https://2e.aonprd.com/Spells.aspx?ID=1754)]
+> [!info]+ Details
+> **Divine Attribute:** Intelligence or Charisma
+> **Divine Font:** Harm
+> **Divine Sanctification:** Must choose Unholy
+> **Divine Skill:** Occultism
+> **Favoured Weapon:** Whip
+> **Domains:** [Delirium](https://2e.aonprd.com/Domains.aspx?ID=105), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69)
+> **Alternate Domains:** [Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)
+> **Cleric Spells:** 1st: 2e.aonprd.com/Spells.aspx?ID=1500, 4th: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), 7th: [Warp Mind](https://2e.aonprd.com/Spells.aspx?ID=1754)
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

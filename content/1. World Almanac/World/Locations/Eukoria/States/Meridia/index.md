@@ -4,22 +4,32 @@ aliases:
   - Meridia
 title: Meridia
 created: 2026-09-26T16:52:53.972Z
-modified: 2026-09-26T16:49:43.122Z
-published: 2026-09-26T16:49:43.122Z
+modified: 2026-09-26T17:18:39.591Z
+published: 2026-09-26T17:18:39.591Z
 tags:
   - State
 symbol: "[[Meridia_Symbol.webp]]"
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"
+demographics: Any, so long as they can pay
+government: Mercantile Oligarchy
+languages: Common
+major_exports: Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
+major_imports: Practically everything
+population: 1.5 Million
+religions: "[[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]"
+ruler: "[[High Arbiter Garadwen]]"
 ---
 
-\[Capital::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
-\[Government::Mercantile Oligarchy]
-\[Ruler::[[High Arbiter Garadwen]]]
-\[Population::1.5 Million]
-\[Demographics::Any, so long as they can pay]
-\[Languages::Common]
-\[Religions::[[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]]
-\[Major Exports::Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts]
-\[Major Imports::Practically everything]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index.md|Obolus]]
+> **Government:** Mercantile Oligarchy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md|High Arbiter Garadwen]]
+> **Population:** 1.5 Million
+> **Demographics:** Any, so long as they can pay
+> **Languages:** Common
+> **Religions:** [[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]
+> **Major Exports:** Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
+> **Major Imports:** Practically everything
 
 # Overview
 

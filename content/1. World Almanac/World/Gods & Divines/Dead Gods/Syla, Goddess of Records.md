@@ -5,21 +5,39 @@ aliases:
   - syla, goddess of records
 title: Syla, Goddess of Records
 created: 2026-09-26T16:52:53.849Z
-modified: 2026-09-26T16:49:43.134Z
-published: 2026-09-26T16:49:43.134Z
+modified: 2026-09-26T17:18:39.490Z
+published: 2026-09-26T17:18:39.490Z
 enemy:
   - "[[Lethos, God of Trickery]]"
+alternate_domains: Repose
+anathema: Destroy or alter a historical record, intentionally forget a crucial truth, allow bias to cloud a recorded event
+areas_of_concern: Record keeping, history, the shared consciousness, lost truths
+aspects: Presence and Mind
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)"
+cleric_spells: "1st: [Share Lore](https://2e.aonprd.com/Spells.aspx?ID=2363), 3rd: [Hypercognition](https://2e.aonprd.com/Spells.aspx?ID=1563), 6th: [Scrying](https://2e.aonprd.com/Spells.aspx?ID=1662)"
+divine_attribute: Intelligence or Wisdom
+divine_font: Heal
+divine_sanctification: Can choose Holy
+divine_skill: Society
+domains: Knowledge, Truth, Time, Secrecy
+edicts: Commit all truths to the shared consciousness, preserve the memory of what has passed, manifest knowledge into undeniable record
+favoured_weapon: Dagger
+pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]"
+religious_symbol: An unfurled scroll
+sacred_animal: Tortoise
+sacred_colours: Parchment Yellow and Ash Gray
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)]
-\[Aspects::Presence and Mind]
-\[Edicts::Commit all truths to the shared consciousness, preserve the memory of what has passed, manifest knowledge into undeniable record]
-\[Anathema::Destroy or alter a historical record, intentionally forget a crucial truth, allow bias to cloud a recorded event]
-\[Areas of Concern::Record keeping, history, the shared consciousness, lost truths]
-\[Religious Symbol::An unfurled scroll]
-\[Sacred Animal::Tortoise]
-\[Sacred Colours::Parchment Yellow and Ash Gray]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+> [!info]+ Details
+> **Category:** [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)
+> **Aspects:** Presence and Mind
+> **Edicts:** Commit all truths to the shared consciousness, preserve the memory of what has passed, manifest knowledge into undeniable record
+> **Anathema:** Destroy or alter a historical record, intentionally forget a crucial truth, allow bias to cloud a recorded event
+> **Areas of Concern:** Record keeping, history, the shared consciousness, lost truths
+> **Religious Symbol:** An unfurled scroll
+> **Sacred Animal:** Tortoise
+> **Sacred Colours:** Parchment Yellow and Ash Gray
+> **Pantheons/Covenants:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index.md|Canonical Gods]]
 
 Syla, The Silent Witness, was the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Record keeping. In the cosmic geometry of [[index|Eukoria]], she represented the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical]] intersection of the [[Fundamental Essences|Fundamental Essence of Mind]] and the [[Basic Essences|Basic Essence of Presence]]. The [[Fundamental Essences|Essence of Mind]] allows beings to think, rationalise, and remember, while the [[Basic Essences|Essence of Presence]] is the unmitigated force of manifestation. When combined, Syla embodied the physical manifestation of memory - actively recording and preserving the truths of the world into a vast shared consciousness.
 
@@ -37,14 +55,15 @@ While Syla is long since dead, some of her clerics still gain magic from her lat
 
 ## Devotee Benefits
 
-\[Divine Attribute::Intelligence or Wisdom]
-\[Divine Font::Heal]
-\[Divine Sanctification::Can choose Holy]
-\[Divine Skill::Society]
-\[Favoured Weapon::Dagger]
-\[Domains::Knowledge, Truth, Time, Secrecy]
-\[Alternate Domains::Repose]
-\[Cleric Spells::1st: [Share Lore](https://2e.aonprd.com/Spells.aspx?ID=2363), 3rd: [Hypercognition](https://2e.aonprd.com/Spells.aspx?ID=1563), 6th: [Scrying](https://2e.aonprd.com/Spells.aspx?ID=1662)]
+> [!info]+ Details
+> **Divine Attribute:** Intelligence or Wisdom
+> **Divine Font:** Heal
+> **Divine Sanctification:** Can choose Holy
+> **Divine Skill:** Society
+> **Favoured Weapon:** Dagger
+> **Domains:** Knowledge, Truth, Time, Secrecy
+> **Alternate Domains:** Repose
+> **Cleric Spells:** 1st: [Share Lore](https://2e.aonprd.com/Spells.aspx?ID=2363), 3rd: [Hypercognition](https://2e.aonprd.com/Spells.aspx?ID=1563), 6th: [Scrying](https://2e.aonprd.com/Spells.aspx?ID=1662)
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 

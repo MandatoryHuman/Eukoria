@@ -4,17 +4,23 @@ aliases:
   - Silent City of Jhal
 title: The Silent City of Jhal
 created: 2026-09-26T16:52:54.050Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
+modified: 2026-09-26T17:18:39.642Z
+published: 2026-09-26T17:18:39.642Z
 tags:
   - "#Settlement"
+demographics: Humans, Dhampirs, Intelligent Undead
+level: "14"
+population: 50,000, plus 300,000 mindless undead
+ruler: "[[The Undying Sovereign]]"
+type: Capital City
 ---
 
-\[Type::Capital City]
-\[Level::14]
-\[Population::50,000, plus 300,000 mindless undead]
-\[Demographics::Humans, Dhampirs, Intelligent Undead]
-\[Ruler::[[The Undying Sovereign]]]
+> [!info]+ Details
+> **Type:** Capital City
+> **Level:** 14
+> **Population:** 50,000, plus 300,000 mindless undead
+> **Demographics:** Humans, Dhampirs, Intelligent Undead
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/The Undying Sovereign.md|The Undying Sovereign]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

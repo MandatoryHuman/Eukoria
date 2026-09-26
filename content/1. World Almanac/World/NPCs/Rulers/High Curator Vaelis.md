@@ -4,21 +4,31 @@ aliases:
   - Vaelis
 title: High Curator Vaelis
 created: 2026-09-26T16:52:54.153Z
-modified: 2026-09-21T23:19:18.765Z
-published: 2026-09-21T23:19:18.765Z
+modified: 2026-09-26T17:18:39.710Z
+published: 2026-09-26T17:18:39.710Z
 tags:
   - NPCs
+ancestry: ""
+background: ""
+class_profession: ""
+faction: ""
+level: ""
+location: ""
+pronouns: ""
+role: ""
+status: ""
 ---
 
-\[Pronouns::]
-\[Ancestry::]
-\[Background::]
-\[Class/Profession::]
-\[Level::]
-\[Location::]
-\[Faction::]
-\[Role::]
-\[Status::]
+> [!info]+ Details
+> **Pronouns:**
+> **Ancestry:**
+> **Background:**
+> **Class/Profession:**
+> **Level:**
+> **Location:**
+> **Faction:**
+> **Role:**
+> **Status:**
 
 (IMAGE)
 

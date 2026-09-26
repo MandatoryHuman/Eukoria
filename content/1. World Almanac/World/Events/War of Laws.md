@@ -4,18 +4,23 @@ aliases:
   - war of laws
 title: War of Laws
 created: 2026-09-26T16:52:53.833Z
-modified: 2026-09-26T16:49:43.134Z
-published: 2026-09-26T16:49:43.134Z
+modified: 2026-09-26T17:18:39.487Z
+published: 2026-09-26T17:18:39.487Z
 tags:
   - "#Wars"
   - "#Events"
   - Global
+factions_involved: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods
+key_figures: "[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]"
+location: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+type: Divine War
 ---
 
-\[Type::Divine War]
-\[Location::The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
-\[Factions Involved::Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
-\[Key Figures::[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]
+> [!info]+ Details
+> **Type:** Divine War
+> **Location:** The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+> **Factions Involved:** Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods
+> **Key Figures:** [[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]
 
 ![[Assets/Events/War of Laws.webp]]
 

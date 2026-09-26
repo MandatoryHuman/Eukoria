@@ -4,22 +4,32 @@ aliases:
   - Heretic's Wake
 title: Heretic's Wake
 created: 2026-09-26T16:52:53.956Z
-modified: 2026-09-26T16:49:43.122Z
-published: 2026-09-26T16:49:43.122Z
+modified: 2026-09-26T17:18:39.584Z
+published: 2026-09-26T17:18:39.584Z
 tags:
   - State
 symbol: "[[Heretic's_Wake_Symbol.webp]]"
+capital: "[[The Flotilla of the Unbound]]"
+demographics: Exiles, Runesmiths, Passion Mages, Outcasts
+government: Pirate Coalition
+languages: Common, Various Thieves' Cants
+major_exports: Stolen Cargo, Smuggled Contraband, "Safe Passage"
+major_imports: Stolen Ships, Weaponry, Ransom Gold
+population: Unknown (Highly Transient)
+religions: "[[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]"
+ruler: A shifting council of the most powerful Pirate Captains
 ---
 
-\[Capital::[[The Flotilla of the Unbound]]]
-\[Government::Pirate Coalition]
-\[Ruler::A shifting council of the most powerful Pirate Captains]
-\[Population::Unknown (Highly Transient)]
-\[Demographics::Exiles, Runesmiths, Passion Mages, Outcasts]
-\[Languages::Common, Various Thieves' Cants]
-\[Religions::[[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]]
-\[Major Exports::Stolen Cargo, Smuggled Contraband, "Safe Passage"]
-\[Major Imports::Stolen Ships, Weaponry, Ransom Gold]
+> [!info]+ Details
+> **Capital:** [[The Flotilla of the Unbound|The Flotilla of the Unbound]]
+> **Government:** Pirate Coalition
+> **Ruler:** A shifting council of the most powerful Pirate Captains
+> **Population:** Unknown (Highly Transient)
+> **Demographics:** Exiles, Runesmiths, Passion Mages, Outcasts
+> **Languages:** Common, Various Thieves' Cants
+> **Religions:** [[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]
+> **Major Exports:** Stolen Cargo, Smuggled Contraband, "Safe Passage"
+> **Major Imports:** Stolen Ships, Weaponry, Ransom Gold
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

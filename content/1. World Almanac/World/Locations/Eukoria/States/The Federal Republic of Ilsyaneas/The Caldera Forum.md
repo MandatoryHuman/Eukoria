@@ -4,17 +4,23 @@ aliases:
   - Caldera Forum
 title: The Caldera Forum
 created: 2026-09-26T16:52:54.014Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
+modified: 2026-09-26T17:18:39.612Z
+published: 2026-09-26T17:18:39.612Z
 tags:
   - Settlement
+demographics: ""
+level: ""
+population: ""
+ruler: ""
+type: ""
 ---
 
-\[Type::]
-\[Level::]
-\[Population::]
-\[Demographics::]
-\[Ruler::]
+> [!info]+ Details
+> **Type:**
+> **Level:**
+> **Population:**
+> **Demographics:**
+> **Ruler:**
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

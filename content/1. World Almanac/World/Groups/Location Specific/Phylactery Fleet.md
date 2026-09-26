@@ -4,18 +4,25 @@ aliases:
   - phylactery fleet
 title: Phylactery Fleet
 created: 2026-09-26T16:52:53.930Z
-modified: 2026-09-21T23:19:18.853Z
-published: 2026-09-21T23:19:18.853Z
+modified: 2026-09-26T17:18:39.573Z
+published: 2026-09-26T17:18:39.573Z
 tags:
   - Geography
+climate: ""
+danger_level: ""
+known_for: ""
+region: ""
+size_length: ""
+type: ""
 ---
 
-\[Type::]
-\[Region::]
-\[Size/Length::]
-\[Climate::]
-\[Danger Level::]
-\[Known For::]
+> [!info]+ Details
+> **Type:**
+> **Region:**
+> **Size/Length:**
+> **Climate:**
+> **Danger Level:**
+> **Known For:**
 
 (LANDSCAPE / MAP IMAGE)
 

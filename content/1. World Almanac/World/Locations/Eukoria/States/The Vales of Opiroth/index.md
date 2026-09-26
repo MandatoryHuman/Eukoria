@@ -5,22 +5,32 @@ aliases:
   - The Vales of Opiroth
 title: The Vales of Opiroth
 created: 2026-09-26T16:52:54.110Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.684Z
+published: 2026-09-26T17:18:39.684Z
 tags:
   - State
 symbol: "[[The_Vales_of_Opiroth_Symbol.webp]]"
+capital: "[[The Alabaster Terrace]]"
+demographics: Humans, Fleshwarps. Gobins, Automatons
+government: Scientific Oligarchy
+languages: Common, Sakvroth
+major_exports: Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents
+major_imports: Base Metals, test subjects, raw foodstuffs
+population: 120,000
+religions: "[[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]"
+ruler: Grand Synthesist Morvane
 ---
 
-\[Capital::[[The Alabaster Terrace]]]
-\[Government::Scientific Oligarchy]
-\[Ruler::Grand Synthesist Morvane]
-\[Population::120,000]
-\[Demographics::Humans, Fleshwarps. Gobins, Automatons]
-\[Languages::Common, Sakvroth]
-\[Religions::[[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]]
-\[Major Exports::Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents]
-\[Major Imports::Base Metals, test subjects, raw foodstuffs]
+> [!info]+ Details
+> **Capital:** [[The Alabaster Terrace|The Alabaster Terrace]]
+> **Government:** Scientific Oligarchy
+> **Ruler:** Grand Synthesist Morvane
+> **Population:** 120,000
+> **Demographics:** Humans, Fleshwarps. Gobins, Automatons
+> **Languages:** Common, Sakvroth
+> **Religions:** [[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]
+> **Major Exports:** Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents
+> **Major Imports:** Base Metals, test subjects, raw foodstuffs
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

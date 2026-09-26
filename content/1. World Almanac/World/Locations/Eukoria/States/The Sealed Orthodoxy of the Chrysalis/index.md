@@ -5,22 +5,32 @@ aliases:
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
 created: 2026-09-26T16:52:54.086Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.668Z
+published: 2026-09-26T17:18:39.668Z
 tags:
   - State
 symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_Symbol.webp]]"
+capital: Aegis-Gath
+demographics: 60% Human, 20% Dwarf, 10% Elf, 10% Other
+government: Theocratic Bureaucracy
+languages: Common, Celestial, Dwarven
+major_exports: Sanctioned magical texts, worked steel, enchanted warding
+major_imports: Raw magically-inert materials, grain, historical artifacts
+population: Approx. 2.2 Million
+religions: Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+ruler: Grand Hierophant Odanis
 ---
 
-\[Capital::Aegis-Gath]
-\[Government::Theocratic Bureaucracy]
-\[Ruler::Grand Hierophant Odanis]
-\[Population::Approx. 2.2 Million]
-\[Demographics::60% Human, 20% Dwarf, 10% Elf, 10% Other]
-\[Languages::Common, Celestial, Dwarven]
-\[Religions::Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
-\[Major Exports::Sanctioned magical texts, worked steel, enchanted warding]
-\[Major Imports::Raw magically-inert materials, grain, historical artifacts]
+> [!info]+ Details
+> **Capital:** Aegis-Gath
+> **Government:** Theocratic Bureaucracy
+> **Ruler:** Grand Hierophant Odanis
+> **Population:** Approx. 2.2 Million
+> **Demographics:** 60% Human, 20% Dwarf, 10% Elf, 10% Other
+> **Languages:** Common, Celestial, Dwarven
+> **Religions:** Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+> **Major Exports:** Sanctioned magical texts, worked steel, enchanted warding
+> **Major Imports:** Raw magically-inert materials, grain, historical artifacts
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

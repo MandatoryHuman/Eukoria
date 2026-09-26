@@ -4,15 +4,17 @@ aliases:
   - Weight of Transgression
 title: Weight of Transgression
 created: 2026-09-26T16:52:54.237Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
+modified: 2026-09-26T17:18:39.750Z
+published: 2026-09-26T17:18:39.750Z
 tags:
   - Archetype
   - Feat
 level: 8
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path"
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path]
+> [!info]+ Details
+> **Prerequisites:** [[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path
 
 _Archetype, Divine_
 You channel the absolute judgment of the heavens, weaponizing a creature's sins against them.

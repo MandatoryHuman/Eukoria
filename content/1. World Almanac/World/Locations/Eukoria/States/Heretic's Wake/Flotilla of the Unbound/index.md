@@ -4,17 +4,23 @@ aliases:
   - Flotilla of the Unbound
 title: Flotilla of the Unbound
 created: 2026-09-26T16:52:53.961Z
-modified: 2026-09-26T16:49:43.122Z
-published: 2026-09-26T16:49:43.122Z
+modified: 2026-09-26T17:18:39.587Z
+published: 2026-09-26T17:18:39.587Z
 tags:
   - Settlement
+demographics: Exiles, Runesmiths, Passion Mages, Fleshwarps, Intelligent Undead
+level: "16"
+population: 45000 (Highly Transient)
+ruler: A shifting council of the most powerful Pirate Captains
+type: Capital
 ---
 
-\[Type::Capital]
-\[Level::16]
-\[Population::45000 (Highly Transient)]
-\[Demographics::Exiles, Runesmiths, Passion Mages, Fleshwarps, Intelligent Undead]
-\[Ruler::A shifting council of the most powerful Pirate Captains]
+> [!info]+ Details
+> **Type:** Capital
+> **Level:** 16
+> **Population:** 45000 (Highly Transient)
+> **Demographics:** Exiles, Runesmiths, Passion Mages, Fleshwarps, Intelligent Undead
+> **Ruler:** A shifting council of the most powerful Pirate Captains
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

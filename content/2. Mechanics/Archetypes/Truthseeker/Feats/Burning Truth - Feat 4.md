@@ -1,15 +1,17 @@
 ---
 publish: true
 created: 2026-09-26T16:52:54.197Z
-modified: 2026-09-21T23:19:18.797Z
-published: 2026-09-21T23:19:18.797Z
+modified: 2026-09-26T17:18:39.726Z
+published: 2026-09-26T17:18:39.726Z
 tags:
   - Archetype
   - Feat
 level: 4
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]"
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** [[2. Mechanics/Archetypes/Truthseeker/Feats/Truthseeker Dedication - Feat 2.md|Truthseeker Dedication]]
 
 _Archetype_
 You know how to burn away a piece of metaphysical knowledge to alter fate, sacrificing long-term leverage for momentary survival or power.

@@ -4,16 +4,23 @@ aliases:
   - cult of the silent void
 title: Cult of the Silent Void
 created: 2026-09-26T16:52:53.925Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
+modified: 2026-09-26T17:18:39.570Z
+published: 2026-09-26T17:18:39.570Z
+allies: ""
+enemies: ""
+headquarters: ""
+leader: ""
+region_influence: ""
+type: ""
 ---
 
-\[Type::]
-\[Leader::]
-\[Headquarters::]
-\[Region/Influence::]
-\[Allies::]
-\[Enemies::]
+> [!info]+ Details
+> **Type:**
+> **Leader:**
+> **Headquarters:**
+> **Region/Influence:**
+> **Allies:**
+> **Enemies:**
 
 (FACTION EMBLEM / BANNER IMAGE)
 

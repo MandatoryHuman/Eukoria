@@ -5,22 +5,32 @@ aliases:
   - Khalen
 title: The Scholasticate of Khalen
 created: 2026-09-26T16:52:54.080Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.663Z
+published: 2026-09-26T17:18:39.663Z
 tags:
   - State
 symbol: "[[The_Scholasticate_of_Khalen_Symbol.webp]]"
+capital: "[[The Cliff Archives]]"
+demographics: Humans, Elves, Tengu, Dwarves
+government: Academic Meritocracy
+languages: Common, Ancient Eukorian
+major_exports: Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises
+major_imports: Food, Mercenary Protection, Preservative Alchemicals
+population: '"850,000"'
+religions: "[[Oclera, God of Knowledge]], [[Aureon, God of Commerce and Industry]], [[Syla, Goddess of Records]]"
+ruler: The Curator Assembly
 ---
 
-\[Capital::[[The Cliff Archives]]]
-\[Government::Academic Meritocracy]
-\[Ruler::The Curator Assembly]
-\[Population::"850,000"]
-\[Demographics::Humans, Elves, Tengu, Dwarves]
-\[Languages::Common, Ancient Eukorian]
-\[Religions::[[Oclera, God of Knowledge]], [[Aureon, God of Commerce and Industry]], [[Syla, Goddess of Records]]]
-\[Major Exports::Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises]
-\[Major Imports::Food, Mercenary Protection, Preservative Alchemicals]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Scholasticate of Khalen/The Cliff Archives.md|The Cliff Archives]]
+> **Government:** Academic Meritocracy
+> **Ruler:** The Curator Assembly
+> **Population:** "850,000"
+> **Demographics:** Humans, Elves, Tengu, Dwarves
+> **Languages:** Common, Ancient Eukorian
+> **Religions:** [[Oclera, God of Knowledge]], [[Aureon, God of Commerce and Industry]], [[Syla, Goddess of Records]]
+> **Major Exports:** Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises
+> **Major Imports:** Food, Mercenary Protection, Preservative Alchemicals
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

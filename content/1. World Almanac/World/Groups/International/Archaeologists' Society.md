@@ -4,16 +4,23 @@ aliases:
   - archaeologists' society
 title: Archaeologists' Society
 created: 2026-09-26T16:52:53.924Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
+modified: 2026-09-26T17:18:39.568Z
+published: 2026-09-26T17:18:39.568Z
+allies: ""
+enemies: ""
+headquarters: ""
+leader: ""
+region_influence: ""
+type: ""
 ---
 
-\[Type::]
-\[Leader::]
-\[Headquarters::]
-\[Region/Influence::]
-\[Allies::]
-\[Enemies::]
+> [!info]+ Details
+> **Type:**
+> **Leader:**
+> **Headquarters:**
+> **Region/Influence:**
+> **Allies:**
+> **Enemies:**
 
 (FACTION EMBLEM / BANNER IMAGE)
 

@@ -3,13 +3,20 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
+created: 2026-09-26T16:52:54.397Z
+modified: 2026-09-26T17:18:52.584Z
+published: 2026-09-26T17:18:52.584Z
 tags:
   - "#Ancestries"
+ancestry_type: <% tp.system.prompt("Ancestry type or category?") %>
+official_rules: <% tp.system.prompt("Official PF2e rules link or source?") %>
+rarity: <% tp.system.suggester(["Common", "Uncommon", "Rare", "Unique"], ["Common", "Uncommon", "Rare", "Unique"]) %>
 ---
 
-\[Official Rules::<% tp.system.prompt("Official PF2e rules link or source?") %>]
-\[Ancestry Type::<% tp.system.prompt("Ancestry type or category?") %>]
-\[Rarity::<% tp.system.suggester(\["Common", "Uncommon", "Rare", "Unique"], \["Common", "Uncommon", "Rare", "Unique"]) %>]
+> [!info]+ Details
+> **Official Rules:** <% tp.system.prompt("Official PF2e rules link or source?") %>
+> **Ancestry Type:** <% tp.system.prompt("Ancestry type or category?") %>
+> **Rarity:** <% tp.system.suggester(\["Common", "Uncommon", "Rare", "Unique"], \["Common", "Uncommon", "Rare", "Unique"]) %>
 
 ![[Assets/Ancestries/<% tp.file.title %>.webp|400]]
 

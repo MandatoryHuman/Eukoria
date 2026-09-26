@@ -4,16 +4,23 @@ aliases:
   - Circle of the Root
 title: The Circle of the Root
 created: 2026-09-26T16:52:53.934Z
-modified: 2026-09-21T23:19:18.853Z
-published: 2026-09-21T23:19:18.853Z
+modified: 2026-09-26T17:18:39.577Z
+published: 2026-09-26T17:18:39.577Z
+allies: ""
+enemies: ""
+headquarters: ""
+leader: ""
+region_influence: ""
+type: ""
 ---
 
-\[Type::]
-\[Leader::]
-\[Headquarters::]
-\[Region/Influence::]
-\[Allies::]
-\[Enemies::]
+> [!info]+ Details
+> **Type:**
+> **Leader:**
+> **Headquarters:**
+> **Region/Influence:**
+> **Allies:**
+> **Enemies:**
 
 (FACTION EMBLEM / BANNER IMAGE)
 

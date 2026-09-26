@@ -5,22 +5,32 @@ aliases:
   - Gethis
 title: The Radiant Court of Gethis
 created: 2026-09-26T16:52:54.062Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.652Z
+published: 2026-09-26T17:18:39.652Z
 tags:
   - State
 symbol: "[[The_Radiant_Court_of_Gethis_Symbol.webp]]"
+capital: "[[Prismathia]]"
+demographics: Humans, Fetchlings, Nephilim
+government: Aristocratic Oligarchy
+languages: Common, Elven
+major_exports: High Art, Illusion Magic, Luxury Textiles, Fine Wines
+major_imports: Basic necessities, Mercenaries, "Anchors"
+population: '"400,000"'
+religions: "[[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]"
+ruler: "[[Grand Duke Valerius the Blind]]"
 ---
 
-\[Capital::[[Prismathia]]]
-\[Government::Aristocratic Oligarchy]
-\[Ruler::[[Grand Duke Valerius the Blind]]]
-\[Population::"400,000"]
-\[Demographics::Humans, Fetchlings, Nephilim]
-\[Languages::Common, Elven]
-\[Religions::[[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]]
-\[Major Exports::High Art, Illusion Magic, Luxury Textiles, Fine Wines]
-\[Major Imports::Basic necessities, Mercenaries, "Anchors"]
+> [!info]+ Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Radiant Court of Gethis/Prismathia.md|Prismathia]]
+> **Government:** Aristocratic Oligarchy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Grand Duke Valerius the Blind.md|Grand Duke Valerius the Blind]]
+> **Population:** "400,000"
+> **Demographics:** Humans, Fetchlings, Nephilim
+> **Languages:** Common, Elven
+> **Religions:** [[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]
+> **Major Exports:** High Art, Illusion Magic, Luxury Textiles, Fine Wines
+> **Major Imports:** Basic necessities, Mercenaries, "Anchors"
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

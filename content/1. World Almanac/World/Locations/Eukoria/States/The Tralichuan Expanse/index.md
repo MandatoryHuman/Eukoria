@@ -4,22 +4,32 @@ aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
 created: 2026-09-26T16:52:54.103Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.678Z
+published: 2026-09-26T17:18:39.678Z
 tags:
   - State
 symbol: "[[The_Tralichuan_Expanse_Symbol.webp]]"
+capital: Tralicor
+demographics: Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races
+government: Expansionist Thalassocracy
+languages: Common, Thalassic
+major_exports: Spices, Tropical Woods, Exotic Fruits, Naval Vessels
+major_imports: Heavy Metals, Arcane Lore
+population: 1.9 Million
+religions: "[[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]"
+ruler: "[[Empress Ranani the Unbroken]]"
 ---
 
-\[Capital::Tralicor]
-\[Government::Expansionist Thalassocracy]
-\[Ruler::[[Empress Ranani the Unbroken]]]
-\[Population::1.9 Million]
-\[Demographics::Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races]
-\[Languages::Common, Thalassic]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]]
-\[Major Exports::Spices, Tropical Woods, Exotic Fruits, Naval Vessels]
-\[Major Imports::Heavy Metals, Arcane Lore]
+> [!info]+ Details
+> **Capital:** Tralicor
+> **Government:** Expansionist Thalassocracy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Empress Ranani the Unbroken.md|Empress Ranani the Unbroken]]
+> **Population:** 1.9 Million
+> **Demographics:** Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races
+> **Languages:** Common, Thalassic
+> **Religions:** [[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]
+> **Major Exports:** Spices, Tropical Woods, Exotic Fruits, Naval Vessels
+> **Major Imports:** Heavy Metals, Arcane Lore
 
 ![[Traclichua Symbol.svg|400]]
 

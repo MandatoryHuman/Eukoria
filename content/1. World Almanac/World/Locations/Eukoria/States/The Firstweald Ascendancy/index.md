@@ -4,22 +4,32 @@ aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
 created: 2026-09-26T16:52:54.018Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.614Z
+published: 2026-09-26T17:18:39.614Z
 tags:
   - State
 symbol: "[[The_Firstweald_Ascendancy_Symbol.webp]]"
+capital: Elderheart
+demographics: Elves, Humans, Leshies, Fey, Beastkin
+government: Druidic Conclave
+languages: Common, Sylvan
+major_exports: Rare herbs, primal reagents, resilient living-lumber, exotic beasts
+major_imports: Raw metals, written histories
+population: '"900,000"'
+religions: "[[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]"
+ruler: "[[Hierophant Rinebrior]]"
 ---
 
-\[Capital::Elderheart]
-\[Government::Druidic Conclave]
-\[Ruler::[[Hierophant Rinebrior]]]
-\[Population::"900,000"]
-\[Demographics::Elves, Humans, Leshies, Fey, Beastkin]
-\[Languages::Common, Sylvan]
-\[Religions::[[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]]
-\[Major Exports::Rare herbs, primal reagents, resilient living-lumber, exotic beasts]
-\[Major Imports::Raw metals, written histories]
+> [!info]+ Details
+> **Capital:** Elderheart
+> **Government:** Druidic Conclave
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Hierophant Rinebrior.md|Hierophant Rinebrior]]
+> **Population:** "900,000"
+> **Demographics:** Elves, Humans, Leshies, Fey, Beastkin
+> **Languages:** Common, Sylvan
+> **Religions:** [[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]
+> **Major Exports:** Rare herbs, primal reagents, resilient living-lumber, exotic beasts
+> **Major Imports:** Raw metals, written histories
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

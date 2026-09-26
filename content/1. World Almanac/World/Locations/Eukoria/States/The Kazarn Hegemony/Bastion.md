@@ -4,19 +4,29 @@ aliases:
   - bastion
 title: Bastion
 created: 2026-09-26T16:52:54.054Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
+modified: 2026-09-26T17:18:39.644Z
+published: 2026-09-26T17:18:39.644Z
+capital: ""
+demographics: ""
+government: ""
+languages: ""
+major_exports: ""
+major_imports: ""
+population: ""
+religions: ""
+ruler: ""
 ---
 
-\[Capital::]
-\[Government::]
-\[Ruler::]
-\[Population::]
-\[Demographics::]
-\[Languages::]
-\[Religions::]
-\[Major Exports::]
-\[Major Imports::]
+> [!info]+ Details
+> **Capital:**
+> **Government:**
+> **Ruler:**
+> **Population:**
+> **Demographics:**
+> **Languages:**
+> **Religions:**
+> **Major Exports:**
+> **Major Imports:**
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

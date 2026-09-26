@@ -6,22 +6,32 @@ aliases:
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
 created: 2026-09-26T16:52:54.075Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:18:39.660Z
+published: 2026-09-26T17:18:39.660Z
 tags:
   - State
 symbol: "[[The_Salvage-Pact_of_Oremourn_Symbol.webp]]"
+capital: The Great Hulk
+demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
+government: Decentralized Warlord Coalition
+languages: Common, Goblin, Orcish
+major_exports: Volatile steampunk technology, salvaged celestial metals, raw black-powder
+major_imports: Clean water, uncontaminated food, medical supplies
+population: Approx. 600,000
+religions: Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
+ruler: The Council of Iron
 ---
 
-\[Capital::The Great Hulk]
-\[Government::Decentralized Warlord Coalition]
-\[Ruler::The Council of Iron]
-\[Population::Approx. 600,000]
-\[Demographics::40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp]
-\[Languages::Common, Goblin, Orcish]
-\[Religions::Cults of [[Aethelgard, God of Relics]], various localized machine-spirits]
-\[Major Exports::Volatile steampunk technology, salvaged celestial metals, raw black-powder]
-\[Major Imports::Clean water, uncontaminated food, medical supplies]
+> [!info]+ Details
+> **Capital:** The Great Hulk
+> **Government:** Decentralized Warlord Coalition
+> **Ruler:** The Council of Iron
+> **Population:** Approx. 600,000
+> **Demographics:** 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
+> **Languages:** Common, Goblin, Orcish
+> **Religions:** Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
+> **Major Exports:** Volatile steampunk technology, salvaged celestial metals, raw black-powder
+> **Major Imports:** Clean water, uncontaminated food, medical supplies
 
 # Overview
 

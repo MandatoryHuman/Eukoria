@@ -5,21 +5,45 @@ aliases:
   - ilyria, goddess of the afterlife
 title: Ilyria, Goddess of The Afterlife
 created: 2026-09-26T16:52:53.862Z
-modified: 2026-09-26T16:49:43.134Z
-published: 2026-09-26T16:49:43.134Z
+modified: 2026-09-26T17:18:39.508Z
+published: 2026-09-26T17:18:39.508Z
 tags:
   - Gods
+alternate_domains: "[Time](https://2e.aonprd.com/Domains.aspx?ID=121)"
+anathema: Create undead, bind a soul to the material plane, artificially extend one's lifespan, rob tombs
+areas_of_concern: The afterlife, death, prophecy, the transition of souls
+aspects: Absence and Spirit
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]"
+cleric_spells: "1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [Ghostly Weapon](https://2e.aonprd.com/Spells.aspx?ID=1544), 4th: [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742)"
+divine_attribute: Wisdom or Constitution
+divine_font: Heal
+divine_sanctification: Can choose Unholy
+divine_skill: Medicine or Religion
+domains: "[Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118), [Repose](https://2e.aonprd.com/Domains.aspx?ID=116), [Fate](https://2e.aonprd.com/Domains.aspx?ID=75)"
+edicts: Guide souls to their final rest, destroy the undead, preserve ancient prophecies, accept the inevitability of death
+favoured_weapon: Dagger
+major_boon: ""
+major_curse: Ilyria decrees that your time is up, completely severing your spiritual tether to the mortal plane. You gain the Doomed 3 condition, which cannot be removed by any mortal magic. Furthermore, if you die, you cannot be resurrected by any means short of a direct intervention by a [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]].
+minor_boon: Ilyria opens your eyes to the tether of Spirit. You gain a +1 status bonus to Perception checks to notice hidden or invisible undead, and you always know when a creature within 30 feet is close to death (at 0 Hit Points).
+minor_curse: The chill of the void seeps into your bones. You take a permanent -2 status penalty to saving throws against cold and void effects, and food tastes constantly of ash.
+moderate_boon: The Goddess places a protective ward upon your soul, shielding you from unnatural erasure. You gain resistance to Void damage equal to half your level, and you gain a +2 status bonus to saving throws against death effects.
+moderate_curse: Your unnatural avoidance of death marks your soul like a scar. Any magical healing you receive restores only half the normal amount of Hit Points.
+pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]"
+religious_symbol: A glowing blue spiral descending into a void
+sacred_animal: Jackal
+sacred_colours: Blue and Black
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
-\[Aspects::Absence and Spirit]
-\[Edicts::Guide souls to their final rest, destroy the undead, preserve ancient prophecies, accept the inevitability of death]
-\[Anathema::Create undead, bind a soul to the material plane, artificially extend one's lifespan, rob tombs]
-\[Areas of Concern::The afterlife, death, prophecy, the transition of souls]
-\[Religious Symbol::A glowing blue spiral descending into a void]
-\[Sacred Animal::Jackal]
-\[Sacred Colours::Blue and Black]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+> [!info]+ Details
+> **Category:** [[1. World Almanac/World/Gods & Divines/Greater Gods/index.md|Greater Gods]]
+> **Aspects:** Absence and Spirit
+> **Edicts:** Guide souls to their final rest, destroy the undead, preserve ancient prophecies, accept the inevitability of death
+> **Anathema:** Create undead, bind a soul to the material plane, artificially extend one's lifespan, rob tombs
+> **Areas of Concern:** The afterlife, death, prophecy, the transition of souls
+> **Religious Symbol:** A glowing blue spiral descending into a void
+> **Sacred Animal:** Jackal
+> **Sacred Colours:** Blue and Black
+> **Pantheons/Covenants:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index.md|Canonical Gods]]
 
 Ilyria is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of the Afterlife, the final judge of mortal souls, and the keeper of prophecies. Representing the natural flow between the [[Fundamental Essences|Fundamental Essence of Spirit]] and the [[Basic Essences|Basic Essence of Absence]], they embody the quiet, inevitable erasure of the mortal tether.
 
@@ -35,22 +59,24 @@ As a [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|C
 
 ## Devotee Benefits
 
-\[Divine Attribute::Wisdom or Constitution]
-\[Divine Font::Heal]
-\[Divine Sanctification::Can choose Unholy]
-\[Divine Skill::Medicine or Religion]
-\[Favoured Weapon::Dagger]
-\[Domains::[Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118), [Repose](https://2e.aonprd.com/Domains.aspx?ID=116), [Fate](https://2e.aonprd.com/Domains.aspx?ID=75)]
-\[Alternate Domains::[Time](https://2e.aonprd.com/Domains.aspx?ID=121)]
-\[Cleric Spells::1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [Ghostly Weapon](https://2e.aonprd.com/Spells.aspx?ID=1544), 4th: [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742)]
+> [!info]+ Details
+> **Divine Attribute:** Wisdom or Constitution
+> **Divine Font:** Heal
+> **Divine Sanctification:** Can choose Unholy
+> **Divine Skill:** Medicine or Religion
+> **Favoured Weapon:** Dagger
+> **Domains:** [Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118), [Repose](https://2e.aonprd.com/Domains.aspx?ID=116), [Fate](https://2e.aonprd.com/Domains.aspx?ID=75)
+> **Alternate Domains:** [Time](https://2e.aonprd.com/Domains.aspx?ID=121)
+> **Cleric Spells:** 1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [Ghostly Weapon](https://2e.aonprd.com/Spells.aspx?ID=1544), 4th: [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742)
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 Ilyria rarely acts upon the mortal plane, as their gaze is fixed upon the end of all things. However, they occasionally grant boons to those who lay restless spirits to rest or defend the natural cycle of death. Their curses are reserved exclusively for grave robbers, necromancers, and those who attempt to cheat their prophesied demise.
 
-\[Minor Boon::Ilyria opens your eyes to the tether of Spirit. You gain a +1 status bonus to Perception checks to notice hidden or invisible undead, and you always know when a creature within 30 feet is close to death (at 0 Hit Points).]
-\[Moderate Boon::The Goddess places a protective ward upon your soul, shielding you from unnatural erasure. You gain resistance to Void damage equal to half your level, and you gain a +2 status bonus to saving throws against death effects.]
-\[Major Boon::]
-\[Minor Curse::The chill of the void seeps into your bones. You take a permanent -2 status penalty to saving throws against cold and void effects, and food tastes constantly of ash.]
-\[Moderate Curse::Your unnatural avoidance of death marks your soul like a scar. Any magical healing you receive restores only half the normal amount of Hit Points.]
-\[Major Curse::Ilyria decrees that your time is up, completely severing your spiritual tether to the mortal plane. You gain the Doomed 3 condition, which cannot be removed by any mortal magic. Furthermore, if you die, you cannot be resurrected by any means short of a direct intervention by a [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]].]
+> [!info]+ Details
+> **Minor Boon:** Ilyria opens your eyes to the tether of Spirit. You gain a +1 status bonus to Perception checks to notice hidden or invisible undead, and you always know when a creature within 30 feet is close to death (at 0 Hit Points).
+> **Moderate Boon:** The Goddess places a protective ward upon your soul, shielding you from unnatural erasure. You gain resistance to Void damage equal to half your level, and you gain a +2 status bonus to saving throws against death effects.
+> **Major Boon:**
+> **Minor Curse:** The chill of the void seeps into your bones. You take a permanent -2 status penalty to saving throws against cold and void effects, and food tastes constantly of ash.
+> **Moderate Curse:** Your unnatural avoidance of death marks your soul like a scar. Any magical healing you receive restores only half the normal amount of Hit Points.
+> **Major Curse:** Ilyria decrees that your time is up, completely severing your spiritual tether to the mortal plane. You gain the Doomed 3 condition, which cannot be removed by any mortal magic. Furthermore, if you die, you cannot be resurrected by any means short of a direct intervention by a [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]].

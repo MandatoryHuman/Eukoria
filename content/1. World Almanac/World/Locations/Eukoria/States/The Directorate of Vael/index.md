@@ -4,22 +4,32 @@ aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
 created: 2026-09-26T16:52:54.006Z
-modified: 2026-09-26T16:49:43.125Z
-published: 2026-09-26T16:49:43.125Z
+modified: 2026-09-26T17:19:39.362Z
+published: 2026-09-26T17:19:39.362Z
 tags:
   - State
 symbol: "[[The_Directorate_of_Vael_Symbol.webp]]"
+capital: "[[Axiom's Hold]]"
+government: Theocratic Surveillance State
+ruler: "[[The Panopticon Council]]"
+population: 650,000
+demographics: Humans, Elves, Halflings
+languages: Common
+religions: "[[Solon, God of Law]], [[Oclera, God of Knowledge]]"
+major_exports: Information, Arcane/Occult Wards, Legal/Magical Treatises
+major_imports: Raw materials, Historical Texts, Paper
 ---
 
-\[Capital::[[Axiom's Hold]]]
-\[Government::Theocratic Surveillance State]
-\[Ruler::[[The Panopticon Council]]]
-\[Population::"650,000"]
-\[Demographics::Humans, Elves, Halflings]
-\[Languages::Common]
-\[Religions::[[Solon, God of Law]], [[Oclera, God of Knowledge]]]
-\[Major Exports::Information, Arcane/Occult Wards, Legal/Magical Treatises]
-\[Major Imports::Raw materials, Historical Texts, Paper]
+> [!info]+ State Details
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/Axiom's Hold.md|Axiom's Hold]]
+> **Government:** Theocratic Surveillance State
+> **Ruler:** [[The Panopticon Council|The Panopticon Council]]
+> **Population:** 650,000
+> **Demographics:** Humans, Elves, Halflings
+> **Languages:** Common
+> **Religions:** [[Solon, God of Law]], [[Oclera, God of Knowledge]]
+> **Major Exports:** Information, Arcane/Occult Wards, Legal/Magical Treatises
+> **Major Imports:** Raw materials, Historical Texts, Paper
 
 ![[Vael Symbol.svg|400]]
 
