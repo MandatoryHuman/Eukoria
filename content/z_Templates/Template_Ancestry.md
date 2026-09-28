@@ -4,8 +4,8 @@ aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
 created: 2026-09-26T16:52:54.397Z
-modified: 2026-09-26T17:18:52.584Z
-published: 2026-09-26T17:18:52.584Z
+modified: 2026-09-26T17:31:17.447Z
+published: 2026-09-26T17:31:17.447Z
 tags:
   - "#Ancestries"
 ancestry_type: <% tp.system.prompt("Ancestry type or category?") %>
