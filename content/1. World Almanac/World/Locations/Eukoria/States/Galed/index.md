@@ -3,6 +3,9 @@ publish: true
 aliases:
   - index
 title: Galed, the Rime-Hold
+created: 2026-09-28T13:46:48.142Z
+modified: 2026-09-30T13:44:18.202Z
+published: 2026-09-30T13:44:18.202Z
 tags:
   - "#State"
 symbol: "[[Galed_Symbol.svg]]"
@@ -19,15 +22,15 @@ ruler: The warlords of the High Seat
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Galed/Skorvall.md|Skorvall]]
+> **Government:** Meritocratic stratocracy
+> **Ruler:** The warlords of the High Seat
+> **Population:**
+> **Demographics:** Humans, thick-furred beastkin, and towering orcs
+> **Languages:**
+> **Religions:** [[Bella, Goddess of War]]; [[Vellora, Goddess of Sea and Storms]]
+> **Major Exports:** Preserved meat, heavy furs, and forged iron
+> **Major Imports:**
 
 ![[Assets/Locations/symbols/Galed_Symbol.svg|300]]
 

@@ -1,16 +1,20 @@
 ---
+publish: true
 aliases:
   - Psychological Scrutiny
 title: Psychological Scrutiny
+created: 2026-09-26T16:52:54.220Z
+modified: 2026-09-26T17:18:39.739Z
+published: 2026-09-26T17:18:39.739Z
 tags:
   - "#Archetype"
   - "#Feat"
 level: 6
-prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]"
 ---
 
 > [!info]+ Details
-> **Prerequisites:** `=this.prerequisites`
+> **Prerequisites:** [[2. Mechanics/Archetypes/Truthseeker/Feats/Truthseeker Dedication - Feat 2.md|Truthseeker Dedication]]
 
 _Archetype_, _Uncovering_
 You map the contours of a creature's mind through conversation, deception, and intimidation. Add the following to the list of triggers you can Uncover Truth on.

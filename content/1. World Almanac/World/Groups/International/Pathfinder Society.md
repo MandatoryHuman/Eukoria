@@ -1,22 +1,26 @@
 ---
+publish: true
 aliases:
   - pathfinder society
 title: Pathfinder Society
-allies: ''
-enemies: ''
-headquarters: ''
-leader: ''
-region_influence: ''
-type: ''
+created: 2026-09-26T16:52:53.927Z
+modified: 2026-09-26T17:18:39.572Z
+published: 2026-09-26T17:18:39.572Z
+allies: ""
+enemies: ""
+headquarters: ""
+leader: ""
+region_influence: ""
+type: ""
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Leader:** `=this.leader`
-> **Headquarters:** `=this.headquarters`
-> **Region/Influence:** `=this.region_influence`
-> **Allies:** `=this.allies`
-> **Enemies:** `=this.enemies`
+> **Type:**
+> **Leader:**
+> **Headquarters:**
+> **Region/Influence:**
+> **Allies:**
+> **Enemies:**
 
 (FACTION EMBLEM / BANNER IMAGE)
 

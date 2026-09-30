@@ -1,33 +1,37 @@
 ---
+publish: true
 aliases:
   - the salvage-pact of Oremourn
   - Oremourn
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
-symbol: "[[The_Salvage-Pact_of_Oremourn_Symbol.webp]]"
+created: 2026-09-26T16:52:54.075Z
+modified: 2026-09-26T17:18:39.660Z
+published: 2026-09-26T17:18:39.660Z
 tags:
   - State
-capital: 'The Great Hulk'
-demographics: '40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp'
-government: 'Decentralized Warlord Coalition'
-languages: 'Common, Goblin, Orcish'
-major_exports: 'Volatile steampunk technology, salvaged celestial metals, raw black-powder'
-major_imports: 'Clean water, uncontaminated food, medical supplies'
-population: 'Approx. 600,000'
-religions: 'Cults of [[Aethelgard, God of Relics]], various localized machine-spirits'
-ruler: 'The Council of Iron'
+symbol: "[[The_Salvage-Pact_of_Oremourn_Symbol.webp]]"
+capital: The Great Hulk
+demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
+government: Decentralized Warlord Coalition
+languages: Common, Goblin, Orcish
+major_exports: Volatile steampunk technology, salvaged celestial metals, raw black-powder
+major_imports: Clean water, uncontaminated food, medical supplies
+population: Approx. 600,000
+religions: Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
+ruler: The Council of Iron
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** The Great Hulk
+> **Government:** Decentralized Warlord Coalition
+> **Ruler:** The Council of Iron
+> **Population:** Approx. 600,000
+> **Demographics:** 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
+> **Languages:** Common, Goblin, Orcish
+> **Religions:** Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
+> **Major Exports:** Volatile steampunk technology, salvaged celestial metals, raw black-powder
+> **Major Imports:** Clean water, uncontaminated food, medical supplies
 
 # Overview
 

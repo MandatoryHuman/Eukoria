@@ -1,24 +1,28 @@
 ---
+publish: true
 aliases:
   - antoria
 title: Antoria
+created: 2026-09-26T16:52:53.946Z
+modified: 2026-09-26T17:18:39.579Z
+published: 2026-09-26T17:18:39.579Z
 tags:
   - "#Geography"
-climate: 'Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south'
-danger_level: 'Varies from Low to Extreme'
-known_for: 'The cradle of humanoid life, The Rust-Wastes'
-region: 'Western [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]'
-size_length: 'Approx 1600km North to South, 1200km East to West'
-type: 'Continent'
+climate: Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south
+danger_level: Varies from Low to Extreme
+known_for: The cradle of humanoid life, The Rust-Wastes
+region: Western [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+size_length: Approx 1600km North to South, 1200km East to West
+type: Continent
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Region:** `=this.region`
-> **Size/Length:** `=this.size_length`
-> **Climate:** `=this.climate`
-> **Danger Level:** `=this.danger_level`
-> **Known For:** `=this.known_for`
+> **Type:** Continent
+> **Region:** Western [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+> **Size/Length:** Approx 1600km North to South, 1200km East to West
+> **Climate:** Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south
+> **Danger Level:** Varies from Low to Extreme
+> **Known For:** The cradle of humanoid life, The Rust-Wastes
 
 ![[Assets/Maps/Eukoria Map.webp]]
 

@@ -1,24 +1,28 @@
 ---
+publish: true
 aliases:
   - cenora
 title: Cenora
+created: 2026-09-26T16:52:53.948Z
+modified: 2026-09-26T17:18:39.582Z
+published: 2026-09-26T17:18:39.582Z
 tags:
   - "#Geography"
-climate: 'Magically regulated temperate zones, shifting central anomalies, and arid southern expanses'
-danger_level: 'Varies widely (Low in warded cities, Extreme in the Null-State)'
-known_for: 'High civilisations, The Daeshin Null-State, Orthodox Magic academies'
-region: 'Eastern [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]'
-size_length: 'Approx 1800km North to South, 2000km East to West'
-type: 'Continent'
+climate: Magically regulated temperate zones, shifting central anomalies, and arid southern expanses
+danger_level: Varies widely (Low in warded cities, Extreme in the Null-State)
+known_for: High civilisations, The Daeshin Null-State, Orthodox Magic academies
+region: Eastern [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+size_length: Approx 1800km North to South, 2000km East to West
+type: Continent
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Region:** `=this.region`
-> **Size/Length:** `=this.size_length`
-> **Climate:** `=this.climate`
-> **Danger Level:** `=this.danger_level`
-> **Known For:** `=this.known_for`
+> **Type:** Continent
+> **Region:** Eastern [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+> **Size/Length:** Approx 1800km North to South, 2000km East to West
+> **Climate:** Magically regulated temperate zones, shifting central anomalies, and arid southern expanses
+> **Danger Level:** Varies widely (Low in warded cities, Extreme in the Null-State)
+> **Known For:** High civilisations, The Daeshin Null-State, Orthodox Magic academies
 
 ![[Assets/Maps/Eukoria Map.webp]]
 

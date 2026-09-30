@@ -4,30 +4,33 @@ aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-symbol: "[[The_Widhor_Sanctum_Symbol.webp]]"
+created: 2026-09-26T16:52:54.117Z
+modified: 2026-09-26T17:18:39.689Z
+published: 2026-09-26T17:18:39.689Z
 tags:
   - State
-capital: '[[Heartbloom]]'
-demographics: 'Fleshwarps, Humans, Beastkin, Halflings'
-government: 'Empathic Commune'
-languages: 'Common, Fey'
-major_exports: 'Biological remedies, pearls, emotional "Anchors"'
-major_imports: 'Refined steel, written literature, textiles'
+symbol: "[[The_Widhor_Sanctum_Symbol.webp]]"
+capital: "[[Heartbloom]]"
+demographics: Fleshwarps, Humans, Beastkin, Halflings
+government: Empathic Commune
+languages: Common, Fey
+major_exports: Biological remedies, pearls, emotional "Anchors"
+major_imports: Refined steel, written literature, textiles
 population: '"150,000"'
-religions: '[[Lysia Bind-breaker, Goddess of Passion]]'
-ruler: 'The Chorus of Voices'
+religions: "[[Lysia Bind-breaker, Goddess of Passion]]"
+ruler: The Chorus of Voices
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Widhor Sanctum/Heartbloom.md|Heartbloom]]
+> **Government:** Empathic Commune
+> **Ruler:** The Chorus of Voices
+> **Population:** "150,000"
+> **Demographics:** Fleshwarps, Humans, Beastkin, Halflings
+> **Languages:** Common, Fey
+> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/Lysia Bind-breaker, Goddess of Passion.md|Lysia Bind-breaker, Goddess of Passion]]
+> **Major Exports:** Biological remedies, pearls, emotional "Anchors"
+> **Major Imports:** Refined steel, written literature, textiles
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

@@ -1,24 +1,28 @@
 ---
+publish: true
 aliases:
   - god-scar strait
 title: God-Scar Strait
+created: 2026-09-26T16:52:53.970Z
+modified: 2026-09-26T17:18:39.589Z
+published: 2026-09-26T17:18:39.589Z
 tags:
   - Geography
-climate: 'Temperate, but magically volatile'
-danger_level: 'Extreme'
-known_for: '[[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks'
-region: 'Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]'
-size_length: '120km at its narrowest'
-type: 'Oceanic Channel'
+climate: Temperate, but magically volatile
+danger_level: Extreme
+known_for: "[[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks"
+region: Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+size_length: 120km at its narrowest
+type: Oceanic Channel
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Region:** `=this.region`
-> **Size/Length:** `=this.size_length`
-> **Climate:** `=this.climate`
-> **Danger Level:** `=this.danger_level`
-> **Known For:** `=this.known_for`
+> **Type:** Oceanic Channel
+> **Region:** Central [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+> **Size/Length:** 120km at its narrowest
+> **Climate:** Temperate, but magically volatile
+> **Danger Level:** Extreme
+> **Known For:** [[Reality Storms]], [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] toll blockades, Shipwrecks
 
 (LANDSCAPE / MAP IMAGE)
 

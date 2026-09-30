@@ -3,31 +3,34 @@ publish: true
 aliases:
   - index
 title: The Somatic Sanctuary of Vane
+created: 2026-09-28T13:41:36.847Z
+modified: 2026-09-28T13:59:27.544Z
+published: 2026-09-28T13:59:27.544Z
 tags:
   - "#State"
 symbol: "[[index_Symbol.webp]]"
 marker:
 capital: "[[Soma-Nadir]]"
-demographics: "Fleshwarps, Fleshwarpers, surgeons, and Passion-Mages"
-government: 'Hospital-cloisters governed by [[Lysia Bind-breaker, Goddess of Passion]]'
+demographics: Fleshwarps, Fleshwarpers, surgeons, and Passion-Mages
+government: Hospital-cloisters governed by [[Lysia Bind-breaker, Goddess of Passion]]
 languages: ""
-major_exports: "Surgical expertise and anatomical modification"
-major_imports: "Surgical supplies and blockade-run materials"
+major_exports: Surgical expertise and anatomical modification
+major_imports: Surgical supplies and blockade-run materials
 population: ""
-religions: '[[Lysia Bind-breaker, Goddess of Passion]] and the tradition of Passion-Mages'
-ruler: 'The hospital-cloisters of [[Lysia Bind-breaker, Goddess of Passion]]'
+religions: "[[Lysia Bind-breaker, Goddess of Passion]] and the tradition of Passion-Mages"
+ruler: The hospital-cloisters of [[Lysia Bind-breaker, Goddess of Passion]]
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Vane/Soma-Nadir.md|Soma-Nadir]]
+> **Government:** Hospital-cloisters governed by [[Lysia Bind-breaker, Goddess of Passion]]
+> **Ruler:** The hospital-cloisters of [[Lysia Bind-breaker, Goddess of Passion]]
+> **Population:**
+> **Demographics:** Fleshwarps, Fleshwarpers, surgeons, and Passion-Mages
+> **Languages:**
+> **Religions:** [[Lysia Bind-breaker, Goddess of Passion]] and the tradition of Passion-Mages
+> **Major Exports:** Surgical expertise and anatomical modification
+> **Major Imports:** Surgical supplies and blockade-run materials
 
 ![[Assets/Locations/Flags/index Symbol.svg|400]]
 

@@ -1,32 +1,36 @@
 ---
+publish: true
 aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
-symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_Symbol.webp]]"
+created: 2026-09-26T16:52:54.086Z
+modified: 2026-09-26T17:18:39.668Z
+published: 2026-09-26T17:18:39.668Z
 tags:
   - State
-capital: 'Aegis-Gath'
-demographics: '60% Human, 20% Dwarf, 10% Elf, 10% Other'
-government: 'Theocratic Bureaucracy'
-languages: 'Common, Celestial, Dwarven'
-major_exports: 'Sanctioned magical texts, worked steel, enchanted warding'
-major_imports: 'Raw magically-inert materials, grain, historical artifacts'
-population: 'Approx. 2.2 Million'
-religions: 'Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]'
-ruler: 'Grand Hierophant Odanis'
+symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_Symbol.webp]]"
+capital: Aegis-Gath
+demographics: 60% Human, 20% Dwarf, 10% Elf, 10% Other
+government: Theocratic Bureaucracy
+languages: Common, Celestial, Dwarven
+major_exports: Sanctioned magical texts, worked steel, enchanted warding
+major_imports: Raw magically-inert materials, grain, historical artifacts
+population: Approx. 2.2 Million
+religions: Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+ruler: Grand Hierophant Odanis
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** Aegis-Gath
+> **Government:** Theocratic Bureaucracy
+> **Ruler:** Grand Hierophant Odanis
+> **Population:** Approx. 2.2 Million
+> **Demographics:** 60% Human, 20% Dwarf, 10% Elf, 10% Other
+> **Languages:** Common, Celestial, Dwarven
+> **Religions:** Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+> **Major Exports:** Sanctioned magical texts, worked steel, enchanted warding
+> **Major Imports:** Raw magically-inert materials, grain, historical artifacts
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

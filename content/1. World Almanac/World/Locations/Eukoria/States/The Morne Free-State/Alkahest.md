@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Alchemists, chirurgeons, mercenaries, and refinery workers
+> **Ruler:** The syndicate of chief chirurgeons and master alchemists
 
 ![[Assets/Locations/Coat of Arms/Alkahest Emblem.webp|200]]
 ![[Assets/Locations/Maps/Alkahest Map.webp|400]]

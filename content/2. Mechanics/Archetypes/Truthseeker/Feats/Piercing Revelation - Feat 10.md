@@ -1,16 +1,20 @@
 ---
+publish: true
 aliases:
   - Piercing Revelation
 title: Piercing Revelation
+created: 2026-09-26T16:52:54.215Z
+modified: 2026-09-26T17:18:39.736Z
+published: 2026-09-26T17:18:39.736Z
 tags:
   - Archetype
   - Feat
 level: 10
-prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]"
 ---
 
 > [!info]+ Details
-> **Prerequisites:** `=this.prerequisites`
+> **Prerequisites:** [[2. Mechanics/Archetypes/Truthseeker/Feats/Truthseeker Dedication - Feat 2.md|Truthseeker Dedication]]
 
 _Archetype_
 You can weaponize a creature's metaphysical flaws to guide your strikes through their defences.

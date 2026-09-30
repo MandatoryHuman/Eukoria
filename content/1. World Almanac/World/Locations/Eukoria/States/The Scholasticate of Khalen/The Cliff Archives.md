@@ -1,22 +1,26 @@
 ---
+publish: true
 aliases:
   - Cliff Archives
 title: The Cliff Archives
+created: 2026-09-26T16:52:54.081Z
+modified: 2026-09-26T17:18:39.664Z
+published: 2026-09-26T17:18:39.664Z
 tags:
   - Settlement
-demographics: 'Humans, Elves, Tengu, Dwarves'
-level: '15'
+demographics: Humans, Elves, Tengu, Dwarves
+level: "15"
 population: '"200,000"'
-ruler: 'The Curator Assembly'
-type: 'Capital City'
+ruler: The Curator Assembly
+type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** 15
+> **Population:** "200,000"
+> **Demographics:** Humans, Elves, Tengu, Dwarves
+> **Ruler:** The Curator Assembly
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

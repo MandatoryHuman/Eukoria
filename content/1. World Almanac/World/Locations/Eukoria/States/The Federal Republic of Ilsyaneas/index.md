@@ -1,32 +1,36 @@
 ---
+publish: true
 aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
 title: The Federal Republic of Ilsyaneas
-symbol: "[[The_Federal_Republic_of_Ilsyaneas_Symbol.webp]]"
+created: 2026-09-26T16:52:54.012Z
+modified: 2026-09-26T17:18:39.610Z
+published: 2026-09-26T17:18:39.610Z
 tags:
   - State
-capital: '[[The Caldera Forum]]'
-demographics: 'Humans, Dwarves, Gnomes, Automatons'
-government: 'Federal Representative Republic'
-languages: 'Common, Dwarven, Gnomish'
-major_exports: 'Machinery, Firearms, Refined Steel, Civic Treatises'
-major_imports: 'Raw Ore, Textiles, Exotic Primal Reagents'
-population: '2.8 Million'
-religions: 'Secular'
-ruler: 'Elected Chancellor'
+symbol: "[[The_Federal_Republic_of_Ilsyaneas_Symbol.webp]]"
+capital: "[[The Caldera Forum]]"
+demographics: Humans, Dwarves, Gnomes, Automatons
+government: Federal Representative Republic
+languages: Common, Dwarven, Gnomish
+major_exports: Machinery, Firearms, Refined Steel, Civic Treatises
+major_imports: Raw Ore, Textiles, Exotic Primal Reagents
+population: 2.8 Million
+religions: Secular
+ruler: Elected Chancellor
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/The Caldera Forum.md|The Caldera Forum]]
+> **Government:** Federal Representative Republic
+> **Ruler:** Elected Chancellor
+> **Population:** 2.8 Million
+> **Demographics:** Humans, Dwarves, Gnomes, Automatons
+> **Languages:** Common, Dwarven, Gnomish
+> **Religions:** Secular
+> **Major Exports:** Machinery, Firearms, Refined Steel, Civic Treatises
+> **Major Imports:** Raw Ore, Textiles, Exotic Primal Reagents
 
 ![[Ilsyaneas Symbol.svg|400]]
 

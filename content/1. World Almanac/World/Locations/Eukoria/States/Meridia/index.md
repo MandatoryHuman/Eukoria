@@ -3,9 +3,12 @@ publish: true
 aliases:
   - Meridia
 title: Meridia
-symbol: "[[Meridia_Symbol.svg]]"
+created: 2026-09-26T16:52:53.972Z
+modified: 2026-09-30T14:41:46.652Z
+published: 2026-09-30T14:41:46.652Z
 tags:
   - State
+symbol: "[[Meridia_Symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"
 demographics: Any, so long as they can pay
 government: Mercantile Oligarchy
@@ -18,15 +21,15 @@ ruler: "[[High Arbiter Garadwen]]"
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index.md|Obolus]]
+> **Government:** Mercantile Oligarchy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md|High Arbiter Garadwen]]
+> **Population:** 1.5 Million
+> **Demographics:** Any, so long as they can pay
+> **Languages:** Common
+> **Religions:** [[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]
+> **Major Exports:** Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
+> **Major Imports:** Practically everything
 
 ![[Meridia_Symbol.svg|300]]
 

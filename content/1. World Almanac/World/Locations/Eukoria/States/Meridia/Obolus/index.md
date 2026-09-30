@@ -3,23 +3,26 @@ publish: true
 aliases:
   - Obolus
 title: Obolus
+created: 2026-09-26T16:52:53.980Z
+modified: 2026-09-26T17:18:39.596Z
+published: 2026-09-26T17:18:39.596Z
 tags:
   - Settlement
   - Location
 marker:
-demographics: 'Any, so long as they can pay'
-level: '18'
+demographics: Any, so long as they can pay
+level: "18"
 population: '"800,000"'
-ruler: '[[High Arbiter Garadwen]]'
-type: 'Capital'
+ruler: "[[High Arbiter Garadwen]]"
+type: Capital
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital
+> **Level:** 18
+> **Population:** "800,000"
+> **Demographics:** Any, so long as they can pay
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md|High Arbiter Garadwen]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

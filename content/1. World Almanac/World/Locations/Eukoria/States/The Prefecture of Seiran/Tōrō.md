@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Coastal communities, ghost investigators, harbour-masters, and emissaries of Amnis
+> **Ruler:** The harbour-masters and prefectural authorities
 
 ![[Assets/Locations/Coat of Arms/Tōrō Emblem.webp|200]]
 ![[Assets/Locations/Maps/Tōrō Map.webp|400]]

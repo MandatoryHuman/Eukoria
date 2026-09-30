@@ -3,31 +3,34 @@ publish: true
 aliases:
   - index
 title: The Morne Free-State
+created: 2026-09-28T13:39:09.665Z
+modified: 2026-09-28T13:59:27.543Z
+published: 2026-09-28T13:59:27.543Z
 tags:
   - "#State"
 symbol: "[[index_Symbol.webp]]"
 marker:
 capital: "[[Alkahest]]"
-demographics: "Alchemists, chirurgeons, mercenaries, and Kazarni auxiliaries"
-government: "Syndicate of chief chirurgeons and master alchemists"
+demographics: Alchemists, chirurgeons, mercenaries, and Kazarni auxiliaries
+government: Syndicate of chief chirurgeons and master alchemists
 languages: ""
-major_exports: "Advanced alchemical compounds, defoliants, and metabolic enhancers"
-major_imports: "Rare reagents and volatile medicinal ingredients"
+major_exports: Advanced alchemical compounds, defoliants, and metabolic enhancers
+major_imports: Rare reagents and volatile medicinal ingredients
 population: ""
-religions: '[[Aureon, God of Commerce and Industry]]'
-ruler: "The chief chirurgeons and master alchemists"
+religions: "[[Aureon, God of Commerce and Industry]]"
+ruler: The chief chirurgeons and master alchemists
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest.md|Alkahest]]
+> **Government:** Syndicate of chief chirurgeons and master alchemists
+> **Ruler:** The chief chirurgeons and master alchemists
+> **Population:**
+> **Demographics:** Alchemists, chirurgeons, mercenaries, and Kazarni auxiliaries
+> **Languages:**
+> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Aureon, God of Commerce and Industry.md|Aureon, God of Commerce and Industry]]
+> **Major Exports:** Advanced alchemical compounds, defoliants, and metabolic enhancers
+> **Major Imports:** Rare reagents and volatile medicinal ingredients
 
 ![[Assets/Locations/Flags/index Symbol.svg|400]]
 

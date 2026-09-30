@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Fleshwarps, Fleshwarpers, surgeons, and Passion-Mages
+> **Ruler:** The hospital-cloisters of Lysia Bind-breaker
 
 ![[Assets/Locations/Coat of Arms/Soma-Nadir Emblem.webp|200]]
 ![[Assets/Locations/Maps/Soma-Nadir Map.webp|400]]

@@ -1,31 +1,35 @@
 ---
+publish: true
 aliases:
   - Maris
 title: Maris Sin-Eater, Chosen of Forgiveness
+created: 2026-09-26T16:52:54.141Z
+modified: 2026-09-26T17:18:39.695Z
+published: 2026-09-26T17:18:39.695Z
 tags:
   - NPCs
   - Chosen
-ancestry: ''
-background: 'Diplomat'
-class_profession: '[[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]]'
-faction: 'Church of [[Amnis the Burdened, Goddess of Forgiveness]]'
-level: '10'
-location: 'Varies'
-pronouns: 'They/Them'
-role: 'Emissary and Diplomat'
-status: 'Alive'
+ancestry: ""
+background: Diplomat
+class_profession: "[[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]]"
+faction: Church of [[Amnis the Burdened, Goddess of Forgiveness]]
+level: "10"
+location: Varies
+pronouns: They/Them
+role: Emissary and Diplomat
+status: Alive
 ---
 
 > [!info]+ Details
-> **Pronouns:** `=this.pronouns`
-> **Ancestry:** `=this.ancestry`
-> **Background:** `=this.background`
-> **Class/Profession:** `=this.class_profession`
-> **Level:** `=this.level`
-> **Location:** `=this.location`
-> **Faction:** `=this.faction`
-> **Role:** `=this.role`
-> **Status:** `=this.status`
+> **Pronouns:** They/Them
+> **Ancestry:**
+> **Background:** Diplomat
+> **Class/Profession:** [[1. World Almanac/World/NPCs/Chosen Ones/index.md|Chosen One]]
+> **Level:** 10
+> **Location:** Varies
+> **Faction:** Church of [[Amnis the Burdened, Goddess of Forgiveness]]
+> **Role:** Emissary and Diplomat
+> **Status:** Alive
 
 ![[Assets/NPCs/Chosen/Maris Sin-Eater.webp|400]]
 

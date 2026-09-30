@@ -1,24 +1,28 @@
 ---
+publish: true
 aliases:
   - Crater of Thrum
 title: The Crater of Thrum
+created: 2026-09-26T16:52:53.998Z
+modified: 2026-09-26T17:18:39.602Z
+published: 2026-09-26T17:18:39.602Z
 tags:
   - Geography
-climate: ''
-danger_level: ''
-known_for: ''
-region: ''
-size_length: ''
-type: ''
+climate: ""
+danger_level: ""
+known_for: ""
+region: ""
+size_length: ""
+type: ""
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Region:** `=this.region`
-> **Size/Length:** `=this.size_length`
-> **Climate:** `=this.climate`
-> **Danger Level:** `=this.danger_level`
-> **Known For:** `=this.known_for`
+> **Type:**
+> **Region:**
+> **Size/Length:**
+> **Climate:**
+> **Danger Level:**
+> **Known For:**
 
 (LANDSCAPE / MAP IMAGE)
 

@@ -1,22 +1,26 @@
 ---
+publish: true
 aliases:
   - Shattered Mind
 title: The Shattered Mind
+created: 2026-09-26T16:52:54.000Z
+modified: 2026-09-26T17:18:39.604Z
+published: 2026-09-26T17:18:39.604Z
 tags:
   - Settlement
-demographics: ''
-level: ''
-population: ''
-ruler: ''
-type: ''
+demographics: ""
+level: ""
+population: ""
+ruler: ""
+type: ""
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:**
+> **Level:**
+> **Population:**
+> **Demographics:**
+> **Ruler:**
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

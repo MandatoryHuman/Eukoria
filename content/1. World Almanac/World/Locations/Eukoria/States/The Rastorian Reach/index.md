@@ -1,32 +1,36 @@
 ---
+publish: true
 aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
-symbol: "[[The_Rastorian_Reach_Symbol.webp]]"
+created: 2026-09-26T16:52:54.070Z
+modified: 2026-09-26T17:18:39.658Z
+published: 2026-09-26T17:18:39.658Z
 tags:
   - State
-capital: '[[Hafnar]]'
-demographics: 'Humans, Dwarves, Orcs, Beastkin'
-government: 'Clan Moot'
-languages: 'Common, Skaldic'
-major_exports: 'Leviathan bone, runic weaponry, storm-charged amber, mercenaries'
-major_imports: 'Kazarni steel, agricultural staples, heavy textiles'
+symbol: "[[The_Rastorian_Reach_Symbol.webp]]"
+capital: "[[Hafnar]]"
+demographics: Humans, Dwarves, Orcs, Beastkin
+government: Clan Moot
+languages: Common, Skaldic
+major_exports: Leviathan bone, runic weaponry, storm-charged amber, mercenaries
+major_imports: Kazarni steel, agricultural staples, heavy textiles
 population: '"650,000"'
-religions: '[[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]'
-ruler: 'High Jarl'
+religions: "[[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]"
+ruler: High Jarl
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/Hafnar.md|Hafnar]]
+> **Government:** Clan Moot
+> **Ruler:** High Jarl
+> **Population:** "650,000"
+> **Demographics:** Humans, Dwarves, Orcs, Beastkin
+> **Languages:** Common, Skaldic
+> **Religions:** [[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]
+> **Major Exports:** Leviathan bone, runic weaponry, storm-charged amber, mercenaries
+> **Major Imports:** Kazarni steel, agricultural staples, heavy textiles
 
 ![[Rastor Symbol.svg|400]]
 

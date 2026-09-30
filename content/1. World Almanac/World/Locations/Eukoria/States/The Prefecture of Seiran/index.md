@@ -3,31 +3,34 @@ publish: true
 aliases:
   - index
 title: The Prefecture of Seiran
+created: 2026-09-28T13:40:48.568Z
+modified: 2026-09-28T13:59:27.543Z
+published: 2026-09-28T13:59:27.543Z
 tags:
   - "#State"
 symbol: "[[index_Symbol.webp]]"
 marker:
 capital: "[[Tōrō]]"
-demographics: "Coastal communities, ghost investigators, and devotees of Amnis"
-government: "Ritual prefecture organized around spiritual wards and harbour-masters"
+demographics: Coastal communities, ghost investigators, and devotees of Amnis
+government: Ritual prefecture organized around spiritual wards and harbour-masters
 languages: ""
-major_exports: "Warded craft and maritime services"
+major_exports: Warded craft and maritime services
 major_imports: ""
 population: ""
-religions: '[[Amnis the Burdened, Goddess of Forgiveness]]'
-ruler: "The prefectural authorities and harbour-masters"
+religions: "[[Amnis the Burdened, Goddess of Forgiveness]]"
+ruler: The prefectural authorities and harbour-masters
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Prefecture of Seiran/Tōrō.md|Tōrō]]
+> **Government:** Ritual prefecture organized around spiritual wards and harbour-masters
+> **Ruler:** The prefectural authorities and harbour-masters
+> **Population:**
+> **Demographics:** Coastal communities, ghost investigators, and devotees of Amnis
+> **Languages:**
+> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Amnis the Burdened, Goddess of Forgiveness.md|Amnis the Burdened, Goddess of Forgiveness]]
+> **Major Exports:** Warded craft and maritime services
+> **Major Imports:**
 
 ![[Assets/Locations/Flags/index Symbol.svg|400]]
 

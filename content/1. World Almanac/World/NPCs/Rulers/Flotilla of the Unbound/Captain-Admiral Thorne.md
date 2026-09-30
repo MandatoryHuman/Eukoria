@@ -1,32 +1,36 @@
 ---
+publish: true
 aliases:
   - Thorne
 title: Captain-Admiral Thorne
+created: 2026-09-26T16:52:54.162Z
+modified: 2026-09-26T17:18:39.719Z
+published: 2026-09-26T17:18:39.719Z
 tags:
   - NPCs
 rival: "[[Jeniva The Canvas]]"
 enemy: "[[High Arbiter Garadwen]]"
-ancestry: 'Human (Undead Lich)'
-background: 'Exiled Scholar'
-class_profession: 'Wizard/Runemage'
-faction: '[[Captains'' Council]]/The [[Phylactery Fleet]]'
-level: '16'
-location: '[[1. World Almanac/World/Locations/Eukoria/States/Heretic''s Wake/index|Heretic''s Wake]]'
-pronouns: 'He/Him'
-role: 'Pirate Lord'
-status: 'Undead'
+ancestry: Human (Undead Lich)
+background: Exiled Scholar
+class_profession: Wizard/Runemage
+faction: "[[Captains' Council]]/The [[Phylactery Fleet]]"
+level: "16"
+location: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]"
+pronouns: He/Him
+role: Pirate Lord
+status: Undead
 ---
 
 > [!info]+ Details
-> **Pronouns:** `=this.pronouns`
-> **Ancestry:** `=this.ancestry`
-> **Background:** `=this.background`
-> **Class/Profession:** `=this.class_profession`
-> **Level:** `=this.level`
-> **Location:** `=this.location`
-> **Faction:** `=this.faction`
-> **Role:** `=this.role`
-> **Status:** `=this.status`
+> **Pronouns:** He/Him
+> **Ancestry:** Human (Undead Lich)
+> **Background:** Exiled Scholar
+> **Class/Profession:** Wizard/Runemage
+> **Level:** 16
+> **Location:** [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index.md|Heretic's Wake]]
+> **Faction:** [[Captains' Council]]/The [[Phylactery Fleet]]
+> **Role:** Pirate Lord
+> **Status:** Undead
 
 ![[Assets/NPCs/Thorne.webp|400]]
 
