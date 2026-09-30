@@ -35,7 +35,7 @@ sacred_colours: White and Herbal Green
 ---
 
 > [!info]+ Details
-> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index.md|Lesser Gods]]
+> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
 > **Aspects:** Healing and Respite
 > **Edicts:** Heal the sick regardless of their allegiances, provide comfort to the dying, share medical knowledge freely, cultivate healing plants
 > **Anathema:** Refuse healing to one in dire need based on prejudice, cause unnecessary physical pain, hoard medical supplies during a crisis, experiment cruelly on the living

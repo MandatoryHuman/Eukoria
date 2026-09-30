@@ -35,7 +35,7 @@ sacred_colours: Vibrant Magenta and Deep Green
 ---
 
 > [!info]+ Details
-> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index.md|Lesser Gods]]
+> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
 > **Aspects:** Centre in Spirit
 > **Edicts:** Create art in all its forms, protect artists and their works, inspire others to express their inner truth, find beauty in the mundane
 > **Anathema:** Destroy a work of art out of malice, stifle creativity or censor expression, plagiarize the work of another

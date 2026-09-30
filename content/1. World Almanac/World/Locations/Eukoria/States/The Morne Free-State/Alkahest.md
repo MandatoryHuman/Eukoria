@@ -3,14 +3,17 @@ publish: true
 aliases:
   - alkahest
 title: Alkahest
+created: 2026-09-28T13:53:49.244Z
+modified: 2026-09-30T14:55:01.133Z
+published: 2026-09-30T14:55:01.133Z
 tags:
   - "#Settlement"
 marker:
-demographics: 'Alchemists, chirurgeons, mercenaries, and refinery workers'
-level: 'High'
-population: ''
-ruler: 'The syndicate of chief chirurgeons and master alchemists'
-type: 'Capital City'
+demographics: Alchemists, chirurgeons, mercenaries, and refinery workers
+level: High
+population: ""
+ruler: The syndicate of chief chirurgeons and master alchemists
+type: Capital City
 ---
 
 > [!info]+ Details

@@ -35,7 +35,7 @@ sacred_colours: Green and Blood Red
 ---
 
 > [!info]+ Details
-> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index.md|Lesser Gods]]
+> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
 > **Aspects:** Survival and the Food Chain
 > **Edicts:** Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild
 > **Anathema:** Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem

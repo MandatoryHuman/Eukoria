@@ -35,7 +35,7 @@ sacred_colours: Crimson and Amber
 ---
 
 > [!info]+ Details
-> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index.md|Lesser Gods]]
+> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
 > **Aspects:** Hearth and Revelry
 > **Edicts:** Host guests with generosity, brew strong drinks and cook hearty meals, celebrate life's victories, ensure no hearth goes cold in the winter
 > **Anathema:** Turn away a traveller in desperate need of shelter, water down ale or serve spoiled food maliciously, intentionally ruin a peaceful celebration
