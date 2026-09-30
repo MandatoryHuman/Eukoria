@@ -5,12 +5,17 @@ aliases:
 title: The Caldera Awakening
 tags:
   - "#Events"
+factions_involved: 'Early Inventors Guilds; Secular Militias; Orthodox Loyalists'
+key_figures: 'Chancellor Vondal Iron-Speaker'
+location: 'Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]'
+type: 'Industrial Revolution & Political Uprising'
 ---
 
-\[Type::Industrial Revolution & Political Uprising]
-\[Location::Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]]
-\[Factions Involved::Early Inventors Guilds; Secular Militias; Orthodox Loyalists]
-\[Key Figures::Chancellor Vondal Iron-Speaker]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 # Overview
 

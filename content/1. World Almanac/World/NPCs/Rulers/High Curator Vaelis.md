@@ -1,24 +1,30 @@
 ---
-publish: true
 aliases:
   - Vaelis
 title: High Curator Vaelis
-created: 2026-09-21T11:42:37.347Z
-modified: 2026-09-21T23:19:18.765Z
-published: 2026-09-21T23:19:18.765Z
 tags:
   - NPCs
+ancestry: ''
+background: ''
+class_profession: ''
+faction: ''
+level: ''
+location: ''
+pronouns: ''
+role: ''
+status: ''
 ---
 
-\[Pronouns::]
-\[Ancestry::]
-\[Background::]
-\[Class/Profession::]
-\[Level::]
-\[Location::]
-\[Faction::]
-\[Role::]
-\[Status::]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
+> **Role:** `=this.role`
+> **Status:** `=this.status`
 
 (IMAGE)
 

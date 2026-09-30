@@ -3,20 +3,32 @@ publish: true
 aliases:
   - Meridia
 title: Meridia
-symbol: "[[Meridia_Symbol.webp]]"
+symbol: "[[Meridia_Symbol.svg]]"
 tags:
   - State
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"
+demographics: Any, so long as they can pay
+government: Mercantile Oligarchy
+languages: Common
+major_exports: Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
+major_imports: Practically everything
+population: 1.5 Million
+religions: "[[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]"
+ruler: "[[High Arbiter Garadwen]]"
 ---
 
-\[Capital::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
-\[Government::Mercantile Oligarchy]
-\[Ruler::[[High Arbiter Garadwen]]]
-\[Population::1.5 Million]
-\[Demographics::Any, so long as they can pay]
-\[Languages::Common]
-\[Religions::[[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]]
-\[Major Exports::Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts]
-\[Major Imports::Practically everything]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
+
+![[Meridia_Symbol.svg|300]]
 
 # Overview
 

@@ -1,22 +1,31 @@
 ---
-publish: true
 aliases:
   - The Glandaric Marches
 title: The Glandaric Marches
 symbol: "[[The_Glandaric_Marches_Symbol.webp]]"
 tags:
   - State
+capital: '[[Fort Glandar]]'
+demographics: 'Humans, Orcs, Dwarves, Fleshwarps'
+government: 'Decentralised Military Coalition'
+languages: 'Common'
+major_exports: 'Monster trophies, "Anchor" items, hardened mercenaries'
+major_imports: 'Weapons, food supplies, psychiatric/medical aid'
+population: '"750,000"'
+religions: '[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]'
+ruler: 'The Marchwarden Council'
 ---
 
-\[Capital::[[Fort Glandar]]]
-\[Government::Decentralised Military Coalition]
-\[Ruler::The Marchwarden Council]
-\[Population::"750,000"]
-\[Demographics::Humans, Orcs, Dwarves, Fleshwarps]
-\[Languages::Common]
-\[Religions::[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]]
-\[Major Exports::Monster trophies, "Anchor" items, hardened mercenaries]
-\[Major Imports::Weapons, food supplies, psychiatric/medical aid]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

@@ -1,25 +1,29 @@
 ---
-publish: true
 aliases:
   - Garadwen
 title: High Arbiter Garadwen
-created: 2026-09-21T11:42:37.345Z
-modified: 2026-09-21T23:19:18.904Z
-published: 2026-09-21T23:19:18.904Z
 tags:
   - NPCs
 enemy:
   - "[[Captain-Admiral Thorne]]"
   - "[[Jeniva The Canvas]]"
+ancestry: 'Ancient Elf'
+background: 'Noble'
+class_profession: 'High Arbiter and Merchant-Queen'
+faction: '[[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]'
+level: '18'
+location: '[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]'
+pronouns: 'She/Her'
 ---
 
-\[Pronouns::She/Her]
-\[Ancestry::Ancient Elf]
-\[Background::Noble]
-\[Class/Profession::High Arbiter and Merchant-Queen]
-\[Level::18]
-\[Location::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
 
 ![[Assets/NPCs/High Arbiter Garadwen.webp|400]]
 

@@ -6,17 +6,27 @@ title: The Jhalian Necrocracy
 symbol: "[[The_Jhalian_Necrocracy_Symbol.webp]]"
 tags:
   - "#State"
+capital: '[[The Silent City of Jhal]]'
+demographics: 'Humans, Dhampirs, Intelligent Undead'
+government: 'Feudal [[Necrocracy]]'
+languages: 'Common, Necril'
+major_exports: 'Cheap manufactured goods, Alchemical reagents, Mined Minerals'
+major_imports: 'Corpses (smuggled), Luxury goods'
+population: '400,000 plus, 1.2 Million mindless undead'
+religions: '[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]'
+ruler: '[[The Undying Sovereign]]'
 ---
 
-\[Capital::[[The Silent City of Jhal]]]
-\[Government::Feudal [[Necrocracy]]]
-\[Ruler::[[The Undying Sovereign]]]
-\[Population::400,000 plus, 1.2 Million mindless undead]
-\[Demographics::Humans, Dhampirs, Intelligent Undead]
-\[Languages::Common, Necril]
-\[Religions::[[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]]
-\[Major Exports::Cheap manufactured goods, Alchemical reagents, Mined Minerals]
-\[Major Imports::Corpses (smuggled), Luxury goods]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

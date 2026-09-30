@@ -1,26 +1,32 @@
 ---
-publish: true
 aliases:
   - Undying Sovereign
 title: The Undying Sovereign
-created: 2026-09-21T11:42:37.352Z
-modified: 2026-09-21T23:19:18.771Z
-published: 2026-09-21T23:19:18.771Z
 tags:
   - NPCs
 god:
   - "[[Aethelgard, God of Relics|Aethelgard]]"
+ancestry: 'Lich'
+background: 'Royalty'
+class_profession: 'Wizard'
+faction: '[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]'
+level: '19'
+location: '[[The Silent City of Jhal]]'
+pronouns: 'They/Them'
+role: 'Supreme Ruler of Jhal'
+status: 'Undead'
 ---
 
-\[Pronouns::They/Them]
-\[Ancestry::Lich]
-\[Background::Royalty]
-\[Class/Profession::Wizard]
-\[Level::19]
-\[Location::[[The Silent City of Jhal]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]]
-\[Role::Supreme Ruler of Jhal]
-\[Status::Undead]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
+> **Role:** `=this.role`
+> **Status:** `=this.status`
 
 ![[Assets/NPCs/The Undying Sovereign.webp|400]]
 

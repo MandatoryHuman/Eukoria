@@ -4,17 +4,41 @@ aliases:
   - Aethelgard
   - aethelgard, god of relics
 title: Aethelgard, God of Relics
+alternate_domains: '[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68)'
+anathema: 'Allow a relic to rust or erode, submit willingly to the afterlife, destroy a [[Phylactery|phylactery]] or soul-bound vessel'
+areas_of_concern: 'Relics, soul-binding, artifice, undeath, eternal preservation'
+aspects: 'Matter and Spirit'
+category: '[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]'
+cleric_spells: '1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [One with Stone](https://2e.aonprd.com/Spells.aspx?ID=1619), 5th: [Stagnate Time](https://2e.aonprd.com/Spells.aspx?ID=2605)'
+divine_attribute: 'Intelligence or Constitution'
+divine_font: 'Harm'
+divine_sanctification: 'None'
+divine_skill: 'Crafting'
+domains: '[Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Glyph](https://2e.aonprd.com/Domains.aspx?ID=109), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118)'
+edicts: 'Bind the ethereal to the physical, preserve your creations against the ravages of time, defy the natural cycle of death, forge items of lasting power'
+favoured_weapon: 'Warhammer'
+major_boon: 'Aethelgard grants you a taste of the ultimate preservation. Once, when you would die, the GM chooses any object within 30ft - normally the most valuable item on your person. Your soul instantly anchors itself to the most to that object as your physical body crumbles. your consciousness remains perfectly intact within the item. You can communicate telepathically with anyone holding it, and any resurrection or reincarnation magic can be cast upon the item as though it were your body. When spells or rituals are cast on the item this way, they act as though no time has passed since your death, and their costs are removed. Once you have been resurrected or reincarnated this boon is lost.'
+major_curse: 'You are cursed with the worst fate of Relic Dismagic: an eternal, agonizing confinement. If you are reduced to 0 Hit Points, you do not fall Unconscious. Instead, you immediately become trapped in a small gem as if targeted with the "object" version of a Successful 10th Rank Imprisonment Ritual.'
+minor_boon: 'Aethelgard grants your creations unnatural durability. Items you craft have their Hardness increased by 2, and you gain a +1 status bonus to Crafting checks to Repair.'
+minor_curse: 'Aethelgard forces you to feel the agonizing weight of raw matter crushing your spirit. The Bulk of all armour and weapons you carry increases by 1.'
+moderate_boon: 'You can forcefully merge a fraction of your spirit into your weaponry to devastating effect. Once per day, you can cast Ghostly Weapon as an innate divine spell. While active, your strikes deal an additional 1d6 Spirit damage.'
+moderate_curse: 'The physical world refuses to anchor you. You can never benefit from temporary Hit Points.'
+pantheons_covenants: '[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]'
+religious_symbol: 'An iron chain tightly wrapping a spectral, glowing blue flame'
+sacred_animal: 'Hermit Crab'
+sacred_colours: 'Iron Gray and Ethereal Blue'
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]]
-\[Aspects::Matter and Spirit]
-\[Edicts::Bind the ethereal to the physical, preserve your creations against the ravages of time, defy the natural cycle of death, forge items of lasting power]
-\[Anathema::Allow a relic to rust or erode, submit willingly to the afterlife, destroy a [[Phylactery|phylactery]] or soul-bound vessel]
-\[Areas of Concern::Relics, soul-binding, artifice, undeath, eternal preservation]
-\[Religious Symbol::An iron chain tightly wrapping a spectral, glowing blue flame]
-\[Sacred Animal::Hermit Crab]
-\[Sacred Colours::Iron Gray and Ethereal Blue]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]]
+> [!info]+ Details
+> **Category:** `=this.category`
+> **Aspects:** `=this.aspects`
+> **Edicts:** `=this.edicts`
+> **Anathema:** `=this.anathema`
+> **Areas of Concern:** `=this.areas_of_concern`
+> **Religious Symbol:** `=this.religious_symbol`
+> **Sacred Animal:** `=this.sacred_animal`
+> **Sacred Colours:** `=this.sacred_colours`
+> **Pantheons/Covenants:** `=this.pantheons_covenants`
 
 Aethelgard is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Relics, unorthodox artifice, and the controversial preservation of the soul. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], he represents the volatile friction of [[Traditions of Dismagic|Dismagic]], formed by the clashing [[Fundamental Essences]] of Spirit and Matter. To his orthodox detractors, he is a cosmic perversion; to his followers, he is the ultimate saviour from the void.
 
@@ -30,22 +54,24 @@ His worshippers are largely outcasts, and include rebel Runesmiths, [Rune Mages]
 
 ## Devotee Benefits
 
-\[Divine Attribute::Intelligence or Constitution]
-\[Divine Font::Harm]
-\[Divine Sanctification::None]
-\[Divine Skill::Crafting]
-\[Favoured Weapon::Warhammer]
-\[Domains::[Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Glyph](https://2e.aonprd.com/Domains.aspx?ID=109), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118)]
-\[Alternate Domains::[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68)]
-\[Cleric Spells::1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [One with Stone](https://2e.aonprd.com/Spells.aspx?ID=1619), 5th: [Stagnate Time](https://2e.aonprd.com/Spells.aspx?ID=2605)]
+> [!info]+ Details
+> **Divine Attribute:** `=this.divine_attribute`
+> **Divine Font:** `=this.divine_font`
+> **Divine Sanctification:** `=this.divine_sanctification`
+> **Divine Skill:** `=this.divine_skill`
+> **Favoured Weapon:** `=this.favoured_weapon`
+> **Domains:** `=this.domains`
+> **Alternate Domains:** `=this.alternate_domains`
+> **Cleric Spells:** `=this.cleric_spells`
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 Aethelgard blesses those who defy the natural decay of the universe and craft vessels capable of holding spiritual power. He violently curses those who allow items to fall to entropy, those who break soul-bindings, and followers of [[Xerith, God of Erosion]] who champion erosion.
 
-\[Minor Boon::Aethelgard grants your creations unnatural durability. Items you craft have their Hardness increased by 2, and you gain a +1 status bonus to Crafting checks to Repair.]
-\[Moderate Boon::You can forcefully merge a fraction of your spirit into your weaponry to devastating effect. Once per day, you can cast Ghostly Weapon as an innate divine spell. While active, your strikes deal an additional 1d6 Spirit damage.]
-\[Major Boon::Aethelgard grants you a taste of the ultimate preservation. Once, when you would die, the GM chooses any object within 30ft - normally the most valuable item on your person. Your soul instantly anchors itself to the most to that object as your physical body crumbles. your consciousness remains perfectly intact within the item. You can communicate telepathically with anyone holding it, and any resurrection or reincarnation magic can be cast upon the item as though it were your body. When spells or rituals are cast on the item this way, they act as though no time has passed since your death, and their costs are removed. Once you have been resurrected or reincarnated this boon is lost.]
-\[Minor Curse::Aethelgard forces you to feel the agonizing weight of raw matter crushing your spirit. The Bulk of all armour and weapons you carry increases by 1.]
-\[Moderate Curse::The physical world refuses to anchor you. You can never benefit from temporary Hit Points.]
-\[Major Curse::You are cursed with the worst fate of Relic Dismagic: an eternal, agonizing confinement. If you are reduced to 0 Hit Points, you do not fall Unconscious. Instead, you immediately become trapped in a small gem as if targeted with the "object" version of a Successful 10th Rank Imprisonment Ritual.]
+> [!info]+ Details
+> **Minor Boon:** `=this.minor_boon`
+> **Moderate Boon:** `=this.moderate_boon`
+> **Major Boon:** `=this.major_boon`
+> **Minor Curse:** `=this.minor_curse`
+> **Moderate Curse:** `=this.moderate_curse`
+> **Major Curse:** `=this.major_curse`

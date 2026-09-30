@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Inescapable Scrutiny
 title: Inescapable Scrutiny
-created: 2026-09-21T11:42:37.406Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
 tags:
   - Archetype
   - Feat
 level: 8
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_, _Revealing_
 Your prey cannot hide from one who knows their every instinct.

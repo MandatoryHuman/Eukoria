@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Unerring Judgment
 title: Unerring Judgment
-created: 2026-09-21T11:42:37.431Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
 tags:
   - Archetype
   - Feat
 level: 14
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Providential Path]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype, Divine_, _Revealing_
 You possess enough divine authority over a creature's destiny to deny them succour.

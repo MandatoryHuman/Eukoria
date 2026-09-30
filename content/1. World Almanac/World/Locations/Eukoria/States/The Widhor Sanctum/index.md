@@ -7,17 +7,27 @@ title: The Widhor Sanctum
 symbol: "[[The_Widhor_Sanctum_Symbol.webp]]"
 tags:
   - State
+capital: '[[Heartbloom]]'
+demographics: 'Fleshwarps, Humans, Beastkin, Halflings'
+government: 'Empathic Commune'
+languages: 'Common, Fey'
+major_exports: 'Biological remedies, pearls, emotional "Anchors"'
+major_imports: 'Refined steel, written literature, textiles'
+population: '"150,000"'
+religions: '[[Lysia Bind-breaker, Goddess of Passion]]'
+ruler: 'The Chorus of Voices'
 ---
 
-\[Capital::[[Heartbloom]]]
-\[Government::Empathic Commune]
-\[Ruler::The Chorus of Voices]
-\[Population::"150,000"]
-\[Demographics::Fleshwarps, Humans, Beastkin, Halflings]
-\[Languages::Common, Fey]
-\[Religions::[[Lysia Bind-breaker, Goddess of Passion]]]
-\[Major Exports::Biological remedies, pearls, emotional "Anchors"]
-\[Major Imports::Refined steel, written literature, textiles]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

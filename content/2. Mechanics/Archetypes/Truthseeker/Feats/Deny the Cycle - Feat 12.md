@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Deny the Cycle
 title: Deny the Cycle
-created: 2026-09-21T11:42:37.397Z
-modified: 2026-09-21T23:19:18.797Z
-published: 2026-09-21T23:19:18.797Z
 tags:
   - Archetype
   - Feat
 level: 12
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype, Primal_, _Revealing_
 The physical truths of the world shelter you.

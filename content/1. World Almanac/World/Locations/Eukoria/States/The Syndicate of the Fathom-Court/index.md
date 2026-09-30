@@ -1,22 +1,31 @@
 ---
-publish: true
 aliases:
-  - template_state
-title: Template_State
+  - Syndicate of the Fathom-Court
+title: The Syndicate of the Fathom-Court
 symbol: "[[The_Syndicate_of_the_Fathom-Court_Symbol.webp]]"
 tags:
   - "#State"
+capital: 'The Floating Court'
+demographics: '30% Human, 30% Azarketi, 20% Halfling, 20% Other'
+government: 'Meritocratic Naval Syndicate'
+languages: 'Common, Thalassic, localized Trader''s Cant'
+major_exports: 'Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents'
+major_imports: 'Lumber, sailcloth, fresh water'
+population: 'Approx. 220,000'
+religions: '[[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities'
+ruler: 'The First Navigator'
 ---
 
-\[Capital::The Floating Court]
-\[Government::Meritocratic Naval Syndicate]
-\[Ruler::The First Navigator]
-\[Population::Approx. 220,000]
-\[Demographics::30% Human, 30% Azarketi, 20% Halfling, 20% Other]
-\[Languages::Common, Thalassic, localized Trader's Cant]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities]
-\[Major Exports::Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents]
-\[Major Imports::Lumber, sailcloth, fresh water]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

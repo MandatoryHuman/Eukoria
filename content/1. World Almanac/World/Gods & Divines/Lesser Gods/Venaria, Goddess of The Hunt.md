@@ -1,25 +1,45 @@
 ---
-publish: true
 aliases:
   - Venaria
   - venaria, goddess of the hunt
 title: Venaria, Goddess of The Hunt
-created: 2026-09-21T11:42:37.089Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
 tags:
   - Gods
+alternate_domains: '[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)'
+anathema: 'Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem'
+areas_of_concern: 'Hunting, Survival, Predators, The Food Chain'
+aspects: 'Survival and the Food Chain'
+category: '[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]'
+cleric_spells: '1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [Animal Messenger](https://2e.aonprd.com/Spells.aspx?ID=1441), 4th: [Arrow Salvo](https://2e.aonprd.com/Spells.aspx?ID=1399)'
+divine_attribute: 'Dexterity or Wisdom'
+divine_font: 'heal or harm'
+divine_sanctification: 'none'
+divine_skill: 'Survival'
+domains: '[Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Death](https://2e.aonprd.com/Domains.aspx?ID=70)'
+edicts: 'Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild'
+favoured_weapon: 'Longbow'
+major_boon: 'You always know which way is North (if your current plane has a North). Additionally, you can cast Nature''s Reprisal as a 6th-rank innate divine spell once per day.'
+major_curse: 'You emit the magical scent of vulnerable prey. Any predatory beast or monster that is your level or greater within a 1-mile radius is instinctively drawn to hunt you down.'
+minor_boon: 'When you roll a critical failure on a Survival check to Track, you get a failure instead.'
+minor_curse: 'You feel the constant anxiety of prey. You take a -1 status penalty to Survival checks and Initiative rolls.'
+moderate_boon: 'You move like the ultimate apex predator. You gain a +1 status bonus to Survival checks and you can move at your full Speed while Tracking.'
+moderate_curse: 'The wild rejects you. Animals view you as an unnatural threat, immediately becoming hostile towards you, and you leave highly visible tracks everywhere you go.'
+pantheons_covenants: ''
+religious_symbol: 'A longbow crafted from bleached bone and antler'
+sacred_animal: 'Wolf'
+sacred_colours: 'Green and Blood Red'
 ---
 
-\[Category::[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]]
-\[Aspects::Survival and the Food Chain]
-\[Edicts::Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild]
-\[Anathema::Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem]
-\[Areas of Concern::Hunting, Survival, Predators, The Food Chain]
-\[Religious Symbol::A longbow crafted from bleached bone and antler]
-\[Sacred Animal::Wolf]
-\[Sacred Colours::Green and Blood Red]
-\[Pantheons/Covenants::]
+> [!info]+ Details
+> **Category:** `=this.category`
+> **Aspects:** `=this.aspects`
+> **Edicts:** `=this.edicts`
+> **Anathema:** `=this.anathema`
+> **Areas of Concern:** `=this.areas_of_concern`
+> **Religious Symbol:** `=this.religious_symbol`
+> **Sacred Animal:** `=this.sacred_animal`
+> **Sacred Colours:** `=this.sacred_colours`
+> **Pantheons/Covenants:** `=this.pantheons_covenants`
 
 Venaria is an ancient, primal goddess of predator and prey. Represented as a towering woman clad in animal pelts with eyes like a hunting hawk, Venaria holds sway over the deep wilderness of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. She teaches that survival requires taking life, but that this cycle must be respected and never abused.
 
@@ -31,20 +51,22 @@ Hunters, rangers, and frontier settlers form the core of Venaria's faithful. Bef
 
 ## Devotee Benefits
 
-\[Divine Attribute::Dexterity or Wisdom]
-\[Divine Font::heal or harm]
-\[Divine Sanctification::none]
-\[Divine Skill::Survival]
-\[Favoured Weapon::Longbow]
-\[Domains::[Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Death](https://2e.aonprd.com/Domains.aspx?ID=70)]
-\[Alternate Domains::[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)]
-\[Cleric Spells::1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [Animal Messenger](https://2e.aonprd.com/Spells.aspx?ID=1441), 4th: [Arrow Salvo](https://2e.aonprd.com/Spells.aspx?ID=1399)]
+> [!info]+ Details
+> **Divine Attribute:** `=this.divine_attribute`
+> **Divine Font:** `=this.divine_font`
+> **Divine Sanctification:** `=this.divine_sanctification`
+> **Divine Skill:** `=this.divine_skill`
+> **Favoured Weapon:** `=this.favoured_weapon`
+> **Domains:** `=this.domains`
+> **Alternate Domains:** `=this.alternate_domains`
+> **Cleric Spells:** `=this.cleric_spells`
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
-\[Minor Boon::When you roll a critical failure on a Survival check to Track, you get a failure instead.]
-\[Moderate Boon::You move like the ultimate apex predator. You gain a +1 status bonus to Survival checks and you can move at your full Speed while Tracking.]
-\[Major Boon::You always know which way is North (if your current plane has a North). Additionally, you can cast Nature's Reprisal as a 6th-rank innate divine spell once per day.]
-\[Minor Curse::You feel the constant anxiety of prey. You take a -1 status penalty to Survival checks and Initiative rolls.]
-\[Moderate Curse::The wild rejects you. Animals view you as an unnatural threat, immediately becoming hostile towards you, and you leave highly visible tracks everywhere you go.]
-\[Major Curse::You emit the magical scent of vulnerable prey. Any predatory beast or monster that is your level or greater within a 1-mile radius is instinctively drawn to hunt you down.]
+> [!info]+ Details
+> **Minor Boon:** `=this.minor_boon`
+> **Moderate Boon:** `=this.moderate_boon`
+> **Major Boon:** `=this.major_boon`
+> **Minor Curse:** `=this.minor_curse`
+> **Moderate Curse:** `=this.moderate_curse`
+> **Major Curse:** `=this.major_curse`

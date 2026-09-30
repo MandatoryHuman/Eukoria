@@ -1,24 +1,33 @@
 ---
-publish: true
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-symbol: "[[The_Daeshin_Null-State_Symbol.webp]]"
+symbol: "[[Daeshin_Symbol.svg]]"
 tags:
   - State
+capital: "[[Othrys, The Hollow Capital]] (Largely Abandoned)"
+demographics: Fleshwarps, Mutants, Exiles, Cultists
+government: Anarchic Quarantine Zone
+languages: None
+major_exports: None
+major_imports: Desperate exiles, Smuggled Dismagic supplies
+population: Unknown, likely <100,000
+religions: "[[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]"
+ruler: Various Cult Leaders and Warlords
 ---
 
-\[Capital::[[Othrys, The Hollow Capital]] (Largely Abandoned)]
-\[Government::Anarchic Quarantine Zone]
-\[Ruler::Various Cult Leaders and Warlords]
-\[Population::Unknown, likely <100,000]
-\[Demographics::Fleshwarps, Mutants, Exiles, Cultists]
-\[Languages::None]
-\[Religions::[[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]]
-\[Major Exports::None]
-\[Major Imports::Desperate exiles, Smuggled Dismagic supplies]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Daeshin_Symbol.svg|300]]
 
 # Overview
 

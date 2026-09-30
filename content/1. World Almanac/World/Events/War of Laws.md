@@ -7,12 +7,17 @@ tags:
   - "#Wars"
   - "#Events"
   - Global
+factions_involved: 'Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods'
+key_figures: '[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]'
+location: 'The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]'
+type: 'Divine War'
 ---
 
-\[Type::Divine War]
-\[Location::The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]]
-\[Factions Involved::Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods]
-\[Key Figures::[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 ![[Assets/Events/War of Laws.webp]]
 

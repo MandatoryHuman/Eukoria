@@ -1,24 +1,30 @@
 ---
-publish: true
 aliases:
   - Kaelen
 title: High Marshal Kaelen
-created: 2026-09-21T11:42:37.349Z
-modified: 2026-09-21T23:19:18.765Z
-published: 2026-09-21T23:19:18.765Z
 tags:
   - NPCs
+ancestry: 'Dwarf'
+background: 'Soldier'
+class_profession: 'Champion of [[Bella, Goddess of War]]'
+faction: '[[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]'
+level: '17'
+location: '[[Bastion]]'
+pronouns: 'He/Him'
+role: 'Supreme Military Commander'
+status: 'Alive'
 ---
 
-\[Pronouns::He/Him]
-\[Ancestry::Dwarf]
-\[Background::Soldier]
-\[Class/Profession::Champion of [[Bella, Goddess of War]]]
-\[Level::17]
-\[Location::[[Bastion]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]]
-\[Role::Supreme Military Commander]
-\[Status::Alive]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
+> **Role:** `=this.role`
+> **Status:** `=this.status`
 
 ![[Assets/Kaelen.webp|400]]
 

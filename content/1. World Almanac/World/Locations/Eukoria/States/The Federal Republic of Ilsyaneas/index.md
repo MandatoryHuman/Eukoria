@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
@@ -7,17 +6,27 @@ title: The Federal Republic of Ilsyaneas
 symbol: "[[The_Federal_Republic_of_Ilsyaneas_Symbol.webp]]"
 tags:
   - State
+capital: '[[The Caldera Forum]]'
+demographics: 'Humans, Dwarves, Gnomes, Automatons'
+government: 'Federal Representative Republic'
+languages: 'Common, Dwarven, Gnomish'
+major_exports: 'Machinery, Firearms, Refined Steel, Civic Treatises'
+major_imports: 'Raw Ore, Textiles, Exotic Primal Reagents'
+population: '2.8 Million'
+religions: 'Secular'
+ruler: 'Elected Chancellor'
 ---
 
-\[Capital::[[The Caldera Forum]]]
-\[Government::Federal Representative Republic]
-\[Ruler::Elected Chancellor]
-\[Population::2.8 Million]
-\[Demographics::Humans, Dwarves, Gnomes, Automatons]
-\[Languages::Common, Dwarven, Gnomish]
-\[Religions::Secular]
-\[Major Exports::Machinery, Firearms, Refined Steel, Civic Treatises]
-\[Major Imports::Raw Ore, Textiles, Exotic Primal Reagents]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Ilsyaneas Symbol.svg|400]]
 

@@ -1,22 +1,31 @@
 ---
-publish: true
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
 symbol: "[[The_Tralichuan_Expanse_Symbol.webp]]"
 tags:
   - State
+capital: 'Tralicor'
+demographics: 'Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races'
+government: 'Expansionist Thalassocracy'
+languages: 'Common, Thalassic'
+major_exports: 'Spices, Tropical Woods, Exotic Fruits, Naval Vessels'
+major_imports: 'Heavy Metals, Arcane Lore'
+population: '1.9 Million'
+religions: '[[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]'
+ruler: '[[Empress Ranani the Unbroken]]'
 ---
 
-\[Capital::Tralicor]
-\[Government::Expansionist Thalassocracy]
-\[Ruler::[[Empress Ranani the Unbroken]]]
-\[Population::1.9 Million]
-\[Demographics::Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races]
-\[Languages::Common, Thalassic]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], [[Maelis, Goddess of Fertility and Harvest]], [[Bella, Goddess of War]]]
-\[Major Exports::Spices, Tropical Woods, Exotic Fruits, Naval Vessels]
-\[Major Imports::Heavy Metals, Arcane Lore]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Traclichua Symbol.svg|400]]
 

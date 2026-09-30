@@ -1,22 +1,31 @@
 ---
-publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
 symbol: "[[The_Firstweald_Ascendancy_Symbol.webp]]"
 tags:
   - State
+capital: 'Elderheart'
+demographics: 'Elves, Humans, Leshies, Fey, Beastkin'
+government: 'Druidic Conclave'
+languages: 'Common, Sylvan'
+major_exports: 'Rare herbs, primal reagents, resilient living-lumber, exotic beasts'
+major_imports: 'Raw metals, written histories'
+population: '"900,000"'
+religions: '[[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]'
+ruler: '[[Hierophant Rinebrior]]'
 ---
 
-\[Capital::Elderheart]
-\[Government::Druidic Conclave]
-\[Ruler::[[Hierophant Rinebrior]]]
-\[Population::"900,000"]
-\[Demographics::Elves, Humans, Leshies, Fey, Beastkin]
-\[Languages::Common, Sylvan]
-\[Religions::[[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]]
-\[Major Exports::Rare herbs, primal reagents, resilient living-lumber, exotic beasts]
-\[Major Imports::Raw metals, written histories]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

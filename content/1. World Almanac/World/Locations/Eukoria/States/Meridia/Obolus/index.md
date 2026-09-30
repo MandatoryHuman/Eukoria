@@ -7,13 +7,19 @@ tags:
   - Settlement
   - Location
 marker:
+demographics: 'Any, so long as they can pay'
+level: '18'
+population: '"800,000"'
+ruler: '[[High Arbiter Garadwen]]'
+type: 'Capital'
 ---
 
-\[Type::Capital]
-\[Level::18]
-\[Population::"800,000"]
-\[Demographics::Any, so long as they can pay]
-\[Ruler::[[High Arbiter Garadwen]]]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

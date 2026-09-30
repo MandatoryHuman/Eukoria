@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Shared Epiphany
 title: Shared Epiphany
-created: 2026-09-21T11:42:37.422Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
 tags:
   - "#Archetype"
   - "#Feat"
 level: 14
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_
 You can briefly impart the immense weight of the truths you have gathered into an ally's mind.

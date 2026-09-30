@@ -1,19 +1,22 @@
 ---
-publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-created: 2026-09-21T11:42:37.612Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
+allies: '<% tp.system.prompt("Allies?") %>'
+enemies: '<% tp.system.prompt("Enemies?") %>'
+headquarters: '<% tp.system.prompt("Headquarters?") %>'
+leader: '<% tp.system.prompt("Leader?") %>'
+region_influence: '<% tp.system.prompt("Region/Influence?") %>'
+type: '<% tp.system.prompt("Faction Type?") %>'
 ---
 
-\[Type::<% tp.system.prompt("Faction Type?") %>]
-\[Leader::<% tp.system.prompt("Leader?") %>]
-\[Headquarters::<% tp.system.prompt("Headquarters?") %>]
-\[Region/Influence::<% tp.system.prompt("Region/Influence?") %>]
-\[Allies::<% tp.system.prompt("Allies?") %>]
-\[Enemies::<% tp.system.prompt("Enemies?") %>]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Leader:** `=this.leader`
+> **Headquarters:** `=this.headquarters`
+> **Region/Influence:** `=this.region_influence`
+> **Allies:** `=this.allies`
+> **Enemies:** `=this.enemies`
 
 ![[Assets/Factions/Emblems/<% tp.file.title %> Emblem.webp|200]]
 

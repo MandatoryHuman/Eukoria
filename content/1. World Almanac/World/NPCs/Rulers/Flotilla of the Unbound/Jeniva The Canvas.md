@@ -1,26 +1,32 @@
 ---
-publish: true
 aliases:
   - Jeniva
 title: Jeniva The Canvas
-created: 2026-09-21T11:42:37.360Z
-modified: 2026-09-21T23:19:18.774Z
-published: 2026-09-21T23:19:18.774Z
 tags:
   - NPCs
 rival: "[[Captain-Admiral Thorne]]"
 enemy: "[[High Arbiter Garadwen]]"
+ancestry: ''
+background: ''
+class_profession: ''
+faction: ''
+level: ''
+location: ''
+pronouns: ''
+role: ''
+status: ''
 ---
 
-\[Pronouns::]
-\[Ancestry::]
-\[Background::]
-\[Class/Profession::]
-\[Level::]
-\[Location::]
-\[Faction::]
-\[Role::]
-\[Status::]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
+> **Role:** `=this.role`
+> **Status:** `=this.status`
 
 ![[Assets/NPCs/Jeniva The Canvas.webp|400]]
 

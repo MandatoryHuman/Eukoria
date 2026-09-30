@@ -1,21 +1,24 @@
 ---
-publish: true
 aliases:
   - Bramble-March
 title: The Bramble-March
-created: 2026-09-21T11:42:37.210Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
 tags:
   - Geography
+climate: 'Temperate, Hyper-Humid, and Unnaturally Overgrown'
+danger_level: 'Severe'
+known_for: 'Carnivorous Flora, Awakened Trees, Anti-Industrial Wards'
+region: 'North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]'
+size_length: 'Roughly 200km long and 20km deep'
+type: 'Magically Engineered Border Forest'
 ---
 
-\[Type::Magically Engineered Border Forest]
-\[Region::North border of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]]
-\[Size/Length::Roughly 200km long and 20km deep]
-\[Climate::Temperate, Hyper-Humid, and Unnaturally Overgrown]
-\[Danger Level::Severe]
-\[Known For::Carnivorous Flora, Awakened Trees, Anti-Industrial Wards]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Region:** `=this.region`
+> **Size/Length:** `=this.size_length`
+> **Climate:** `=this.climate`
+> **Danger Level:** `=this.danger_level`
+> **Known For:** `=this.known_for`
 
 (LANDSCAPE / MAP IMAGE)
 

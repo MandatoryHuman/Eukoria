@@ -1,24 +1,33 @@
 ---
-publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-symbol: "[[Heretic's_Wake_Symbol.webp]]"
+symbol: "[[Heretics_Wake_Symbol.svg]]"
 tags:
   - State
+capital: "[[The Flotilla of the Unbound]]"
+demographics: Exiles, Runesmiths, Passion Mages, Outcasts
+government: Pirate Coalition
+languages: Common, Various Thieves' Cants
+major_exports: Stolen Cargo, Smuggled Contraband, "Safe Passage"
+major_imports: Stolen Ships, Weaponry, Ransom Gold
+population: Unknown (Highly Transient)
+religions: "[[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]"
+ruler: A shifting council of the most powerful Pirate Captains
 ---
 
-\[Capital::[[The Flotilla of the Unbound]]]
-\[Government::Pirate Coalition]
-\[Ruler::A shifting council of the most powerful Pirate Captains]
-\[Population::Unknown (Highly Transient)]
-\[Demographics::Exiles, Runesmiths, Passion Mages, Outcasts]
-\[Languages::Common, Various Thieves' Cants]
-\[Religions::[[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]]
-\[Major Exports::Stolen Cargo, Smuggled Contraband, "Safe Passage"]
-\[Major Imports::Stolen Ships, Weaponry, Ransom Gold]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Heretics_Wake_Symbol.svg|300]]
 
 # Overview
 

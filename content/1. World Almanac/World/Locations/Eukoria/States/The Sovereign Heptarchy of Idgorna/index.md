@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
@@ -7,17 +6,27 @@ title: The Sovereign Heptarchy of Idgorna
 symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_Symbol.webp]]"
 tags:
   - State
+capital: '[[The Seven-Fold Canopy]]'
+demographics: 'Humans, Elves, Leshies, Lizardfolk, Half-Orcs'
+government: 'Feudal Oligarchy'
+languages: 'Common, Elven, Iruxi'
+major_exports: 'Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies'
+major_imports: 'Heavy Armour, Cold-Iron Weapons, Arcane Texts'
+population: '1.1 Million'
+religions: 'Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]'
+ruler: 'The [[Witan]]'
 ---
 
-\[Capital::[[The Seven-Fold Canopy]]]
-\[Government::Feudal Oligarchy]
-\[Ruler::The [[Witan]]]
-\[Population::1.1 Million]
-\[Demographics::Humans, Elves, Leshies, Lizardfolk, Half-Orcs]
-\[Languages::Common, Elven, Iruxi]
-\[Religions::Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]]
-\[Major Exports::Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies]
-\[Major Imports::Heavy Armour, Cold-Iron Weapons, Arcane Texts]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

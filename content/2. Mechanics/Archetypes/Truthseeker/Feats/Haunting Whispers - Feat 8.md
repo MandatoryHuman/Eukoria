@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Haunting Whispers
 title: Haunting Whispers
-created: 2026-09-21T11:42:37.404Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
 tags:
   - Archetype
   - Feat
 level: 8
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Esoteric Path'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Esoteric Path]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype, Occult_, _Revealing_
 You command the spirits of those the creature has wronged to plague their senses based on your gathered knowledge.

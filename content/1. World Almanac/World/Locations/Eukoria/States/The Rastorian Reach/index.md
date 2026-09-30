@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Rastorian Reach
   - Rastor
@@ -7,17 +6,27 @@ title: The Rastorian Reach
 symbol: "[[The_Rastorian_Reach_Symbol.webp]]"
 tags:
   - State
+capital: '[[Hafnar]]'
+demographics: 'Humans, Dwarves, Orcs, Beastkin'
+government: 'Clan Moot'
+languages: 'Common, Skaldic'
+major_exports: 'Leviathan bone, runic weaponry, storm-charged amber, mercenaries'
+major_imports: 'Kazarni steel, agricultural staples, heavy textiles'
+population: '"650,000"'
+religions: '[[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]'
+ruler: 'High Jarl'
 ---
 
-\[Capital::[[Hafnar]]]
-\[Government::Clan Moot]
-\[Ruler::High Jarl]
-\[Population::"650,000"]
-\[Demographics::Humans, Dwarves, Orcs, Beastkin]
-\[Languages::Common, Skaldic]
-\[Religions::[[Vellora, Goddess of Sea and Storms]], [[Bella, Goddess of War]], [[Aethelgard, God of Relics]]]
-\[Major Exports::Leviathan bone, runic weaponry, storm-charged amber, mercenaries]
-\[Major Imports::Kazarni steel, agricultural staples, heavy textiles]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Rastor Symbol.svg|400]]
 

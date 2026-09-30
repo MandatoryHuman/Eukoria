@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Pronounce Doom
 title: Pronounce Doom
-created: 2026-09-21T11:42:37.417Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
 tags:
   - Archetype
   - Feat
 level: 16
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_, _Revealing_
 Once you know enough about a creature, you can hasten their end.

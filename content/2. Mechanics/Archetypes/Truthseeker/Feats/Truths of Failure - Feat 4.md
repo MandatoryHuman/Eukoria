@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Truths of Failure
 title: Truths of Failure
-created: 2026-09-21T11:42:37.427Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
 tags:
   - Archetype
   - Feat
 level: 4
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_, _Uncovering_
 You learn to read a creature's failures and subjective experiences, pulling secrets from their mistakes. Add the following triggers to your _Uncover Truth_ reaction:

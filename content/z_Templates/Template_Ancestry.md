@@ -5,11 +5,15 @@ aliases:
 title: <% tp.file.title %>
 tags:
   - "#Ancestries"
+ancestry_type: '<% tp.system.prompt("Ancestry type or category?") %>'
+official_rules: '<% tp.system.prompt("Official PF2e rules link or source?") %>'
+rarity: '<% tp.system.suggester(["Common", "Uncommon", "Rare", "Unique"], ["Common", "Uncommon", "Rare", "Unique"]) %>'
 ---
 
-\[Official Rules::<% tp.system.prompt("Official PF2e rules link or source?") %>]
-\[Ancestry Type::<% tp.system.prompt("Ancestry type or category?") %>]
-\[Rarity::<% tp.system.suggester(["Common", "Uncommon", "Rare", "Unique"], ["Common", "Uncommon", "Rare", "Unique"]) %>]
+> [!info]+ Details
+> **Official Rules:** `=this.official_rules`
+> **Ancestry Type:** `=this.ancestry_type`
+> **Rarity:** `=this.rarity`
 
 ![[Assets/Ancestries/<% tp.file.title %>.webp|400]]
 

@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Crushing Weight of Reality
 title: Crushing Weight of Reality
-created: 2026-09-21T11:42:37.396Z
-modified: 2026-09-21T23:19:18.797Z
-published: 2026-09-21T23:19:18.797Z
 tags:
   - Archetype
   - Feat
 level: 18
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_, _Revealing_
 To hold the complete metaphysical blueprint of a creature's existence is to hold their soul in a vice. The mere act of perceiving them begins to dismantle their physical form.

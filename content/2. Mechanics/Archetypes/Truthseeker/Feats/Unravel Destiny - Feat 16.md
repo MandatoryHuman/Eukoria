@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Unravel Destiny
 title: Unravel Destiny
-created: 2026-09-21T11:42:37.432Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
 tags:
   - Archetype
   - Feat
 level: 16
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_
 You possess such profound leverage over a creature's existence that you can outright reject their successes, forcing fate to rewrite itself.

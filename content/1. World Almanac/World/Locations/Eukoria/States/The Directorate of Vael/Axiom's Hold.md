@@ -1,20 +1,22 @@
 ---
-publish: true
 aliases:
   - axiom's hold
 title: Axiom's Hold
-created: 2026-09-21T11:42:37.191Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
 tags:
   - Settlement
+demographics: ''
+level: ''
+population: ''
+ruler: ''
+type: ''
 ---
 
-\[Type::]
-\[Level::]
-\[Population::]
-\[Demographics::]
-\[Ruler::]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

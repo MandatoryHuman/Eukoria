@@ -1,21 +1,23 @@
 ---
-publish: true
 aliases:
   - Othrys
   - othrys, the hollow capital
 title: Othrys, The Hollow Capital
-created: 2026-09-21T11:42:37.183Z
-modified: 2026-09-21T23:19:18.902Z
-published: 2026-09-21T23:19:18.902Z
 tags:
   - Settlement
+demographics: 'Fleshwarps, Mutants, Exiles'
+level: '17'
+population: '~2,000'
+ruler: 'None'
+type: 'Ruined Capital / Quarantine Zone'
 ---
 
-\[Type::Ruined Capital / Quarantine Zone]
-\[Level::17]
-\[Population::~2,000]
-\[Demographics::Fleshwarps, Mutants, Exiles]
-\[Ruler::None]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

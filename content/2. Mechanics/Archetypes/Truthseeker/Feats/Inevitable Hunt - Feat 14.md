@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Inevitable Hunt
 title: Inevitable Hunt
-created: 2026-09-21T11:42:37.407Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
 tags:
   - Archetype
   - Feat
 level: 14
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype, Primal_
 The natural world whispers their exact location to you on the wind.

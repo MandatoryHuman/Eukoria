@@ -1,27 +1,33 @@
 ---
-publish: true
 aliases:
   - Ranani
 title: Empress Ranani the Unbroken
-created: 2026-09-21T11:42:37.341Z
-modified: 2026-09-21T23:19:18.903Z
-published: 2026-09-21T23:19:18.903Z
 tags:
   - NPCs
 rival: "[[High Arbiter Garadwen]]"
 enemy:
   - "[[The Undying Sovereign]]"
+ancestry: 'Dromaar'
+background: 'Sailor'
+class_profession: 'Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]'
+faction: '[[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]'
+level: '18'
+location: '[[Tralicor]]'
+pronouns: 'She/Her'
+role: 'Empress and Supreme Naval Commander'
+status: 'Alive'
 ---
 
-\[Pronouns::She/Her]
-\[Ancestry::Dromaar]
-\[Background::Sailor]
-\[Class/Profession::Cleric of [[Vellora, Goddess of Sea and Storms]] and ruler of [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
-\[Level::18]
-\[Location::[[Tralicor]]]
-\[Faction::[[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]]]
-\[Role::Empress and Supreme Naval Commander]
-\[Status::Alive]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
+> **Role:** `=this.role`
+> **Status:** `=this.status`
 
 ![[Assets/NPCs/Ranani the Unbroken.webp|400]]
 

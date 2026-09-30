@@ -6,17 +6,41 @@ aliases:
 title: Lethos, God of Trickery
 enemy:
   - "[[Syla, Goddess of Records]]"
+alternate_domains: 'Secrecy, Wealth'
+anathema: 'Overtly break the law, use unsanctioned Dismagic, rely on brute force'
+areas_of_concern: 'Wit, strategy, sanctioned deception, loopholes, statecraft'
+aspects: 'Absence and Mind'
+category: 'Greater Gods'
+cleric_spells: '1st: illusory disguise, 4th: suggestion, 7th: true target'
+divine_attribute: 'Intelligence or Charisma'
+divine_font: 'harm or heal'
+divine_sanctification: 'Can choose unholy'
+divine_skill: 'Deception'
+domains: 'Trickery, Knowledge, Ambition, Duty'
+edicts: 'Exploit loopholes, advance through cunning, master sanctioned arcane traditions'
+favoured_weapon: 'Sword cane'
+major_boon: 'You become a master of the ultimate loophole: escaping death. Once, when you would die, Lethos successfully argues that your time has not legally come, returning you to life at 1 HP with all negative conditions legally "dismissed" (this boon is then lost).'
+major_curse: 'Lethos plays tricks with your inventory at the worst of times. While in combat, each time you use an Interact action to draw a item, there is a 50% chance you instead draw a completely useless item of similar weight (like a turnip, a spoon, or a rock).'
+minor_boon: 'Lethos whispers a perfect loophole. Once, when you would fail a Deception or Society check to navigate a legal or social boundary, you succeed instead.'
+minor_curse: 'The shadows refuse to harbor you. You constantly emit a very faint, silvery glow. You cannot benefit from concealment provided by dim light and cannot use darkness to Hide.'
+moderate_boon: 'Lethos blesses your sleight of hand. When you successfully Steal an item or Conceal an Object, you can turn the item invisible for up to 1 hour, so long as it remains on your person. You also gain a +2 Status bonus on further checks to keep that item hidden.'
+moderate_curse: 'Your footsteps leave a mockery of a trail. No matter what surface you walk on, you leave behind faintly glowing footprints. You can never use the Cover Tracks action and creatures gain a +4 circumstance bonus to Track you.'
+pantheons_covenants: '[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]'
+religious_symbol: 'A gold coin or amulet with an unsolvable labyrinth on its face with a mask in the centre'
+sacred_animal: 'Fox'
+sacred_colours: 'Silver and Gold'
 ---
 
-\[Category::Greater Gods]
-\[Aspects::Absence and Mind]
-\[Edicts::Exploit loopholes, advance through cunning, master sanctioned arcane traditions]
-\[Anathema::Overtly break the law, use unsanctioned Dismagic, rely on brute force]
-\[Areas of Concern::Wit, strategy, sanctioned deception, loopholes, statecraft]
-\[Religious Symbol::A gold coin or amulet with an unsolvable labyrinth on its face with a mask in the centre]
-\[Sacred Animal::Fox]
-\[Sacred Colours::Silver and Gold]
-\[Pantheons/Covenants::[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]]
+> [!info]+ Details
+> **Category:** `=this.category`
+> **Aspects:** `=this.aspects`
+> **Edicts:** `=this.edicts`
+> **Anathema:** `=this.anathema`
+> **Areas of Concern:** `=this.areas_of_concern`
+> **Religious Symbol:** `=this.religious_symbol`
+> **Sacred Animal:** `=this.sacred_animal`
+> **Sacred Colours:** `=this.sacred_colours`
+> **Pantheons/Covenants:** `=this.pantheons_covenants`
 
 > [!quote] "The law is a cage only for those who cannot read between its bars. A true master does not break the lock; he convinces the warden to hand over the key."
 
@@ -46,20 +70,22 @@ The majority of the faithful of Lethos are not anarchists or petty criminals; th
 
 ### Devotee Benefits
 
-\[Divine Attribute::Intelligence or Charisma]
-\[Divine Font::harm or heal]
-\[Divine Sanctification::Can choose unholy]
-\[Divine Skill::Deception]
-\[Favoured Weapon::Sword cane]
-\[Domains::Trickery, Knowledge, Ambition, Duty]
-\[Alternate Domains::Secrecy, Wealth]
-\[Cleric Spells::1st: illusory disguise, 4th: suggestion, 7th: true target]
+> [!info]+ Details
+> **Divine Attribute:** `=this.divine_attribute`
+> **Divine Font:** `=this.divine_font`
+> **Divine Sanctification:** `=this.divine_sanctification`
+> **Divine Skill:** `=this.divine_skill`
+> **Favoured Weapon:** `=this.favoured_weapon`
+> **Domains:** `=this.domains`
+> **Alternate Domains:** `=this.alternate_domains`
+> **Cleric Spells:** `=this.cleric_spells`
 
 ### Divine Intercession
 
-\[Minor Boon::Lethos whispers a perfect loophole. Once, when you would fail a Deception or Society check to navigate a legal or social boundary, you succeed instead.]
-\[Moderate Boon::Lethos blesses your sleight of hand. When you successfully Steal an item or Conceal an Object, you can turn the item invisible for up to 1 hour, so long as it remains on your person. You also gain a +2 Status bonus on further checks to keep that item hidden.]
-\[Major Boon::You become a master of the ultimate loophole: escaping death. Once, when you would die, Lethos successfully argues that your time has not legally come, returning you to life at 1 HP with all negative conditions legally "dismissed" (this boon is then lost).]
-\[Minor Curse::The shadows refuse to harbor you. You constantly emit a very faint, silvery glow. You cannot benefit from concealment provided by dim light and cannot use darkness to Hide.]
-\[Moderate Curse::Your footsteps leave a mockery of a trail. No matter what surface you walk on, you leave behind faintly glowing footprints. You can never use the Cover Tracks action and creatures gain a +4 circumstance bonus to Track you.]
-\[Major Curse::Lethos plays tricks with your inventory at the worst of times. While in combat, each time you use an Interact action to draw a item, there is a 50% chance you instead draw a completely useless item of similar weight (like a turnip, a spoon, or a rock).]
+> [!info]+ Details
+> **Minor Boon:** `=this.minor_boon`
+> **Moderate Boon:** `=this.moderate_boon`
+> **Major Boon:** `=this.major_boon`
+> **Minor Curse:** `=this.minor_curse`
+> **Moderate Curse:** `=this.moderate_curse`
+> **Major Curse:** `=this.major_curse`

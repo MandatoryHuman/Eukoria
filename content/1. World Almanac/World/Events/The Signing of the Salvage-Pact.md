@@ -5,12 +5,17 @@ aliases:
 title: The Signing of the Salvage-Pact
 tags:
   - "#Events"
+factions_involved: 'The Scrap-Baronies; The Rust-Riders; The Spark-Priests'
+key_figures: 'The original Council of Iron'
+location: 'The Great Hulk, [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|Oremourn]]'
+type: 'Treaty & Ceasefire'
 ---
 
-\[Type::Treaty & Ceasefire]
-\[Location::The Great Hulk, [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|Oremourn]]]
-\[Factions Involved::The Scrap-Baronies; The Rust-Riders; The Spark-Priests]
-\[Key Figures::The original Council of Iron]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 # Overview
 

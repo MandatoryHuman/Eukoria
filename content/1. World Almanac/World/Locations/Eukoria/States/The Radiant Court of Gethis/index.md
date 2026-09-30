@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Radiant Court of Gethis
   - Gethis
@@ -7,17 +6,27 @@ title: The Radiant Court of Gethis
 symbol: "[[The_Radiant_Court_of_Gethis_Symbol.webp]]"
 tags:
   - State
+capital: '[[Prismathia]]'
+demographics: 'Humans, Fetchlings, Nephilim'
+government: 'Aristocratic Oligarchy'
+languages: 'Common, Elven'
+major_exports: 'High Art, Illusion Magic, Luxury Textiles, Fine Wines'
+major_imports: 'Basic necessities, Mercenaries, "Anchors"'
+population: '"400,000"'
+religions: '[[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]'
+ruler: '[[Grand Duke Valerius the Blind]]'
 ---
 
-\[Capital::[[Prismathia]]]
-\[Government::Aristocratic Oligarchy]
-\[Ruler::[[Grand Duke Valerius the Blind]]]
-\[Population::"400,000"]
-\[Demographics::Humans, Fetchlings, Nephilim]
-\[Languages::Common, Elven]
-\[Religions::[[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]]
-\[Major Exports::High Art, Illusion Magic, Luxury Textiles, Fine Wines]
-\[Major Imports::Basic necessities, Mercenaries, "Anchors"]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 

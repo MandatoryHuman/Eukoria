@@ -1,22 +1,31 @@
 ---
-publish: true
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
 symbol: "[[The_Kazarn_Hegemony_Symbol.webp]]"
 tags:
   - State
+capital: '[[Bastion]]'
+demographics: 'Dwarves, Humans, Orcs'
+government: 'Stratocracy'
+languages: 'Common, Dwarven'
+major_exports: 'Mercenaries, Refined Metals, Weaponry'
+major_imports: 'Food, Wood, Textiles'
+population: '1.2 Million'
+religions: '[[Bella, Goddess of War]], [[Xerith, God of Erosion]]'
+ruler: '[[High Marshal Kaelen]]'
 ---
 
-\[Capital::[[Bastion]]]
-\[Government::Stratocracy]
-\[Ruler::[[High Marshal Kaelen]]]
-\[Population::1.2 Million]
-\[Demographics::Dwarves, Humans, Orcs]
-\[Languages::Common, Dwarven]
-\[Religions::[[Bella, Goddess of War]], [[Xerith, God of Erosion]]]
-\[Major Exports::Mercenaries, Refined Metals, Weaponry]
-\[Major Imports::Food, Wood, Textiles]
+> [!info]+ Details
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Kazarn Symbol.svg|400]]
 

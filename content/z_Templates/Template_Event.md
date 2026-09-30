@@ -5,12 +5,17 @@ aliases:
 title: <% tp.file.title %>
 tags:
   - "#Events"
+factions_involved: '<% tp.system.prompt("Factions Involved?") %>'
+key_figures: '<% tp.system.prompt("Key Figures?") %>'
+location: '<% tp.system.prompt("Location?") %>'
+type: '<% tp.system.prompt("Event Type? (e.g., Divine War, State Formation)") %>'
 ---
 
-\[Type::<% tp.system.prompt("Event Type? (e.g., Divine War, State Formation)") %>]
-\[Location::<% tp.system.prompt("Location?") %>]
-\[Factions Involved::<% tp.system.prompt("Factions Involved?") %>]
-\[Key Figures::<% tp.system.prompt("Key Figures?") %>]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 ![[Assets/Events/<% tp.file.title %>.webp|400]]
 

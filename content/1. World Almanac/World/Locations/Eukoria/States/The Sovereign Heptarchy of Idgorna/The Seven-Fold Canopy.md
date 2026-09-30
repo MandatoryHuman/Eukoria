@@ -1,20 +1,22 @@
 ---
-publish: true
 aliases:
   - Seven-Fold Canopy
 title: The Seven-Fold Canopy
-created: 2026-09-21T11:42:37.287Z
-modified: 2026-09-21T23:19:18.903Z
-published: 2026-09-21T23:19:18.903Z
 tags:
   - Settlement
+demographics: ''
+level: ''
+population: ''
+ruler: ''
+type: ''
 ---
 
-\[Type::]
-\[Level::]
-\[Population::]
-\[Demographics::]
-\[Ruler::]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

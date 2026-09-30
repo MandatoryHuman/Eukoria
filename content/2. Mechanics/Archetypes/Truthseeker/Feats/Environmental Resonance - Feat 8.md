@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Environmental Resonance
 title: Environmental Resonance
-created: 2026-09-21T11:42:37.400Z
-modified: 2026-09-21T23:19:18.798Z
-published: 2026-09-21T23:19:18.798Z
 tags:
   - "#Archetype"
   - "#Feat"
 level: 8
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Verdant Path]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype, Aura, Primal_, _Revealing_
 The world itself rebels against the prey you have meticulously studied.

@@ -6,12 +6,17 @@ title: The Mutiny of the Fathom-Court
 tags:
   - Events
   - National
+factions_involved: 'The Royal Navy of Old Cenora; The Anchor-Breakers; Early Navigators'
+key_figures: 'Pirate King Malachi "The Lash"'
+location: 'The Eastern Seaboard of [[Cenora]]; The Floating Court'
+type: 'Naval Coup'
 ---
 
-\[Type::Naval Coup]
-\[Location::The Eastern Seaboard of [[Cenora]]; The Floating Court]
-\[Factions Involved::The Royal Navy of Old Cenora; The Anchor-Breakers; Early Navigators]
-\[Key Figures::Pirate King Malachi "The Lash"]
+> [!info]+ Details
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 # Overview
 

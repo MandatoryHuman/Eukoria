@@ -1,18 +1,16 @@
 ---
-publish: true
 aliases:
   - Word of Execution
 title: Word of Execution
-created: 2026-09-21T11:42:37.437Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
 tags:
   - Archetype
   - Feat
 level: 18
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
 ---
 
-\[Prerequisites::[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]]
+> [!info]+ Details
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype_
 You possess the ultimate, crushing realisation of a creature's existence, allowing you to sever their connection to life itself.

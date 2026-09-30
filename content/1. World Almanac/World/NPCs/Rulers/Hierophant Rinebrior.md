@@ -1,24 +1,30 @@
 ---
-publish: true
 aliases:
   - Rinebrior
 title: Hierophant Rinebrior
-created: 2026-09-21T11:42:37.344Z
-modified: 2026-09-21T23:19:18.903Z
-published: 2026-09-21T23:19:18.903Z
 tags:
   - NPCs
+ancestry: ''
+background: ''
+class_profession: ''
+faction: ''
+level: ''
+location: ''
+pronouns: ''
+role: ''
+status: ''
 ---
 
-\[Pronouns::]
-\[Ancestry::]
-\[Background::]
-\[Class/Profession::]
-\[Level::]
-\[Location::]
-\[Faction::]
-\[Role::]
-\[Status::]
+> [!info]+ Details
+> **Pronouns:** `=this.pronouns`
+> **Ancestry:** `=this.ancestry`
+> **Background:** `=this.background`
+> **Class/Profession:** `=this.class_profession`
+> **Level:** `=this.level`
+> **Location:** `=this.location`
+> **Faction:** `=this.faction`
+> **Role:** `=this.role`
+> **Status:** `=this.status`
 
 (IMAGE)
 
