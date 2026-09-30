@@ -4,11 +4,11 @@ aliases:
   - index
 title: Galed, the Rime-Hold
 created: 2026-09-28T13:46:48.142Z
-modified: 2026-09-28T14:01:10.707Z
-published: 2026-09-28T14:01:10.707Z
+modified: 2026-09-30T13:44:18.202Z
+published: 2026-09-30T13:44:18.202Z
 tags:
   - "#State"
-symbol: "[[index_Symbol.webp]]"
+symbol: "[[Galed_Symbol.svg]]"
 marker:
 capital: "[[Skorvall]]"
 demographics: Humans, thick-furred beastkin, and towering orcs
@@ -32,7 +32,7 @@ ruler: The warlords of the High Seat
 > **Major Exports:** Preserved meat, heavy furs, and forged iron
 > **Major Imports:**
 
-![[Assets/Locations/Flags/index Symbol.svg|400]]
+![[Assets/Locations/symbols/Galed_Symbol.svg|300]]
 
 # Overview
 
