@@ -7,7 +7,6 @@ views:
   - type: cards
     name: States
     order:
-      - symbol
       - title
     image: symbol
     cardSize: 200
