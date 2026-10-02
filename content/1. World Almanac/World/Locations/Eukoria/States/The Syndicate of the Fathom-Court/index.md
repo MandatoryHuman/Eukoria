@@ -4,11 +4,11 @@ aliases:
   - Syndicate of the Fathom-Court
 title: The Syndicate of the Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-09-26T17:18:39.674Z
-published: 2026-09-26T17:18:39.674Z
+modified: 2026-10-02T14:40:28.409Z
+published: 2026-10-02T14:40:28.409Z
 tags:
   - "#State"
-symbol: "[[The_Syndicate_of_the_Fathom-Court_Symbol.webp]]"
+symbol: "[[The_Syndicate_of_the_Fathom-Court_symbol.svg]]"
 capital: The Floating Court
 demographics: 30% Human, 30% Azarketi, 20% Halfling, 20% Other
 government: Meritocratic Naval Syndicate
@@ -31,7 +31,7 @@ ruler: The First Navigator
 > **Major Exports:** Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
 > **Major Imports:** Lumber, sailcloth, fresh water
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Syndicate_of_the_Fathom-Court_symbol.svg|300]]
 
 # Overview
 

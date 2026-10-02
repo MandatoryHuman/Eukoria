@@ -4,11 +4,11 @@ aliases:
   - index
 title: The Somatic Sanctuary of Vane
 created: 2026-09-28T13:41:36.847Z
-modified: 2026-09-28T13:59:27.544Z
-published: 2026-09-28T13:59:27.544Z
+modified: 2026-10-02T14:40:28.409Z
+published: 2026-10-02T14:40:28.409Z
 tags:
   - "#State"
-symbol: "[[index_Symbol.webp]]"
+symbol: "[[The_Somatic_Sanctuary_of_Vane_symbol.svg]]"
 marker:
 capital: "[[Soma-Nadir]]"
 demographics: Fleshwarps, Fleshwarpers, surgeons, and Passion-Mages
@@ -32,7 +32,7 @@ ruler: The hospital-cloisters of [[Lysia Bind-breaker, Goddess of Passion]]
 > **Major Exports:** Surgical expertise and anatomical modification
 > **Major Imports:** Surgical supplies and blockade-run materials
 
-![[Assets/Locations/Flags/index Symbol.svg|400]]
+![[The_Somatic_Sanctuary_of_Vane_symbol.svg|300]]
 
 # Overview
 

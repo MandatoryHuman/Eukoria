@@ -4,11 +4,11 @@ aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
 created: 2026-09-26T16:52:54.409Z
-modified: 2026-09-26T17:18:52.598Z
-published: 2026-09-26T17:18:52.598Z
+modified: 2026-10-02T14:40:28.397Z
+published: 2026-10-02T14:40:28.397Z
 tags:
   - "#State"
-symbol: "[[<% tp.file.title.replaceAll(' ', '_') %>_Symbol.webp]]"
+symbol: "[[<% tp.file.title.replaceAll(' ', '_') %>_symbol.svg]]"
 marker:
 capital: <% tp.system.prompt("Capital City?") %>
 demographics: <% tp.system.prompt("Demographics?") %>
@@ -32,7 +32,7 @@ ruler: <% tp.system.prompt("Ruler?") %>
 > **Major Exports:** <% tp.system.prompt("Major Exports?") %>
 > **Major Imports:** <% tp.system.prompt("Major Imports?") %>
 
-![[Assets/Locations/Flags/<% tp.file.title %> Symbol.svg|400]]
+![[<% tp.file.title.replaceAll(' ', '_') %>_symbol.svg|300]]
 
 # Overview
 

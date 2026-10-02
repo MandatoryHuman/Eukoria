@@ -4,11 +4,11 @@ aliases:
   - index
 title: The Morne Free-State
 created: 2026-09-28T13:39:09.665Z
-modified: 2026-09-28T13:59:27.543Z
-published: 2026-09-28T13:59:27.543Z
+modified: 2026-10-02T14:51:54.017Z
+published: 2026-10-02T14:51:54.017Z
 tags:
   - "#State"
-symbol: "[[index_Symbol.webp]]"
+symbol: "[[Morne_Symbol.svg]]"
 marker:
 capital: "[[Alkahest]]"
 demographics: Alchemists, chirurgeons, mercenaries, and Kazarni auxiliaries
@@ -32,15 +32,15 @@ ruler: The chief chirurgeons and master alchemists
 > **Major Exports:** Advanced alchemical compounds, defoliants, and metabolic enhancers
 > **Major Imports:** Rare reagents and volatile medicinal ingredients
 
-![[Assets/Locations/Flags/index Symbol.svg|400]]
+![[Morne_Symbol.svg|300]]
 
 # Overview
 
-The Morne Free-State is a pragmatist's haven in south-west [[Antoria]], trapped between the violent, hyper-accelerated primal growth of [[The Firstweald Ascendancy]] and the crumbling entropic ash of [[The Kazarn Hegemony]]. Its people survive through advanced alchemy and pharmacological mastery.
+The Morne Free-State is a pragmatist's haven in south-west [[Antoria]], trapped between the violent, hyper-accelerated primal growth of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] and the crumbling entropic ash of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]. Its people survive through advanced alchemy and pharmacological mastery.
 
 # Geography & Climate
 
-Morne occupies a dangerous borderland. [[The Firstweald Ascendancy|Firstweald]] flora presses in from one side while [[The Kazarn Hegemony|Kazarni]] ash and entropic ruin spread from the other. Alchemical smog and engineered defoliants are a constant part of the landscape around its settlements.
+Morne occupies a dangerous borderland. [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|Firstweald]] flora presses in from one side while [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarni]] ash and entropic ruin spread from the other. Alchemical smog and engineered defoliants are a constant part of the landscape around its settlements.
 
 # Society & Culture
 
@@ -52,7 +52,7 @@ The Free-State is governed by a syndicate of chief chirurgeons and master alchem
 
 # Diplomatic Relations
 
-Morne is caught between [[The Firstweald Ascendancy]] and [[The Kazarn Hegemony]]. It trades vital pharmacological compounds to the Kazarni legions while using defoliants to resist the Firstweald's encroachment, making every shipment a potential act of war.
+Morne is caught between [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] and [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]. It trades vital pharmacological compounds to the Kazarni legions while using defoliants to resist the Firstweald's encroachment, making every shipment a potential act of war.
 
 # History & Lore
 

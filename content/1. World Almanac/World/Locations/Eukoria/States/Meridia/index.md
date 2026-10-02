@@ -4,11 +4,11 @@ aliases:
   - Meridia
 title: Meridia
 created: 2026-09-26T16:52:53.972Z
-modified: 2026-09-30T14:41:46.652Z
-published: 2026-09-30T14:41:46.652Z
+modified: 2026-10-02T14:40:28.399Z
+published: 2026-10-02T14:40:28.399Z
 tags:
   - State
-symbol: "[[Meridia_Symbol.svg]]"
+symbol: "[[Meridia_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"
 demographics: Any, so long as they can pay
 government: Mercantile Oligarchy
@@ -31,7 +31,7 @@ ruler: "[[High Arbiter Garadwen]]"
 > **Major Exports:** Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
 > **Major Imports:** Practically everything
 
-![[Meridia_Symbol.svg|300]]
+![[Meridia_symbol.svg|300]]
 
 # Overview
 

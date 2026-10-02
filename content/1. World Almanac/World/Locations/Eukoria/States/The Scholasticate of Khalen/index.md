@@ -5,11 +5,11 @@ aliases:
   - Khalen
 title: The Scholasticate of Khalen
 created: 2026-09-26T16:52:54.080Z
-modified: 2026-09-26T17:18:39.663Z
-published: 2026-09-26T17:18:39.663Z
+modified: 2026-10-02T14:40:28.406Z
+published: 2026-10-02T14:40:28.406Z
 tags:
   - State
-symbol: "[[The_Scholasticate_of_Khalen_Symbol.webp]]"
+symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"
 capital: "[[The Cliff Archives]]"
 demographics: Humans, Elves, Tengu, Dwarves
 government: Academic Meritocracy
@@ -32,7 +32,7 @@ ruler: The Curator Assembly
 > **Major Exports:** Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises
 > **Major Imports:** Food, Mercenary Protection, Preservative Alchemicals
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Scholasticate_of_Khalen_symbol.svg|300]]
 
 # Overview
 

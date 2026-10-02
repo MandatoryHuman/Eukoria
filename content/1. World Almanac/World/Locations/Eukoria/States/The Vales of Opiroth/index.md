@@ -5,11 +5,11 @@ aliases:
   - The Vales of Opiroth
 title: The Vales of Opiroth
 created: 2026-09-26T16:52:54.110Z
-modified: 2026-09-26T17:18:39.684Z
-published: 2026-09-26T17:18:39.684Z
+modified: 2026-10-02T14:40:28.409Z
+published: 2026-10-02T14:40:28.409Z
 tags:
   - State
-symbol: "[[The_Vales_of_Opiroth_Symbol.webp]]"
+symbol: "[[The_Vales_of_Opiroth_symbol.svg]]"
 capital: "[[The Alabaster Terrace]]"
 demographics: Humans, Fleshwarps. Gobins, Automatons
 government: Scientific Oligarchy
@@ -32,7 +32,7 @@ ruler: Grand Synthesist Morvane
 > **Major Exports:** Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents
 > **Major Imports:** Base Metals, test subjects, raw foodstuffs
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Vales_of_Opiroth_symbol.svg|300]]
 
 # Overview
 

@@ -4,11 +4,11 @@ aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
 created: 2026-09-26T16:52:54.103Z
-modified: 2026-09-26T17:18:39.678Z
-published: 2026-09-26T17:18:39.678Z
+modified: 2026-10-02T14:40:28.409Z
+published: 2026-10-02T14:40:28.409Z
 tags:
   - State
-symbol: "[[The_Tralichuan_Expanse_Symbol.webp]]"
+symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
 capital: Tralicor
 demographics: Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races
 government: Expansionist Thalassocracy
@@ -31,7 +31,7 @@ ruler: "[[Empress Ranani the Unbroken]]"
 > **Major Exports:** Spices, Tropical Woods, Exotic Fruits, Naval Vessels
 > **Major Imports:** Heavy Metals, Arcane Lore
 
-![[Traclichua Symbol.svg|400]]
+![[The_Tralichuan_Expanse_symbol.svg|300]]
 
 # Overview
 

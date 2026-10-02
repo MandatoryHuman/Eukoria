@@ -6,11 +6,11 @@ aliases:
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
 created: 2026-09-26T16:52:54.075Z
-modified: 2026-09-26T17:18:39.660Z
-published: 2026-09-26T17:18:39.660Z
+modified: 2026-10-02T14:40:28.406Z
+published: 2026-10-02T14:40:28.406Z
 tags:
   - State
-symbol: "[[The_Salvage-Pact_of_Oremourn_Symbol.webp]]"
+symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
 capital: The Great Hulk
 demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
 government: Decentralized Warlord Coalition
@@ -32,6 +32,8 @@ ruler: The Council of Iron
 > **Religions:** Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
 > **Major Exports:** Volatile steampunk technology, salvaged celestial metals, raw black-powder
 > **Major Imports:** Clean water, uncontaminated food, medical supplies
+
+![[The_Salvage-Pact_of_Oremourn_symbol.svg|300]]
 
 # Overview
 

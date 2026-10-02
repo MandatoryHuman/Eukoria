@@ -5,11 +5,11 @@ aliases:
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
 created: 2026-09-26T16:52:54.091Z
-modified: 2026-09-26T17:18:39.670Z
-published: 2026-09-26T17:18:39.670Z
+modified: 2026-10-02T14:40:28.406Z
+published: 2026-10-02T14:40:28.406Z
 tags:
   - State
-symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_Symbol.webp]]"
+symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg]]"
 capital: "[[The Seven-Fold Canopy]]"
 demographics: Humans, Elves, Leshies, Lizardfolk, Half-Orcs
 government: Feudal Oligarchy
@@ -32,7 +32,7 @@ ruler: The [[Witan]]
 > **Major Exports:** Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies
 > **Major Imports:** Heavy Armour, Cold-Iron Weapons, Arcane Texts
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg|300]]
 
 # Overview
 

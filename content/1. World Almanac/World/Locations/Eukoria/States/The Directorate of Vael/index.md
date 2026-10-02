@@ -4,11 +4,11 @@ aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
 created: 2026-09-26T16:52:54.006Z
-modified: 2026-09-26T17:19:39.362Z
-published: 2026-09-26T17:19:39.362Z
+modified: 2026-10-02T14:40:28.401Z
+published: 2026-10-02T14:40:28.401Z
 tags:
   - State
-symbol: "[[The_Directorate_of_Vael_Symbol.webp]]"
+symbol: "[[Vael_symbol.svg]]"
 capital: "[[Axiom's Hold]]"
 government: Theocratic Surveillance State
 ruler: "[[The Panopticon Council]]"
@@ -31,7 +31,7 @@ major_imports: Raw materials, Historical Texts, Paper
 > **Major Exports:** Information, Arcane/Occult Wards, Legal/Magical Treatises
 > **Major Imports:** Raw materials, Historical Texts, Paper
 
-![[Vael Symbol.svg|400]]
+![[Vael_symbol.svg|300]]
 
 # Overview
 

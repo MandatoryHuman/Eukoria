@@ -5,11 +5,11 @@ aliases:
   - Rastor
 title: The Rastorian Reach
 created: 2026-09-26T16:52:54.070Z
-modified: 2026-09-26T17:18:39.658Z
-published: 2026-09-26T17:18:39.658Z
+modified: 2026-10-02T14:40:28.406Z
+published: 2026-10-02T14:40:28.406Z
 tags:
   - State
-symbol: "[[The_Rastorian_Reach_Symbol.webp]]"
+symbol: "[[The_Rastorian_Reach_symbol.svg]]"
 capital: "[[Hafnar]]"
 demographics: Humans, Dwarves, Orcs, Beastkin
 government: Clan Moot
@@ -32,7 +32,7 @@ ruler: High Jarl
 > **Major Exports:** Leviathan bone, runic weaponry, storm-charged amber, mercenaries
 > **Major Imports:** Kazarni steel, agricultural staples, heavy textiles
 
-![[Rastor Symbol.svg|400]]
+![[The_Rastorian_Reach_symbol.svg|300]]
 
 # Overview
 

@@ -5,11 +5,11 @@ aliases:
   - Widhor
 title: The Widhor Sanctum
 created: 2026-09-26T16:52:54.117Z
-modified: 2026-09-26T17:18:39.689Z
-published: 2026-09-26T17:18:39.689Z
+modified: 2026-10-02T14:40:28.409Z
+published: 2026-10-02T14:40:28.409Z
 tags:
   - State
-symbol: "[[The_Widhor_Sanctum_Symbol.webp]]"
+symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
 capital: "[[Heartbloom]]"
 demographics: Fleshwarps, Humans, Beastkin, Halflings
 government: Empathic Commune
@@ -32,7 +32,7 @@ ruler: The Chorus of Voices
 > **Major Exports:** Biological remedies, pearls, emotional "Anchors"
 > **Major Imports:** Refined steel, written literature, textiles
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Widhor_Sanctum_symbol.svg|300]]
 
 # Overview
 

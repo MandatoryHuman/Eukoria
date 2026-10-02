@@ -4,11 +4,11 @@ aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
 created: 2026-09-26T16:52:54.048Z
-modified: 2026-09-26T17:18:39.639Z
-published: 2026-09-26T17:18:39.639Z
+modified: 2026-10-02T14:40:28.402Z
+published: 2026-10-02T14:40:28.402Z
 tags:
   - "#State"
-symbol: "[[The_Jhalian_Necrocracy_Symbol.webp]]"
+symbol: "[[Jhal_symbol.svg]]"
 capital: "[[The Silent City of Jhal]]"
 demographics: Humans, Dhampirs, Intelligent Undead
 government: Feudal [[Necrocracy]]
@@ -31,7 +31,7 @@ ruler: "[[The Undying Sovereign]]"
 > **Major Exports:** Cheap manufactured goods, Alchemical reagents, Mined Minerals
 > **Major Imports:** Corpses (smuggled), Luxury goods
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Jhal_symbol.svg|300]]
 
 # Overview
 

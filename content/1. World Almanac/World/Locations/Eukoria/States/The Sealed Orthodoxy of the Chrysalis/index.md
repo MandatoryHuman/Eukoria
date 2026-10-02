@@ -5,11 +5,11 @@ aliases:
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
 created: 2026-09-26T16:52:54.086Z
-modified: 2026-09-26T17:18:39.668Z
-published: 2026-09-26T17:18:39.668Z
+modified: 2026-10-02T14:40:28.406Z
+published: 2026-10-02T14:40:28.406Z
 tags:
   - State
-symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_Symbol.webp]]"
+symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_symbol.svg]]"
 capital: Aegis-Gath
 demographics: 60% Human, 20% Dwarf, 10% Elf, 10% Other
 government: Theocratic Bureaucracy
@@ -32,7 +32,7 @@ ruler: Grand Hierophant Odanis
 > **Major Exports:** Sanctioned magical texts, worked steel, enchanted warding
 > **Major Imports:** Raw magically-inert materials, grain, historical artifacts
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Sealed_Orthodoxy_of_the_Chrysalis_symbol.svg|300]]
 
 # Overview
 

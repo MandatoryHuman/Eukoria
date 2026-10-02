@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - The Glandaric Marches
+  - Glandaria
 title: The Glandaric Marches
 created: 2026-09-26T16:52:54.043Z
-modified: 2026-09-26T17:18:39.626Z
-published: 2026-09-26T17:18:39.626Z
+modified: 2026-10-02T14:40:28.402Z
+published: 2026-10-02T14:40:28.402Z
 tags:
   - State
-symbol: "[[The_Glandaric_Marches_Symbol.webp]]"
+symbol: "[[Gladaria_symbol.svg]]"
 capital: "[[Fort Glandar]]"
 demographics: Humans, Orcs, Dwarves, Fleshwarps
 government: Decentralised Military Coalition
@@ -31,11 +32,11 @@ ruler: The Marchwarden Council
 > **Major Exports:** Monster trophies, "Anchor" items, hardened mercenaries
 > **Major Imports:** Weapons, food supplies, psychiatric/medical aid
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Gladaria_symbol.svg|300]]
 
 # Overview
 
-The Glandaric Marches are a fractured, desperate coalition of territories that serve as a brutal quarantine line against the madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. While [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] uses elegant psychic wards to keep the horrors at bay on the western border, the Marches hold the eastern line with nothing but physical steel, sheer willpower, and deeply traumatic survival mechanisms. It is a scarred, gothic, heavily militarised state where survival is a daily, bloody battle against unravelling reality.
+The Glandaria is a fractured, desperate coalition of territories that serve as a brutal quarantine line against the madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. While [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] uses elegant psychic wards to keep the horrors at bay on the western border, the Marches hold the eastern line with nothing but physical steel, sheer willpower, and deeply traumatic survival mechanisms. It is a scarred, gothic, heavily militarised state where survival is a daily, bloody battle against unravelling reality.
 
 # Geography & Climate
 

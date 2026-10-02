@@ -4,11 +4,11 @@ aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
 created: 2026-09-26T16:52:54.018Z
-modified: 2026-09-26T17:18:39.614Z
-published: 2026-09-26T17:18:39.614Z
+modified: 2026-10-02T14:40:28.401Z
+published: 2026-10-02T14:40:28.401Z
 tags:
   - State
-symbol: "[[The_Firstweald_Ascendancy_Symbol.webp]]"
+symbol: "[[Firstweald_symbol.svg]]"
 capital: Elderheart
 demographics: Elves, Humans, Leshies, Fey, Beastkin
 government: Druidic Conclave
@@ -31,7 +31,7 @@ ruler: "[[Hierophant Rinebrior]]"
 > **Major Exports:** Rare herbs, primal reagents, resilient living-lumber, exotic beasts
 > **Major Imports:** Raw metals, written histories
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Firstweald_symbol.svg|300]]
 
 # Overview
 

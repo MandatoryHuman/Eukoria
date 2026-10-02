@@ -4,11 +4,11 @@ aliases:
   - index
 title: The Prefecture of Seiran
 created: 2026-09-28T13:40:48.568Z
-modified: 2026-09-28T13:59:27.543Z
-published: 2026-09-28T13:59:27.543Z
+modified: 2026-10-02T14:40:28.405Z
+published: 2026-10-02T14:40:28.405Z
 tags:
   - "#State"
-symbol: "[[index_Symbol.webp]]"
+symbol: "[[The_Prefecture_of_Seiran_symbol.svg]]"
 marker:
 capital: "[[Tōrō]]"
 demographics: Coastal communities, ghost investigators, and devotees of Amnis
@@ -32,7 +32,7 @@ ruler: The prefectural authorities and harbour-masters
 > **Major Exports:** Warded craft and maritime services
 > **Major Imports:**
 
-![[Assets/Locations/Flags/index Symbol.svg|400]]
+![[The_Prefecture_of_Seiran_symbol.svg|300]]
 
 # Overview
 
