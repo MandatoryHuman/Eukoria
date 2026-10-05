@@ -1,13 +1,12 @@
 ---
 publish: true
-aliases:
-  - index
 title: Seiran
 created: 2026-09-28T13:40:48.568Z
-modified: 2026-10-03T19:22:08.620Z
-published: 2026-10-03T19:22:08.620Z
+modified: 2026-10-05T13:10:19.508Z
+published: 2026-10-05T13:10:19.508Z
 tags:
   - State
+aliases:
 symbol: "[[Seiran_Symbol.svg]]"
 marker:
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Seiran/Kyouten|Kyouten]]"

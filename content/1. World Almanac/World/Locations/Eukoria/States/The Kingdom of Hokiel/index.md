@@ -1,13 +1,12 @@
 ---
 publish: true
-aliases:
-  - index
 title: The Kingdom of Hokiel
 created: 2026-10-02T14:02:32.969Z
-modified: 2026-10-03T19:22:03.148Z
-published: 2026-10-03T19:22:03.148Z
+modified: 2026-10-05T13:10:19.510Z
+published: 2026-10-05T13:10:19.510Z
 tags:
   - State
+aliases:
 symbol: "[[Hokiel_Symbol.svg]]"
 marker:
 capital: "[[Valerius]]"

@@ -1,13 +1,12 @@
 ---
 publish: true
-aliases:
-  - index
 title: The Morne Free-State
 created: 2026-09-28T13:39:09.665Z
-modified: 2026-10-03T19:22:27.808Z
-published: 2026-10-03T19:22:27.808Z
+modified: 2026-10-05T13:10:19.514Z
+published: 2026-10-05T13:10:19.514Z
 tags:
   - State
+aliases:
 symbol: "[[Morne_Symbol.svg]]"
 marker:
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest|Alkahest]]"
