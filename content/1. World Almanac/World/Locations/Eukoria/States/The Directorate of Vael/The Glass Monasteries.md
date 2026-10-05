@@ -1,0 +1,11 @@
+---
+publish: true
+aliases:
+  - Glass Monasteries
+title: The Glass Monasteries
+created: 2026-09-26T16:52:54.007Z
+modified: 2026-10-03T19:22:03.119Z
+published: 2026-10-03T19:22:03.119Z
+---
+
+High-altitude retreats in the mountainous southern reaches of [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] where devoted clerics of [[Oclera, God of Knowledge]] physically link their consciousnesses together into massive hive-mind think tanks, processing [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]'s most complex magical and societal theorems.
