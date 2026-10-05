@@ -4,12 +4,12 @@ aliases:
   - Heretic's Wake
 title: Heretic's Wake
 created: 2026-09-26T16:52:53.956Z
-modified: 2026-10-02T14:40:28.399Z
-published: 2026-10-02T14:40:28.399Z
+modified: 2026-10-03T19:23:54.034Z
+published: 2026-10-03T19:23:54.034Z
 tags:
   - State
 symbol: "[[Heretics_Wake_symbol.svg]]"
-capital: "[[The Flotilla of the Unbound]]"
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|The Flotilla of the Unbound]]"
 demographics: Exiles, Runesmiths, Passion Mages, Outcasts
 government: Pirate Coalition
 languages: Common, Various Thieves' Cants
@@ -21,7 +21,7 @@ ruler: A shifting council of the most powerful Pirate Captains
 ---
 
 > [!info]+ Details
-> **Capital:** [[The Flotilla of the Unbound|The Flotilla of the Unbound]]
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index.md|The Flotilla of the Unbound]]
 > **Government:** Pirate Coalition
 > **Ruler:** A shifting council of the most powerful Pirate Captains
 > **Population:** Unknown (Highly Transient)
@@ -35,7 +35,7 @@ ruler: A shifting council of the most powerful Pirate Captains
 
 # Overview
 
-Heretic's Wake is a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for its dangerous fleets of pirates who openly utilize the volatile and forbidden arts of Dismagic. Because of the extortionate tariffs [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] charges to use the central passage, many desperate nations attempt to transport their cargo through the Wake, a gamble that usually results in stolen goods and lost ships.
+Heretic's Wake is a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for its dangerous fleets of pirates who openly utilise the volatile and forbidden arts of Dismagic. Because of the extortionate tariffs [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] charges to use the central passage, many desperate nations attempt to transport their cargo through the Wake, a gamble that usually results in stolen goods and lost ships.
 
 # Geography & Climate
 
@@ -47,7 +47,7 @@ Heretic's Wake is a haven for those cast out by the rigid, orthodox societies of
 
 # Government & Politics
 
-There is no central legal authority in Heretic's Wake; the region is governed by the brutal, decentralized authority of pirate captains. Authority is maintained by those with the strongest ships and the most potent command of [[Traditions of Dismagic|Dismagic]].
+There is no central legal authority in Heretic's Wake; the region is governed by the brutal, decentralised authority of pirate captains. Authority is maintained by those with the strongest ships and the most potent command of [[Traditions of Dismagic|Dismagic]].
 
 # Diplomatic Relations
 
@@ -56,7 +56,7 @@ There is no central legal authority in Heretic's Wake; the region is governed by
 
 # History & Lore
 
-The origins of the pirate coalition likely stem from the aftermath of the War of Laws, which concluded 116 years ago. When the Canonical gods solidified their rule and the Traditions of Dismagic were driven underground , fleeing practitioners, heretics, and exiles took to the northern waters. What began as a desperate flight for survival evolved over a century into a formidable, decentralized naval power that now holds the orthodox world's trade routes hostage.
+The origins of the pirate coalition likely stem from the aftermath of the War of Laws, which concluded 116 years ago. When the Canonical gods solidified their rule and the Traditions of Dismagic were driven underground, fleeing practitioners, heretics, and exiles took to the northern waters. What began as a desperate flight for survival evolved over a century into a formidable, decentralised naval power that now holds the orthodox world's trade routes hostage.
 
 # Notable Locations
 

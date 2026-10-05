@@ -4,8 +4,8 @@ aliases:
   - tōrō
 title: Tōrō
 created: 2026-09-28T13:53:49.244Z
-modified: 2026-09-30T14:54:54.493Z
-published: 2026-09-30T14:54:54.493Z
+modified: 2026-10-03T19:22:03.113Z
+published: 2026-10-03T19:22:03.113Z
 tags:
   - "#Settlement"
 marker:
@@ -36,7 +36,7 @@ The city is built across a network of floating piers and barges. At dusk, harbou
 
 # Government & Law
 
-Harbour-masters coordinate the city's shifting infrastructure and spiritual defenses. The city's laws and routes are inseparable from ward maintenance: a solved or broken ward can flood whole villages with drowned apparitions.
+Harbour-masters coordinate the city's shifting infrastructure and spiritual defences. The city's laws and routes are inseparable from ward maintenance: a solved or broken ward can flood whole villages with drowned apparitions.
 
 # Districts
 
@@ -46,7 +46,7 @@ Harbour-masters coordinate the city's shifting infrastructure and spiritual defe
 
 # Notable Locations
 
-- The floating ward network: A shifting system of spiritual defenses.
+- The floating ward network: A shifting system of spiritual defences.
 - The misty bay: Haunted by Funa-yūrei formed from the [[War of Laws]]' tidal waves.
 - The harbour-master's routes: The changing bridges used to sever spiritual ley-lines.
 

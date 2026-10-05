@@ -4,8 +4,8 @@ aliases:
   - prismathia
 title: Prismathia
 created: 2026-09-26T16:52:54.065Z
-modified: 2026-09-26T17:18:39.654Z
-published: 2026-09-26T17:18:39.654Z
+modified: 2026-10-03T19:22:41.256Z
+published: 2026-10-03T19:22:41.256Z
 tags:
   - Settlement
 demographics: Elves, Humans, Fetchlings, Nephilim
@@ -34,7 +34,7 @@ The actual, physical terrain of Prismathia is uneven, scarred, and covered in gr
 
 # Government & Law
 
-The city is ruled by an incredibly vain aristocratic oligarchy, overseen by Grand Duke Valerius. The laws here revolve entirely around aesthetics, etiquette, and maintaining the illusion. The greatest crime in Prismathia is acknowledging the truth. Speaking openly about the reality storms, the pirates, or the crumbling state of the world is a punishable offence. Treason and severe crimes are punished not with execution, but by "Dropping the Veil"—having the magical illusions permanently dispelled from the offender's home and person, exposing them to the raw, depressing reality of the wasteland and marking them as a total social outcast.
+The city is ruled by an incredibly vain aristocratic oligarchy, overseen by Grand Duke Valerius. The laws here revolve entirely around aesthetics, etiquette, and maintaining the illusion. The greatest crime in Prismathia is acknowledging the truth. Speaking openly about the reality storms, the pirates, or the crumbling state of the world is a punishable offence. Treason and severe crimes are punished not with execution, but by "Dropping the Veil"-having the magical illusions permanently dispelled from the offender's home and person, exposing them to the raw, depressing reality of the wasteland and marking them as a total social outcast.
 
 # Districts
 
@@ -60,4 +60,4 @@ The city is ruled by an incredibly vain aristocratic oligarchy, overseen by Gran
 
 # History & Lore
 
-Before the [[War of Laws]], Prismathia was the genuine cultural and artistic capital of Cenora. When the cataclysm struck and the horrific Daeshin Null-State formed on their immediate border, the city's mages realised they lacked the martial strength to fight the reality-warped monsters. Instead, the artists painted over the apocalypse. For 116 years, they have poured all their magical and economic resources into maintaining the Great Masquerade, choosing opulent denial over fighting for a better future.
+Prismathia's current society grew from the Great Masquerade established after the [[War of Laws]]. Its artists and mages maintain the city's illusions, while the court treats the horrors beyond the veil as a problem for mercenaries.

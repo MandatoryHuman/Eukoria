@@ -5,8 +5,8 @@ aliases:
   - Gethis
 title: The Radiant Court of Gethis
 created: 2026-09-26T16:52:54.062Z
-modified: 2026-10-03T16:23:28.064Z
-published: 2026-10-03T16:23:28.064Z
+modified: 2026-10-03T19:22:03.152Z
+published: 2026-10-03T19:22:03.152Z
 tags:
   - State
 symbol: "[[Gethis_Symbol.svg]]"

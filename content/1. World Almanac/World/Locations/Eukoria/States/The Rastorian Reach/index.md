@@ -5,8 +5,8 @@ aliases:
   - Rastor
 title: The Rastorian Reach
 created: 2026-09-26T16:52:54.070Z
-modified: 2026-10-02T14:40:28.406Z
-published: 2026-10-02T14:40:28.406Z
+modified: 2026-10-03T19:22:27.805Z
+published: 2026-10-03T19:22:27.805Z
 tags:
   - State
 symbol: "[[The_Rastorian_Reach_symbol.svg]]"
@@ -36,11 +36,11 @@ ruler: High Jarl
 
 # Overview
 
-The Rastorian Reach occupies the freezing, jagged northwestern coast of [[Antoria]]. It is a harsh, breathtaking land of towering pine forests, glacier-carved valleys, and brutal seas. The Rastorians are a fiercely independent people - monster hunters, skalds, and runesmiths who measure a person's worth by their ability to endure the elements and the size of the beasts they can fell. To them, the volatile magic of the world is not something to be studied in a safe academy; but rather a wild beast to be wrestled, bound, and carved into the blade of an axe.
+The Rastorian Reach occupies the freezing, jagged North-Western coast of [[Antoria]]. It is a harsh, breathtaking land of towering pine forests, glacier-carved valleys, and brutal seas. The Rastorians are a fiercely independent people - monster hunters, skalds, and runesmiths who measure a person's worth by their ability to endure the elements and the size of the beasts they can fell. To them, the volatile magic of the world is not something to be studied in a safe academy; but rather a wild beast to be wrestled, bound, and carved into the blade of an axe.
 
 # Geography & Climate
 
-The northern waters of the Reach are tumultuous with the reality storms and Dismagic fallout bleeding over from [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]. This sometime causes the local marine and wildlife to mutate into gargantuan, warped monstrosities. The climate is punishingly cold, with long, bitter winters and short, violent summers. Inland, the terrain is dominated by impassable, snow-capped peaks and deep geothermal vents that the locals use to heat their mead-halls and runic forges.
+The northern waters of the Reach are tumultuous with the reality storms and Dismagic fallout bleeding over from [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]. This sometimes causes the local marine and wildlife to mutate into gargantuan, warped monstrosities. The climate is punishingly cold, with long, bitter winters and short, violent summers. Inland, the terrain is dominated by impassable, snow-capped peaks and deep geothermal vents that the locals use to heat their mead-halls and runic forges.
 
 # Society & Culture
 
@@ -69,4 +69,4 @@ When the [[War of Laws]] broke out 116 years ago , the fundamental laws of reali
 # Prominent Factions
 
 - The Storm-Callers: A highly respected guild of Primal and Divine casters who chart the volatile weather and guide the Rastorian longships safely through the Reality Storms.
-- The Leviathan Guard: Elite monster hunters and berserkers who specialize in grappling and taking down gargantuan beasts. They wield massive harpoons inscribed with Dismagic runes that violently ground magical creatures to the physical plane.
+- The Leviathan Guard: Elite monster hunters and berserkers who specialise in grappling and taking down gargantuan beasts. They wield massive harpoons inscribed with Dismagic runes that violently ground magical creatures to the physical plane.

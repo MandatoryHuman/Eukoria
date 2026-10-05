@@ -4,10 +4,10 @@ aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
 created: 2026-09-26T16:52:54.048Z
-modified: 2026-10-02T14:40:28.402Z
-published: 2026-10-02T14:40:28.402Z
+modified: 2026-10-03T19:22:03.143Z
+published: 2026-10-03T19:22:03.143Z
 tags:
-  - "#State"
+  - State
 symbol: "[[Jhal_symbol.svg]]"
 capital: "[[The Silent City of Jhal]]"
 demographics: Humans, Dhampirs, Intelligent Undead
@@ -41,7 +41,7 @@ However, this utopia is not as flawless as the state claims; when the biological
 
 # Geography & Climate
 
-Jhal is a harsh, sun-baked landscape. The surface is brutally hot during the day, so the majority of the living populace resides in sprawling, beautifully carved subterranean cities that extend miles into the earth. The surface fields and strip mines are worked endlessly, day and night, by skeletal and zombie laborers who do not suffer from the heat or require water.
+Jhal is a harsh, sun-baked landscape. The surface is brutally hot during the day, so the majority of the living populace resides in sprawling, beautifully carved subterranean cities that extend miles into the earth. The surface fields and strip mines are worked endlessly, day and night, by skeletal and zombie labourers who do not suffer from the heat or require water.
 
 # Society & Culture
 

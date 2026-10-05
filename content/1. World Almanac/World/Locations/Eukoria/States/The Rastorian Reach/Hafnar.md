@@ -4,8 +4,8 @@ aliases:
   - hafnar
 title: Hafnar
 created: 2026-09-26T16:52:54.068Z
-modified: 2026-09-26T17:18:39.656Z
-published: 2026-09-26T17:18:39.656Z
+modified: 2026-10-03T19:22:03.154Z
+published: 2026-10-03T19:22:03.154Z
 tags:
   - Settlement
 demographics: ""

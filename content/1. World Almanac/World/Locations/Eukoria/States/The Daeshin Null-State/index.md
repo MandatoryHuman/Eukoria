@@ -4,8 +4,8 @@ aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
 created: 2026-09-26T16:52:53.995Z
-modified: 2026-10-02T14:40:28.399Z
-published: 2026-10-02T14:40:28.399Z
+modified: 2026-10-03T19:22:03.113Z
+published: 2026-10-03T19:22:03.113Z
 tags:
   - State
 symbol: "[[Daeshin_symbol.svg]]"
@@ -39,7 +39,7 @@ The Daeshin Null-State is not a functioning country, but a massive, quarantined 
 
 # Geography & Climate
 
-The geography of Daeshin defies mapping, as the landscape literally shifts and changes. It is a region scarred by impossible geometry, floating landmasses, and skies that cycle through colors unseen in the natural spectrum. The environment is incredibly hostile, prone to sudden "reality storms" where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously creating and erasing matter, energy, and magic in a matter of seconds.
+The geography of Daeshin defies mapping, as the landscape literally shifts and changes. It is a region scarred by impossible geometry, floating landmasses, and skies that cycle through colours unseen in the natural spectrum. The environment is incredibly hostile, prone to sudden "reality storms" where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously creating and erasing matter, energy, and magic in a matter of seconds.
 
 # Society & Culture
 

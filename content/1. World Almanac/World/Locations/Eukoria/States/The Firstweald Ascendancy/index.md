@@ -4,12 +4,12 @@ aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
 created: 2026-09-26T16:52:54.018Z
-modified: 2026-10-02T14:40:28.401Z
-published: 2026-10-02T14:40:28.401Z
+modified: 2026-10-03T19:23:15.516Z
+published: 2026-10-03T19:23:15.516Z
 tags:
   - State
 symbol: "[[Firstweald_symbol.svg]]"
-capital: Elderheart
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]]"
 demographics: Elves, Humans, Leshies, Fey, Beastkin
 government: Druidic Conclave
 languages: Common, Sylvan
@@ -21,7 +21,7 @@ ruler: "[[Hierophant Rinebrior]]"
 ---
 
 > [!info]+ Details
-> **Capital:** Elderheart
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index.md|Elderheart]]
 > **Government:** Druidic Conclave
 > **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Hierophant Rinebrior.md|Hierophant Rinebrior]]
 > **Population:** "900,000"
@@ -35,11 +35,11 @@ ruler: "[[Hierophant Rinebrior]]"
 
 # Overview
 
-The Firstweald Ascendancy is a fiercely isolationist and ancient nation situated in the South-West of [[Antoria]]. Widely recognized as the cradle from which humanoid life first spread across the continent, the Ascendancy views itself as the original, sacred caretaker of the earth. Guided by the orthodox tenets of Primal Magic, they have weaponized the natural world, actively cultivating violent, flourishing ecosystems to serve as impassable borders against the industrialized nations they despise.
+The Firstweald Ascendancy is a fiercely isolationist and ancient nation situated in the South-West of [[Antoria]]. Widely recognized as the cradle from which humanoid life first spread across the continent, the Ascendancy views itself as the original, sacred caretaker of the earth. Guided by the orthodox tenets of Primal Magic, they have weaponised the natural world, actively cultivating violent, flourishing ecosystems to serve as impassable borders against the industrialised nations they despise.
 
 # Geography & Climate
 
-The Ascendancy is dominated by colossal, ancient forests, towering canopies, and primordial riverlands. Because the nation's spellcasters are masters of Primal Magic—the visceral blend of the [[Fundamental Essences]] of Matter and Life - the geography itself is highly pliable and aggressively managed through biokinesis and environmental control. The borders of the Firstweald are notoriously dangerous, choked with razor-vine thickets, engineered predators, and awakened trees that violently reclaim any unauthorized roads or outposts built too close to their territory.
+The Ascendancy is dominated by colossal, ancient forests, towering canopies, and primordial riverlands. Because the nation's spellcasters are masters of Primal Magic-the visceral blend of the [[Fundamental Essences]] of Matter and Life - the geography itself is highly pliable and aggressively managed through biokinesis and environmental control. The borders of the Firstweald are notoriously dangerous, choked with razor-vine thickets, engineered predators, and awakened trees that violently reclaim any unauthorized roads or outposts built too close to their territory.
 
 # Society & Culture
 

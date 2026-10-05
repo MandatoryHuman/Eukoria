@@ -4,8 +4,8 @@ aliases:
   - axiom's hold
 title: Axiom's Hold
 created: 2026-09-26T16:52:54.004Z
-modified: 2026-09-26T17:18:39.607Z
-published: 2026-09-26T17:18:39.607Z
+modified: 2026-10-03T19:22:03.117Z
+published: 2026-10-03T19:22:03.117Z
 tags:
   - Settlement
 demographics: ""
@@ -26,11 +26,11 @@ type: ""
 
 # Overview
 
-The capital city, built in a perfect geometric grid. At its center lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
+The capital city, built in a perfect geometric grid. At its centre lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
 
 # Geography & Layout
 
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+(Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)
 
 # Government & Law
 

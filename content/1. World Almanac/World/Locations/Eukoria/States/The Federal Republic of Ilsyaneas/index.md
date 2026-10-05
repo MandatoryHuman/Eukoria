@@ -5,8 +5,8 @@ aliases:
   - Ilsyaneas
 title: The Federal Republic of Ilsyaneas
 created: 2026-09-26T16:52:54.012Z
-modified: 2026-10-02T14:40:28.401Z
-published: 2026-10-02T14:40:28.401Z
+modified: 2026-10-03T19:22:03.122Z
+published: 2026-10-03T19:22:03.122Z
 tags:
   - State
 symbol: "[[Ilsyaneas_symbol.svg]]"
@@ -62,7 +62,7 @@ Following the devastation of the [[War of Laws]], the founders of Ilsyaneas reje
 
 # Notable Locations
 
-- [[The Caldera Forum]]: The sprawling, industrialized capital built directly into the slopes and geothermal vents of Mount Solace.
+- [[The Caldera Forum]]: The sprawling, industrialised capital built directly into the slopes and geothermal vents of Mount Solace.
 - Mount Solace: The colossal dormant supervolcano that serves as the industrial and spiritual heart of the Republic.
 
 # Prominent Factions

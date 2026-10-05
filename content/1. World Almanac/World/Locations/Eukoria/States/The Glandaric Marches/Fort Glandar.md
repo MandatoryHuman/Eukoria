@@ -4,8 +4,8 @@ aliases:
   - fort glandar
 title: Fort Glandar
 created: 2026-09-26T16:52:54.042Z
-modified: 2026-09-26T17:18:39.622Z
-published: 2026-09-26T17:18:39.622Z
+modified: 2026-10-03T19:22:03.141Z
+published: 2026-10-03T19:22:03.141Z
 tags:
   - Settlement
 demographics: ""
@@ -30,7 +30,7 @@ type: ""
 
 # Geography & Layout
 
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+(Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)
 
 # Government & Law
 

@@ -4,8 +4,8 @@ aliases:
   - Bramble-March
 title: The Bramble-March
 created: 2026-09-26T16:52:54.021Z
-modified: 2026-09-26T17:18:39.617Z
-published: 2026-09-26T17:18:39.617Z
+modified: 2026-10-03T19:22:03.125Z
+published: 2026-10-03T19:22:03.125Z
 tags:
   - Geography
 climate: Temperate, Hyper-Humid, and Unnaturally Overgrown
@@ -28,7 +28,7 @@ type: Magically Engineered Border Forest
 
 # Overview
 
-The Bramble-March is a highly volatile, magically engineered perimeter of deadly flora and fauna that aggressively guards the eastern and southern land borders of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. To outsiders, it looks like an impenetrable wall of towering, thorn-choked trees and writhing vines. It is not a natural forest, but a biological weapon designed to forcefully repel the industrialized machinery of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] and the entropic ash of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]].
+The Bramble-March is a highly volatile, magically engineered perimeter of deadly flora and fauna that aggressively guards the eastern and southern land borders of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. To outsiders, it looks like an impenetrable wall of towering, thorn-choked trees and writhing vines. It is not a natural forest, but a biological weapon designed to forcefully repel the industrialised machinery of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] and the entropic ash of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]].
 
 # Ecology & Environment
 

@@ -4,15 +4,15 @@ aliases:
   - Syndicate of the Fathom-Court
 title: The Syndicate of the Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-10-02T14:40:28.409Z
-published: 2026-10-02T14:40:28.409Z
+modified: 2026-10-03T19:22:08.615Z
+published: 2026-10-03T19:22:08.615Z
 tags:
-  - "#State"
+  - State
 symbol: "[[The_Syndicate_of_the_Fathom-Court_symbol.svg]]"
-capital: The Floating Court
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Syndicate of the Fathom-Court/The Floating Court|The Floating Court]]"
 demographics: 30% Human, 30% Azarketi, 20% Halfling, 20% Other
 government: Meritocratic Naval Syndicate
-languages: Common, Thalassic, localized Trader's Cant
+languages: Common, Thalassic, localised Trader's Cant
 major_exports: Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
 major_imports: Lumber, sailcloth, fresh water
 population: Approx. 220,000
@@ -21,12 +21,12 @@ ruler: The First Navigator
 ---
 
 > [!info]+ Details
-> **Capital:** The Floating Court
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Syndicate of the Fathom-Court/The Floating Court.md|The Floating Court]]
 > **Government:** Meritocratic Naval Syndicate
 > **Ruler:** The First Navigator
 > **Population:** Approx. 220,000
 > **Demographics:** 30% Human, 30% Azarketi, 20% Halfling, 20% Other
-> **Languages:** Common, Thalassic, localized Trader's Cant
+> **Languages:** Common, Thalassic, localised Trader's Cant
 > **Religions:** [[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities
 > **Major Exports:** Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
 > **Major Imports:** Lumber, sailcloth, fresh water
@@ -62,7 +62,7 @@ The state operates as a Meritocratic Syndicate overseen by the Commodore Council
 
 When the overland trade routes collapsed after the [[War of Laws]], desperate coastal survivors on the eastern edge of Cenora took to the water to avoid the expanding horror of the [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|Daeshin Null-State]]. What started as a temporary defensive raft of fishing boats slowly evolved into a permanent, sprawling maritime settlement.
 
-The grandiose title of the "Fathom-Court" was adopted nearly eighty years ago when an infamous pirate king sank the last fleeing galleon of the region's original royal family. He dragged the drowned aristocrat's land charter from the wreckage, nailed it to the mast of his flagship, and sarcastically declared his lashed-together flotilla the new sovereign power—a syndicate whose only borders were the crushing depths of the sea.
+The grandiose title of the "Fathom-Court" was adopted nearly eighty years ago when an infamous pirate king sank the last fleeing galleon of the region's original royal family. He dragged the drowned aristocrat's land charter from the wreckage, nailed it to the mast of his flagship, and sarcastically declared his lashed-together flotilla the new sovereign power-a syndicate whose only borders were the crushing depths of the sea.
 
 # Notable Locations
 

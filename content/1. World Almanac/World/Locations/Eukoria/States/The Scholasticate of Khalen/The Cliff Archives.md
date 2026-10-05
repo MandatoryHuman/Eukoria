@@ -4,8 +4,8 @@ aliases:
   - Cliff Archives
 title: The Cliff Archives
 created: 2026-09-26T16:52:54.081Z
-modified: 2026-09-26T17:18:39.664Z
-published: 2026-09-26T17:18:39.664Z
+modified: 2026-10-03T19:22:03.158Z
+published: 2026-10-03T19:22:03.158Z
 tags:
   - Settlement
 demographics: Humans, Elves, Tengu, Dwarves

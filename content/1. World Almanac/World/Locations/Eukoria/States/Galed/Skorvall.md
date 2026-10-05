@@ -4,8 +4,8 @@ aliases:
   - skorvall
 title: Skorvall
 created: 2026-09-28T13:53:49.249Z
-modified: 2026-09-28T13:59:27.546Z
-published: 2026-09-28T13:59:27.546Z
+modified: 2026-10-03T19:22:03.095Z
+published: 2026-10-03T19:22:03.095Z
 tags:
   - "#Settlement"
 marker:
@@ -59,8 +59,8 @@ The High Seat at the glacier's peak is the command fortress of [[Galed, the Rime
 
 - The High Seat warlords: The Rime-Hold's military leadership.
 - The orthodox clerics of the Howling Ward: Custodians of Galed's preserved warriors.
-- The glacier holds: Communities of humans, beastkin, and orcs maintaining the city's food, heat, and defenses.
+- The glacier holds: Communities of humans, beastkin, and orcs maintaining the city's food, heat, and defences.
 
 # History & Lore
 
-Skorvall was carved into the glacier after the [[War of Laws]] shattered Galed's climate. The city's design turns the glacier's lethal cold into a defense and preserves the bodies of its greatest warriors, though that preservation has drawn the attention of [[Aethelgard, God of Relics|Aethelgard]]'s necromancers.
+Skorvall was carved into the glacier after the [[War of Laws]] shattered Galed's climate. The city's design turns the glacier's lethal cold into a defence and preserves the bodies of its greatest warriors, though that preservation has drawn the attention of [[Aethelgard, God of Relics|Aethelgard]]'s necromancers.

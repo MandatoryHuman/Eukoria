@@ -4,10 +4,10 @@ aliases:
   - index
 title: The Kingdom of Hokiel
 created: 2026-10-02T14:02:32.969Z
-modified: 2026-10-02T15:07:14.865Z
-published: 2026-10-02T15:07:14.865Z
+modified: 2026-10-03T19:22:03.148Z
+published: 2026-10-03T19:22:03.148Z
 tags:
-  - "#State"
+  - State
 symbol: "[[Hokiel_Symbol.svg]]"
 marker:
 capital: "[[Valerius]]"
@@ -36,7 +36,7 @@ ruler: King Oric the Resolute
 
 # Overview
 
-Nestled in the north-eastern plains of [[Antoria]], the Kingdom of Hokiel is a proud and highly traditional feudal monarchy. To the rest of the continent, it is the romanticised, chivalric shield of the north. Where its southern neighbours in the [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] rely on a grim, utilitarian stratocracy to survive, Hokiel embraces glorious pageantry, divine right, and the orthodox purity of Divine Magic: the harmonious blend of Life and Spirit.
+Nestled in the North-Eastern plains of [[Antoria]], the Kingdom of Hokiel is a proud and highly traditional feudal monarchy. To the rest of the continent, it is the romanticised, chivalric shield of the north. Where its southern neighbours in the [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] rely on a grim, utilitarian stratocracy to survive, Hokiel embraces glorious pageantry, divine right, and the orthodox purity of Divine Magic: the harmonious blend of Life and Spirit.
 
 # Geography & Climate
 
@@ -62,12 +62,12 @@ The military is heavily cavalry-focused, boasting orders of paladins and divine 
 
 # History & Lore
 
-The kingdom was forged in the aftermath of the [[War of Laws]] 116 years ago. While the oceans boiled and mountains were ground into glass, a coalition of paladins anchored their souls to the land using pure orthodox faith, shielding the north-eastern plains from the worst of the divine collateral damage. Their descendants now rule from those very keeps.
+The kingdom was forged in the aftermath of the [[War of Laws]] 116 years ago. While the oceans boiled and mountains were ground into glass, a coalition of paladins anchored their souls to the land using pure orthodox faith, shielding the North-Eastern plains from the worst of the divine collateral damage. Their descendants now rule from those very keeps.
 
 # Notable Locations
 
 - [[Valerius]]: The gleaming capital city, famous for its towering white-stone keeps and the Grand Cathedral of the Honoured Spirit.
-- [[The Argent Marches]]: The heavily patrolled western borderland separating Hokiel from Oremnun, dotted with crusader castles.
+- [[The Argent Marches]]: The heavily patrolled western borderland separating Hokiel from Oremourn, dotted with crusader castles.
 
 # Prominent Factions
 

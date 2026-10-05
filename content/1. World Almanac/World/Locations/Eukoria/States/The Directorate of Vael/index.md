@@ -4,8 +4,8 @@ aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
 created: 2026-09-26T16:52:54.006Z
-modified: 2026-10-02T14:40:28.401Z
-published: 2026-10-02T14:40:28.401Z
+modified: 2026-10-03T19:22:03.119Z
+published: 2026-10-03T19:22:03.119Z
 tags:
   - State
 symbol: "[[Vael_symbol.svg]]"
@@ -20,10 +20,10 @@ major_exports: Information, Arcane/Occult Wards, Legal/Magical Treatises
 major_imports: Raw materials, Historical Texts, Paper
 ---
 
-> [!info]+ State Details
+> [!info]+ Details
 > **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/Axiom's Hold.md|Axiom's Hold]]
 > **Government:** Theocratic Surveillance State
-> **Ruler:** [[The Panopticon Council|The Panopticon Council]]
+> **Ruler:** [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/The Panopticon Council.md|The Panopticon Council]]
 > **Population:** 650,000
 > **Demographics:** Humans, Elves, Halflings
 > **Languages:** Common
@@ -39,7 +39,7 @@ The Directorate of Vael, located in the central heartlands of [[Cenora]], is a h
 
 # Geography & Climate
 
-Vael is characterized by orderly, mathematically planned cities set amidst temperate plains and meticulously cultivated farmlands. The borders are not marked by walls, but by invisible, towering psychic barriers - manifestations of [[Traditions of Magic#Occult Magic (Spirit + Mind)|Occult]] Magic - that immediately alert the authorities to any unauthorized crossing or hostile intent. The weather itself seems subdued here, heavily regulated by state-sponsored weather-mages to ensure perfectly predictable crop yields.
+Vael is characterised by orderly, mathematically planned cities set amidst temperate plains and meticulously cultivated farmlands. The borders are not marked by walls, but by invisible, towering psychic barriers - manifestations of [[Traditions of Magic#Occult Magic (Spirit + Mind)|Occult]] Magic - that immediately alert the authorities to any unauthorized crossing or hostile intent. The weather itself seems subdued here, heavily regulated by state-sponsored weather-mages to ensure perfectly predictable crop yields.
 
 # Society & Culture
 
@@ -58,11 +58,11 @@ Vael is governed by the Panopticon Council, a body of elite Occult mages and hig
 
 # History & Lore
 
-The foundations of Vael were laid in the immediate aftermath of the [[War of Laws]]. When [[Lethos, God of Trickery|Lethos]] assassinated [[Syla, Goddess of Records]], the world's shared history was shattered. Refusing to let civilization descend into amnesia and chaos, surviving clerics of Solon allied with the newly empowered followers of Oclera. Together, they vowed to build a society where truth could never be erased or subverted again, sacrificing individual privacy for collective, unbreakable order.
+The foundations of Vael were laid in the immediate aftermath of the [[War of Laws]]. When [[Lethos, God of Trickery|Lethos]] assassinated [[Syla, Goddess of Records]], the world's shared history was shattered. Refusing to let civilisation descend into amnesia and chaos, surviving clerics of Solon allied with the newly empowered followers of Oclera. Together, they vowed to build a society where truth could never be erased or subverted again, sacrificing individual privacy for collective, unbreakable order.
 
 # Notable Locations
 
-- [[Axiom's Hold]]: The capital city, built in a perfect geometric grid. At its center lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
+- [[Axiom's Hold]]: The capital city, built in a perfect geometric grid. At its centre lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
 - [[The Glass Monasteries]]: High-altitude retreats where devoted clerics of Oclera physically link their consciousnesses together into massive hive-mind think tanks, processing Eukoria's most complex magical and societal theorems.
 
 # Prominent Factions

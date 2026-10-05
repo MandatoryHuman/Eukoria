@@ -4,8 +4,8 @@ aliases:
   - Meridia
 title: Meridia
 created: 2026-09-26T16:52:53.972Z
-modified: 2026-10-02T14:40:28.399Z
-published: 2026-10-02T14:40:28.399Z
+modified: 2026-10-03T19:22:03.102Z
+published: 2026-10-03T19:22:03.102Z
 tags:
   - State
 symbol: "[[Meridia_symbol.svg]]"
@@ -35,7 +35,7 @@ ruler: "[[High Arbiter Garadwen]]"
 
 # Overview
 
-As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponized bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antoria]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] to the North.
+As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponised bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antoria]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate-infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] to the North.
 
 # Geography & Climate
 
@@ -51,7 +51,7 @@ Meridia is governed by the Board of the [[Concordat]], a ruthless coalition of m
 
 # Diplomatic Relations
 
-Meridia holds the world hostage through ink and geography. The nations of the continents to its East and West openly despise their's extortionate tolls, but they face little choice. Some of the coastal nations try to navigate the dangers of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], but this generally results in little more than lost ships and stolen cargo. Some even more desperate nations have even resorted to paying off the pirate captains of the wake to ensure their ships safety; the leadership of Meridia considers this development a huge threat to their stranglehold, though they wouldn't admit it in public.
+Meridia holds the world hostage through ink and geography. The nations of the continents to its East and West openly despise its extortionate tolls, but they face little choice. Some of the coastal nations try to navigate the dangers of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], but this generally results in little more than lost ships and stolen cargo. Some even more desperate nations have even resorted to paying off the pirate captains of the wake to ensure their ships' safety; the leadership of Meridia considers this development a huge threat to their stranglehold, though they wouldn't admit it in public.
 
 # History & Lore
 

@@ -24,7 +24,7 @@ Valerius is the gleaming capital of Hokiel, a city of towering white-stone keeps
 
 # Geography & Layout
 
-The city stands amid Hokiel's fertile north-eastern plains, with broad roads designed for cavalry processions and the movement of armoured hosts. White-stone fortifications and high keeps dominate the skyline, while the Grand Cathedral of the Honoured Spirit forms the spiritual heart of the capital.
+The city stands amid Hokiel's fertile North-Eastern plains, with broad roads designed for cavalry processions and the movement of armoured hosts. White-stone fortifications and high keeps dominate the skyline, while the Grand Cathedral of the Honoured Spirit forms the spiritual heart of the capital.
 
 # Government & Law
 
@@ -55,4 +55,4 @@ Valerius is ruled directly by King Oric the Resolute and serves as the seat of t
 
 # History & Lore
 
-Valerius grew into the seat of Hokiel's rulers after the coalition of paladins who survived the [[War of Laws]] anchored their souls to the north-eastern plains. Its keeps and cathedral preserve the memory of that divine protection and the descendants who inherited it.
+Valerius grew into the seat of Hokiel's rulers after the coalition of paladins who survived the [[War of Laws]] anchored their souls to the North-Eastern plains. Its keeps and cathedral preserve the memory of that divine protection and the descendants who inherited it.

@@ -4,8 +4,8 @@ aliases:
   - Shattered Mind
 title: The Shattered Mind
 created: 2026-09-26T16:52:54.000Z
-modified: 2026-09-26T17:18:39.604Z
-published: 2026-09-26T17:18:39.604Z
+modified: 2026-10-03T19:22:03.117Z
+published: 2026-10-03T19:22:03.117Z
 tags:
   - Settlement
 demographics: ""
@@ -30,7 +30,7 @@ A bizarre, makeshift settlement built upon a series of floating, petrified earth
 
 # Geography & Layout
 
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+(Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)
 
 # Government & Law
 

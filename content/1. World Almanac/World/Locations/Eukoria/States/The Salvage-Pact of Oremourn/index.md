@@ -6,30 +6,30 @@ aliases:
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
 created: 2026-09-26T16:52:54.075Z
-modified: 2026-10-02T14:40:28.406Z
-published: 2026-10-02T14:40:28.406Z
+modified: 2026-10-03T19:22:08.610Z
+published: 2026-10-03T19:22:08.610Z
 tags:
   - State
 symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
-capital: The Great Hulk
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/The Great Hulk|The Great Hulk]]"
 demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
 government: Decentralized Warlord Coalition
 languages: Common, Goblin, Orcish
 major_exports: Volatile steampunk technology, salvaged celestial metals, raw black-powder
 major_imports: Clean water, uncontaminated food, medical supplies
 population: Approx. 600,000
-religions: Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
+religions: Cults of [[Aethelgard, God of Relics]], various localised machine-spirits
 ruler: The Council of Iron
 ---
 
 > [!info]+ Details
-> **Capital:** The Great Hulk
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/The Great Hulk.md|The Great Hulk]]
 > **Government:** Decentralized Warlord Coalition
 > **Ruler:** The Council of Iron
 > **Population:** Approx. 600,000
 > **Demographics:** 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
 > **Languages:** Common, Goblin, Orcish
-> **Religions:** Cults of [[Aethelgard, God of Relics]], various localized machine-spirits
+> **Religions:** Cults of [[Aethelgard, God of Relics]], various localised machine-spirits
 > **Major Exports:** Volatile steampunk technology, salvaged celestial metals, raw black-powder
 > **Major Imports:** Clean water, uncontaminated food, medical supplies
 
@@ -43,7 +43,7 @@ The society of Oremourn is built around the Pact is the blood-and-oil, a treaty 
 
 # Geography & Climate
 
-Oremourn's land is an ecological nightmare. The land is entirely devoid of natural greenery, consisting instead of jagged canyons of rusted celestial metal, pools of caustic magical runoff, and localized reality storms that blow up from the southern borders. Gravity occasionally shifts without warning, and the sky is perpetually stained a bruised, chemical purple. Safe passage across the scrap-wastes is only possible via massive, steam-powered tread-crawlers built to withstand the environment.
+Oremourn's land is an ecological nightmare. The land is entirely devoid of natural greenery, consisting instead of jagged canyons of rusted celestial metal, pools of caustic magical runoff, and localised reality storms that blow up from the southern borders. Gravity occasionally shifts without warning, and the sky is perpetually stained a bruised, chemical purple. Safe passage across the scrap-wastes is only possible via massive, steam-powered tread-crawlers built to withstand the environment.
 
 # Society & Culture
 
@@ -56,12 +56,12 @@ There is no central monarch or prince. Oremourn is a patchwork of shifting terri
 # Diplomatic Relations
 
 - [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Border Skirmishes): Kazarn frequently invades Oremourn's southern borders to strip-mine their scrap and salvage pure iron for their eroding war machine, leading to brutal, mechanized trench warfare.
-- [[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/index|The Sealed Orthodoxy of the Chrysalis]] (Hostile): The strict abjurers to the east view the volatile tech and localized Dismagic of Oremourn as an apocalyptic contagion, frequently sending sabotage squads to destroy large scrap-hauls.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/index|The Sealed Orthodoxy of the Chrysalis]] (Hostile): The strict abjurers to the east view the volatile tech and localised Dismagic of Oremourn as an apocalyptic contagion, frequently sending sabotage squads to destroy large scrap-hauls.
 - [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|The Rastorian Reach]] (Trade Partners): The Rastorians trade their leviathan bone and storm-amber for Oremourn's black-powder and steam-engines to power their massive longships.
 
 # History & Lore
 
-Following the [[War of Laws]], this region of Antoria was deemed a permanently dead zone where the [[Fundamental Essences|Essence of Matter]] was fundamentally broken. However, desperate refugees and mad inventors soon realized that the debris possessed latent, harvestable power. Over seventy years, these disparate survivor camps coalesced into the Scrap-Baronies. They proudly took the name "Oremourn" as an ironical middle finger to the destroyed, shining monarchy that governed the region before the gods fell. The Salvage-Pact was signed thirty years ago to end a devastating internal civil war over a massive, un-looted celestial dreadnought, finally unifying the wastes.
+Following the [[War of Laws]], this region of Antoria was deemed a permanently dead zone where the [[Fundamental Essences|Essence of Matter]] was fundamentally broken. However, desperate refugees and mad inventors soon realised that the debris possessed latent, harvestable power. Over seventy years, these disparate survivor camps coalesced into the Scrap-Baronies. They proudly took the name "Oremourn" as an ironical middle finger to the destroyed, shining monarchy that governed the region before the gods fell. The Salvage-Pact was signed thirty years ago to end a devastating internal civil war over a massive, un-looted celestial dreadnought, finally unifying the wastes.
 
 # Notable Locations
 
@@ -71,4 +71,4 @@ Following the [[War of Laws]], this region of Antoria was deemed a permanently d
 # Prominent Factions
 
 - **The Rust-Riders:** A guild of nomadic scavengers who act as the primary couriers and explorers of the wastes, using heavily modified steam-bikes.
-- **The Spark-Priests:** A localized cult that worships the friction of [[Aethelgard, God of Relics]], believing that the volatile explosions of their technology are prayers to the divine.
+- **The Spark-Priests:** A localised cult that worships the friction of [[Aethelgard, God of Relics]], believing that the volatile explosions of their technology are prayers to the divine.

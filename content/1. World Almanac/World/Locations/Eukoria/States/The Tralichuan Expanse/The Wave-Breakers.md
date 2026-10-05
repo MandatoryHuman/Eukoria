@@ -4,8 +4,8 @@ aliases:
   - Wave-Breakers
 title: The Wave-Breakers
 created: 2026-09-26T16:52:54.104Z
-modified: 2026-09-26T17:18:39.680Z
-published: 2026-09-26T17:18:39.680Z
+modified: 2026-10-03T19:23:54.036Z
+published: 2026-10-03T19:23:54.036Z
 allies: ""
 enemies: ""
 headquarters: ""
@@ -34,7 +34,7 @@ type: ""
 
 # Structure & Leadership
 
-(How is the group organized? Is it a strict military hierarchy, a loose pirate coalition, a religious order, or a mercantile council? Detail the leadership and their methods of rule.)
+(How is the group organised? Is it a strict military hierarchy, a loose pirate coalition, a religious order, or a mercantile council? Detail the leadership and their methods of rule.)
 
 # History & Lore
 

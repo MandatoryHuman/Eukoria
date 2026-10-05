@@ -4,8 +4,8 @@ aliases:
   - Silent City of Jhal
 title: The Silent City of Jhal
 created: 2026-09-26T16:52:54.050Z
-modified: 2026-09-26T17:18:39.642Z
-published: 2026-09-26T17:18:39.642Z
+modified: 2026-10-03T19:22:03.144Z
+published: 2026-10-03T19:22:03.144Z
 tags:
   - "#Settlement"
 demographics: Humans, Dhampirs, Intelligent Undead
@@ -30,7 +30,7 @@ Serving as the capital of [[1. World Almanac/World/Locations/Eukoria/States/The 
 
 # Geography & Layout
 
-The city extends deep into the earth, protected from the brutal surface heat. The cavern ceilings are dotted with pale blue and green phosphorescent fungi that simulate a soft, eternal twilight. The architecture is grand, gothic, and meticulously smooth; because the undead servants do not tire, the stonework has been polished to a glass-like finish over decades. Furthermore, there are no stairs in Jhal - only long, sweeping ramps designed to accommodate the heavy carts of the undead laborers.
+The city extends deep into the earth, protected from the brutal surface heat. The cavern ceilings are dotted with pale blue and green phosphorescent fungi that simulate a soft, eternal twilight. The architecture is grand, gothic, and meticulously smooth; because the undead servants do not tire, the stonework has been polished to a glass-like finish over decades. Furthermore, there are no stairs in Jhal - only long, sweeping ramps designed to accommodate the heavy carts of the undead labourers.
 
 # Government & Law
 
@@ -61,4 +61,4 @@ Publicly, the city is managed by the high priests of [[Cavera, Goddess of Death]
 
 # History & Lore
 
-Jhal was founded during the chaotic fallout of the [[War of Laws]]. When a supernatural famine threatened to wipe out the region's ancestors, the desperate rulers turned to the canonical magic of Cavera, animating the dead to tend the failing crops on the blistering surface. This desperate survival tactic saved the populace, allowing them to retreat into the cool caverns below. Over the last 100 years, the temporary solution became the foundational bedrock of a bizarre, highly successful civilization built on the backs of the eternal dead.
+Jhal was founded during the chaotic fallout of the [[War of Laws]]. When a supernatural famine threatened to wipe out the region's ancestors, the desperate rulers turned to the canonical magic of Cavera, animating the dead to tend the failing crops on the blistering surface. This desperate survival tactic saved the populace, allowing them to retreat into the cool caverns below. Over the last 100 years, the temporary solution became the foundational bedrock of a bizarre, highly successful civilisation built on the backs of the eternal dead.

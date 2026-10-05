@@ -4,8 +4,8 @@ aliases:
   - Obolus
 title: Obolus
 created: 2026-09-26T16:52:53.980Z
-modified: 2026-09-26T17:18:39.596Z
-published: 2026-09-26T17:18:39.596Z
+modified: 2026-10-03T19:22:03.103Z
+published: 2026-10-03T19:22:03.103Z
 tags:
   - Settlement
   - Location

@@ -4,8 +4,8 @@ aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
 created: 2026-09-26T16:52:54.056Z
-modified: 2026-10-02T14:40:28.402Z
-published: 2026-10-02T14:40:28.402Z
+modified: 2026-10-03T19:22:03.146Z
+published: 2026-10-03T19:22:03.146Z
 tags:
   - State
 symbol: "[[Kazarn_symbol.svg]]"
@@ -49,7 +49,7 @@ To fuel their endless war of expansion and offset the massive casualties of the 
 
 # Government & Politics
 
-The nation is a strict Stratocracy ruled by the High Marshal and a council of Generals. The law is martial law: strict, efficient, and equally applied to a general and a foot soldier. Justice is often decided by sanctioned, honorable duels under the watchful eyes of [[Bella, Goddess of War|Bella]]'s clerics. Desertion or cowardice are considered the most abhorrent crimes, punishable by being exiled weaponless into the deepest parts of the Rust-Wastes.
+The nation is a strict Stratocracy ruled by the High Marshal and a council of Generals. The law is martial law: strict, efficient, and equally applied to a general and a foot soldier. Justice is often decided by sanctioned, honourable duels under the watchful eyes of [[Bella, Goddess of War|Bella]]'s clerics. Desertion or cowardice are considered the most abhorrent crimes, punishable by being exiled weaponless into the deepest parts of the Rust-Wastes.
 
 # Diplomatic Relations
 

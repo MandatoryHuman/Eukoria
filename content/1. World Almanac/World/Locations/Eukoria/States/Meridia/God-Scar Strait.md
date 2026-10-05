@@ -4,8 +4,8 @@ aliases:
   - god-scar strait
 title: God-Scar Strait
 created: 2026-09-26T16:52:53.970Z
-modified: 2026-09-26T17:18:39.589Z
-published: 2026-09-26T17:18:39.589Z
+modified: 2026-10-03T19:22:03.101Z
+published: 2026-10-03T19:22:03.101Z
 tags:
   - Geography
 climate: Temperate, but magically volatile
@@ -32,7 +32,7 @@ The God-Scar Strait is the treacherous, churning body of water separating the co
 
 # Ecology & Environment
 
-The waters of the Strait still bear the deep, reality-warping scars of the [[War of Laws]]. The ocean behaves unnaturally here. Beneath the slate-grey waves, the water pressure frequently fluctuates. Schools of fish have adapted to swim through submerged, localized pockets of breathable air, while jagged coral reefs grow outward from floating, gravity-defying spheres of water hovering just above the surface. The weather is intensely unpredictable, turning from a dead calm to a raging cyclone in mere minutes as residual cosmic friction discharges into the atmosphere.
+The waters of the Strait still bear the deep, reality-warping scars of the [[War of Laws]]. The ocean behaves unnaturally here. Beneath the slate-grey waves, the water pressure frequently fluctuates. Schools of fish have adapted to swim through submerged, localised pockets of breathable air, while jagged coral reefs grow outward from floating, gravity-defying spheres of water hovering just above the surface. The weather is intensely unpredictable, turning from a dead calm to a raging cyclone in mere minutes as residual cosmic friction discharges into the atmosphere.
 
 # Hazards & Encounters
 
@@ -43,7 +43,7 @@ Navigating the Strait without an expensive Meridian guide is considered suicide.
 
 # Landmarks & Points of Interest
 
-- The Glass Breakers: A massive, jagged reef protruding from the southern waters. It is not made of coral, but of actual, glittering glass—the melted remnants of a coastal mountain range that was ground down and superheated during a divine clash 116 years ago.
+- The Glass Breakers: A massive, jagged reef protruding from the southern waters. It is not made of coral, but of actual, glittering glass-the melted remnants of a coastal mountain range that was ground down and superheated during a divine clash 116 years ago.
 - The [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] Toll-Gates: A miles-long naval barricade of chained dreadnoughts and arcane siege platforms extending outward from the Meridian capital, serving as the inescapable customs checkpoint for the civilized world.
 
 # Natural Resources
@@ -52,4 +52,4 @@ Despite the dangers, the Strait is highly lucrative. Scavengers dive for sunken 
 
 # Myths & Lore
 
-The Strait was the epicenter of divine collateral damage during the War of Laws. It was here that the Canonical gods and the rebel forces of Lethos clashed most violently, boiling the oceans and permanently tearing the physical fabric of [[Fundamental Essences|Matter]]. When the dust settled, the founders of Meridia meticulously mapped the only surviving safe currents through the wreckage, leveraging the apocalypse to build the wealthiest empire on Eukoria.
+The Strait was the epicentre of divine collateral damage during the War of Laws. It was here that the Canonical gods and the rebel forces of Lethos clashed most violently, boiling the oceans and permanently tearing the physical fabric of [[Fundamental Essences|Matter]]. When the dust settled, the founders of Meridia meticulously mapped the only surviving safe currents through the wreckage, leveraging the apocalypse to build the wealthiest empire on Eukoria.

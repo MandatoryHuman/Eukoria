@@ -4,10 +4,10 @@ aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
 created: 2026-09-26T16:52:54.409Z
-modified: 2026-10-02T14:40:28.397Z
-published: 2026-10-02T14:40:28.397Z
+modified: 2026-10-03T19:20:45.048Z
+published: 2026-10-03T19:20:45.048Z
 tags:
-  - "#State"
+  - State
 symbol: "[[<% tp.file.title.replaceAll(' ', '_') %>_symbol.svg]]"
 marker:
 capital: <% tp.system.prompt("Capital City?") %>

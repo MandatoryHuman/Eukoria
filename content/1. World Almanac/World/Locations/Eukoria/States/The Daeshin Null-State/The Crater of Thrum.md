@@ -4,8 +4,8 @@ aliases:
   - Crater of Thrum
 title: The Crater of Thrum
 created: 2026-09-26T16:52:53.998Z
-modified: 2026-09-26T17:18:39.602Z
-published: 2026-09-26T17:18:39.602Z
+modified: 2026-10-03T19:22:03.116Z
+published: 2026-10-03T19:22:03.116Z
 tags:
   - Geography
 climate: ""
@@ -44,7 +44,7 @@ A massive, impossibly deep depression located in the exact centre of [[Othrys, T
 # Landmarks & Points of Interest
 
 - Landmark Name: (A notable peak, deep trench, ancient grove, or strange formation. Why is it important?)
-- Site Name: (Any remnants of older civilizations or specific dungeon entrances located within this region.)
+- Site Name: (Any remnants of older civilisations or specific dungeon entrances located within this region.)
 
 # Natural Resources
 

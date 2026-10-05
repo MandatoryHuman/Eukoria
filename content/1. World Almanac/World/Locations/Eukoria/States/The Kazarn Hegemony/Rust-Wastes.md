@@ -4,8 +4,8 @@ aliases:
   - rust-wastes
 title: Rust-Wastes
 created: 2026-09-26T16:52:54.058Z
-modified: 2026-09-26T17:18:39.649Z
-published: 2026-09-26T17:18:39.649Z
+modified: 2026-10-03T19:22:03.147Z
+published: 2026-10-03T19:22:03.147Z
 tags:
   - Geography
 climate: ""
@@ -44,7 +44,7 @@ A wastes full of horrific monstrosities where supernatural entropy continues to 
 # Landmarks & Points of Interest
 
 - Landmark Name: (A notable peak, deep trench, ancient grove, or strange formation. Why is it important?)
-- Site Name: (Any remnants of older civilizations or specific dungeon entrances located within this region.)
+- Site Name: (Any remnants of older civilisations or specific dungeon entrances located within this region.)
 
 # Natural Resources
 

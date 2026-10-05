@@ -5,8 +5,8 @@ aliases:
   - Khalen
 title: The Scholasticate of Khalen
 created: 2026-09-26T16:52:54.080Z
-modified: 2026-10-02T14:40:28.406Z
-published: 2026-10-02T14:40:28.406Z
+modified: 2026-10-03T19:22:03.158Z
+published: 2026-10-03T19:22:03.158Z
 tags:
   - State
 symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"

@@ -4,8 +4,8 @@ aliases:
   - bastion
 title: Bastion
 created: 2026-09-26T16:52:54.054Z
-modified: 2026-09-26T17:18:39.644Z
-published: 2026-09-26T17:18:39.644Z
+modified: 2026-10-03T19:22:03.145Z
+published: 2026-10-03T19:22:03.145Z
 capital: ""
 demographics: ""
 government: ""

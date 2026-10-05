@@ -4,10 +4,10 @@ aliases:
   - index
 title: The Somatic Sanctuary of Vane
 created: 2026-09-28T13:41:36.847Z
-modified: 2026-10-02T14:40:28.409Z
-published: 2026-10-02T14:40:28.409Z
+modified: 2026-10-03T19:22:03.173Z
+published: 2026-10-03T19:22:03.173Z
 tags:
-  - "#State"
+  - State
 symbol: "[[The_Somatic_Sanctuary_of_Vane_symbol.svg]]"
 marker:
 capital: "[[Soma-Nadir]]"
@@ -36,11 +36,11 @@ ruler: The hospital-cloisters of [[Lysia Bind-breaker, Goddess of Passion]]
 
 # Overview
 
-The Somatic Sanctuary of Vane is a refuge for Fleshwarps and anyone seeking radical anatomical modification. It lies in south-west [[Cenora]] between [[The Tralichuan Expanse]], which violently rejects biological artificiality, and the rigidly skeletal [[The Jhalian Necrocracy]].
+The Somatic Sanctuary of Vane is a refuge for Fleshwarps and anyone seeking radical anatomical modification. It lies in South-West [[Cenora]] between [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]], which violently rejects biological artificiality, and the rigidly skeletal [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]].
 
 # Geography & Climate
 
-Vane occupies a tense south-western frontier between hostile neighbours. Its settlements are built around clinical facilities and protected supply routes, while [[The Tralichuan Expanse|Tralichuan]] naval patrols threaten the coast with crusades against Vanean fleshcraft.
+Vane occupies a tense South-Western frontier between hostile neighbours. Its settlements are built around clinical facilities and protected supply routes, while [[The Tralichuan Expanse|Tralichuan]] naval patrols threaten the coast with crusades against Vanean fleshcraft.
 
 # Society & Culture
 
@@ -52,7 +52,7 @@ The sanctuary is governed by the hospital-cloisters of [[Lysia Bind-breaker, God
 
 # Diplomatic Relations
 
-Vane is opposed by [[The Tralichuan Expanse]], whose biological orthodoxy makes the sanctuary a prime target for naval crusades. Its position beside [[The Jhalian Necrocracy]] creates a second ideological pressure, as Vane's living, self-directed fleshcraft stands against Jhal's skeletal rigidity.
+Vane is opposed by [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]], whose biological orthodoxy makes the sanctuary a prime target for naval crusades. Its position beside [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]] creates a second ideological pressure, as Vane's living, self-directed fleshcraft stands against Jhal's skeletal rigidity.
 
 # History & Lore
 

@@ -4,8 +4,8 @@ aliases:
   - Seven-Fold Canopy
 title: The Seven-Fold Canopy
 created: 2026-09-26T16:52:54.092Z
-modified: 2026-09-26T17:18:39.672Z
-published: 2026-09-26T17:18:39.672Z
+modified: 2026-10-03T19:22:03.162Z
+published: 2026-10-03T19:22:03.162Z
 tags:
   - Settlement
 demographics: ""
@@ -30,7 +30,7 @@ The sprawling capital city built high within the intertwined branches of the jun
 
 # Geography & Layout
 
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+(Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)
 
 # Government & Law
 

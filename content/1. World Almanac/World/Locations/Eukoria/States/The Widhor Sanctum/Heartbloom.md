@@ -4,8 +4,8 @@ aliases:
   - tralicor
 title: Tralicor
 created: 2026-09-26T16:52:54.115Z
-modified: 2026-09-26T17:18:39.687Z
-published: 2026-09-26T17:18:39.687Z
+modified: 2026-10-03T19:22:03.171Z
+published: 2026-10-03T19:22:03.171Z
 tags:
   - Settlement
 demographics: ""

@@ -4,68 +4,68 @@ aliases:
   - index
 title: The Morne Free-State
 created: 2026-09-28T13:39:09.665Z
-modified: 2026-10-02T14:51:54.017Z
-published: 2026-10-02T14:51:54.017Z
+modified: 2026-10-03T19:22:27.808Z
+published: 2026-10-03T19:22:27.808Z
 tags:
-  - "#State"
+  - State
 symbol: "[[Morne_Symbol.svg]]"
 marker:
-capital: "[[Alkahest]]"
-demographics: Alchemists, chirurgeons, mercenaries, and Kazarni auxiliaries
-government: Syndicate of chief chirurgeons and master alchemists
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest|Alkahest]]"
+demographics: Alchemical syndicates, monastic physicians, merchants, and jungle communities
+government: Coalition of alchemical syndicates, medical orders, and merchant guilds
 languages: ""
-major_exports: Advanced alchemical compounds, defoliants, and metabolic enhancers
-major_imports: Rare reagents and volatile medicinal ingredients
+major_exports: Internal alchemy, longevity elixirs, restorative tonics, and medicinal craft
+major_imports: Rare reagents, exotic herbs, and volatile ingredients
 population: ""
-religions: "[[Aureon, God of Commerce and Industry]]"
-ruler: The chief chirurgeons and master alchemists
+religions: The balancing of life energies and the sanctity of healing
+ruler: The syndicate councils and senior monastic orders
 ---
 
 > [!info]+ Details
 > **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest.md|Alkahest]]
-> **Government:** Syndicate of chief chirurgeons and master alchemists
-> **Ruler:** The chief chirurgeons and master alchemists
+> **Government:** Coalition of alchemical syndicates, medical orders, and merchant guilds
+> **Ruler:** The syndicate councils and senior monastic orders
 > **Population:**
-> **Demographics:** Alchemists, chirurgeons, mercenaries, and Kazarni auxiliaries
+> **Demographics:** Alchemical syndicates, monastic physicians, merchants, and jungle communities
 > **Languages:**
-> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Aureon, God of Commerce and Industry.md|Aureon, God of Commerce and Industry]]
-> **Major Exports:** Advanced alchemical compounds, defoliants, and metabolic enhancers
-> **Major Imports:** Rare reagents and volatile medicinal ingredients
+> **Religions:** The balancing of life energies and the sanctity of healing
+> **Major Exports:** Internal alchemy, longevity elixirs, restorative tonics, and medicinal craft
+> **Major Imports:** Rare reagents, exotic herbs, and volatile ingredients
 
 ![[Morne_Symbol.svg|300]]
 
 # Overview
 
-The Morne Free-State is a pragmatist's haven in south-west [[Antoria]], trapped between the violent, hyper-accelerated primal growth of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] and the crumbling entropic ash of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]. Its people survive through advanced alchemy and pharmacological mastery.
+The Morne Free-State is an independent coalition of alchemical syndicates, monastic medical orders, and merchant guilds. Drawing heavily from Chinese and Thai influence, Morne has rejected the blast-furnace aesthetics of Western alchemy in favour of internal alchemy, herbalism, and the careful balancing of life energies.
 
 # Geography & Climate
 
-Morne occupies a dangerous borderland. [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|Firstweald]] flora presses in from one side while [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarni]] ash and entropic ruin spread from the other. Alchemical smog and engineered defoliants are a constant part of the landscape around its settlements.
+Mourne is a stunning patchwork of terraced mountain farms, jungle valleys, and river networks crowded with floating markets. The land is lush and fertile, alive with rare medicinal herbs and local spirit-houses that lend power to the region's most potent poultices and tonics. The state thrives in a landscape that rewards balance over force.
 
 # Society & Culture
 
-Mornian society prizes practical expertise, controlled experimentation, and survival. Chief chirurgeons, master alchemists, mercenaries, and industrial workers form a culture where medicine and warfare overlap. The state's alchemists develop defoliants to hold back the Firstweald and metabolic enhancers for the Kazarni legions.
+Morne's apothecaries are renowned across Eukoria. They synthesize longevity elixirs, perform miraculous acupunctural surgeries that can sever curses from a soul, and brew salves that close grievous wounds in moments. Medical and alchemical mastery are not merely professions; they are the basis of status, culture, and civic identity.
 
 # Government & Politics
 
-The Free-State is governed by a syndicate of chief chirurgeons and master alchemists who worship [[Aureon, God of Commerce and Industry|Aureon]]. Political influence follows technical mastery and the ability to keep Morne's settlements supplied, defended, and chemically viable.
+The Free State is governed by a broad coalition of syndicate councils, monastic orders, and merchant houses. Each faction fights for influence through rare formulas, trade rights, and prestige, yet all understand the value of political neutrality. Rival medical sects and alchemical triads constantly spy on one another to steal prized formulas for golden lotuses, immortality pills, and rare anti-curse draughts.
 
 # Diplomatic Relations
 
-Morne is caught between [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] and [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]]. It trades vital pharmacological compounds to the Kazarni legions while using defoliants to resist the Firstweald's encroachment, making every shipment a potential act of war.
+Because its medical and alchemical exports are prized by every major power, Mourne keeps a strict neutrality even while surrounded by rivals. It is a place where commerce thrives, but every treaty can become a covert act of sabotage. The state's political calm is maintained by fear as much as by law.
 
 # History & Lore
 
-Morne's identity was forged by the need to survive between two incompatible catastrophes: unchecked primal growth and entropic collapse. Its alchemical traditions became both shield and currency, allowing the Free-State to endure while binding it ever more tightly to the wars on its borders.
+The Morne Free-State emerged from a culture of medicine, stewardship, and disciplined experimentation. Its people understand the world as a living balance of energies, and their greatest contribution to Eukoria is their mastery of healing, longevity, and transformative alchemy. That reputation makes them indispensable - and deeply dangerous.
 
 # Notable Locations
 
-- [[Alkahest]]: The capital, built into the petrified husk of an ancient World-Oak root and operated as a colossal refinery.
-- The Firstweald border: A constantly shifting frontier held back by engineered defoliants.
-- The Kazarni trench routes: Dangerous supply lines carrying pain-management tonics and metabolic enhancers to the Hegemony.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest|Alkahest]]: The capital, a dense nexus of guildhouses, monastic clinics, and market plazas.
+- The terraced herb-mountains: Vast fields of medicinal flora cultivated under careful ritual and weather control.
+- The floating river markets: Mobile trade hubs carrying rare ingredients, texts, and alchemical reagents.
 
 # Prominent Factions
 
-- The syndicate of chief chirurgeons and master alchemists: Morne's ruling body.
-- Aureon's faithful: Alchemists and physicians who frame their work as service to the god of commerce and industry.
-- Mornian mercenary companies: Armed contractors who protect laboratories, shipments, and border installations.
+- The Emerald Syndicate: Major commercial and alchemical houses that influence Morne's trade and diplomacy.
+- The monastic medical orders: Healers and ritual practitioners whose knowledge of acupuncture and spirit-binding is the basis of Morne's prestige.
+- The alchemical triads: Rival merchant-cartels and laboratory houses that compete over secret formulas and rare reagents.
