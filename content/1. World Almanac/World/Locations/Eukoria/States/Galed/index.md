@@ -1,11 +1,9 @@
 ---
 publish: true
-aliases:
-  - index
 title: The Galedan Synchrony
 created: 2026-09-28T13:46:48.142Z
-modified: 2026-10-03T19:22:08.608Z
-published: 2026-10-03T19:22:08.608Z
+modified: 2026-10-05T12:59:47.307Z
+published: 2026-10-05T12:59:47.307Z
 tags:
   - State
 symbol: "[[Galed_symbol.svg]]"

@@ -4,10 +4,11 @@ aliases:
   - Syndicate of the Fathom-Court
 title: The Syndicate of the Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-10-03T19:22:08.615Z
-published: 2026-10-03T19:22:08.615Z
+modified: 2026-10-05T13:00:14.354Z
+published: 2026-10-05T13:00:14.354Z
 tags:
   - State
+  - state
 symbol: "[[The_Syndicate_of_the_Fathom-Court_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Syndicate of the Fathom-Court/The Floating Court|The Floating Court]]"
 demographics: 30% Human, 30% Azarketi, 20% Halfling, 20% Other

@@ -1,11 +1,9 @@
 ---
 publish: true
-aliases:
-  - index
-title: The Somatic Sanctuary of Vane
+title: Vane
 created: 2026-09-28T13:41:36.847Z
-modified: 2026-10-03T19:22:03.173Z
-published: 2026-10-03T19:22:03.173Z
+modified: 2026-10-05T13:00:42.994Z
+published: 2026-10-05T13:00:42.994Z
 tags:
   - State
 symbol: "[[The_Somatic_Sanctuary_of_Vane_symbol.svg]]"
@@ -32,11 +30,11 @@ ruler: The hospital-cloisters of [[Lysia Bind-breaker, Goddess of Passion]]
 > **Major Exports:** Surgical expertise and anatomical modification
 > **Major Imports:** Surgical supplies and blockade-run materials
 
-![[The_Somatic_Sanctuary_of_Vane_symbol.svg|300]]
+![[Vane_symbol.svg|300]]
 
 # Overview
 
-The Somatic Sanctuary of Vane is a refuge for Fleshwarps and anyone seeking radical anatomical modification. It lies in South-West [[Cenora]] between [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]], which violently rejects biological artificiality, and the rigidly skeletal [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]].
+Vane is a refuge for Fleshwarps and anyone seeking radical anatomical modification. It lies in South-West [[Cenora]] between [[1. World Almanac/World/Locations/Eukoria/States/The Tralichuan Expanse/index|The Tralichuan Expanse]], which violently rejects biological artificiality, and the rigidly skeletal [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]].
 
 # Geography & Climate
 
