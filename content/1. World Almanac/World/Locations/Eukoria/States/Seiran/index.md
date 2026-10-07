@@ -2,8 +2,8 @@
 publish: true
 title: Seiran
 created: 2026-09-28T13:40:48.568Z
-modified: 2026-10-07T09:41:57.736Z
-published: 2026-10-07T09:41:57.736Z
+modified: 2026-10-07T11:00:57.744Z
+published: 2026-10-07T11:00:57.744Z
 tags:
   - State
 aliases:
@@ -35,7 +35,7 @@ ruler: The shogunate's prefectural authorities and spirit-mediums
 
 # Overview
 
-Seiran is a misty, mountainous nation on the continent of [[Antora]], on the far side of the [[God-Scar Strait]] from the [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/index|Fathom-Court]]. It is defined by an unending relationship with the supernatural: an Asian-inspired shogunate drawn from Japanese aesthetics and feudal structure, where the veil between the material plane and the spirit world is thin enough to be crossed by ritual alone.
+Seiran is a misty, mountainous nation on the continent of [[Antora]], on the far side of the [[God-Scar Strait]] from the [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/index|Fathom-Court]]. It is defined by an unending relationship with the supernatural: a spirit-bound shogunate where the veil between the material plane and the spirit world is thin enough to be crossed by ritual alone.
 
 # Geography & Climate
 
