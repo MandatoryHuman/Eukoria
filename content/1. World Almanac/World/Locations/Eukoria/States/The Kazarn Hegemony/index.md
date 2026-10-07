@@ -4,8 +4,8 @@ aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
 created: 2026-09-26T16:52:54.056Z
-modified: 2026-10-03T19:22:03.146Z
-published: 2026-10-03T19:22:03.146Z
+modified: 2026-10-07T09:41:17.582Z
+published: 2026-10-07T09:41:17.582Z
 tags:
   - State
 symbol: "[[Kazarn_symbol.svg]]"
@@ -35,7 +35,7 @@ ruler: "[[High Marshal Kaelen]]"
 
 # Overview
 
-Controlling the massive central landmass of [[Antoria]], the Kazarn [[Hegemony]] is a rigidly disciplined, militaristic society forged in the fires of survival. Their lands are slowly, inevitably succumbing to a supernatural entropy - a lingering scar from the [[War of Laws]]. Though the growth of this area is slow - it will be at least 1000 years before the current mass of Kazarn is engulfed - the government of the [[Hegemony]], and [[High Marshal Kaelen]] in particular, is desperate to fight this decay and so has embraced a culture of relentless martial perfection, forced to constantly expand their borders outward to secure the arable land and resources their dying core territories can no longer provide.
+Controlling the massive central landmass of [[Antora]], the Kazarn [[Hegemony]] is a rigidly disciplined, militaristic society forged in the fires of survival. Their lands are slowly, inevitably succumbing to a supernatural entropy - a lingering scar from the [[War of Laws]]. Though the growth of this area is slow - it will be at least 1000 years before the current mass of Kazarn is engulfed - the government of the [[Hegemony]], and [[High Marshal Kaelen]] in particular, is desperate to fight this decay and so has embraced a culture of relentless martial perfection, forced to constantly expand their borders outward to secure the arable land and resources their dying core territories can no longer provide.
 
 # Geography & Climate
 
@@ -58,7 +58,7 @@ The nation is a strict Stratocracy ruled by the High Marshal and a council of Ge
 
 # History & Lore
 
-Central [[Antoria]] was one of the bloodiest battlegrounds during the [[War of Laws]]. When the celestial rebellion spilled onto mortal soil, the sheer volume of divine magic deployed here permanently broke the physical laws of the region, accelerating the natural entropy of the earth. From the ashes, scattered warlords and dwarven clans united under the banner of Bella, realizing that only absolute martial discipline could save them from the crumbling wastes.
+Central [[Antora]] was one of the bloodiest battlegrounds during the [[War of Laws]]. When the celestial rebellion spilled onto mortal soil, the sheer volume of divine magic deployed here permanently broke the physical laws of the region, accelerating the natural entropy of the earth. From the ashes, scattered warlords and dwarven clans united under the banner of Bella, realizing that only absolute martial discipline could save them from the crumbling wastes.
 
 # Notable Locations
 

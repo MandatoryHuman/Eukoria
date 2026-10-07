@@ -3,15 +3,16 @@ publish: true
 aliases:
   - formation of meridia
 title: Formation of Meridia
-created: 2026-09-26T16:52:53.824Z
-modified: 2026-09-26T17:18:39.476Z
-published: 2026-09-26T17:18:39.476Z
+created: 0 AW
+modified: 2026-10-07T09:42:11.055Z
+published: 0 AW
 tags:
   - "#Events"
 factions_involved: Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers
 key_figures: "[[High Arbiter Garadwen]]"
 location: "[[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]"
 type: State Formation
+date: 0 AW
 ---
 
 > [!info]+ Details
@@ -24,7 +25,7 @@ type: State Formation
 
 # Overview
 
-The Formation of Meridia began in the same year the [[War of Laws]] ended, during a period when [[index|Eukoria]] was still reeling from divine devastation. This was the day that [[High Arbiter Garadwen]] and the rest of the founders made their first voyage through the [[God-Scar Strait]]. It's said that [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] now stands at the location they originally landed.
+The Formation of Meridia began in 0 AW, the same year the [[War of Laws]] ended, during a period when [[index|Eukoria]] was still reeling from divine devastation. This was the day that [[High Arbiter Garadwen]] and the rest of the founders made their first voyage through the [[God-Scar Strait]]. It's said that [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] now stands at the location they originally landed.
 
 # Prelude & Causes
 

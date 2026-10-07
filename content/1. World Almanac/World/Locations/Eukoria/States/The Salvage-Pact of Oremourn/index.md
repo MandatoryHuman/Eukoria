@@ -6,8 +6,8 @@ aliases:
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
 created: 2026-09-26T16:52:54.075Z
-modified: 2026-10-03T19:22:08.610Z
-published: 2026-10-03T19:22:08.610Z
+modified: 2026-10-07T09:42:48.243Z
+published: 2026-10-07T09:42:48.243Z
 tags:
   - State
 symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
@@ -37,7 +37,7 @@ ruler: The Council of Iron
 
 # Overview
 
-Situated in northern [[Antoria]], sandwiched between the storm-battered [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|Rastorian Reach]] and the eroding [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarn Hegemony]], is a brutal, industrial patchwork of "Scrap-Baronies" collectively known as the Salvage-Pact of Oremourn.
+Situated in northern [[Antora]], sandwiched between the storm-battered [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|Rastorian Reach]] and the eroding [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarn Hegemony]], is a brutal, industrial patchwork of "Scrap-Baronies" collectively known as the Salvage-Pact of Oremourn.
 
 The society of Oremourn is built around the Pact is the blood-and-oil, a treaty that keeps the local warlords from entirely annihilating one another - most of the time. It regulated the harvest of rotting "god-corpses" left over from the apocalypse, which are then used to build crude, incredibly powerful magitek inventions.
 
@@ -61,7 +61,7 @@ There is no central monarch or prince. Oremourn is a patchwork of shifting terri
 
 # History & Lore
 
-Following the [[War of Laws]], this region of Antoria was deemed a permanently dead zone where the [[Fundamental Essences|Essence of Matter]] was fundamentally broken. However, desperate refugees and mad inventors soon realised that the debris possessed latent, harvestable power. Over seventy years, these disparate survivor camps coalesced into the Scrap-Baronies. They proudly took the name "Oremourn" as an ironical middle finger to the destroyed, shining monarchy that governed the region before the gods fell. The Salvage-Pact was signed thirty years ago to end a devastating internal civil war over a massive, un-looted celestial dreadnought, finally unifying the wastes.
+Following the [[War of Laws]], this region of Antora was deemed a permanently dead zone where the [[Fundamental Essences|Essence of Matter]] was fundamentally broken. However, desperate refugees and mad inventors soon realised that the debris possessed latent, harvestable power. By 46 AW, these disparate survivor camps had coalesced into the Scrap-Baronies. They proudly took the name "Oremourn" as an ironic middle finger to the destroyed, shining monarchy that governed the region before the gods fell. The Salvage-Pact was signed in 86 AW to end a devastating internal civil war over a massive, un-looted celestial dreadnought, finally unifying the wastes.
 
 # Notable Locations
 

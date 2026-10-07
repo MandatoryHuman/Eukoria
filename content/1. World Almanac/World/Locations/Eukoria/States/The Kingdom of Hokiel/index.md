@@ -2,8 +2,8 @@
 publish: true
 title: The Kingdom of Hokiel
 created: 2026-10-02T14:02:32.969Z
-modified: 2026-10-05T13:10:19.510Z
-published: 2026-10-05T13:10:19.510Z
+modified: 2026-10-07T09:43:23.601Z
+published: 2026-10-07T09:43:23.601Z
 tags:
   - State
 aliases:
@@ -35,7 +35,7 @@ ruler: King Oric the Resolute
 
 # Overview
 
-Nestled in the North-Eastern plains of [[Antoria]], the Kingdom of Hokiel is a proud and highly traditional feudal monarchy. To the rest of the continent, it is the romanticised, chivalric shield of the north. Where its southern neighbours in the [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] rely on a grim, utilitarian stratocracy to survive, Hokiel embraces glorious pageantry, divine right, and the orthodox purity of Divine Magic: the harmonious blend of Life and Spirit.
+Nestled in the North-Eastern plains of [[Antora]], the Kingdom of Hokiel is a proud and highly traditional feudal monarchy. To the rest of the continent, it is the romanticised, chivalric shield of the north. Where its southern neighbours in the [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] rely on a grim, utilitarian stratocracy to survive, Hokiel embraces glorious pageantry, divine right, and the orthodox purity of Divine Magic: the harmonious blend of Life and Spirit.
 
 # Geography & Climate
 
@@ -61,7 +61,7 @@ The military is heavily cavalry-focused, boasting orders of paladins and divine 
 
 # History & Lore
 
-The kingdom was forged in the aftermath of the [[War of Laws]] 116 years ago. While the oceans boiled and mountains were ground into glass, a coalition of paladins anchored their souls to the land using pure orthodox faith, shielding the North-Eastern plains from the worst of the divine collateral damage. Their descendants now rule from those very keeps.
+The kingdom was forged in the aftermath of the [[War of Laws]] in 0 AW. While the oceans boiled and mountains were ground into glass, a coalition of paladins anchored their souls to the land using pure orthodox faith, shielding the North-Eastern plains from the worst of the divine collateral damage. Their descendants now rule from those very keeps.
 
 # Notable Locations
 

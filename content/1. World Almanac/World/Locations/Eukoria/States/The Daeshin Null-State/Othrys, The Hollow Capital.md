@@ -5,8 +5,8 @@ aliases:
   - othrys, the hollow capital
 title: Othrys, The Hollow Capital
 created: 2026-09-26T16:52:53.997Z
-modified: 2026-10-03T19:22:41.253Z
-published: 2026-10-03T19:22:41.253Z
+modified: 2026-10-07T09:42:40.700Z
+published: 2026-10-07T09:42:40.700Z
 tags:
   - Settlement
 demographics: Fleshwarps, Mutants, Exiles
@@ -40,7 +40,7 @@ There is no law in Othrys. It is a place of pure, terrifying anarchy. Survival i
 # Districts
 
 - The Suspended Wards: The former noble district, now consisting of massive, opulent mansions floating freely in the air. Navigating this district requires leaping between floating debris or utilizing spells that grant flight, though flight magic is incredibly prone to Wild Surges here.
-- The Ashen Forum: The old commercial centre. It is heavily populated by Echoes repeating the same bartering dialogue from 116 years ago. This is where the [[Cult of the Silent Void]] makes their base, dragging trespassers here to be sacrificed to the vacuum.
+- The Ashen Forum: The old commercial centre. It is heavily populated by Echoes repeating the same bartering dialogue from 0 AW. This is where the [[Cult of the Silent Void]] makes their base, dragging trespassers here to be sacrificed to the vacuum.
 
 # Notable Locations
 
@@ -50,7 +50,7 @@ There is no law in Othrys. It is a place of pure, terrifying anarchy. Survival i
 # Key NPCs
 
 - The Weeping Oracle: (Level 14 Fleshwarp / Occultist) The leader of the Weavers of Aporia. They have heavily mutated, sporting multiple sets of eyes that constantly weep black tears. They use the city's cosmic friction to peer into alternate timelines and frequently trade safe passage for "Anchors" (emotional items).
-- "Speaker" Vane: (Level 15 Human Cultist of Thrum) A terrifyingly calm, smiling man who leads the Cult of the Silent Void. He has ritually severed his own vocal cords but communicates directly into the minds of others using parasitic telepathy.
+- "Speaker" : (Level 15 Human Cultist of Thrum) A terrifyingly calm, smiling man who leads the Cult of the Silent Void. He has ritually severed his own vocal cords but communicates directly into the minds of others using parasitic telepathy.
 
 # Factions & Guilds
 

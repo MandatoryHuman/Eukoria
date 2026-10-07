@@ -5,8 +5,8 @@ aliases:
   - Gods
 title: Gods & Divines
 created: 2026-09-30T15:02:05.748Z
-modified: 2026-09-30T15:03:10.265Z
-published: 2026-09-30T15:03:10.265Z
+modified: 2026-10-07T09:41:41.492Z
+published: 2026-10-07T09:41:41.492Z
 ---
 
 The theology of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] is inextricably linked to the mechanics of reality itself. The divine hierarchy is based on the exact cosmic geometry of the four [[Fundamental Essences]] (Life, Spirit, Mind, Matter) and the two [[Basic Essences]] (Presence, Absence). The Gods are separated into strict categories depending on how their underlying essences interact, align, or clash.
@@ -23,7 +23,7 @@ The Greater Gods are cosmic monoliths comprised of exactly two Essences. Because
 
 ## [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
 
-Canonical Greater Gods are those comprised of any two adjacent Essences on the cosmic wheel. This adjacency creates a natural harmony. Because their essences flow into one another smoothly, they form the bedrock of the orthodox universe and the established laws of nature.
+Canonical Greater Gods are those comprised of any two adjacent Essences on the cosmic wheel, including combinations that cross the boundary between Basic and Fundamental Essences. This adjacency creates a natural harmony. Because their essences flow into one another smoothly, they form the bedrock of the orthodox universe and the established laws of nature.
 
 ### [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/index|Gods of Magic]]
 
@@ -31,8 +31,8 @@ A highly specific sub-category of Canonical Gods. These deities are comprised of
 
 ## [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]]
 
-Non-Canonical Greater Gods are those comprised of two non-adjacent (opposing or clashing) Essences.
-Mortal churches frequently misuse the term "Non-Canonical" as a political slur to demonize any god or religion they politically oppose. However, to scholars and arcanists, "Non-Canonical" is not a moral judgment. Rather, it is a strict, mathematical description of a deity formed from the friction of non-adjacent essences.
+Non-Canonical Greater Gods are those comprised of two non-adjacent (opposing or clashing) Essences. The Twins made their existence cosmologically lawful at the end of the War of Laws, but many mortal churches and Canonical Gods still describe them as wrong, illegal, or dangerous.
+Mortal churches also misuse the term "Non-Canonical" as a political slur to demonise any god or religion they oppose. To scholars and arcanists, however, it remains a precise description of a deity formed from non-adjacent essences, not a moral judgement.
 
 ### [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]
 

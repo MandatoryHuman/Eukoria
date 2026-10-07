@@ -2,8 +2,8 @@
 publish: true
 title: Seiran
 created: 2026-09-28T13:40:48.568Z
-modified: 2026-10-05T13:10:19.508Z
-published: 2026-10-05T13:10:19.508Z
+modified: 2026-10-07T09:41:57.736Z
+published: 2026-10-07T09:41:57.736Z
 tags:
   - State
 aliases:
@@ -35,7 +35,7 @@ ruler: The shogunate's prefectural authorities and spirit-mediums
 
 # Overview
 
-Seiran is a misty, mountainous nation defined by an unending relationship with the supernatural. It is an Asian-inspired shogunate drawn from Japanese aesthetics and feudal structure, where the veil between the material plane and the spirit world is thin enough to be crossed by ritual alone.
+Seiran is a misty, mountainous nation on the continent of [[Antora]], on the far side of the [[God-Scar Strait]] from the [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/index|Fathom-Court]]. It is defined by an unending relationship with the supernatural: an Asian-inspired shogunate drawn from Japanese aesthetics and feudal structure, where the veil between the material plane and the spirit world is thin enough to be crossed by ritual alone.
 
 # Geography & Climate
 
@@ -51,7 +51,7 @@ The military and the state are inseparable from the spiritual world. Seiran's ma
 
 # Diplomatic Relations
 
-The most dangerous frontier in Seiran is the western maritime margin. The Far Prefectures of Ryoshi and Tsuru sit in the strategic waterways between Antora and Cenora, where Seiran maintains a tense, decades-long cold war against Meridia. Open war is avoided by mutual assured destruction, but espionage, blockade running, assassinations, and naval skirmishes continue beneath a constant climate of dread.
+The most dangerous frontier in Seiran is the western maritime margin. The Far Prefectures of Ryoshi and Tsuru sit in the strategic waterways around Antora, where Seiran maintains a tense, decades-long cold war against Meridia. Open war is avoided by mutual assured destruction, but espionage, blockade running, assassinations, and naval skirmishes continue beneath a constant climate of dread.
 
 # History & Lore
 

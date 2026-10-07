@@ -4,8 +4,8 @@ aliases:
   - Meridia
 title: Meridia
 created: 2026-09-26T16:52:53.972Z
-modified: 2026-10-03T19:22:03.102Z
-published: 2026-10-03T19:22:03.102Z
+modified: 2026-10-07T09:42:40.704Z
+published: 2026-10-07T09:42:40.704Z
 tags:
   - State
 symbol: "[[Meridia_symbol.svg]]"
@@ -35,7 +35,7 @@ ruler: "[[High Arbiter Garadwen]]"
 
 # Overview
 
-As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponised bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antoria]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate-infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] to the North.
+As the gatekeepers of the central passage, Meridia thrives on order, orthodox magic, and aggressively weaponised bureaucracy. They view themselves as the civilized centre of the world. Meridia has managed to leverage their position as the geographic bridge between [[Antora]] and [[Cenora]], along with their mighty navy, to great advantage. Any other kingdom that wishes to enter into trade or dealings with the other continent is forced into a choice; Either they pay whatever tariffs and fees Meridia decides to charge for the right to transport goods through their waters, or risk transporting it via the pirate-infested waters of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]] to the North.
 
 # Geography & Climate
 
@@ -55,7 +55,7 @@ Meridia holds the world hostage through ink and geography. The nations of the co
 
 # History & Lore
 
-Exactly 116 years ago, the heavens were torn apart by the [[War of Laws]]. The conflict spilled directly onto the mortal soil of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], and the region that is now Meridia became a canvas for divine collateral damage. As Canonical and rebel gods clashed, oceans boiled and mountains were ground into glass. From the ashes of this devastation, clever survivors recognized an opportunity. While the rest of the world reeled from the permanent scars and dead-magic zones left behind, the founders of Meridia meticulously mapped the safe paths through the newly warped strait. By monopolizing this knowledge, they transitioned from survivors of a cataclysm into the wealthiest oligarchs in the world.
+In 0 AW, the heavens were torn apart by the [[War of Laws]]. The conflict spilled directly onto the mortal soil of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], and the region that is now Meridia became a canvas for divine collateral damage. As Canonical and rebel gods clashed, oceans boiled and mountains were ground into glass. From the ashes of this devastation, clever survivors recognised an opportunity. While the rest of the world reeled from the permanent scars and dead-magic zones left behind, the founders of Meridia meticulously mapped the safe paths through the newly warped strait. By monopolising this knowledge, they transitioned from survivors of a cataclysm into the wealthiest oligarchs in the world.
 
 # Notable Locations
 

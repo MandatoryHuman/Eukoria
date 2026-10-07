@@ -4,15 +4,15 @@ aliases:
   - basic essences
 title: Basic Essences
 created: 2026-09-26T16:52:54.122Z
-modified: 2026-09-21T23:19:18.903Z
-published: 2026-09-21T23:19:18.903Z
+modified: 2026-10-07T09:41:41.494Z
+published: 2026-10-07T09:41:41.494Z
 ---
 
 > [!quote|author] Origin Myths of Eukoria
 > "Before the wheel of the four Fundamentals could turn, there had to be a space for it to turn within, and a force to set it in motion."
 
 While the four [[Fundamental Essences]] make up the complex reality of the mortal plane and the orthodox magic system, the Basic Essences serve as the absolute, binary anchors of existence.
-They are the most primordial forces in the cosmos. [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - the primordial deities of Eukoria - are solely comprised of a single Basic Essence each. When a Basic Essence interacts with a Fundamental, it creates the broader domains of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] outside of the Gods of Magic.
+They are the most primordial forces in the cosmos. [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] - the primordial deities of Eukoria - are solely comprised of a single Basic Essence each. When a Basic Essence combines with an adjacent Fundamental Essence, it creates the broader domains of the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] outside of the Gods of Magic. Canonical status depends on adjacency, not on whether the pair is Basic–Fundamental or Fundamental–Fundamental.
 
 # The Two Basic Essences
 

@@ -4,8 +4,8 @@ aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
 created: 2026-09-26T16:52:54.103Z
-modified: 2026-10-03T19:22:03.166Z
-published: 2026-10-03T19:22:03.166Z
+modified: 2026-10-07T09:41:17.599Z
+published: 2026-10-07T09:41:17.599Z
 tags:
   - State
 symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
@@ -52,7 +52,7 @@ The Empire is ruled by [[Empress Ranani the Unbroken]], a follower of [[Vellora,
 # Diplomatic Relations
 
 - [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]] (Violently Hostile): Tralicor borders Jhal to the east and utterly despises them. They view Jhal's use of undead for agriculture as a gross, offensive violation of Maelis's domain of natural growth, and Tralichuan paladins frequently launch holy crusades into Jhalian strip mines.
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antoria]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antora]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
 
 # History & Lore
 

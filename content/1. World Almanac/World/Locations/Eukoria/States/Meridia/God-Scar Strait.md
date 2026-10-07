@@ -4,8 +4,8 @@ aliases:
   - god-scar strait
 title: God-Scar Strait
 created: 2026-09-26T16:52:53.970Z
-modified: 2026-10-03T19:22:03.101Z
-published: 2026-10-03T19:22:03.101Z
+modified: 2026-10-07T09:42:40.702Z
+published: 2026-10-07T09:42:40.702Z
 tags:
   - Geography
 climate: Temperate, but magically volatile
@@ -28,7 +28,7 @@ type: Oceanic Channel
 
 # Overview
 
-The God-Scar Strait is the treacherous, churning body of water separating the continents of [[Antoria]] and [[Cenora]]. Widely considered one of the most dangerous, highly-trafficked regions in the world, it is the geographic choke-point that holds the global economy hostage. At its narrowest point sits the capital city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]], where the [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] navy enforces extortionate tariffs on any ship attempting to cross between the continents. To outsiders, the Strait is a graveyard of broken ships, as well as sunk bank accounts.
+The God-Scar Strait is the treacherous, churning body of water separating the continents of [[Antora]] and [[Cenora]]. Widely considered one of the most dangerous, highly-trafficked regions in the world, it is the geographic choke-point that holds the global economy hostage. At its narrowest point sits the capital city of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]], where the [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridian]] navy enforces extortionate tariffs on any ship attempting to cross between the continents. To outsiders, the Strait is a graveyard of broken ships, as well as sunk bank accounts.
 
 # Ecology & Environment
 
@@ -43,7 +43,7 @@ Navigating the Strait without an expensive Meridian guide is considered suicide.
 
 # Landmarks & Points of Interest
 
-- The Glass Breakers: A massive, jagged reef protruding from the southern waters. It is not made of coral, but of actual, glittering glass-the melted remnants of a coastal mountain range that was ground down and superheated during a divine clash 116 years ago.
+- The Glass Breakers: A massive, jagged reef protruding from the southern waters. It is not made of coral, but of actual, glittering glass - the melted remnants of a coastal mountain range that was ground down and superheated during the divine clash in 0 AW.
 - The [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]] Toll-Gates: A miles-long naval barricade of chained dreadnoughts and arcane siege platforms extending outward from the Meridian capital, serving as the inescapable customs checkpoint for the civilized world.
 
 # Natural Resources

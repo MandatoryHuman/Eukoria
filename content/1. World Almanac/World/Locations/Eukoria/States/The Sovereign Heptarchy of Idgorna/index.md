@@ -5,8 +5,8 @@ aliases:
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
 created: 2026-09-26T16:52:54.091Z
-modified: 2026-10-03T19:23:44.256Z
-published: 2026-10-03T19:23:44.256Z
+modified: 2026-10-07T09:41:17.591Z
+published: 2026-10-07T09:41:17.591Z
 tags:
   - State
 symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg]]"
@@ -36,7 +36,7 @@ ruler: The [[Witan]]
 
 # Overview
 
-The Sovereign [[Heptarchy]] of Idgorna is a vibrant, hyper-competitive nation occupying the South-Eastern tropical expanse of [[Antoria]]. Idgorna is a domain where the natural world has been domesticated and weaponised through complex feudal politics, ancient traditions, and martial prowess. It is a society steeped in espionage, shifting alliances, and relentless ambition, where the pen, the spear, and the spell are considered equally valid tools of statecraft.
+The Sovereign [[Heptarchy]] of Idgorna is a vibrant, hyper-competitive nation occupying the South-Eastern tropical expanse of [[Antora]]. Idgorna is a domain where the natural world has been domesticated and weaponised through complex feudal politics, ancient traditions, and martial prowess. It is a society steeped in espionage, shifting alliances, and relentless ambition, where the pen, the spear, and the spell are considered equally valid tools of statecraft.
 
 # Geography & Climate
 

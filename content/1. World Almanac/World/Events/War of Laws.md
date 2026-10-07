@@ -3,9 +3,9 @@ publish: true
 aliases:
   - war of laws
 title: War of Laws
-created: 2026-09-26T16:52:53.833Z
-modified: 2026-09-26T17:18:39.487Z
-published: 2026-09-26T17:18:39.487Z
+created: 10 BW–0 AW
+modified: 2026-10-07T09:41:41.491Z
+published: 10 BW–0 AW
 tags:
   - "#Wars"
   - "#Events"
@@ -14,6 +14,7 @@ factions_involved: Canonical deities; rebel Lesser Gods; mortal factions aligned
 key_figures: "[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]"
 location: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
 type: Divine War
+date: 10 BW–0 AW
 ---
 
 > [!info]+ Details
@@ -26,7 +27,7 @@ type: Divine War
 
 # Overview
 
-The War of Laws was a cataclysmic, decade-long celestial rebellion that tore the heavens apart exactly 116 years ago. What began as a theological dispute over the rigid geometry of the divine hierarchy devolved into total divine attrition, killing numerous deities and leaving permanent scars across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]].
+The War of Laws was a cataclysmic, decade-long celestial rebellion that ended in 0 AW, after beginning in 10 BW. What began as a theological dispute over the rigid geometry of the divine hierarchy devolved into total divine attrition, killing numerous deities and leaving permanent scars across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]].
 
 # Prelude & Causes
 
@@ -42,7 +43,7 @@ The rebellion escalated into a full celestial war, then spilled onto mortal soil
 
 Amid the slaughter, Lethos advanced his own station by eliminating key targets. He killed [[Thrum, God of Madness]] to open a path into the Greater pantheon, then killed [[Syla, Goddess of Records]], erasing centuries of preserved knowledge and obscuring parts of the war's true history.
 
-The conflict ended only when [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] awakened. Their brief manifestation halted all hostilities and imposed a single decree: [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]] would be permitted to exist. This decree immediately produced two historic consequences:
+The conflict ended in 0 AW when [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]] awakened. Their brief manifestation halted all hostilities and changed cosmological law: [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]] would be permitted to exist. This was a legal change to the structure of reality, not a reconciliation. Many mortals and Canonical Gods still condemn Non-Canonical Gods as wrong and illegal. The decree immediately produced two historic consequences:
 
 - **The Ascension**, in which Lysia and Aethelgard were elevated, establishing the [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]].
 - **The Birth of the Paradox**, when the contradictory energies released during the decree coalesced into [[Aporia, God of Fate]], born of both Presence and Absence.
@@ -53,4 +54,4 @@ The heavens settled into an uneasy peace, but [[index|Eukoria]] remained permane
 
 The death of [[Syla, Goddess of Records]] left writings physically scrambled, and mortal beings' memories scattered, causing much of the planet's past shrouded in mystery.
 
-In modern memory, the War of Laws marks both an apocalypse and a constitutional pivot in divine order: the end of strict Canonical monopoly, the legitimization of Non-Canonical divinity, and the beginning of a new cosmological era whose consequences still govern mortal life.
+In modern memory, the War of Laws marks both an apocalypse and a constitutional pivot in divine order: the end of strict Canonical monopoly, the cosmological legalisation of Non-Canonical divinity, and the beginning of a new era whose social and theological conflict still governs mortal life.

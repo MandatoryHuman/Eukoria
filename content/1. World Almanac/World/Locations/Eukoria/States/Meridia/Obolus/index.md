@@ -4,8 +4,8 @@ aliases:
   - Obolus
 title: Obolus
 created: 2026-09-26T16:52:53.980Z
-modified: 2026-10-03T19:22:03.103Z
-published: 2026-10-03T19:22:03.103Z
+modified: 2026-10-07T09:42:40.706Z
+published: 2026-10-07T09:42:40.706Z
 tags:
   - Settlement
   - Location
@@ -59,4 +59,4 @@ The city, and the nation at large, is governed by the Board of the [[Concordat]]
 
 # History & Lore
 
-Exactly 116 years ago, the [[War of Laws]] spilled onto the mortal soil of Eukoria, grinding mountains into glass and boiling the oceans. The region surrounding the strait was a canvas for divine collateral damage. However, clever survivors - including a younger [[High Arbiter Garadwen|Garadwen]] - recognized an opportunity in the ashes. While the world reeled, they meticulously mapped the only surviving safe path through the newly warped [[God-Scar Strait]]: the narrow channel between the Eastern and Western continents. By monopolizing this navigational knowledge and fortifying both sides of the channel, the city's founders transitioned from survivors of a cataclysm into the wealthiest oligarchs in the world.
+In 0 AW, the [[War of Laws]] spilled onto the mortal soil of Eukoria, grinding mountains into glass and boiling the oceans. The region surrounding the strait was a canvas for divine collateral damage. However, clever survivors - including a younger [[High Arbiter Garadwen|Garadwen]] - recognised an opportunity in the ashes. While the world reeled, they meticulously mapped the only surviving safe path through the newly warped [[God-Scar Strait]]: the narrow channel between the Eastern and Western continents. By monopolising this navigational knowledge and fortifying both sides of the channel, the city's founders transitioned from survivors of a cataclysm into the wealthiest oligarchs in the world.

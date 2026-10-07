@@ -4,8 +4,8 @@ aliases:
   - Elderheart
 title: Elderheart
 created: 2026-09-26T16:52:54.025Z
-modified: 2026-10-03T19:22:03.125Z
-published: 2026-10-03T19:22:03.125Z
+modified: 2026-10-07T09:43:23.595Z
+published: 2026-10-07T09:43:23.595Z
 tags:
   - Settlement
 demographics: Elves, Leshies, Beastkin, Fey, Humans
@@ -26,7 +26,7 @@ type: Capital City
 
 # Overview
 
-Elderheart is not a city that was built, but rather grown. Serving as the capital of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] in the deep forests of [[Antoria]], the entire settlement is vertically integrated into the boughs, trunk, and roots of a single, titanic tree known as the World-Oak.
+Elderheart is not a city that was built, but rather grown. Serving as the capital of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] in the deep forests of [[Antora]], the entire settlement is vertically integrated into the boughs, trunk, and roots of a single, titanic tree known as the World-Oak.
 
 To a traveller, Elderheart is a breath taking, overwhelming sensory experience. The air is thick with the scent of pine and blooming flora, and the architecture consists of living wood coaxed into elegant platforms, bridges, and hollows through the precise application of Primal Magic. It is a living monument to the orthodox harmony of Matter and Life.
 
@@ -60,6 +60,6 @@ Elderheart is governed by the Circle of the Root, a conclave of elder druids and
 
 # History & Lore
 
-Antoria is widely recognized as the cradle from which humanoid life first appeared on the continents. The origins of Elderheart trace back to the most ancient druidic circles who first communed with Kurnos.
+Antora is widely recognized as the cradle from which humanoid life first appeared on the continents. The origins of Elderheart trace back to the most ancient druidic circles who first communed with Kurnos.
 
-116 years ago, when the [[War of Laws]] tore the heavens apart and the fundamental laws of reality broke down on Eukoria's soil, the Firstweald faced total annihilation. As oceans boiled and mountains were ground into glass, the ancestors of the current Circle channeled an unprecedented amount of Primal Magic. They hyper-accelerated the growth of a single, sacred sapling, using the unmitigated force of the earth to weave a massive, continent-spanning ward of Life and Matter. The World-Oak grew to its current titanic size in mere days, sheltering the surviving population within its boughs while the celestial rebellion ravaged the outside world. Today, the city stands as a living testament to their survival and their absolute rejection of the volatile cosmic friction that caused the cataclysm.
+in 0 AW, when the [[War of Laws]] tore the heavens apart and the fundamental laws of reality broke down on Eukoria's soil, the Firstweald faced total annihilation. As oceans boiled and mountains were ground into glass, the ancestors of the current Circle channeled an unprecedented amount of Primal Magic. They hyper-accelerated the growth of a single, sacred sapling, using the unmitigated force of the earth to weave a massive, continent-spanning ward of Life and Matter. The World-Oak grew to its current titanic size in mere days, sheltering the surviving population within its boughs while the celestial rebellion ravaged the outside world. Today, the city stands as a living testament to their survival and their absolute rejection of the volatile cosmic friction that caused the cataclysm.

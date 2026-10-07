@@ -5,8 +5,8 @@ aliases:
   - Glandaria
 title: The Glandaric Marches
 created: 2026-09-26T16:52:54.043Z
-modified: 2026-10-03T19:22:03.142Z
-published: 2026-10-03T19:22:03.142Z
+modified: 2026-10-07T09:41:57.731Z
+published: 2026-10-07T09:41:57.731Z
 tags:
   - State
 symbol: "[[Gladaria_symbol.svg]]"
@@ -40,7 +40,7 @@ The Glandaric Marches are a fractured, desperate coalition of territories that s
 
 # Geography & Climate
 
-Located in Eastern [[Cenora]], the landscape of the Marches is a harsh, fortified plains region that steadily deteriorates the closer one gets to the Null-State. Near to the border, the environment is frequently subjected to unpredictable "reality storms" bleeding over the border - invisible waves of cosmic friction where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously rewriting gravity, mutating local wildlife, and erasing the memories of anyone caught outside.
+Located south-east of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] in [[Cenora]], the landscape of the Marches is a harsh, fortified plains region that steadily deteriorates the closer one gets to the Null-State. Near to the border, the environment is frequently subjected to unpredictable "reality storms" bleeding over the border - invisible waves of cosmic friction where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously rewriting gravity, mutating local wildlife, and erasing the memories of anyone caught outside.
 
 ![[Assets/Locations/The Glandaric Marches.webp]]
 

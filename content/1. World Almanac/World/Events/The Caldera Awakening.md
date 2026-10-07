@@ -3,15 +3,16 @@ publish: true
 aliases:
   - the caldera awakening
 title: The Caldera Awakening
-created: 2026-09-26T16:52:53.826Z
-modified: 2026-09-26T17:18:39.478Z
-published: 2026-09-26T17:18:39.478Z
+created: 58 AW
+modified: 2026-10-07T09:42:11.060Z
+published: 58 AW
 tags:
   - "#Events"
 factions_involved: Early Inventors Guilds; Secular Militias; Orthodox Loyalists
 key_figures: Chancellor Vondal Iron-Speaker
 location: Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]
 type: Industrial Revolution & Political Uprising
+date: 58 AW
 ---
 
 > [!info]+ Details

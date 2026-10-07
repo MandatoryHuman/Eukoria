@@ -4,8 +4,8 @@ aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
 created: 2026-09-26T16:52:54.006Z
-modified: 2026-10-03T19:22:03.119Z
-published: 2026-10-03T19:22:03.119Z
+modified: 2026-10-07T09:41:57.732Z
+published: 2026-10-07T09:41:57.732Z
 tags:
   - State
 symbol: "[[Vael_symbol.svg]]"
@@ -35,7 +35,7 @@ major_imports: Raw materials, Historical Texts, Paper
 
 # Overview
 
-The Directorate of Vael, located in the central heartlands of [[Cenora]], is a hyper-structured, intellectually terrifying theocracy. It is a nation where the law is absolute, and privacy is considered a moral failing. Guarded by impenetrable psychic wards and governed by literal hive-minds, Vael boasts a crime rate of virtually zero - after all, the state's inquisitors know a crime is going to happen before the perpetrator even commits to the idea.
+The Directorate of Vael occupies the central heartlands of [[Cenora]], west of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. It is a hyper-structured, intellectually terrifying theocracy where the law is absolute and privacy is considered a moral failing. Guarded by impenetrable psychic wards and governed by literal hive-minds, Vael boasts a crime rate of virtually zero - after all, the state's inquisitors know a crime is going to happen before the perpetrator even commits to the idea.
 
 # Geography & Climate
 

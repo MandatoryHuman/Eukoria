@@ -4,15 +4,15 @@ aliases:
   - Eukoria
 title: Eukoria
 created: 2026-09-30T15:08:07.696Z
-modified: 2026-09-30T15:08:51.636Z
-published: 2026-09-30T15:08:51.636Z
+modified: 2026-10-07T09:41:17.559Z
+published: 2026-10-07T09:41:17.559Z
 ---
 
 > [!info] Eukoria is a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
 ## Gross Geography
 
-Eukoria is made up of a pair of continents; [[Antoria]] to the West and [[Cenora]] to the East. Much of the land's history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], but it is known that humanoid life first appeared on the continents on the South-West coast of [[Antoria]] and spread from there.
+Eukoria is made up of a pair of continents; [[Antora]] to the West and [[Cenora]] to the East. Much of the land's history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], but it is known that humanoid life first appeared on the continents on the South-West coast of [[Antora]] and spread from there.
 
 ## Cosmology & The Divine
 

@@ -4,8 +4,8 @@ aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
 created: 2026-09-26T16:52:54.018Z
-modified: 2026-10-03T19:23:15.516Z
-published: 2026-10-03T19:23:15.516Z
+modified: 2026-10-07T09:41:17.576Z
+published: 2026-10-07T09:41:17.576Z
 tags:
   - State
 symbol: "[[Firstweald_symbol.svg]]"
@@ -35,7 +35,7 @@ ruler: "[[Hierophant Rinebrior]]"
 
 # Overview
 
-The Firstweald Ascendancy is a fiercely isolationist and ancient nation situated in the South-West of [[Antoria]]. Widely recognized as the cradle from which humanoid life first spread across the continent, the Ascendancy views itself as the original, sacred caretaker of the earth. Guided by the orthodox tenets of Primal Magic, they have weaponised the natural world, actively cultivating violent, flourishing ecosystems to serve as impassable borders against the industrialised nations they despise.
+The Firstweald Ascendancy is a fiercely isolationist and ancient nation situated in the South-West of [[Antora]]. Widely recognized as the cradle from which humanoid life first spread across the continent, the Ascendancy views itself as the original, sacred caretaker of the earth. Guided by the orthodox tenets of Primal Magic, they have weaponised the natural world, actively cultivating violent, flourishing ecosystems to serve as impassable borders against the industrialised nations they despise.
 
 # Geography & Climate
 
@@ -57,7 +57,7 @@ The Ascendancy is ruled by a Conclave of elder druids and powerful shapeshifters
 
 # History & Lore
 
-Humanoid life first appeared on the South-West coast of [[Antoria]] and spread outward from the lush cradle of the Firstweald. Because much of the world's recorded history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], the exact origins of the Ascendancy's founding are kept alive only through the oral traditions of its eldest druids.
+Humanoid life first appeared on the South-West coast of [[Antora]] and spread outward from the lush cradle of the Firstweald. Because much of the world's recorded history from before the [[War of Laws]] was lost with the death of [[Syla, Goddess of Records]], the exact origins of the Ascendancy's founding are kept alive only through the oral traditions of its eldest druids.
 
 When the celestial rebellion of the [[War of Laws]] spilled onto mortal soil, bringing devastating divine collateral damage to Eukoria, the Firstweald survived the cataclysm by retreating inward. Their greatest primal spellcasters wove massive, continent-spanning wards of Life and Matter, forcefully isolating their core territories from the boiling oceans and grinding mountains that ravaged the rest of the world.
 

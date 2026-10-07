@@ -2,21 +2,25 @@
 publish: true
 title: Eukoria
 created: 2026-09-26T16:52:49.998Z
-modified: 2026-09-30T15:00:13.890Z
-published: 2026-09-30T15:00:13.890Z
+modified: 2026-10-07T09:41:41.489Z
+published: 2026-10-07T09:41:41.489Z
 ---
 
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
 
 Welcome to Eukoria, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
 
+# The Eukorian Calendar
+
+The end of the War of Laws is year 0. Dates before it use **BW** (Before the War), while dates after it use **AW** (After the War). The present day is 116 AW.
+
 # The War of Laws
 
-Exactly 116 years ago, the heavens were torn apart by a cataclysmic celestial rebellion known as the War of Laws. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition that spilled directly onto mortal soil.
+The heavens were torn apart by a cataclysmic celestial rebellion that ended in 0 AW. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition that spilled directly onto mortal soil.
 
 During the [[War of Laws]], Eukoria became the epicentre of divine collateral damage. The [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] and the rebel forces of [[Lethos, God of Trickery]] clashed so violently here that their conflict boiled the oceans and permanently tore the physical fabric of the Universe.
 
-When the dust settled, the world was forever changed. While the heavens are now at an uneasy peace, the mortal world must navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another. Yet, from this apocalypse, mortals found opportunity. Various nations have risen from the ashes, each hoping to lead the inhabitants of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] into a prosperous future.
+When the dust settled, the world was forever changed. The Twins had rewritten cosmological law so that Non-Canonical Gods could exist, but legal existence did not create acceptance: many mortals and Canonical Gods still regard those deities as wrong and unlawful. The mortal world must also navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another.
 
 # Directory
 
@@ -33,7 +37,7 @@ When the dust settled, the world was forever changed. While the heavens are now 
 
 ### Continents
 
-- [[Antoria]] (West)
+- [[Antora]] (West)
 - [[Cenora]] (East)
 
 ### Nations

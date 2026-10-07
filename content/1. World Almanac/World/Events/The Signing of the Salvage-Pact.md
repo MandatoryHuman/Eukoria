@@ -3,15 +3,16 @@ publish: true
 aliases:
   - the signing of the salvage-pact
 title: The Signing of the Salvage-Pact
-created: 2026-09-26T16:52:53.831Z
-modified: 2026-09-26T17:18:39.484Z
-published: 2026-09-26T17:18:39.484Z
+created: 86 AW
+modified: 2026-10-07T09:42:11.058Z
+published: 86 AW
 tags:
   - "#Events"
 factions_involved: The Scrap-Baronies; The Rust-Riders; The Spark-Priests
 key_figures: The original Council of Iron
 location: The Great Hulk, [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|Oremourn]]
 type: Treaty & Ceasefire
+date: 86 AW
 ---
 
 > [!info]+ Details
@@ -22,11 +23,11 @@ type: Treaty & Ceasefire
 
 # Overview
 
-The Signing of the Salvage-Pact was a treaty that brought an end to a brutal, decades-long conflict between the warlords of northern [[Antoria]]. By formally uniting the disparate scavenger clans, it established the chaotic but functional coalition known today as [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|The Salvage-Pact of Oremourn]].
+The Signing of the Salvage-Pact was a treaty that brought an end to a brutal, decades-long conflict between the warlords of northern [[Antora]]. By formally uniting the disparate scavenger clans, it established the chaotic but functional coalition known today as [[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/index|The Salvage-Pact of Oremourn]].
 
 # Prelude & Causes
 
-For decades following the [[War of Laws]], the irradiated, scrap-choked wastes of northern Antoria were violently contested by rival warlords and rogue inventors. The conflict reached its boiling point when a colossal, un-looted celestial dreadnought was uncovered beneath the ash. The resulting turf war over its celestial metals and latent magitek sparked a massive, multi-faction vehicular bloodbath that threatened to completely wipe out the surviving population.
+For decades following the [[War of Laws]], the irradiated, scrap-choked wastes of northern Antora were violently contested by rival warlords and rogue inventors. The conflict reached its boiling point when a colossal, un-looted celestial dreadnought was uncovered beneath the ash. The resulting turf war over its celestial metals and latent magitek sparked a massive, multi-faction vehicular bloodbath that threatened to completely wipe out the surviving population.
 
 # The Event
 

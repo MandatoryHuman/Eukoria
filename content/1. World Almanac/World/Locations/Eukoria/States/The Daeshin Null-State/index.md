@@ -4,8 +4,8 @@ aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
 created: 2026-09-26T16:52:53.995Z
-modified: 2026-10-03T19:22:03.113Z
-published: 2026-10-03T19:22:03.113Z
+modified: 2026-10-07T09:41:41.498Z
+published: 2026-10-07T09:41:41.498Z
 tags:
   - State
 symbol: "[[Daeshin_symbol.svg]]"
@@ -35,7 +35,7 @@ ruler: Various Cult Leaders and Warlords
 
 # Overview
 
-The Daeshin Null-State is not a functioning country, but a massive, quarantined wasteland in the centre of [[Cenora]]. It is likely the most physically and psychologically dangerous landmass on [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Reality itself is fundamentally broken here; gravity stutters, rivers flow backward, and dead-magic zones frequently overlap with areas of hyper-volatile Dismagic. It is a haven only for the mad, the mutated, and those who have absolutely nowhere else to run, living in the shadow of a ruined, hollowed-out capital that stands as a monument to divine murder.
+The Daeshin Null-State is not a functioning country, but a massive, quarantined wasteland in the centre of [[Cenora]]. It is the persistent physical scar left by the energy released when [[Thrum, God of Madness]] died during the War of Laws. That release has not yet been repaired; gravity stutters, rivers flow backward, and dead-magic zones overlap with areas of hyper-volatile Dismagic. It is a haven only for the mad, the mutated, and those who have nowhere else to run.
 
 # Geography & Climate
 
@@ -49,7 +49,7 @@ Because gravity, time, and physical matter are entirely unreliable here, traditi
 
 # Government & Politics
 
-Anarchy reigns. Authority is held only by those powerful or mad enough to carve out a safe zone amidst the shifting reality. Various warlords, Passion-Mages, and cult leaders hold small pockets of stability, frequently warring with one another over stable ground, clean water, or powerful artifacts unearthed from the twisting earth. The idea of a unified state died with the old capital over a century ago.
+Anarchy reigns. Authority is held only by those powerful or mad enough to carve out a safe zone amidst the shifting reality. Various warlords, Passion-Mages, and cult leaders hold small pockets of stability, frequently warring with one another over stable ground, clean water, or powerful artifacts unearthed from the twisting earth. The idea of a unified state died with the old capital in 0 AW, and no later government has repaired the underlying scar.
 
 # Diplomatic Relations
 
@@ -58,7 +58,7 @@ Anarchy reigns. Authority is held only by those powerful or mad enough to carve 
 
 # History & Lore
 
-Daeshin is the literal ground zero of the most devastating event of the [[War of Laws]]. Before the cataclysm, it was a prosperous eastern kingdom. It is widely believed that this exact geographic location is where [[Lethos, God of Trickery|Lethos]] cornered and assassinated [[Thrum, God of Madness]]. The explosive release of a Greater God's essence upon their death permanently shattered the physical laws of the region, instantly erasing the kingdom's populace and leaving their capital a ghostly ruin. Furthermore, as Lethos usurped Thrum's position of Absence and Mind here, the resulting cosmic vacuum twisted the flora, fauna, and very air into the nightmare it is today.
+Daeshin is the literal ground zero of the most devastating event of the [[War of Laws]]. Before the cataclysm, it was a prosperous eastern kingdom. It is widely believed that this exact geographic location is where [[Lethos, God of Trickery|Lethos]] cornered and assassinated [[Thrum, God of Madness]]. The explosive physical energy released by Thrum's death permanently shattered the laws of the region, instantly erasing the kingdom's populace and leaving their capital a ghostly ruin. The wound remains active: every reality storm is another expression of the unrepaired energy scar, not evidence that Thrum's place in the pantheon remains vacant.
 
 # Notable Locations
 

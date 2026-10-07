@@ -5,8 +5,8 @@ aliases:
   - Widhor
 title: The Widhor Sanctum
 created: 2026-09-26T16:52:54.117Z
-modified: 2026-10-03T19:22:03.171Z
-published: 2026-10-03T19:22:03.171Z
+modified: 2026-10-07T09:42:48.238Z
+published: 2026-10-07T09:42:48.238Z
 tags:
   - State
 symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
@@ -58,7 +58,7 @@ Widhor operates as an anarcho-syndicalist commune governed by "The Chorus of Voi
 
 # History & Lore
 
-Widhor was settled seventy years ago by a massive refugee group fleeing the orthodox inquisitions of central Cenora. Guided by a [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]] of [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]], the refugees settled the uninhabited lands. The Chosen One exhausted their divine power to permanently fuse the area's biological network with a psychic field, creating an environment that would naturally sustain and protect those who lived in emotional harmony.
+Widhor was settled in 46 AW by a massive refugee group fleeing the orthodox inquisitions of central Cenora. Guided by a [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]] of [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]], the refugees settled the uninhabited lands. The Chosen One exhausted their divine power to permanently fuse the area's biological network with a psychic field, creating an environment that would naturally sustain and protect those who lived in emotional harmony.
 
 # Notable Locations
 

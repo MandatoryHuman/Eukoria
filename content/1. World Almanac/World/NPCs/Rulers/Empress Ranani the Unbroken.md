@@ -4,8 +4,8 @@ aliases:
   - Ranani
 title: Empress Ranani the Unbroken
 created: 2026-09-26T16:52:54.147Z
-modified: 2026-09-26T17:18:39.697Z
-published: 2026-09-26T17:18:39.697Z
+modified: 2026-10-07T09:42:48.253Z
+published: 2026-10-07T09:42:48.253Z
 tags:
   - NPCs
 rival: "[[High Arbiter Garadwen]]"
@@ -56,7 +56,7 @@ To Ranani, the world is a storm meant to be weathered. Her primary goal is to br
 
 # History & Lore
 
-Ranani was not born to royalty; she began her life as a common marine and pearl-diver in the southern monsoon terraces. She rose to national prominence thirty years ago during a catastrophic hurricane, when a massive, reality-warped leviathan threatened to destroy the primary agricultural seawalls of [[Tralicor]]. Ranani leapt into the churning waters and engaged the beast in single combat, stalling it long enough for the armada to arrive. She was crowned Empress by popular, overwhelming military demand, proving her right to rule by swimming the length of the capital's harbour while bleeding from a dozen wounds.
+Ranani was not born to royalty; she began her life as a common marine and pearl-diver in the southern monsoon terraces. She rose to national prominence in 86 AW during a catastrophic hurricane, when a massive, reality-warped leviathan threatened to destroy the primary agricultural seawalls of [[Tralicor]]. Ranani leapt into the churning waters and engaged the beast in single combat, stalling it long enough for the armada to arrive. She was crowned Empress by popular, overwhelming military demand, proving her right to rule by swimming the length of the capital's harbour while bleeding from a dozen wounds.
 
 # Stats & Equipment
 

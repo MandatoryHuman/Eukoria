@@ -4,8 +4,8 @@ aliases:
   - Heretic's Wake
 title: Heretic's Wake
 created: 2026-09-26T16:52:53.956Z
-modified: 2026-10-03T19:23:54.034Z
-published: 2026-10-03T19:23:54.034Z
+modified: 2026-10-07T09:42:11.053Z
+published: 2026-10-07T09:42:11.053Z
 tags:
   - State
 symbol: "[[Heretics_Wake_symbol.svg]]"
@@ -35,7 +35,7 @@ ruler: A shifting council of the most powerful Pirate Captains
 
 # Overview
 
-Heretic's Wake is a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for its dangerous fleets of pirates who openly utilise the volatile and forbidden arts of Dismagic. Because of the extortionate tariffs [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] charges to use the central passage, many desperate nations attempt to transport their cargo through the Wake, a gamble that usually results in stolen goods and lost ships.
+Heretic's Wake is a separate maritime state: a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. Its capital is the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|Flotilla of the Unbound]], a shifting coalition of vessels rather than the [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/The Floating Court|Floating Court]] of the Fathom-Court. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for fleets that openly utilise the volatile arts of Dismagic.
 
 # Geography & Climate
 
@@ -56,7 +56,7 @@ There is no central legal authority in Heretic's Wake; the region is governed by
 
 # History & Lore
 
-The origins of the pirate coalition likely stem from the aftermath of the War of Laws, which concluded 116 years ago. When the Canonical gods solidified their rule and the Traditions of Dismagic were driven underground, fleeing practitioners, heretics, and exiles took to the northern waters. What began as a desperate flight for survival evolved over a century into a formidable, decentralised naval power that now holds the orthodox world's trade routes hostage.
+The origins of the pirate coalition lie in the aftermath of the War of Laws, which ended in 0 AW. When the Twins changed cosmological law to permit Non-Canonical Gods, Canonical authorities and many mortal states still treated those gods and their followers as illegal. Fleeing practitioners, heretics, and exiles took to the northern waters. What began as a desperate flight for survival evolved into a formidable, decentralised naval power that now holds the orthodox world's trade routes hostage.
 
 # Notable Locations
 
