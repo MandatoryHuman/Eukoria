@@ -4,8 +4,8 @@ aliases:
   - Fathom-Court
 title: The Fathom-Court
 created: 2026-09-26T16:52:54.097Z
-modified: 2026-10-07T09:42:58.115Z
-published: 2026-10-07T09:42:58.115Z
+modified: 2026-10-07T10:55:04.259Z
+published: 2026-10-07T10:55:04.259Z
 tags:
   - State
   - state
@@ -22,15 +22,15 @@ ruler: The First Navigator
 ---
 
 > [!info]+ Details
-> **Capital:**
-> **Government:**
-> **Ruler:**
-> **Population:**
-> **Demographics:**
-> **Languages:**
-> **Religions:**
-> **Major Exports:**
-> **Major Imports:**
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/The Floating Court.md|The Floating Court]]
+> **Government:** Meritocratic Naval Syndicate
+> **Ruler:** The First Navigator
+> **Population:** Approx. 220,000
+> **Demographics:** 30% Human, 30% Azarketi, 20% Halfling, 20% Other
+> **Languages:** Common, Thalassic, localised Trader's Cant
+> **Religions:** [[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities
+> **Major Exports:** Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
+> **Major Imports:** Lumber, sailcloth, fresh water
 
 ![[The_Syndicate_of_the_Fathom-Court_symbol.svg|300]]
 
@@ -42,11 +42,11 @@ Built outward from the jagged cliffs into a dizzying network of lashed-together 
 
 # Geography & Climate
 
-The Syndicate’s "geography" is incredibly fluid. While they claim the eastern cliffs of Cenora, the majority of the population lives directly on the water. The deeper you go into their territory, the less stone you walk on. It is a multi-layered labyrinth of rope bridges, floating markets, and submerged docks designed for aquatic ancestries. The eastern ocean is highly volatile, frequently battered by intense storms, meaning the outer rings of the city literally unchain and move out to sea to ride out the worst weather.
+The Fathom-Court's "geography" is incredibly fluid. While it claims the eastern cliffs of Cenora, the majority of the population lives directly on the water. The deeper you go into its territory, the less stone you walk on. It is a multi-layered labyrinth of rope bridges, floating markets, and submerged docks designed for aquatic ancestries. The eastern ocean is highly volatile, frequently battered by intense storms, meaning the outer rings of the city literally unchain and move out to sea to ride out the worst weather.
 
 # Society & Culture
 
-Life in the Fathom-Court is fast-paced, dangerous, and deeply free. The cultural backbone of the Syndicate is the "Favour Economy". While gold is accepted, true power is measured in debts, secrets, and maritime skill. Navigators - those born with the innate magical ability to read the turbulent [[Fundamental Essences]] of the water - are treated as royalty. Crime is legal so long as it does not jeopardize the buoyancy or safety of the flotilla-city; however, putting a hole in a ship's hull or sabotaging a dock is a high crime, usually punishable by a hearing at the "Fathom-Court" (a euphemism for being keelhauled).
+Life in the Fathom-Court is fast-paced, dangerous, and deeply free. Its cultural backbone is the "Favour Economy". While gold is accepted, true power is measured in debts, secrets, and maritime skill. Navigators - those born with the innate magical ability to read the turbulent [[Fundamental Essences]] of the water - are treated as royalty. Crime is legal so long as it does not jeopardise the buoyancy or safety of the flotilla-city; however, putting a hole in a ship's hull or sabotaging a dock is a high crime, usually punishable by a hearing at the "Fathom-Court" (a euphemism for being keelhauled).
 
 # Government & Politics
 

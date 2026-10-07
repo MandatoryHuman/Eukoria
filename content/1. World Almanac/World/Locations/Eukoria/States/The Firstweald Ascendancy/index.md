@@ -4,8 +4,8 @@ aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
 created: 2026-09-26T16:52:54.018Z
-modified: 2026-10-07T09:41:17.576Z
-published: 2026-10-07T09:41:17.576Z
+modified: 2026-10-07T10:54:55.934Z
+published: 2026-10-07T10:54:55.934Z
 tags:
   - State
 symbol: "[[Firstweald_symbol.svg]]"
@@ -39,13 +39,13 @@ The Firstweald Ascendancy is a fiercely isolationist and ancient nation situated
 
 # Geography & Climate
 
-The Ascendancy is dominated by colossal, ancient forests, towering canopies, and primordial riverlands. Because the nation's spellcasters are masters of Primal Magic-the visceral blend of the [[Fundamental Essences]] of Matter and Life - the geography itself is highly pliable and aggressively managed through biokinesis and environmental control. The borders of the Firstweald are notoriously dangerous, choked with razor-vine thickets, engineered predators, and awakened trees that violently reclaim any unauthorized roads or outposts built too close to their territory.
+The Ascendancy is dominated by colossal, ancient forests, towering canopies, and primordial riverlands. Because the nation's spellcasters are masters of Primal Magic - the visceral blend of the [[Fundamental Essences]] of Matter and Life - the geography itself is highly pliable and aggressively managed through biokinesis and environmental control. The borders of the Firstweald are notoriously dangerous, choked with razor-vine thickets, engineered predators, and awakened trees that violently reclaim any unauthorised roads or outposts built too close to their territory.
 
 # Society & Culture
 
 Firstweald society operates in strict adherence to the natural laws of the universe. The populace lives in deep harmony with the environment, guided by the teachings of [[Kurnos, God of Nature]] and [[Maelis, Goddess of Fertility and Harvest]]. Druids, Rangers, and Fey make up the upper echelons of their social hierarchy.
 
-They view the calculated, industrial Arcane magic championed by [[Aureon, God of Commerce and Industry]] as a sterile insult to the earth, and they are deeply suspicious of nations that rely on it. Likewise, they harbour a deep hatred for the [[Traditions of Dismagic]] , particularly the volatile evolutionary leaps forced by followers of [[Lysia Bind-breaker, Goddess of Passion]].
+They view the calculated, industrial Arcane magic championed by [[Aureon, God of Commerce and Industry]] as a sterile insult to the earth, and they are deeply suspicious of nations that rely on it. Likewise, they harbour a deep hatred for the [[Traditions of Dismagic]], particularly the volatile evolutionary leaps forced by followers of [[Lysia Bind-breaker, Goddess of Passion]].
 
 # Government & Politics
 
@@ -53,7 +53,7 @@ The Ascendancy is ruled by a Conclave of elder druids and powerful shapeshifters
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Hostile/Cold): The Firstweald openly despises the rampant commercialism, industrialization, and Arcane infrastructure of Meridia. They refuse to pay Meridia's tariffs, preferring to remain entirely self-sufficient.
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Hostile/Cold): The Firstweald openly despises the rampant commercialism, industrialisation, and Arcane infrastructure of Meridia. They refuse to pay Meridia's tariffs, preferring to remain entirely self-sufficient.
 
 # History & Lore
 

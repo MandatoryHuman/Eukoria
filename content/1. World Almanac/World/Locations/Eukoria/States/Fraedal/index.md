@@ -20,14 +20,14 @@ ruler: The Fate-Weavers of the Zenith Observatory
 ---
 
 > [!info]+ Details
-> **Capital:**
-> **Government:**
-> **Ruler:**
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Fraedal/Ephemera.md|Ephemera]]
+> **Government:** Secretive war-state ruled by fate-weavers, temporal engineers, and bureaucracy
+> **Ruler:** The Fate-Weavers of the Zenith Observatory
 > **Population:**
-> **Demographics:**
+> **Demographics:** Humans, beastkin, orcs, and state-bounded engineers
 > **Languages:**
-> **Religions:**
-> **Major Exports:**
+> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Aporia, God of Fate.md|Aporia, God of Fate]]
+> **Major Exports:** Probability-manipulating puzzle-boxes, chronal devices, and warded artifices
 > **Major Imports:**
 
 ![[Fraedal_symbol.svg|300]]

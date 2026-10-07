@@ -5,8 +5,8 @@ aliases:
   - opiroth dependancy
 title: Opiroth Dependancy
 created: 2026-09-26T16:52:54.259Z
-modified: 2026-09-21T23:19:18.799Z
-published: 2026-09-21T23:19:18.799Z
+modified: 2026-10-07T10:58:14.948Z
+published: 2026-10-07T10:58:14.948Z
 tags:
   - Disease
 ---
@@ -27,6 +27,6 @@ Because Opiroth Resin fundamentally alters how a body processes cosmic friction,
 >
 > Drugs are common across fantasy settings, but drug use and addiction are serious topics which aren't suitable for all game tables. Consider asking your players before introducing the concepts to your game, or be ready to use safety tools (like "Lines and Veils" or the "X-Card") to fade to black or adjust the mechanics if the narrative becomes too intense or hits too close to home.
 >
-> Opiroth specifically mimics the real-world drug class of Opioids such as Codeine. To learn more about Opioids, see the [Alchohol and Drug Foundation](https://adf.org.au/drug-facts/opioids/). For information on Opoioid addiciton, visit the [NHS](https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/) or [UKAT](https://www.ukat.co.uk/addiction/drug/prescription/opiate/) sites.
+> Opiroth specifically mimics the real-world drug class of opioids such as codeine. To learn more about opioids, see the [Alcohol and Drug Foundation](https://adf.org.au/drug-facts/opioids/). For information on opioid addiction, visit the [NHS](https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/) or [UKAT](https://www.ukat.co.uk/addiction/drug/prescription/opiate/) sites.
 > [Naloxone](https://naloxone.org.uk/) is a lifesaving medication that reverses the effects of opioids. Anyone in the UK can carry Naloxone without prescription. If you live in Wales, [Dan 24/7](https://dan247.org.uk/) can supply you with a Naloxone kit free of charge.
 > Information is correct at time of writing, check current legislation to confirm.

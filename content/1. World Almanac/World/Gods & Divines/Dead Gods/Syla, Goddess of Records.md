@@ -5,8 +5,8 @@ aliases:
   - syla, goddess of records
 title: Syla, Goddess of Records
 created: 2026-09-26T16:52:53.849Z
-modified: 2026-09-26T17:18:39.490Z
-published: 2026-09-26T17:18:39.490Z
+modified: 2026-10-07T10:54:55.943Z
+published: 2026-10-07T10:54:55.943Z
 enemy:
   - "[[Lethos, God of Trickery]]"
 alternate_domains: Repose
@@ -43,7 +43,7 @@ Syla, The Silent Witness, was the [[1. World Almanac/World/Gods & Divines/Greate
 
 ![[Assets/Gods/Syla.webp|400]]
 
-During the [[War of Laws]], Syla was murdered by [[Lethos, God of Trickery]]. Her death caused great chaos as the shared consciousness her clerics possessed had been relied upon to store much of the history of [[index|Eukoria]]. Lethos killed [[Syla, Goddess of Records]], causing the many records she and her clerics had spent hundreds of years storing to be forever lost.  The exact reason for this second murder is still uncertain to anyone but Lethos himself, but it is presumed it was done to ensure some other act of his would never be bought to light.
+During the [[War of Laws]], Syla was murdered by [[Lethos, God of Trickery]]. Her death caused great chaos as the shared consciousness her clerics possessed had been relied upon to store much of the history of [[index|Eukoria]]. Lethos killed [[Syla, Goddess of Records]], causing the many records she and her clerics had spent hundreds of years storing to be forever lost. The exact reason for this second murder is still uncertain to anyone but Lethos himself, but it is presumed it was done to ensure some other act of his would never be brought to light.
 
 Syla's death also had a rippling effect on all types of records across [[index|Eukoria]]. Written text was physically scrambled, turning into illegible gibberish and even the memories of living beings weren't left untouched. Though some of the remaining fragments have been pieced together to uncover mysteries of the eons past, large chunks of the world's history remains lost.
 

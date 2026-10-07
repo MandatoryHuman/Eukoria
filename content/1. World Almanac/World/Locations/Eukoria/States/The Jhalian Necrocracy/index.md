@@ -4,8 +4,8 @@ aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
 created: 2026-09-26T16:52:54.048Z
-modified: 2026-10-03T19:22:03.143Z
-published: 2026-10-03T19:22:03.143Z
+modified: 2026-10-07T10:53:34.329Z
+published: 2026-10-07T10:53:34.329Z
 tags:
   - State
 symbol: "[[Jhal_symbol.svg]]"
@@ -50,6 +50,9 @@ Publicly, the society is fiercely orthodox, worshipping [[Cavera, Goddess of Dea
 Freed entirely from the burden of manual labour, the living suffer from extreme societal ennui, leading to bizarre obsessions with the aesthetics of their inevitable deaths. It is a massive status symbol to pre-design your own skeletal ornamentation. Wealthy citizens pay fortunes to have gold filigree, precious gems, or reinforcing runes surgically integrated into their bones while they are still alive, ensuring they will be a visually stunning, high-status servant in unlife. Furthermore, rigorous physical fitness is a national obsession - not for health or vanity, but as a patriotic duty to ensure one leaves behind a durable, high-quality corpse for the state. Celebrities have even been known to arrange flashy and high profile suicides - hiring hit men to take themselves out in astonishing manners - of course ensuring minimal damage to their physical form.
 
 Despite the state's insistence on the perfection of biological unlife, the reality is far more volatile. Whether due to extreme physical damage in the mines, the sheer degradation of age, or an unexplained snapping of their animating magic, servants occasionally "go feral." These Feral Undead lose their docile programming, devolving into hyper-aggressive, mindless predators. Because admitting to this flaw would undermine the theological perfection of [[Cavera, Goddess of Death]], the state heavily suppresses outbreaks, quietly hiring disposable foreign mercenaries to cull the herds in the deep tunnels where the Sepulchral Guard cannot spare the manpower.
+
+> [!info]+ Death and the Body
+> In Jhal, funerals are civic transfers rather than farewells. Families catalogue a corpse's skills, scars, and wishes before presenting it to a Sepulchral Registrar, who assigns the body to a lawful service. The dead are washed in salt and ash, their mouths sealed with a copper death-token, and their names entered into the Ossuary Ledger so that no servant can be mistaken for an unclaimed body. Outside Jhal, communities that fear necromancy answer with counter-rites: mourners bind the wrists with white thread, burn the body with juniper and iron filings, and speak the deceased's name until the last ember dies. These rites are meant to close the soul's path back to the corpse, and performing Jhalian reanimation on a body marked this way is considered both sacrilege and an act of war.
 
 # Government & Politics
 

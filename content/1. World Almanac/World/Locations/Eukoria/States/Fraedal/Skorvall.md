@@ -17,11 +17,11 @@ type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:**
-> **Level:**
+> **Type:** Capital City
+> **Level:** High
 > **Population:**
-> **Demographics:**
-> **Ruler:**
+> **Demographics:** Humans, thick-furred beastkin, orcs, warlords, and orthodox clerics
+> **Ruler:** The warlords of the High Seat
 
 ![[Assets/Locations/Coat of Arms/Skorvall Emblem.webp|200]]
 ![[Assets/Locations/Maps/Skorvall Map.webp|400]]

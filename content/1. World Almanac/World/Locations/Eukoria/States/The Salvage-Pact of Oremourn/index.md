@@ -6,8 +6,8 @@ aliases:
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
 created: 2026-09-26T16:52:54.075Z
-modified: 2026-10-07T09:42:48.243Z
-published: 2026-10-07T09:42:48.243Z
+modified: 2026-10-07T10:55:59.388Z
+published: 2026-10-07T10:55:59.388Z
 tags:
   - State
 symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
@@ -39,7 +39,7 @@ ruler: The Council of Iron
 
 Situated in northern [[Antora]], sandwiched between the storm-battered [[1. World Almanac/World/Locations/Eukoria/States/The Rastorian Reach/index|Rastorian Reach]] and the eroding [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|Kazarn Hegemony]], is a brutal, industrial patchwork of "Scrap-Baronies" collectively known as the Salvage-Pact of Oremourn.
 
-The society of Oremourn is built around the Pact is the blood-and-oil, a treaty that keeps the local warlords from entirely annihilating one another - most of the time. It regulated the harvest of rotting "god-corpses" left over from the apocalypse, which are then used to build crude, incredibly powerful magitek inventions.
+Oremourn's society is built around the Pact, a blood-and-oil treaty that keeps the local warlords from entirely annihilating one another - most of the time. It regulates the harvest of rotting "god-corpses" left over from the apocalypse, which are then used to build crude, incredibly powerful magitek inventions.
 
 # Geography & Climate
 
@@ -47,7 +47,7 @@ Oremourn's land is an ecological nightmare. The land is entirely devoid of natur
 
 # Society & Culture
 
-Life in Oremourn is brutal, short, and highly meritocratic. Social standing is determined entirely by one's ability to invent, salvage, or kill. Alchemists, Gunslingers, and Inventors are treated as the true nobility. There is a deep, cultural reverence for technology and a matching distrust of orthodox spellcasting, as the residents believe divine magic is exactly what destroyed their land in the first place. Cybernetic and fleshwarped augmentations are common, worn as badges of honour and survival.
+Life in Oremourn is brutal, short, and highly meritocratic. Social standing is determined entirely by one's ability to invent, salvage, or kill. Alchemists, Gunslingers, and Inventors are treated as the true nobility. There is a deep, cultural reverence for technology and a matching distrust of orthodox spellcasting, as the residents believe divine magic is exactly what destroyed their land in the first place. Metallic and fleshwarped augmentations are common, worn as badges of honour and survival.
 
 # Government & Politics
 
@@ -65,7 +65,7 @@ Following the [[War of Laws]], this region of Antora was deemed a permanently de
 
 # Notable Locations
 
-- **The Great Hulk:** The de facto capital. It is built entirely inside the hollowed-out skull and chest cavity of a colossal, fallen celestial war-machine. It is a sprawling shanty-metropolis of steam, neon, and grinding gears.
+- **The Great Hulk:** The de facto capital. It is built entirely inside the hollowed-out skull and chest cavity of a colossal, fallen celestial war-machine. It is a sprawling shanty-metropolis.
 - **The Whispering Wastes:** A region where the [[Fundamental Essences|Essence of Mind]] bled into the soil. Scavengers here often suffer violent hallucinations, hearing the dying thoughts of the angels that crashed here decades ago.
 
 # Prominent Factions

@@ -4,8 +4,8 @@ aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
 created: 2026-09-26T16:52:53.995Z
-modified: 2026-10-07T09:41:41.498Z
-published: 2026-10-07T09:41:41.498Z
+modified: 2026-10-07T10:53:43.253Z
+published: 2026-10-07T10:53:43.253Z
 tags:
   - State
 symbol: "[[Daeshin_symbol.svg]]"
@@ -45,7 +45,7 @@ The geography of Daeshin defies mapping, as the landscape literally shifts and c
 
 There is no unified society in Daeshin. The population consists of isolated, paranoid survivalists, bizarre cults, and Fleshwarps who have sought refuge from orthodox persecution.
 
-Because gravity, time, and physical matter are entirely unreliable here, traditional currency is meaningless. The primary trade good in the wastes is "Anchors" - mundane objects with intense emotional significance attached to them (a mother's locket, a blood-stained letter, a child's toy). Passion-Mages trade heavily in Anchors, using them to psychologically ground individuals and prevent their minds from unravelling during reality storms. Furthermore, because spontaneous memory erasure is a common environmental hazard in Daeshin, it is customary for survivors to heavily scar or tattoo their personal histories, names, and alliances directly onto their flesh so they do not forget who they are when the storms pass.
+Because gravity, time, and physical matter are entirely unreliable here, traditional currency is meaningless. The primary trade good in the wastes is "Anchors" - mundane objects with intense emotional significance attached to them (a mother's locket, a blood-stained letter, a child's toy). Passion-Mages trade heavily in Anchors, using them to psychologically ground individuals and prevent their minds from unravelling during reality storms. Furthermore, because spontaneous memory erasure is a common environmental hazard in Daeshin, survivors tattoo their most important memories directly onto their skin. Names, faces, promises, routes to safe water, and the wording of a child's last words are reduced to symbols that can be traced by touch when sight and language fail. A trusted tattooist usually works in layers: the oldest memories sit closest to the heart, while new allies and recent discoveries are added along the arms and hands. Before a storm, people recite their tattoos aloud and ask companions to check that the marks still match the story. These scars are not decoration; they are portable archives, and losing one can feel like losing the person or promise it records.
 
 # Government & Politics
 

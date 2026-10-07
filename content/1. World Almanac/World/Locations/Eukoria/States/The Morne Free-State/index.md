@@ -2,8 +2,8 @@
 publish: true
 title: The Morne Free-State
 created: 2026-09-28T13:39:09.665Z
-modified: 2026-10-05T13:10:19.514Z
-published: 2026-10-05T13:10:19.514Z
+modified: 2026-10-07T10:54:55.936Z
+published: 2026-10-07T10:54:55.936Z
 tags:
   - State
 aliases:
@@ -35,11 +35,11 @@ ruler: The syndicate councils and senior monastic orders
 
 # Overview
 
-The Morne Free-State is an independent coalition of alchemical syndicates, monastic medical orders, and merchant guilds. Drawing heavily from Chinese and Thai influence, Morne has rejected the blast-furnace aesthetics of Western alchemy in favour of internal alchemy, herbalism, and the careful balancing of life energies.
+The Morne Free-State is an independent coalition of alchemical syndicates, monastic medical orders, and merchant guilds. Morne's river monasteries, terrace communes, and travelling apothecary guilds have rejected the blast-furnace aesthetics of industrial alchemy in favour of internal alchemy, herbalism, and the careful balancing of life energies.
 
 # Geography & Climate
 
-Mourne is a stunning patchwork of terraced mountain farms, jungle valleys, and river networks crowded with floating markets. The land is lush and fertile, alive with rare medicinal herbs and local spirit-houses that lend power to the region's most potent poultices and tonics. The state thrives in a landscape that rewards balance over force.
+Morne is a stunning patchwork of terraced mountain farms, jungle valleys, and river networks crowded with floating markets. The land is lush and fertile, alive with rare medicinal herbs and local spirit-houses that lend power to the region's most potent poultices and tonics. The state thrives in a landscape that rewards balance over force.
 
 # Society & Culture
 
@@ -51,7 +51,7 @@ The Free State is governed by a broad coalition of syndicate councils, monastic 
 
 # Diplomatic Relations
 
-Because its medical and alchemical exports are prized by every major power, Mourne keeps a strict neutrality even while surrounded by rivals. It is a place where commerce thrives, but every treaty can become a covert act of sabotage. The state's political calm is maintained by fear as much as by law.
+Because its medical and alchemical exports are prized by every major power, Morne keeps a strict neutrality even while surrounded by rivals. It is a place where commerce thrives, but every treaty can become a covert act of sabotage. The state's political calm is maintained by fear as much as by law.
 
 # History & Lore
 

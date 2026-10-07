@@ -4,8 +4,8 @@ aliases:
   - Reality Storm
 title: Reality Storms
 created: 2026-09-26T16:52:54.126Z
-modified: 2026-10-07T09:42:58.112Z
-published: 2026-10-07T09:42:58.112Z
+modified: 2026-10-07T10:53:34.327Z
+published: 2026-10-07T10:53:34.327Z
 tags:
   - Lore
 ---
@@ -24,6 +24,8 @@ The storms that bleed out of [[1. World Almanac/World/Locations/Eukoria/States/T
 
 - Memory Erasure: Unprotected individuals caught in the open risk having their personal histories, names, and loyalties permanently scrubbed from their minds. This is why Glandaric citizens rely so heavily on Occult tattoos and emotional "Anchors" to ground their souls to their bodies.
 - The Unquiet Dead: Because the void abhors the rampant vitality of the living, these storms frequently cause the sudden, violent resurrection of the dead. Pure Presence forcefully intrudes on the vacuum, causing long-buried corpses and recent battlefield casualties to rise from the grave as twisted, reality-warped monstrosities that attack anything with a beating heart.
+
+Children in the Marches turn these warnings into games long before they are old enough to patrol the border. In **Stormwatch**, one child calls out signs such as backwards-falling rain, silent birds, or a second shadow, while the others race to a marked shelter before the warning bell sounds. In **Anchor-Ring**, players pass a keepsake around a circle while naming their friends, family, and place of birth; anyone who hesitates is teased for having "lost the thread". Adults tolerate these games because they teach observation, shelter routes, and the names that a child must remember if a storm arrives.
 
 ## The [[God-Scar Strait]]
 

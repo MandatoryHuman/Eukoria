@@ -4,8 +4,8 @@ aliases:
   - alkahest
 title: Alkahest
 created: 2026-09-28T13:53:49.244Z
-modified: 2026-10-03T19:22:03.151Z
-published: 2026-10-03T19:22:03.151Z
+modified: 2026-10-07T10:54:55.940Z
+published: 2026-10-07T10:54:55.940Z
 tags:
   - "#Settlement"
 marker:
@@ -52,7 +52,7 @@ Alkahest is administered by Morne's syndicate of chief chirurgeons and master al
 
 # Key NPCs
 
-- The chief chirurgeons and master alchemists: The syndicate leaders directing Alkahest's labouratories and defences.
+- The chief chirurgeons and master alchemists: The syndicate leaders directing Alkahest's laboratories and defences.
 
 # Factions & Guilds
 

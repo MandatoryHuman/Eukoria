@@ -17,11 +17,11 @@ type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:**
-> **Level:**
+> **Type:** Capital City
+> **Level:** High
 > **Population:**
-> **Demographics:**
-> **Ruler:**
+> **Demographics:** Fraedalan engineers, artificers, seers, and civil servants
+> **Ruler:** The Fate-Weavers of the Zenith Observatory
 
 ![[Assets/Locations/Coat of Arms/Ephemera Emblem.webp|200]]
 ![[Assets/Locations/Maps/Ephemera Map.webp|400]]

@@ -5,8 +5,8 @@ aliases:
   - Rastor
 title: The Rastorian Reach
 created: 2026-09-26T16:52:54.070Z
-modified: 2026-10-07T09:42:48.248Z
-published: 2026-10-07T09:42:48.248Z
+modified: 2026-10-07T10:55:04.257Z
+published: 2026-10-07T10:55:04.257Z
 tags:
   - State
 symbol: "[[The_Rastorian_Reach_symbol.svg]]"
@@ -36,7 +36,7 @@ ruler: High Jarl
 
 # Overview
 
-The Rastorian Reach occupies the freezing, jagged North-Western coast of [[Antora]]. It is a harsh, breathtaking land of towering pine forests, glacier-carved valleys, and brutal seas. The Rastorians are a fiercely independent people - monster hunters, skalds, and runesmiths who measure a person's worth by their ability to endure the elements and the size of the beasts they can fell. To them, the volatile magic of the world is not something to be studied in a safe academy; but rather a wild beast to be wrestled, bound, and carved into the blade of an axe.
+The Rastorian Reach occupies the freezing, jagged north-western coast of [[Antora]]. It is a harsh, breathtaking land of towering pine forests, glacier-carved valleys, and brutal seas. The Rastorians are a fiercely independent people - monster hunters, skalds, and runesmiths who measure a person's worth by their ability to endure the elements and the size of the beasts they can fell. To them, the volatile magic of the world is not something to be studied in a safe academy, but rather a wild beast to be wrestled, bound, and carved into the blade of an axe.
 
 # Geography & Climate
 

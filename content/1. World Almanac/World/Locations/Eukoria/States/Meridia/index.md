@@ -4,8 +4,8 @@ aliases:
   - Meridia
 title: Meridia
 created: 2026-09-26T16:52:53.972Z
-modified: 2026-10-07T09:42:40.704Z
-published: 2026-10-07T09:42:40.704Z
+modified: 2026-10-07T10:53:43.251Z
+published: 2026-10-07T10:53:43.251Z
 tags:
   - State
 symbol: "[[Meridia_symbol.svg]]"
@@ -44,6 +44,8 @@ Meridia’s mainland is dominated by the [[God-Scar Strait]], the treacherous bo
 # Society & Culture
 
 Meridian society views the strict structures of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] as a complex game to be mastered. High-society diplomats, shrewd negotiators, and state-sanctioned spies form the upper echelons of their culture. Clerics and devotees to [[Lethos, God of Trickery]] are common, to whom outwitting a rival through a clever legal loophole or a predatory contract is the highest form of devotion. Despite the ruthless economic competition, violence in the streets is rare. Brute force is viewed as an amateur's tool; why murder a rival when you can legally acquire their estate and banish them through perfectly drafted paperwork?
+
+At the tolls, the official tariff is only the beginning. Licensed brokers sell "expedited scrutiny", quietly moving a manifest to the front of an inspection queue, while dock clerks accept coded gifts hidden inside navigation charts. Unregistered runners carry small, high-value cargoes through maintenance canals and present forged exemptions stamped with obsolete Concordat seals. Meridian officials publicly condemn these practices as corruption, yet the Board protects the most profitable brokers because the black market keeps trade moving when the lawful fees become impossible. A traveller who asks directly for a bribe is likely to be arrested; a traveller who asks who can "make the paperwork lighter" will be given a name and a meeting place.
 
 # Government & Politics
 

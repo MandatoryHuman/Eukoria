@@ -5,8 +5,8 @@ aliases:
   - Greater Gods
 title: Greater Gods
 created: 2026-09-30T15:03:34.371Z
-modified: 2026-09-30T15:03:34.373Z
-published: 2026-09-30T15:03:34.373Z
+modified: 2026-10-07T10:53:43.250Z
+published: 2026-10-07T10:53:43.250Z
 tags:
   - Lore
 ---
@@ -22,6 +22,10 @@ There are two groups of Greater Gods, divided in orthodox and unorthodox categor
 
 - **[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]**: Formed from two _adjacent_ Essences. Harmonious and stable.
 - **[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]]**: Formed from two _non-adjacent_ Essences. More raw power, but less control.
+
+# Names for the Devout
+
+Everyday speech turns the legal distinction between the two categories into slang. Devotees of Canonical Gods are often called **wheelers** or **lawbound**, especially by merchants and officials who want to emphasise their respectability. Devotees of Non-Canonical Gods answer with **spokebreakers**, **frictioners**, or simply **unbound**. These terms are not neutral: a Vaelian magistrate may call a Non-Canonical worshipper a spokebreaker as an accusation, while a Lysian pilgrim may use unbound as a proud declaration that the old restrictions no longer govern their faith.
 
 # [[Aporia, God of Fate]]
 
