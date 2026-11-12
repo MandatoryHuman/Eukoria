@@ -4,13 +4,7 @@ aliases:
   - Opiroth
   - The Vales of Opiroth
 title: The Vales of Opiroth
-<<<<<<< HEAD
 symbol: "[[The_Vales_of_Opiroth_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.517Z
-modified: 2026-10-07T10:54:55.938Z
-published: 2026-10-07T10:54:55.938Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Vales of Opiroth/The Alabaster Terrace|The Alabaster Terrace]]'

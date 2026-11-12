@@ -4,13 +4,7 @@ aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-<<<<<<< HEAD
 symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.527Z
-modified: 2026-10-07T09:42:48.238Z
-published: 2026-10-07T09:42:48.238Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[The_Widhor_Sanctum_symbol.svg]]"

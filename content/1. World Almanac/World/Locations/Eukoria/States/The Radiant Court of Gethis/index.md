@@ -4,13 +4,7 @@ aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
-<<<<<<< HEAD
 symbol: "[[Gethis_Symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.468Z
-modified: 2026-10-07T11:10:31.103Z
-published: 2026-10-07T11:10:31.103Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[Prismathia]]"

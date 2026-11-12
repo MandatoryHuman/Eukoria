@@ -3,12 +3,6 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.920Z
-modified: 2026-10-03T19:20:45.048Z
-published: 2026-10-03T19:20:45.048Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[<% tp.file.title.replaceAll(' ', '_') %>_symbol.svg]]"

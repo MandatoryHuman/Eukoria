@@ -4,13 +4,7 @@ aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
-<<<<<<< HEAD
 symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.496Z
-modified: 2026-10-07T09:41:17.590Z
-published: 2026-10-07T09:41:17.590Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/Aegis-Gath|Aegis-Gath]]'

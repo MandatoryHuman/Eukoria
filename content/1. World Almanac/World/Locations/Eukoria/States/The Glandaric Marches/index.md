@@ -4,13 +4,7 @@ aliases:
   - The Glandaric Marches
   - Glandaria
 title: The Glandaric Marches
-<<<<<<< HEAD
 symbol: "[[Gladaria_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.431Z
-modified: 2026-10-07T09:41:57.731Z
-published: 2026-10-07T09:41:57.731Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[Fort Glandar]]"

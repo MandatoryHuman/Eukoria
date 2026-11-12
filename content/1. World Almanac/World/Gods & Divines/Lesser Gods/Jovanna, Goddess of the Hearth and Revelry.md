@@ -3,12 +3,6 @@ aliases:
   - Jovanna
   - jovanna, goddess of the hearth and revelry
 title: Jovanna, Goddess of the Hearth and Revelry
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.266Z
-modified: 2026-10-07T11:11:26.802Z
-published: 2026-10-07T11:11:26.802Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Gods
 alternate_domains: "[Fire](https://2e.aonprd.com/Domains.aspx?ID=76)"

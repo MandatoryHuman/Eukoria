@@ -3,13 +3,7 @@ publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-<<<<<<< HEAD
 symbol: "[[Heretics_Wake_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.324Z
-modified: 2026-10-07T09:42:11.053Z
-published: 2026-10-07T09:42:11.053Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|The Flotilla of the Unbound]]"

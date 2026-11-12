@@ -3,12 +3,6 @@ aliases:
   - Venaria
   - venaria, goddess of the hunt
 title: Venaria, Goddess of The Hunt
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.269Z
-modified: 2026-10-07T11:14:06.150Z
-published: 2026-10-07T11:14:06.150Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Gods
 alternate_domains: "[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)"

@@ -2,12 +2,6 @@
 aliases:
   - Seven-Fold Canopy
 title: The Seven-Fold Canopy
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.503Z
-modified: 2026-10-03T19:22:03.162Z
-published: 2026-10-03T19:22:03.162Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Settlement
 demographics: ''

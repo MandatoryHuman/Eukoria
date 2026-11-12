@@ -2,12 +2,6 @@
 aliases:
   - Dismagic
 title: Traditions of Dismagic
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.539Z
-modified: 2026-09-26T16:49:43.120Z
-published: 2026-09-26T16:49:43.120Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!quote|author] Manifesto of the Banned Traditions

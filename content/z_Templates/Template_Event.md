@@ -3,12 +3,6 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.913Z
-modified: 2026-09-26T17:18:52.589Z
-published: 2026-09-26T17:18:52.589Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - "#Events"
 factions_involved: '<% tp.system.prompt("Factions Involved?") %>'

@@ -3,12 +3,6 @@ publish: true
 aliases:
   - heartbloom
 title: Heartbloom
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.525Z
-modified: 2026-10-23T13:21:38.947Z
-published: 2026-10-23T13:21:38.947Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Settlement
 demographics: ""

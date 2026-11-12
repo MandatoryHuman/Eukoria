@@ -3,13 +3,7 @@ publish: true
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
-<<<<<<< HEAD
 symbol: "[[Kazarn_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.446Z
-modified: 2026-10-07T09:41:17.582Z
-published: 2026-10-07T09:41:17.582Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[Bastion]]"

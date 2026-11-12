@@ -3,13 +3,7 @@ publish: true
 aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
-<<<<<<< HEAD
 symbol: "[[Jhal_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.436Z
-modified: 2026-10-07T10:53:34.329Z
-published: 2026-10-07T10:53:34.329Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[The Silent City of Jhal]]"

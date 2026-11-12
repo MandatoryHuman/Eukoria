@@ -2,24 +2,12 @@
 aliases:
   - Wave-Breakers
 title: The Wave-Breakers
-<<<<<<< HEAD
 allies: ''
 enemies: ''
 headquarters: ''
 leader: ''
 region_influence: ''
 type: ''
-=======
-created: 2026-11-12T17:37:18.510Z
-modified: 2026-10-03T19:23:54.036Z
-published: 2026-10-03T19:23:54.036Z
-allies: ""
-enemies: ""
-headquarters: ""
-leader: ""
-region_influence: ""
-type: ""
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!info]+ Details

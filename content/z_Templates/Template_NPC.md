@@ -2,12 +2,6 @@
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.917Z
-modified: 2026-09-26T17:18:52.594Z
-published: 2026-09-26T17:18:52.594Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - "#NPCs"
 ancestry: '<% tp.system.prompt("Ancestry?") %>'

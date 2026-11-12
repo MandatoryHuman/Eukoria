@@ -3,13 +3,7 @@ publish: true
 aliases:
   - Meridia
 title: Meridia
-<<<<<<< HEAD
 symbol: "[[Meridia_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.341Z
-modified: 2026-10-07T10:53:43.251Z
-published: 2026-10-07T10:53:43.251Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[Meridia_symbol.svg]]"

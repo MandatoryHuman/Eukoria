@@ -2,12 +2,6 @@
 aliases:
   - Flotilla of the Unbound
 title: Flotilla of the Unbound
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.330Z
-modified: 2026-10-03T19:23:15.522Z
-published: 2026-10-03T19:23:15.522Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Settlement
 demographics: 'Exiles, Runesmiths, Passion Mages, Fleshwarps, Intelligent Undead'

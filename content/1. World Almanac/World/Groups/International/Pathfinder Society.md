@@ -2,24 +2,12 @@
 aliases:
   - pathfinder society
 title: Pathfinder Society
-<<<<<<< HEAD
 allies: ''
 enemies: ''
 headquarters: ''
 leader: ''
 region_influence: ''
 type: ''
-=======
-created: 2026-11-12T17:37:18.284Z
-modified: 2026-09-26T17:18:39.572Z
-published: 2026-09-26T17:18:39.572Z
-allies: ""
-enemies: ""
-headquarters: ""
-leader: ""
-region_influence: ""
-type: ""
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!info]+ Details

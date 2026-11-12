@@ -2,12 +2,6 @@
 aliases:
   - Valerius
 title: Grand Duke Valerius the Blind
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.564Z
-modified: 2026-09-26T17:18:39.703Z
-published: 2026-09-26T17:18:39.703Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - NPCs
 ancestry: ''

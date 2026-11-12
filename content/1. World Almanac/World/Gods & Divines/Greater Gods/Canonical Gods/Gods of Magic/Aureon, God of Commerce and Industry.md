@@ -3,12 +3,6 @@ aliases:
   - Aureon
   - aureon, god of commerce and industry
 title: Aureon, God of Commerce and Industry
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.236Z
-modified: 2026-09-26T17:18:39.532Z
-published: 2026-09-26T17:18:39.532Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Gods
 alternate_domains: '[Knowledge](https://2e.aonprd.com/Domains.aspx?ID=80)'

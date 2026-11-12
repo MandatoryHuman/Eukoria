@@ -4,13 +4,7 @@ aliases:
   - The Scholasticate of Khalen
   - Khalen
 title: The Scholasticate of Khalen
-<<<<<<< HEAD
 symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.488Z
-modified: 2026-10-07T09:43:23.605Z
-published: 2026-10-07T09:43:23.605Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"

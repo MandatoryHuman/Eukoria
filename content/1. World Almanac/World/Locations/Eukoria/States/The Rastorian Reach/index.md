@@ -4,13 +4,7 @@ aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
-<<<<<<< HEAD
 symbol: "[[The_Rastorian_Reach_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.476Z
-modified: 2026-10-07T10:55:04.257Z
-published: 2026-10-07T10:55:04.257Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[The_Rastorian_Reach_symbol.svg]]"

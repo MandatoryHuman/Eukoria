@@ -3,12 +3,6 @@ aliases:
   - Othrys
   - othrys, the hollow capital
 title: Othrys, The Hollow Capital
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.374Z
-modified: 2026-10-07T09:42:40.700Z
-published: 2026-10-07T09:42:40.700Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Settlement
 demographics: 'Fleshwarps, Mutants, Exiles'

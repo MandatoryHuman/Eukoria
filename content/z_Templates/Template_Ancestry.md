@@ -3,12 +3,6 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.907Z
-modified: 2026-09-26T17:31:17.447Z
-published: 2026-09-26T17:31:17.447Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - "#Ancestries"
 ancestry_type: '<% tp.system.prompt("Ancestry type or category?") %>'

@@ -5,13 +5,7 @@ aliases:
   - Oremourn
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
-<<<<<<< HEAD
 symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.481Z
-modified: 2026-10-07T10:55:59.388Z
-published: 2026-10-07T10:55:59.388Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/The Great Hulk|The Great Hulk]]'

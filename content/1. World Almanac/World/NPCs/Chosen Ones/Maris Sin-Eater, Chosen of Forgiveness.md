@@ -2,12 +2,6 @@
 aliases:
   - Maris
 title: Maris Sin-Eater, Chosen of Forgiveness
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.556Z
-modified: 2026-09-26T17:18:39.695Z
-published: 2026-09-26T17:18:39.695Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - NPCs
   - Chosen

@@ -2,12 +2,6 @@
 aliases:
   - Deny the Cycle
 title: Deny the Cycle
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.658Z
-modified: 2026-09-26T17:18:39.728Z
-published: 2026-09-26T17:18:39.728Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Archetype
   - Feat

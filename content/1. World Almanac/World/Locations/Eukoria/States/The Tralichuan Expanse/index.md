@@ -3,13 +3,7 @@ publish: true
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
-<<<<<<< HEAD
 symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.508Z
-modified: 2026-10-07T09:41:17.599Z
-published: 2026-10-07T09:41:17.599Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"

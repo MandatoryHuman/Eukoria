@@ -3,12 +3,6 @@ aliases:
   - Solon
   - solon, god of law
 title: Solon, God of Law
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.242Z
-modified: 2026-09-26T17:18:39.538Z
-published: 2026-09-26T17:18:39.538Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Gods
 alternate_domains: '[Soul](https://2e.aonprd.com/Domains.aspx?ID=118)'

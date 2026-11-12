@@ -3,13 +3,7 @@ publish: true
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-<<<<<<< HEAD
 symbol: "[[Daeshin_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.372Z
-modified: 2026-10-07T10:53:43.253Z
-published: 2026-10-07T10:53:43.253Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[Daeshin_symbol.svg]]"

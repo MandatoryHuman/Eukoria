@@ -4,12 +4,6 @@ aliases:
   - Lethos
   - lethos, god of trickery
 title: Lethos, God of Trickery
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.224Z
-modified: 2026-09-26T17:18:39.513Z
-published: 2026-09-26T17:18:39.513Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 enemy:
   - "[[Syla, Goddess of Records]]"
 alternate_domains: 'Secrecy, Wealth'

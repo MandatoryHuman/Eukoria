@@ -3,13 +3,7 @@ publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
-<<<<<<< HEAD
 symbol: "[[Firstweald_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.406Z
-modified: 2026-10-07T10:54:55.934Z
-published: 2026-10-07T10:54:55.934Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]]"

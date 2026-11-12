@@ -4,13 +4,7 @@ aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
-<<<<<<< HEAD
 symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg]]"
-=======
-created: 2026-11-12T17:37:18.501Z
-modified: 2026-10-07T09:41:17.591Z
-published: 2026-10-07T09:41:17.591Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: '[[The Seven-Fold Canopy]]'

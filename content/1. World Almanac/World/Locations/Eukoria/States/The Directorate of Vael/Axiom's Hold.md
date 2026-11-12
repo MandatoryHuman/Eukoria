@@ -2,12 +2,6 @@
 aliases:
   - axiom's hold
 title: Axiom's Hold
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.383Z
-modified: 2026-10-03T19:22:03.117Z
-published: 2026-10-03T19:22:03.117Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Settlement
 demographics: ''

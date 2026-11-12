@@ -3,12 +3,6 @@ aliases:
   - opiroth resin
   - Opiroth Resin
 title: Opiroth Resin
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.717Z
-modified: 2026-10-07T10:58:14.950Z
-published: 2026-10-07T10:58:14.950Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Item
   - Drug

@@ -3,12 +3,6 @@ publish: true
 aliases:
   - kyouten
 title: Kyouten
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.366Z
-modified: 2026-10-07T11:04:35.755Z
-published: 2026-10-07T11:04:35.755Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - "#Settlement"
 marker:

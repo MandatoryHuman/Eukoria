@@ -2,7 +2,6 @@
 aliases:
   - bastion
 title: Bastion
-<<<<<<< HEAD
 capital: ''
 demographics: ''
 government: ''
@@ -12,20 +11,6 @@ major_imports: ''
 population: ''
 religions: ''
 ruler: ''
-=======
-created: 2026-11-12T17:37:18.443Z
-modified: 2026-10-03T19:22:03.145Z
-published: 2026-10-03T19:22:03.145Z
-capital: ""
-demographics: ""
-government: ""
-languages: ""
-major_exports: ""
-major_imports: ""
-population: ""
-religions: ""
-ruler: ""
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!info]+ Details

@@ -2,12 +2,6 @@
 aliases:
   - prismathia
 title: Prismathia
-<<<<<<< HEAD
-=======
-created: 2026-11-12T17:37:18.470Z
-modified: 2026-10-07T11:10:31.093Z
-published: 2026-10-07T11:10:31.093Z
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Settlement
 demographics: 'Elves, Humans, Fetchlings, Nephilim'

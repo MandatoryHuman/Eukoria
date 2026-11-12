@@ -4,7 +4,6 @@ aliases:
   - Thrum
   - thrum, god of madness
 title: Thrum, God of Madness
-<<<<<<< HEAD
 alternate_domains: '[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)'
 anathema: 'Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity'
 areas_of_concern: 'Madness, paranoia, the breakdown of consciousness, the void of thought'
@@ -22,28 +21,6 @@ pantheons_covenants: '[[1. World Almanac/World/Gods & Divines/Greater Gods/Canon
 religious_symbol: 'A shattered mirror reflecting a pitch-black void'
 sacred_animal: 'Moth'
 sacred_colours: 'Deep Purple and Void Black'
-=======
-created: 2026-11-12T17:37:18.210Z
-modified: 2026-09-26T17:18:39.494Z
-published: 2026-09-26T17:18:39.494Z
-alternate_domains: "[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)"
-anathema: Construct rigid logical wards, enforce mundane mental structures, seek absolute clarity
-areas_of_concern: Madness, paranoia, the breakdown of consciousness, the void of thought
-aspects: Absence and Mind
-category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] (Deceased)"
-cleric_spells: "1st: 2e.aonprd.com/Spells.aspx?ID=1500, 4th: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), 7th: [Warp Mind](https://2e.aonprd.com/Spells.aspx?ID=1754)"
-divine_attribute: Intelligence or Charisma
-divine_font: Harm
-divine_sanctification: Must choose Unholy
-divine_skill: Occultism
-domains: "[Delirium](https://2e.aonprd.com/Domains.aspx?ID=105), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69)"
-edicts: Embrace the void of reason, shatter illusions of order, gaze into the abyss, let go of logical tethers
-favoured_weapon: Whip
-pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]"
-religious_symbol: A shattered mirror reflecting a pitch-black void
-sacred_animal: Moth
-sacred_colours: Deep Purple and Void Black
->>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!info]+ Details
