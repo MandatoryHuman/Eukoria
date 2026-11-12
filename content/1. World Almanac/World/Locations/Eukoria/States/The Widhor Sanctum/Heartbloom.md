@@ -1,7 +1,7 @@
 ---
 aliases:
-  - tralicor
-title: Tralicor
+  - heartbloom
+title: Heartbloom
 tags:
   - Settlement
 demographics: ''

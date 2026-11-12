@@ -4,7 +4,7 @@ aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-symbol: "[[The_Widhor_Sanctum_Symbol.webp]]"
+symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
 tags:
   - State
 capital: '[[Heartbloom]]'
@@ -29,15 +29,15 @@ ruler: 'The Chorus of Voices'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Widhor_Sanctum_symbol.svg|300]]
 
 # Overview
 
-Located on a crescent-shaped area of land on the eastern edge of [[Cenora]], the Widhor Sanctum is an isolationist, utopian commune. Devoted to [[Lysia Bind-breaker, Goddess of Passion]], it serves as a haven for Fleshwarps, persecuted lovers, Cathartic Mages, and outcasts fleeing orthodox inquisitions. Unlike the violent pirates of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], the citizens of [[1. World Almanac/World/Locations/Eukoria/States/The Widhor Sanctum/index|The Widhor Sanctum]] use [[Traditions of Dismagic|Dismagic]] to create a empathetic and biologically adaptive society.
+Located on a crescent-shaped area of land on the eastern edge of [[Cenora]], the Widhor Sanctum is an isolationist, utopian commune. Devoted to [[Lysia Bind-breaker, Goddess of Passion]], it serves as a haven for Fleshwarps, persecuted lovers, Cathartic Mages, and outcasts fleeing orthodox inquisitions. Unlike the violent pirates of [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]], the citizens of [[1. World Almanac/World/Locations/Eukoria/States/The Widhor Sanctum/index|The Widhor Sanctum]] use [[Traditions of Dismagic|Dismagic]] to create an empathetic and biologically adaptive society.
 
 # Geography & Climate
 
-The archipelago is a tropical paradise that has been radically altered by generations of Passion-Magic. The architecture is entirely organic; homes are grown from living coral and giant flora, biokinetically coaxed to respond to the emotional states of their inhabitants. The weather is usually idyllic, but because the island's flora and fauna are empathically linked to the populace, a sudden tragedy or collective panic can manifest as a literal "Passion Storm" - a highly localized weather event that causes the environment to physically lash out. This make any kind of military action against the nation very difficult as the more damage an opposing force does, the more the very land itself fights back against them.
+The archipelago is a tropical paradise that has been radically altered by generations of Passion-Magic. The architecture is entirely organic; homes are grown from living coral and giant flora, biokinetically coaxed to respond to the emotional states of their inhabitants. The weather is usually idyllic, but because the island's flora and fauna are empathically linked to the populace, a sudden tragedy or collective panic can manifest as a literal "Passion Storm" - a highly localised weather event that causes the environment to physically lash out. This makes any kind of military action against the nation very difficult: the more damage an opposing force does, the more the land itself fights back.
 
 # Society & Culture
 
@@ -45,17 +45,17 @@ Society in Widhor is deeply communal, emotionally transparent, and entirely devo
 
 # Government & Politics
 
-Widhor operates as an anarcho-syndicalist commune governed by "The Chorus of Voices"—a council of elder Cathartic Mages, healers, and Griots who are telepathically linked during their sessions to ensure pure empathy guides their rulings. There are no written laws, only a collective understanding of mutual care and consent. Justice focuses entirely on rehabilitation; those who cause harm have their emotional trauma psychically soothed or, in extreme cases, are exiled from the empathic network.
+Widhor operates as an anarcho-syndicalist commune governed by "The Chorus of Voices" - a council of elder Cathartic Mages, healers, and Griots who are telepathically linked during their sessions to ensure pure empathy guides their rulings. There are no written laws, only a collective understanding of mutual care and consent. Justice focuses entirely on rehabilitation; those who cause harm have their emotional trauma psychically soothed or, in extreme cases, are exiled from the empathic network.
 
 # Diplomatic Relations
 
-- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Hated): Vael views the existence of a Dismagic state as an existential threat. They frequently dispatch covert naval strikes and psychic assassins to wipe out the Sanctum, forcing Widhor's empaths to defend their shores with weaponized trauma.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] (Hated): Vael views the existence of a Dismagic state as an existential threat. They frequently dispatch covert naval strikes and psychic assassins to wipe out the Sanctum, forcing Widhor's empaths to defend their shores with weaponised trauma.
 - [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]] (Passive Threat): Being relatively close to Jhal, mindless undead occasionally wander across the borders of Widhor or wash up on their beaches. Because the undead possess no emotions to manipulate, they are terrifying adversaries for the island's Passion-Mages.
 - [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]] (Trade): Widhor frequently sends emotional "Anchors" (objects imbued with powerful psychic grounding) to the desperate soldiers of the Marches to help them survive the reality storms of the Null-State.
 
 # History & Lore
 
-Widhor was settled seventy years ago by a massive refugee group fleeing the orthodox inquisitions of central Cenora. Guided by a [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]] of [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]], the refugees settled the uninhabited lands. The Chosen One exhausted their divine power to permanently fuse the area's biological network with a psychic field, creating an environment that would naturally sustain and protect those who lived in emotional harmony.
+Widhor was settled in 46 AW by a massive refugee group fleeing the orthodox inquisitions of central Cenora. Guided by a [[1. World Almanac/World/NPCs/Chosen Ones/index|Chosen One]] of [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]], the refugees settled the uninhabited lands. The Chosen One exhausted their divine power to permanently fuse the area's biological network with a psychic field, creating an environment that would naturally sustain and protect those who lived in emotional harmony.
 
 # Notable Locations
 

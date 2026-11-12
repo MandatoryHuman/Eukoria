@@ -24,7 +24,7 @@ type: 'Continent'
 
 # Overview
 
-Cenora is the sprawling, highly civilized eastern continent of Eukoria, defined by its massive, heavily populated nation-states and complex geopolitics. If [[Antoria]] is a continent of raw survival, Cenora is a continent of ambition, bureaucracy, and high-society warfare. However, this civilized veneer masks a terrifying reality: the geographic centre of the continent is entirely consumed by the most physically and psychologically dangerous landmass in the world.
+Cenora is the sprawling, highly civilised eastern continent of Eukoria, defined by its massive, heavily populated nation-states and complex geopolitics. If [[Antora]] is a continent of raw survival, Cenora is a continent of ambition, bureaucracy, and high-society warfare. However, this civilised veneer masks a terrifying reality: the geographic centre of the continent is entirely consumed by the most physically and psychologically dangerous landmass in the world.
 
 # Ecology & Environment
 
@@ -35,7 +35,7 @@ However, all of this order breaks down at the continent's core. The [[1. World A
 # Hazards & Encounters
 
 - **Typical Creatures:** State-sponsored inquisitors, mercenary spies, intelligent undead patrols (in the southeast), and horrific, reality-warped Fleshwarps and void-mutants near the central quarantine zones.
-- **Environmental Hazards:** Psychic tripwires and localized surveillance wards in Vael; Memory-erasing reality storms bleeding out of the Null-State into the Glandaric Marches; and brutal, magically induced typhoons along the southern coasts.
+- **Environmental Hazards:** Psychic tripwires and localised surveillance wards in Vael; memory-erasing reality storms bleeding out of the Null-State into the Glandaric Marches; and brutal, magically induced typhoons along the southern coasts.
 
 # Landmarks & Points of Interest
 

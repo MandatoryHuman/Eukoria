@@ -5,29 +5,29 @@ aliases:
 title: Oromur, God of Medicine
 tags:
   - Gods
-alternate_domains: 'Nature'
-anathema: 'Refuse healing to one in dire need based on prejudice, cause unnecessary physical pain, hoard medical supplies during a crisis, experiment cruelly on the living'
-areas_of_concern: 'Healing, Herbalism, Compassion, Respite'
-aspects: 'Healing and Respite'
-category: '[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]'
-cleric_spells: '1st: [Soothe](https://2e.aonprd.com/Spells.aspx?ID=1678), 2nd: [Extract Poison](https://2e.aonprd.com/Spells.aspx?ID=907), 5th: [Blister](https://2e.aonprd.com/Spells.aspx?ID=1969)'
-divine_attribute: 'Wisdom or Intelligence'
-divine_font: 'heal'
-divine_sanctification: 'can choose holy'
-divine_skill: 'Medicine'
-domains: 'Healing, Repose, Knowledge, Protection'
-edicts: 'Heal the sick regardless of their allegiances, provide comfort to the dying, share medical knowledge freely, cultivate healing plants'
-favoured_weapon: 'Sickle'
-major_boon: 'You can cast breath of life as a 6th-rank innate divine spell once per day.'
-major_curse: 'Your attempts to heal cause ruin. Whenever you attempt to use the Medicine skill to treat an ally, you automatically critically fail.'
-minor_boon: 'When you roll a critical failure on a Medicine check, you get a failure instead.'
-minor_curse: 'Even minor scrapes take weeks to heal. You take a -1 status penalty to Medicine checks. Additionally, your wounds bleed easily increasing the DC of flat checks to end persistent bleed damage by by 5 (to a maximum of 20).'
-moderate_boon: 'Your touch mends flesh effortlessly. You gain a +1 status bonus to Medicine checks, and whenever you Treat Wounds, you heal an additional 1d8 Hit Points.'
-moderate_curse: 'Your body resists magical mending. Any healing magic applied to you only restores half the normal amount of Hit Points.'
-pantheons_covenants: ''
-religious_symbol: 'A needle and silver thread'
-sacred_animal: 'Dove'
-sacred_colours: 'White and Herbal Green'
+alternate_domains: Nature
+anathema: Refuse healing to one in dire need based on prejudice, cause unnecessary physical pain, hoard medical supplies during a crisis, experiment cruelly on the living
+areas_of_concern: Healing, Herbalism, Compassion, Respite
+aspects: Centre in Mind
+category: "[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]"
+cleric_spells: "1st: [Soothe](https://2e.aonprd.com/Spells.aspx?ID=1678), 2nd: [Extract Poison](https://2e.aonprd.com/Spells.aspx?ID=907), 5th: [Blister](https://2e.aonprd.com/Spells.aspx?ID=1969)"
+divine_attribute: Wisdom or Intelligence
+divine_font: heal
+divine_sanctification: can choose holy
+divine_skill: Medicine
+domains: Healing, Repose, Knowledge, Protection
+edicts: Heal the sick regardless of their allegiances, provide comfort to the dying, share medical knowledge freely, cultivate healing plants
+favoured_weapon: Sickle
+major_boon: You can cast breath of life as a 6th-rank innate divine spell once per day.
+major_curse: Your attempts to heal cause ruin. Whenever you attempt to use the Medicine skill to treat an ally, you automatically critically fail.
+minor_boon: When you roll a critical failure on a Medicine check, you get a failure instead.
+minor_curse: Even minor scrapes take weeks to heal. You take a -1 status penalty to Medicine checks. Additionally, your wounds bleed easily increasing the DC of flat checks to end persistent bleed damage by by 5 (to a maximum of 20).
+moderate_boon: Your touch mends flesh effortlessly. You gain a +1 status bonus to Medicine checks, and whenever you Treat Wounds, you heal an additional 1d8 Hit Points.
+moderate_curse: Your body resists magical mending. Any healing magic applied to you only restores half the normal amount of Hit Points.
+pantheons_covenants: ""
+religious_symbol: A needle and silver thread
+sacred_animal: Dove
+sacred_colours: White and Herbal Green
 ---
 
 > [!info]+ Details

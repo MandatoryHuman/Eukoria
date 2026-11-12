@@ -9,6 +9,7 @@ factions_involved: 'Early Inventors Guilds; Secular Militias; Orthodox Loyalists
 key_figures: 'Chancellor Vondal Iron-Speaker'
 location: 'Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]'
 type: 'Industrial Revolution & Political Uprising'
+date: '58 AW'
 ---
 
 > [!info]+ Details
@@ -33,4 +34,4 @@ When orthodox loyalists attempted to destroy the machine, Vondal's secular milit
 
 # Aftermath & Legacy
 
-The success of the Grand Turbine triggered an unprecedented industrial boom. The geothermal vents were rapidly tapped to power advanced magitech forges and transit systems\[cite: 3]. This event directly led to the construction of [[The Caldera Forum]] and solidified [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]] as a major geopolitical power. The Awakening remains a point of deep ideological friction with theocratic nations like [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]], who view this secular advancement as an existential threat to divine order.
+The success of the Grand Turbine triggered an unprecedented industrial boom. The geothermal vents were rapidly tapped to power advanced magitech forges and transit systems. This event directly led to the construction of [[The Caldera Forum]] and solidified [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]] as a major geopolitical power. The Awakening remains a point of deep ideological friction with theocratic nations like [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]], who view this secular advancement as an existential threat to divine order.

@@ -1,19 +1,20 @@
 ---
 aliases:
   - The Glandaric Marches
+  - Glandaria
 title: The Glandaric Marches
-symbol: "[[The_Glandaric_Marches_Symbol.webp]]"
+symbol: "[[Gladaria_symbol.svg]]"
 tags:
   - State
-capital: '[[Fort Glandar]]'
-demographics: 'Humans, Orcs, Dwarves, Fleshwarps'
-government: 'Decentralised Military Coalition'
-languages: 'Common'
-major_exports: 'Monster trophies, "Anchor" items, hardened mercenaries'
-major_imports: 'Weapons, food supplies, psychiatric/medical aid'
+capital: "[[Fort Glandar]]"
+demographics: Humans, Orcs, Dwarves, Fleshwarps
+government: Decentralised Military Coalition
+languages: Common
+major_exports: Monster trophies, "Anchor" items, hardened mercenaries
+major_imports: Weapons, food supplies, psychiatric/medical aid
 population: '"750,000"'
-religions: '[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]'
-ruler: 'The Marchwarden Council'
+religions: "[[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]"
+ruler: The Marchwarden Council
 ---
 
 > [!info]+ Details
@@ -27,27 +28,27 @@ ruler: 'The Marchwarden Council'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Gladaria_symbol.svg|300]]
 
 # Overview
 
-The Glandaric Marches are a fractured, desperate coalition of territories that serve as a brutal quarantine line against the madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. While [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] uses elegant psychic wards to keep the horrors at bay on the western border, the Marches hold the eastern line with nothing but physical steel, sheer willpower, and deeply traumatic survival mechanisms. It is a scarred, gothic, heavily militarised state where survival is a daily, bloody battle against unravelling reality.
+The Glandaric Marches are a fractured, desperate coalition of territories that serve as a brutal quarantine line against the madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. While [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/index|The Directorate of Vael]] uses elegant psychic wards to keep the horrors at bay on the western border, the Marches hold the eastern line with physical steel, sheer willpower, and deeply traumatic survival mechanisms. It is a scarred, gothic, heavily militarised state where survival is a daily battle against unravelling reality.
 
 # Geography & Climate
 
-Located in Eastern [[Cenora]], the landscape of the Marches is a harsh, fortified plains region that steadily deteriorates the closer one gets to the Null-State. Near to the border, the environment is frequently subjected to unpredictable "reality storms" bleeding over the border - invisible waves of cosmic friction where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously rewriting gravity, mutating local wildlife, and erasing the memories of anyone caught outside.
+Located south-east of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] in [[Cenora]], the landscape of the Marches is a harsh, fortified plains region that steadily deteriorates the closer one gets to the Null-State. Near to the border, the environment is frequently subjected to unpredictable "reality storms" bleeding over the border - invisible waves of cosmic friction where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously rewriting gravity, mutating local wildlife, and erasing the memories of anyone caught outside.
 
 ![[Assets/Locations/The Glandaric Marches.webp]]
 
 # Society & Culture
 
-The populace of the Marches is deeply superstitious and heavily physically scarred. To combat the memory-erasing effects of the reality storms, Glandaric citizens to heavily scar or tattoo their personal histories, names, and alliances directly onto their flesh. These are not mundane tattoos; they are ritually applied using painful Occult magic to forcefully bind the soul to the physical body.
+The populace of the Marches is deeply superstitious and heavily physically scarred. To combat the memory-erasing effects of the reality storms, Glandaric citizens heavily scar or tattoo their personal histories, names, and alliances directly onto their flesh. These are not mundane tattoos; they are ritually applied using painful Occult magic to forcefully bind the soul to the physical body.
 
 The economy relies heavily on the desperate trade of "Anchors" - mundane objects with intense emotional significance (a child's toy, a blood-stained letter) that are clutched during storms to ground an individual's mind. The society highly reveres [[Bella, Goddess of War]], valuing martial discipline and the courage to face impossible horrors head-on.
 
 # Government & Politics
 
-The Marches operate under continuous martial law, governed by the Marchwarden Council—a group of battle-hardened generals. Justice is swift and physical, usually involving assignment to the most dangerous, high-casualty border patrols. However, the military is deeply fractured over the use of Dismagic to survive the wastes.
+The Marches operate under continuous martial law, governed by the Marchwarden Council - a group of battle-hardened generals. Justice is swift and physical, usually involving assignment to the most dangerous, high-casualty border patrols. However, the military is deeply fractured over the use of Dismagic to survive the wastes.
 
 # Diplomatic Relations
 
@@ -56,7 +57,7 @@ The Marches operate under continuous martial law, governed by the Marchwarden Co
 
 # History & Lore
 
-The Marches were formed in the immediate aftermath of [[Lethos, God of Trickery|Lethos]] assassinating [[Thrum, God of Madness]]. When the explosive release of Thrum's essence shattered the physical laws of central Cenora, the surviving eastern border towns banded together. Realising no divine intervention was coming, they formed a massive, coalition of castles, fortresses, and walled towns to stop the expanding tide of the void, sacrificing their own humanity to hold the line.
+The Marches were formed in the immediate aftermath of [[Lethos, God of Trickery|Lethos]] assassinating [[Thrum, God of Madness]]. When the explosive release of Thrum's essence shattered the physical laws of central Cenora, the surviving eastern border towns banded together. Realising no divine intervention was coming, they formed a massive coalition of castles, fortresses, and walled towns to stop the expanding tide of the void, sacrificing their own humanity to hold the line.
 
 # Notable Locations
 

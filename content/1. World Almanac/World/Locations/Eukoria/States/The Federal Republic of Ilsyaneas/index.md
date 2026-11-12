@@ -3,18 +3,18 @@ aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
 title: The Federal Republic of Ilsyaneas
-symbol: "[[The_Federal_Republic_of_Ilsyaneas_Symbol.webp]]"
+symbol: "[[Ilsyaneas_symbol.svg]]"
 tags:
   - State
-capital: '[[The Caldera Forum]]'
-demographics: 'Humans, Dwarves, Gnomes, Automatons'
-government: 'Federal Representative Republic'
-languages: 'Common, Dwarven, Gnomish'
-major_exports: 'Machinery, Firearms, Refined Steel, Civic Treatises'
-major_imports: 'Raw Ore, Textiles, Exotic Primal Reagents'
-population: '2.8 Million'
-religions: 'Secular'
-ruler: 'Elected Chancellor'
+capital: "[[The Caldera Forum]]"
+demographics: Humans, Dwarves, Gnomes, Automatons
+government: Federal Representative Republic
+languages: Common, Dwarven, Gnomish
+major_exports: Machinery, Firearms, Refined Steel, Civic Treatises
+major_imports: Raw Ore, Textiles, Exotic Primal Reagents
+population: 2.8 Million
+religions: Secular
+ruler: Elected Chancellor
 ---
 
 > [!info]+ Details
@@ -28,7 +28,7 @@ ruler: 'Elected Chancellor'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Ilsyaneas Symbol.svg|400]]
+![[Ilsyaneas_symbol.svg|300]]
 
 # Overview
 
@@ -58,7 +58,7 @@ Following the devastation of the [[War of Laws]], the founders of Ilsyaneas reje
 
 # Notable Locations
 
-- [[The Caldera Forum]]: The sprawling, industrialized capital built directly into the slopes and geothermal vents of Mount Solace.
+- [[The Caldera Forum]]: The sprawling, industrialised capital built directly into the slopes and geothermal vents of Mount Solace.
 - Mount Solace: The colossal dormant supervolcano that serves as the industrial and spiritual heart of the Republic.
 
 # Prominent Factions

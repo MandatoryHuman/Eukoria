@@ -11,7 +11,7 @@ background: 'Exiled Scholar'
 class_profession: 'Wizard/Runemage'
 faction: '[[Captains'' Council]]/The [[Phylactery Fleet]]'
 level: '16'
-location: '[[1. World Almanac/World/Locations/Eukoria/States/Heretic''s Wake/index|Heretic''s Wake]]'
+location: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]"
 pronouns: 'He/Him'
 role: 'Pirate Lord'
 status: 'Undead'

@@ -3,7 +3,7 @@ aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
-symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_Symbol.webp]]"
+symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg]]"
 tags:
   - State
 capital: '[[The Seven-Fold Canopy]]'
@@ -13,7 +13,7 @@ languages: 'Common, Elven, Iruxi'
 major_exports: 'Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies'
 major_imports: 'Heavy Armour, Cold-Iron Weapons, Arcane Texts'
 population: '1.1 Million'
-religions: 'Ancestral Spirits, [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]], [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]'
+religions: 'Ancestral Spirits, Lesser Gods, [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]'
 ruler: 'The [[Witan]]'
 ---
 
@@ -28,11 +28,11 @@ ruler: 'The [[Witan]]'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg|300]]
 
 # Overview
 
-The Sovereign [[Heptarchy]] of Idgorna is a vibrant, hyper-competitive nation occupying the southeastern tropical expanse of [[Antoria]]. Idgorna is a domain where the natural world has been domesticated and weaponised through complex feudal politics, ancient traditions, and martial prowess. It is a society steeped in espionage, shifting alliances, and relentless ambition, where the pen, the spear, and the spell are considered equally valid tools of statecraft.
+The Sovereign [[Heptarchy]] of Idgorna is a vibrant, hyper-competitive nation occupying the South-Eastern tropical expanse of [[Antora]]. Idgorna is a domain where the natural world has been domesticated and weaponised through complex feudal politics, ancient traditions, and martial prowess. It is a society steeped in espionage, shifting alliances, and relentless ambition, where the pen, the spear, and the spell are considered equally valid tools of statecraft.
 
 # Geography & Climate
 
@@ -42,7 +42,7 @@ Idgorna thrives in warm, stable tropical and subtropical zones, defined by dense
 
 Idgornan culture is a visually magnificent and fiercely competitive tapestry of ancient traditions. Cities are marvels of integrated architecture, combining mortarless, sweeping stone walls - reminiscent of lost, ancient empires - with elegant structures woven directly into the massive trunks of towering jungle trees, such as giant baobabs and ironwoods.
 
-Oral history is paramount; deeply respected griots (storytellers, musicians, and lore-keepers) memorise the complex lineages and shifting alliances of the [[Heptarchy]]. Citizens adorn themselves in vibrant, geometrically patterned textiles and intricate beadwork, with specific colours and materials denoting one’s House allegiance and social standing. The people largely revere a pantheon of [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]] and venerated ancestral spirits associated with the hunt, the river, and the hearth, finding the uncompromising monoliths of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] too rigid for the realities of jungle survival. High-stakes political manoeuvring is a way of life, and nobles frequently utilise subterfuge, ritual enchantment, and calculated gossip to dismantle rivals before combat even begins.
+Oral history is paramount; deeply respected griots (storytellers, musicians, and lore-keepers) memorise the complex lineages and shifting alliances of the [[Heptarchy]]. Citizens adorn themselves in vibrant, geometrically patterned textiles and intricate beadwork, with specific colours and materials denoting one’s House allegiance and social standing. The people largely revere a pantheon of lesser gods and venerated ancestral spirits associated with the hunt, the river, and the hearth, finding the uncompromising monoliths of the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]] too rigid for the realities of jungle survival. High-stakes political manoeuvring is a way of life, and nobles frequently utilise subterfuge, ritual enchantment, and calculated gossip to dismantle rivals before combat even begins.
 
 # Government & Politics
 
@@ -51,7 +51,7 @@ The state is governed by an intricate, highly formalised [[Heptarchy]]; seven di
 # Diplomatic Relations
 
 - [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]] (Hostile): The supernatural entropy of Kazarn poses a direct, existential threat to the booming vitality of the Idgornan jungles. Despite their internal squabbling, the seven houses maintain a unified, heavily fortified northern front against the [[Hegemony]].
-- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Tense): Sharing the southwestern landmass, the purist druids of the Firstweald view Idgorna's industrialisation and political manipulation of the jungle as a corruption of Kurnos's natural laws. Border skirmishes and sabotage by Firstweald shapeshifters are common.
+- [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]] (Tense): Sharing the South-Western landmass, the purist druids of the Firstweald view Idgorna's industrialisation and political manipulation of the jungle as a corruption of Kurnos's natural laws. Border skirmishes and sabotage by Firstweald shapeshifters are common.
 - [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Cautious/Lucrative Trade): Idgornan merchants engage in highly profitable trade with Meridia. Utilising the sanctioned deception of [[Lethos, God of Trickery]], Idgornan diplomats are among the few capable of navigating loopholes to hold their own against Meridian contract-lawyers.
 
 # History & Lore

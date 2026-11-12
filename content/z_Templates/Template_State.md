@@ -4,8 +4,8 @@ aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
 tags:
-  - "#State"
-symbol: "[[<% tp.file.title.replaceAll(' ', '_') %>_Symbol.webp]]"
+  - State
+symbol: "[[<% tp.file.title.replaceAll(' ', '_') %>_symbol.svg]]"
 marker:
 capital: '<% tp.system.prompt("Capital City?") %>'
 demographics: '<% tp.system.prompt("Demographics?") %>'
@@ -29,7 +29,7 @@ ruler: '<% tp.system.prompt("Ruler?") %>'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Assets/Locations/Flags/<% tp.file.title %> Symbol.svg|400]]
+![[<% tp.file.title.replaceAll(' ', '_') %>_symbol.svg|300]]
 
 # Overview
 

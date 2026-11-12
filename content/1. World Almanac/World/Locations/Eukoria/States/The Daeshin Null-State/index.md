@@ -2,7 +2,7 @@
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-symbol: "[[Daeshin_Symbol.svg]]"
+symbol: "[[Daeshin_symbol.svg]]"
 tags:
   - State
 capital: "[[Othrys, The Hollow Capital]] (Largely Abandoned)"
@@ -27,25 +27,25 @@ ruler: Various Cult Leaders and Warlords
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Daeshin_Symbol.svg|300]]
+![[Daeshin_symbol.svg|300]]
 
 # Overview
 
-The Daeshin Null-State is not a functioning country, but a massive, quarantined wasteland in the centre of [[Cenora]]. It is likely the most physically and psychologically dangerous landmass on [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]. Reality itself is fundamentally broken here; gravity stutters, rivers flow backward, and dead-magic zones frequently overlap with areas of hyper-volatile Dismagic. It is a haven only for the mad, the mutated, and those who have absolutely nowhere else to run, living in the shadow of a ruined, hollowed-out capital that stands as a monument to divine murder.
+The Daeshin Null-State is not a functioning country, but a massive, quarantined wasteland in the centre of [[Cenora]]. It is the persistent physical scar left by the energy released when [[Thrum, God of Madness]] died during the War of Laws. That release has not yet been repaired; gravity stutters, rivers flow backward, and dead-magic zones overlap with areas of hyper-volatile Dismagic. It is a haven only for the mad, the mutated, and those who have nowhere else to run.
 
 # Geography & Climate
 
-The geography of Daeshin defies mapping, as the landscape literally shifts and changes. It is a region scarred by impossible geometry, floating landmasses, and skies that cycle through colors unseen in the natural spectrum. The environment is incredibly hostile, prone to sudden "reality storms" where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously creating and erasing matter, energy, and magic in a matter of seconds.
+The geography of Daeshin defies mapping, as the landscape literally shifts and changes. It is a region scarred by impossible geometry, floating landmasses, and skies that cycle through colours unseen in the natural spectrum. The environment is incredibly hostile, prone to sudden "reality storms" where the [[Basic Essences]] of Presence and Absence violently clash, spontaneously creating and erasing matter, energy, and magic in a matter of seconds.
 
 # Society & Culture
 
 There is no unified society in Daeshin. The population consists of isolated, paranoid survivalists, bizarre cults, and Fleshwarps who have sought refuge from orthodox persecution.
 
-Because gravity, time, and physical matter are entirely unreliable here, traditional currency is meaningless. The primary trade good in the wastes is "Anchors" - mundane objects with intense emotional significance attached to them (a mother's locket, a blood-stained letter, a child's toy). Passion-Mages trade heavily in Anchors, using them to psychologically ground individuals and prevent their minds from unravelling during reality storms. Furthermore, because spontaneous memory erasure is a common environmental hazard in Daeshin, it is customary for survivors to heavily scar or tattoo their personal histories, names, and alliances directly onto their flesh so they do not forget who they are when the storms pass.
+Because gravity, time, and physical matter are entirely unreliable here, traditional currency is meaningless. The primary trade good in the wastes is "Anchors" - mundane objects with intense emotional significance attached to them (a mother's locket, a blood-stained letter, a child's toy). Passion-Mages trade heavily in Anchors, using them to psychologically ground individuals and prevent their minds from unravelling during reality storms. Furthermore, because spontaneous memory erasure is a common environmental hazard in Daeshin, survivors tattoo their most important memories directly onto their skin. Names, faces, promises, routes to safe water, and the wording of a child's last words are reduced to symbols that can be traced by touch when sight and language fail. A trusted tattooist usually works in layers: the oldest memories sit closest to the heart, while new allies and recent discoveries are added along the arms and hands. Before a storm, people recite their tattoos aloud and ask companions to check that the marks still match the story. These scars are not decoration; they are portable archives, and losing one can feel like losing the person or promise it records.
 
 # Government & Politics
 
-Anarchy reigns. Authority is held only by those powerful or mad enough to carve out a safe zone amidst the shifting reality. Various warlords, Passion-Mages, and cult leaders hold small pockets of stability, frequently warring with one another over stable ground, clean water, or powerful artifacts unearthed from the twisting earth. The idea of a unified state died with the old capital over a century ago.
+Anarchy reigns. Authority is held only by those powerful or mad enough to carve out a safe zone amidst the shifting reality. Various warlords, Passion-Mages, and cult leaders hold small pockets of stability, frequently warring with one another over stable ground, clean water, or powerful artifacts unearthed from the twisting earth. The idea of a unified state died with the old capital in 0 AW, and no later government has repaired the underlying scar.
 
 # Diplomatic Relations
 
@@ -54,7 +54,7 @@ Anarchy reigns. Authority is held only by those powerful or mad enough to carve 
 
 # History & Lore
 
-Daeshin is the literal ground zero of the most devastating event of the [[War of Laws]]. Before the cataclysm, it was a prosperous eastern kingdom. It is widely believed that this exact geographic location is where [[Lethos, God of Trickery|Lethos]] cornered and assassinated [[Thrum, God of Madness]]. The explosive release of a Greater God's essence upon their death permanently shattered the physical laws of the region, instantly erasing the kingdom's populace and leaving their capital a ghostly ruin. Furthermore, as Lethos usurped Thrum's position of Absence and Mind here, the resulting cosmic vacuum twisted the flora, fauna, and very air into the nightmare it is today.
+Daeshin is the literal ground zero of the most devastating event of the [[War of Laws]]. Before the cataclysm, it was a prosperous eastern kingdom. It is widely believed that this exact geographic location is where [[Lethos, God of Trickery|Lethos]] cornered and assassinated [[Thrum, God of Madness]]. The explosive physical energy released by Thrum's death permanently shattered the laws of the region, instantly erasing the kingdom's populace and leaving their capital a ghostly ruin. The wound remains active: every reality storm is another expression of the unrepaired energy scar, not evidence that Thrum's place in the pantheon remains vacant.
 
 # Notable Locations
 

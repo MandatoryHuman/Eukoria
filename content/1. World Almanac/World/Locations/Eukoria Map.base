@@ -1,0 +1,7 @@
+views:
+  - type: leaflet-map
+    name: Map
+    filters:
+      and:
+        - file.tags.containsAny("state")
+    mapName: Eukoria

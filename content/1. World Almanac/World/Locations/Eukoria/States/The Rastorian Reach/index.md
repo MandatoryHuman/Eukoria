@@ -3,7 +3,7 @@ aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
-symbol: "[[The_Rastorian_Reach_Symbol.webp]]"
+symbol: "[[The_Rastorian_Reach_symbol.svg]]"
 tags:
   - State
 capital: '[[Hafnar]]'
@@ -28,15 +28,15 @@ ruler: 'High Jarl'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Rastor Symbol.svg|400]]
+![[The_Rastorian_Reach_symbol.svg|300]]
 
 # Overview
 
-The Rastorian Reach occupies the freezing, jagged northwestern coast of [[Antoria]]. It is a harsh, breathtaking land of towering pine forests, glacier-carved valleys, and brutal seas. The Rastorians are a fiercely independent people - monster hunters, skalds, and runesmiths who measure a person's worth by their ability to endure the elements and the size of the beasts they can fell. To them, the volatile magic of the world is not something to be studied in a safe academy; but rather a wild beast to be wrestled, bound, and carved into the blade of an axe.
+The Rastorian Reach occupies the freezing, jagged north-western coast of [[Antora]]. It is a harsh, breathtaking land of towering pine forests, glacier-carved valleys, and brutal seas. The Rastorians are a fiercely independent people - monster hunters, skalds, and runesmiths who measure a person's worth by their ability to endure the elements and the size of the beasts they can fell. To them, the volatile magic of the world is not something to be studied in a safe academy, but rather a wild beast to be wrestled, bound, and carved into the blade of an axe.
 
 # Geography & Climate
 
-The northern waters of the Reach are tumultuous with the reality storms and Dismagic fallout bleeding over from [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]. This sometime causes the local marine and wildlife to mutate into gargantuan, warped monstrosities. The climate is punishingly cold, with long, bitter winters and short, violent summers. Inland, the terrain is dominated by impassable, snow-capped peaks and deep geothermal vents that the locals use to heat their mead-halls and runic forges.
+The northern waters of the Reach are tumultuous with the reality storms and Dismagic fallout bleeding over from [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]. This sometimes causes the local marine and wildlife to mutate into gargantuan, warped monstrosities. The climate is punishingly cold, with long, bitter winters and short, violent summers. Inland, the terrain is dominated by impassable, snow-capped peaks and deep geothermal vents that the locals use to heat their mead-halls and runic forges.
 
 # Society & Culture
 
@@ -55,7 +55,7 @@ The Reach is not a unified empire but a coalition of powerful clans bound by "Th
 
 # History & Lore
 
-When the [[War of Laws]] broke out 116 years ago , the fundamental laws of reality broke down on Eukoria's soil, grinding mountains into glass and boiling the oceans. The ancient ancestors of the Reach refused to flee inland. Instead, they survived the cataclysm by lashing themselves to the glaciers and carving the first great runes of anchoring into their flesh. They claim that during the height of the divine war, a gargantuan, reality-warping leviathan was driven mad by the cosmic friction and threatened to sink the entire peninsula. The original clan leaders united, slew the beast, and built their capital within its ribcage as a monument to mortal defiance.
+When the [[War of Laws]] ended in 0 AW, the fundamental laws of reality had broken down on Eukoria's soil, grinding mountains into glass and boiling the oceans. The ancient ancestors of the Reach refused to flee inland. Instead, they survived the cataclysm by lashing themselves to the glaciers and carving the first great runes of anchoring into their flesh. They claim that during the height of the divine war, a gargantuan, reality-warping leviathan was driven mad by the cosmic friction and threatened to sink the entire peninsula. The original clan leaders united, slew the beast, and built their capital within its ribcage as a monument to mortal defiance.
 
 # Notable Locations
 
@@ -65,4 +65,4 @@ When the [[War of Laws]] broke out 116 years ago , the fundamental laws of reali
 # Prominent Factions
 
 - The Storm-Callers: A highly respected guild of Primal and Divine casters who chart the volatile weather and guide the Rastorian longships safely through the Reality Storms.
-- The Leviathan Guard: Elite monster hunters and berserkers who specialize in grappling and taking down gargantuan beasts. They wield massive harpoons inscribed with Dismagic runes that violently ground magical creatures to the physical plane.
+- The Leviathan Guard: Elite monster hunters and berserkers who specialise in grappling and taking down gargantuan beasts. They wield massive harpoons inscribed with Dismagic runes that violently ground magical creatures to the physical plane.

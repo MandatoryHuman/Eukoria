@@ -26,7 +26,7 @@ A bizarre, makeshift settlement built upon a series of floating, petrified earth
 
 # Geography & Layout
 
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+(Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)
 
 # Government & Law
 

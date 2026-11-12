@@ -24,7 +24,7 @@ type: 'Magically Engineered Border Forest'
 
 # Overview
 
-The Bramble-March is a highly volatile, magically engineered perimeter of deadly flora and fauna that aggressively guards the eastern and southern land borders of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. To outsiders, it looks like an impenetrable wall of towering, thorn-choked trees and writhing vines. It is not a natural forest, but a biological weapon designed to forcefully repel the industrialized machinery of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] and the entropic ash of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]].
+The Bramble-March is a highly volatile, magically engineered perimeter of deadly flora and fauna that aggressively guards the eastern and southern land borders of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. To outsiders, it looks like an impenetrable wall of towering, thorn-choked trees and writhing vines. It is not a natural forest, but a biological weapon designed to forcefully repel the industrialised machinery of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] and the entropic ash of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]].
 
 # Ecology & Environment
 
@@ -53,4 +53,4 @@ The Bramble-March is a treasure trove of incredibly potent Primal reagents. Rare
 
 # Myths & Lore
 
-The March was rapidly cultivated 116 years ago during the climax of the [[War of Laws]]. As the divine collateral damage threatened to engulf the Firstweald, the ancestors of the [[The Circle of the Root]] channelled unprecedented amounts of Primal Magic. They forced a 200km stretch of forest to evolve and weaponize itself in a matter of days and successfully protected their sacred cradle from the grinding destruction that ravaged most of Eukoria.
+The March was rapidly cultivated in 0 AW during the climax of the [[War of Laws]]. As the divine collateral damage threatened to engulf the Firstweald, the ancestors of the [[The Circle of the Root]] channelled unprecedented amounts of Primal Magic. They forced a 200km stretch of forest to evolve and weaponize itself in a matter of days and successfully protected their sacred cradle from the grinding destruction that ravaged most of Eukoria.

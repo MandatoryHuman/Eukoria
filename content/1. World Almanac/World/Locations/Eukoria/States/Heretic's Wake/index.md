@@ -2,10 +2,10 @@
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-symbol: "[[Heretics_Wake_Symbol.svg]]"
+symbol: "[[Heretics_Wake_symbol.svg]]"
 tags:
   - State
-capital: "[[The Flotilla of the Unbound]]"
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|The Flotilla of the Unbound]]"
 demographics: Exiles, Runesmiths, Passion Mages, Outcasts
 government: Pirate Coalition
 languages: Common, Various Thieves' Cants
@@ -27,11 +27,11 @@ ruler: A shifting council of the most powerful Pirate Captains
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Heretics_Wake_Symbol.svg|300]]
+![[Heretics_Wake_symbol.svg|300]]
 
 # Overview
 
-Heretic's Wake is a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for its dangerous fleets of pirates who openly utilize the volatile and forbidden arts of Dismagic. Because of the extortionate tariffs [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] charges to use the central passage, many desperate nations attempt to transport their cargo through the Wake, a gamble that usually results in stolen goods and lost ships.
+Heretic's Wake is a separate maritime state: a treacherous, pirate-infested body of water located to the north of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]]. Its capital is the [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|Flotilla of the Unbound]], a shifting coalition of vessels rather than the [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/The Floating Court|Floating Court]] of the Fathom-Court. It is infamous across [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]] for fleets that openly utilise the volatile arts of Dismagic.
 
 # Geography & Climate
 
@@ -43,7 +43,7 @@ Heretic's Wake is a haven for those cast out by the rigid, orthodox societies of
 
 # Government & Politics
 
-There is no central legal authority in Heretic's Wake; the region is governed by the brutal, decentralized authority of pirate captains. Authority is maintained by those with the strongest ships and the most potent command of [[Traditions of Dismagic|Dismagic]].
+There is no central legal authority in Heretic's Wake; the region is governed by the brutal, decentralised authority of pirate captains. Authority is maintained by those with the strongest ships and the most potent command of [[Traditions of Dismagic|Dismagic]].
 
 # Diplomatic Relations
 
@@ -52,7 +52,7 @@ There is no central legal authority in Heretic's Wake; the region is governed by
 
 # History & Lore
 
-The origins of the pirate coalition likely stem from the aftermath of the War of Laws, which concluded 116 years ago. When the Canonical gods solidified their rule and the Traditions of Dismagic were driven underground , fleeing practitioners, heretics, and exiles took to the northern waters. What began as a desperate flight for survival evolved over a century into a formidable, decentralized naval power that now holds the orthodox world's trade routes hostage.
+The origins of the pirate coalition lie in the aftermath of the War of Laws, which ended in 0 AW. When the Twins changed cosmological law to permit Non-Canonical Gods, Canonical authorities and many mortal states still treated those gods and their followers as illegal. Fleeing practitioners, heretics, and exiles took to the northern waters. What began as a desperate flight for survival evolved into a formidable, decentralised naval power that now holds the orthodox world's trade routes hostage.
 
 # Notable Locations
 

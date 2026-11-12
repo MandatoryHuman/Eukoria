@@ -25,7 +25,7 @@ type: 'Capital City'
 
 # Overview
 
-Skorvall is the glacier capital of [[Galed, the Rime-Hold]], carved directly into the heart of a colossal, slow-moving glacier. It is a vertical subterranean city built for survival beneath the blizzards and supernatural cold of the Rime-Hold.
+Skorvall is the glacier capital of [[Fraedal, the Rime-Hold]], carved directly into the heart of a colossal, slow-moving glacier. It is a vertical subterranean city built for survival beneath the blizzards and supernatural cold of the Rime-Hold.
 
 # Geography & Layout
 
@@ -33,31 +33,31 @@ Skorvall's streets are deep, winding crevasses illuminated by massive iron brazi
 
 # Government & Law
 
-The High Seat at the glacier's peak is the command fortress of [[Galed, the Rime-Hold]]'s warlords. They hold councils in the freezing storms to prove their physical Spirit and Presence remain unbroken. Orthodox clerics vigilantly guard the lowest district against necromantic interference.
+The High Seat at the glacier's peak is the command fortress of [[Fraedal, the Rime-Hold]]'s warlords. They hold councils in the freezing storms to prove their physical Spirit and Presence remain unbroken. Orthodox clerics vigilantly guard the lowest district against necromantic interference.
 
 # Districts
 
-- The High Seat: The exposed fortress where Galed's warlords meet.
+- The High Seat: The exposed fortress where Fraedal's warlords meet.
 - The Crevasse Streets: Winding routes lit by braziers and linked by rope bridges.
 - The Howling Ward: The deepest district, used to store rations and the preserved bodies of great warriors.
 
 # Notable Locations
 
 - The iron braziers: Scarce sources of warmth and gathering points throughout the city.
-- The High Seat: Galed's command fortress at the glacier's peak.
+- The High Seat: Fraedal's command fortress at the glacier's peak.
 - The Howling Ward: A natural freezer warded against decay and watched for [[Aethelgard, God of Relics|Aethelgard]]'s necromancers.
 
 # Key NPCs
 
-- The warlords of the High Seat: Galed's ruling commanders.
+- The warlords of the High Seat: Fraedal's ruling commanders.
 - The orthodox clerics: Guardians of the preserved dead and the city's deepest district.
 
 # Factions & Guilds
 
 - The High Seat warlords: The Rime-Hold's military leadership.
-- The orthodox clerics of the Howling Ward: Custodians of Galed's preserved warriors.
-- The glacier holds: Communities of humans, beastkin, and orcs maintaining the city's food, heat, and defenses.
+- The orthodox clerics of the Howling Ward: Custodians of Fraedal's preserved warriors.
+- The glacier holds: Communities of humans, beastkin, and orcs maintaining the city's food, heat, and defences.
 
 # History & Lore
 
-Skorvall was carved into the glacier after the [[War of Laws]] shattered Galed's climate. The city's design turns the glacier's lethal cold into a defense and preserves the bodies of its greatest warriors, though that preservation has drawn the attention of [[Aethelgard, God of Relics|Aethelgard]]'s necromancers.
+Skorvall was carved into the glacier after the [[War of Laws]] shattered Fraedal's climate. The city's design turns the glacier's lethal cold into a defence and preserves the bodies of its greatest warriors, though that preservation has drawn the attention of [[Aethelgard, God of Relics|Aethelgard]]'s necromancers.

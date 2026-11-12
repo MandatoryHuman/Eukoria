@@ -1,0 +1,16 @@
+<svg width="1638" height="2044" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><defs><clipPath id="shield_234267600"><path d="m 100,200 c 0,0 38.6,-85.6 45.7,-141.2 0,0 1,-8.1 1,-12.3 C 146.7,20.9 125.8,0.1 100,0.1 74.2,0.1 53.3,20.9 53.3,46.4 c 0,4.1 1,12.3 1,12.3 7.1,55.7 45.7,141.3 45.7,141.3 Z"/></clipPath><clipPath id="division_234267600"><path d="M0,80 100,-15 200,80 200,120 100,25 0,120z M0,160 100,65 200,160 200,200 100,105 0,200z M0,240 100,145 200,240 0,240z"/></clipPath><style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }
+    .pseudostroke {
+      fill: var(--stroke);
+    }
+    .background {
+      display: var(--background);
+    }</style><linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+            <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+            <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+          </linearGradient><pattern id="pally-azure-murrey-small" width="80" height="20" viewBox="0 0 100 25" patternUnits="userSpaceOnUse"><rect width="100" height="25" fill="#85185b"/><rect x="25" y="0" width="25" height="25" fill="#377cd7"/><rect x="75" y="0" width="25" height="25" fill="#377cd7"/></pattern><style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style></defs>   <g clip-path="url(#shield_234267600)"><rect class="field" x="0" y="0" width="200" height="200" fill="url(#pally-azure-murrey-small)"/><g class="division" clip-path="url(#division_234267600)"><rect x="0" y="0" width="200" height="200" fill="#ff8000"/></g></g> <path class="grad" d="m 100,200 c 0,0 38.6,-85.6 45.7,-141.2 0,0 1,-8.1 1,-12.3 C 146.7,20.9 125.8,0.1 100,0.1 74.2,0.1 53.3,20.9 53.3,46.4 c 0,4.1 1,12.3 1,12.3 7.1,55.7 45.7,141.3 45.7,141.3 Z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>   </svg>

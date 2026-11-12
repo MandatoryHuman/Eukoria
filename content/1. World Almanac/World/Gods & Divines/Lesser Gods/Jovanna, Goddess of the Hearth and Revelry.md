@@ -5,29 +5,29 @@ aliases:
 title: Jovanna, Goddess of the Hearth and Revelry
 tags:
   - Gods
-alternate_domains: '[Fire](https://2e.aonprd.com/Domains.aspx?ID=76)'
-anathema: 'Turn away a traveller in desperate need of shelter, water down ale or serve spoiled food maliciously, intentionally ruin a peaceful celebration'
-areas_of_concern: 'The Hearth, Home, Brewing, Festivals, Joy'
-aspects: 'Hearth and Revelry'
-category: '[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]'
-cleric_spells: '1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 2nd: [Laughing Fit](https://2e.aonprd.com/Spells.aspx?ID=1583), 5th: [Engrave Memory](https://2e.aonprd.com/Spells.aspx?ID=1330)'
-divine_attribute: 'Constitution or Charisma'
-divine_font: 'heal'
-divine_sanctification: 'can choose holy'
-divine_skill: 'Diplomacy'
-domains: '[Family](https://2e.aonprd.com/Domains.aspx?ID=74), [Indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90)'
-edicts: 'Host guests with generosity, brew strong drinks and cook hearty meals, celebrate life''s victories, ensure no hearth goes cold in the winter'
-favoured_weapon: 'Light Mace'
-major_boon: 'Once per week you may perform the Fortifying Brew ritual without spending the usual gp cost. When performed this way, you always receive a success on the Primary Check, and the ritual is always heightened to half your level (or 5th rank if you are level 8 or lower).'
-major_curse: 'You can find no rest in the homes of mortals. You are unable to rest while indoors or near a lit hearth.'
-minor_boon: 'Any food or drink you consume is perfectly fresh, granting you a +1 status bonus to saving throws against ingested poisons or diseases.'
-minor_curse: 'All food you eat tastes like ash, and any alcohol you drink turns to bitter water in your mouth.'
-moderate_boon: 'Your inner warmth protects you. You gain a +1 status bonus to Diplomacy checks and never suffer the effects of severe environmental cold.'
-moderate_curse: 'Fires refuse to share their warmth with you. You constantly feel a chill deep in your bones and become clumsy 1 in any cold environment.'
-pantheons_covenants: ''
-religious_symbol: 'A roaring hearth fire inside an iron tankard'
-sacred_animal: 'Boar'
-sacred_colours: 'Crimson and Amber'
+alternate_domains: "[Fire](https://2e.aonprd.com/Domains.aspx?ID=76)"
+anathema: Turn away a traveller in desperate need of shelter, water down ale or serve spoiled food maliciously, intentionally ruin a peaceful celebration
+areas_of_concern: The Hearth, Home, Brewing, Festivals, Joy
+aspects: Centre in Spirit
+category: "[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]"
+cleric_spells: "1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 2nd: [Laughing Fit](https://2e.aonprd.com/Spells.aspx?ID=1583), 5th: [Engrave Memory](https://2e.aonprd.com/Spells.aspx?ID=1330)"
+divine_attribute: Constitution or Charisma
+divine_font: heal
+divine_sanctification: can choose holy
+divine_skill: Diplomacy
+domains: "[Family](https://2e.aonprd.com/Domains.aspx?ID=74), [Indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90)"
+edicts: Host guests with generosity, brew strong drinks and cook hearty meals, celebrate life's victories, ensure no hearth goes cold in the winter
+favoured_weapon: Light Mace
+major_boon: Once per week you may perform the Fortifying Brew ritual without spending the usual gp cost. When performed this way, you always receive a success on the Primary Check, and the ritual is always heightened to half your level (or 5th rank if you are level 8 or lower).
+major_curse: You can find no rest in the homes of mortals. You are unable to rest while indoors or near a lit hearth.
+minor_boon: Any food or drink you consume is perfectly fresh, granting you a +1 status bonus to saving throws against ingested poisons or diseases.
+minor_curse: All food you eat tastes like ash, and any alcohol you drink turns to bitter water in your mouth.
+moderate_boon: Your inner warmth protects you. You gain a +1 status bonus to Diplomacy checks and never suffer the effects of severe environmental cold.
+moderate_curse: Fires refuse to share their warmth with you. You constantly feel a chill deep in your bones and become clumsy 1 in any cold environment.
+pantheons_covenants: ""
+religious_symbol: A roaring hearth fire inside an iron tankard
+sacred_animal: Boar
+sacred_colours: Crimson and Amber
 ---
 
 > [!info]+ Details

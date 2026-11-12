@@ -3,7 +3,7 @@ aliases:
   - The Scholasticate of Khalen
   - Khalen
 title: The Scholasticate of Khalen
-symbol: "[[The_Scholasticate_of_Khalen_Symbol.webp]]"
+symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"
 tags:
   - State
 capital: '[[The Cliff Archives]]'
@@ -28,15 +28,15 @@ ruler: 'The Curator Assembly'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Scholasticate_of_Khalen_symbol.svg|300]]
 
 # Overview
 
-Occupying the eastern coastline of [[Antoria]], the Scholasticate of Khalen is a nation of obsessive historians, deep-sea scavengers, and austere monks. While [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] controls the economic flow of the [[God-Scar Strait]], Khalen controls its historical wealth. They are a neutral, fiercely academic state dedicated to recovering the lost history of the world erased by the death of [[Syla, Goddess of Records]].
+Occupying the eastern coastline of [[Antora]], the Scholasticate of Khalen is a nation of obsessive historians, deep-sea scavengers, and austere monks. While [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] controls the economic flow of the [[God-Scar Strait]], Khalen controls its historical wealth. They are a neutral, fiercely academic state dedicated to recovering the lost history of the world erased by the death of [[Syla, Goddess of Records]].
 
 # Geography & Climate
 
-Khalen is defined by towering, wind-battered coastal cliffs that drop directly into the churning waters of the God-Scar Strait. Inland, the terrain is rocky and unforgiving, offering poor agricultural yields. However, the coastline is dotted with deep-water trenches and the submerged ruins of pre-war Antorian cities that were drowned during the divine cataclysm 116 years ago.
+Khalen is defined by towering, wind-battered coastal cliffs that drop directly into the churning waters of the God-Scar Strait. Inland, the terrain is rocky and unforgiving, offering poor agricultural yields. However, the coastline is dotted with deep-water trenches and the submerged ruins of pre-war Antoran cities that were drowned during the divine cataclysm in 0 AW.
 
 # Society & Culture
 

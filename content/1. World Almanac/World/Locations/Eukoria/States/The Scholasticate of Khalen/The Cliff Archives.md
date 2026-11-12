@@ -57,4 +57,4 @@ The city is ruled by the Curator Assembly, a council of the most elite scholars 
 
 # History & Lore
 
-The Cliff-Archives were founded in the aftermath of the [[War of Laws]]. As the cataclysm drowned the coastline when [[Lethos, God of Trickery|Lethos]] assassinated [[Syla, Goddess of Records|Syla]], the surviving scholars of the region fled to these cliffs. They carved the first libraries into the rock by hand to protect what few books they had managed to save. Over the last 116 years, the city expanded downwards towards the water as their mission shifted from mere survival to actively dredging the drowned ruins of their ancestors.
+The Cliff-Archives were founded in the aftermath of the [[War of Laws]]. As the cataclysm drowned the coastline when [[Lethos, God of Trickery|Lethos]] assassinated [[Syla, Goddess of Records|Syla]], the surviving scholars of the region fled to these cliffs. They carved the first libraries into the rock by hand to protect what few books they had managed to save. Since 0 AW, the city has expanded downwards towards the water as its mission shifted from mere survival to actively dredging the drowned ruins of its ancestors.

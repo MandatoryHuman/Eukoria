@@ -2,21 +2,21 @@
 aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
-symbol: "[[The_Directorate_of_Vael_Symbol.webp]]"
+symbol: "[[Vael_symbol.svg]]"
 tags:
   - State
 capital: "[[Axiom's Hold]]"
-government: "Theocratic Surveillance State"
+government: Theocratic Surveillance State
 ruler: "[[The Panopticon Council]]"
-population: "650,000"
-demographics: "Humans, Elves, Halflings"
-languages: "Common"
+population: 650,000
+demographics: Humans, Elves, Halflings
+languages: Common
 religions: "[[Solon, God of Law]], [[Oclera, God of Knowledge]]"
-major_exports: "Information, Arcane/Occult Wards, Legal/Magical Treatises"
-major_imports: "Raw materials, Historical Texts, Paper"
+major_exports: Information, Arcane/Occult Wards, Legal/Magical Treatises
+major_imports: Raw materials, Historical Texts, Paper
 ---
 
-> [!info]+ State Details
+> [!info]+ Details
 > **Capital:** `=this.capital`
 > **Government:** `=this.government`
 > **Ruler:** `=this.ruler`
@@ -27,15 +27,15 @@ major_imports: "Raw materials, Historical Texts, Paper"
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Vael Symbol.svg|400]]
+![[Vael_symbol.svg|300]]
 
 # Overview
 
-The Directorate of Vael, located in the central heartlands of [[Cenora]], is a hyper-structured, intellectually terrifying theocracy. It is a nation where the law is absolute, and privacy is considered a moral failing. Guarded by impenetrable psychic wards and governed by literal hive-minds, Vael boasts a crime rate of virtually zero - after all, the state's inquisitors know a crime is going to happen before the perpetrator even commits to the idea.
+The Directorate of Vael occupies the central heartlands of [[Cenora]], west of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]]. It is a hyper-structured, intellectually terrifying theocracy where the law is absolute and privacy is considered a moral failing. Guarded by impenetrable psychic wards and governed by literal hive-minds, Vael boasts a crime rate of virtually zero - after all, the state's inquisitors know a crime is going to happen before the perpetrator even commits to the idea.
 
 # Geography & Climate
 
-Vael is characterized by orderly, mathematically planned cities set amidst temperate plains and meticulously cultivated farmlands. The borders are not marked by walls, but by invisible, towering psychic barriers - manifestations of [[Traditions of Magic#Occult Magic (Spirit + Mind)|Occult]] Magic - that immediately alert the authorities to any unauthorized crossing or hostile intent. The weather itself seems subdued here, heavily regulated by state-sponsored weather-mages to ensure perfectly predictable crop yields.
+Vael is characterised by orderly, mathematically planned cities set amidst temperate plains and meticulously cultivated farmlands. The borders are not marked by walls, but by invisible, towering psychic barriers - manifestations of [[Traditions of Magic#Occult Magic (Spirit + Mind)|Occult]] Magic - that immediately alert the authorities to any unauthorized crossing or hostile intent. The weather itself seems subdued here, heavily regulated by state-sponsored weather-mages to ensure perfectly predictable crop yields.
 
 # Society & Culture
 
@@ -54,11 +54,11 @@ Vael is governed by the Panopticon Council, a body of elite Occult mages and hig
 
 # History & Lore
 
-The foundations of Vael were laid in the immediate aftermath of the [[War of Laws]]. When [[Lethos, God of Trickery|Lethos]] assassinated [[Syla, Goddess of Records]], the world's shared history was shattered. Refusing to let civilization descend into amnesia and chaos, surviving clerics of Solon allied with the newly empowered followers of Oclera. Together, they vowed to build a society where truth could never be erased or subverted again, sacrificing individual privacy for collective, unbreakable order.
+The foundations of Vael were laid in the immediate aftermath of the [[War of Laws]]. When [[Lethos, God of Trickery|Lethos]] assassinated [[Syla, Goddess of Records]], the world's shared history was shattered. Refusing to let civilisation descend into amnesia and chaos, surviving clerics of Solon allied with the newly empowered followers of Oclera. Together, they vowed to build a society where truth could never be erased or subverted again, sacrificing individual privacy for collective, unbreakable order.
 
 # Notable Locations
 
-- [[Axiom's Hold]]: The capital city, built in a perfect geometric grid. At its center lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
+- [[Axiom's Hold]]: The capital city, built in a perfect geometric grid. At its centre lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
 - [[The Glass Monasteries]]: High-altitude retreats where devoted clerics of Oclera physically link their consciousnesses together into massive hive-mind think tanks, processing Eukoria's most complex magical and societal theorems.
 
 # Prominent Factions

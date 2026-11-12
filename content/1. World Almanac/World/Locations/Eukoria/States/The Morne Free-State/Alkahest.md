@@ -25,11 +25,11 @@ type: 'Capital City'
 
 # Overview
 
-Alkahest is the capital of [[The Morne Free-State]], built directly into the petrified, hollowed-out husk of an ancient [[World-Oak]] root. It is less a traditional city than a colossal, churning refinery where alchemy, medicine, and warfare operate side by side.
+Alkahest is the capital of [[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/index|The Morne Free-State]], built directly into the petrified, hollowed-out husk of an ancient [[World-Oak]] root. It is less a traditional city than a colossal, churning refinery where alchemy, medicine, and warfare operate side by side.
 
 # Geography & Layout
 
-The city is nested inside the [[World-Oak]] root and rises through glass vats, brass distillation towers, and industrial galleries. Its towers vent heavy alchemical smog westward to choke back the aggressively encroaching flora of [[The Firstweald Ascendancy]]. Every alleyway can become a tactical chokepoint.
+The city is nested inside the [[World-Oak]] root and rises through glass vats, brass distillation towers, and industrial galleries. Its towers vent heavy alchemical smog westward to choke back the aggressively encroaching flora of [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/index|The Firstweald Ascendancy]]. Every alleyway can become a tactical chokepoint.
 
 # Government & Law
 
@@ -49,7 +49,7 @@ Alkahest is administered by Morne's syndicate of chief chirurgeons and master al
 
 # Key NPCs
 
-- The chief chirurgeons and master alchemists: The syndicate leaders directing Alkahest's laboratories and defenses.
+- The chief chirurgeons and master alchemists: The syndicate leaders directing Alkahest's laboratories and defences.
 
 # Factions & Guilds
 
@@ -58,4 +58,4 @@ Alkahest is administered by Morne's syndicate of chief chirurgeons and master al
 
 # History & Lore
 
-Alkahest was built into a dead [[World-Oak]] root so that Morne's greatest refinery could be protected within a natural fortress. Its smog and chemical production embody the Free-State's struggle to hold back the Firstweald while supplying the Kazarni war machine of [[The Kazarn Hegemony]].
+Alkahest was built into a dead [[World-Oak]] root so that Morne's greatest refinery could be protected within a natural fortress. Its smog and chemical production embody the Free-State's struggle to hold back the Firstweald while supplying the Kazarni war machine of [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/index|The Kazarn Hegemony]].

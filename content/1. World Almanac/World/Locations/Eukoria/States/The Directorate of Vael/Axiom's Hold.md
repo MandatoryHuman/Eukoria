@@ -22,11 +22,11 @@ type: ''
 
 # Overview
 
-The capital city, built in a perfect geometric grid. At its center lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
+The capital city, built in a perfect geometric grid. At its centre lies a massive spire of white stone where the Panopticon Council resides, projecting their psychic surveillance across the nation.
 
 # Geography & Layout
 
-(Describe the surrounding terrain, natural defenses, key waterways, and the general architectural style of the buildings.)
+(Describe the surrounding terrain, natural defences, key waterways, and the general architectural style of the buildings.)
 
 # Government & Law
 

@@ -40,7 +40,7 @@ A massive, impossibly deep depression located in the exact centre of [[Othrys, T
 # Landmarks & Points of Interest
 
 - Landmark Name: (A notable peak, deep trench, ancient grove, or strange formation. Why is it important?)
-- Site Name: (Any remnants of older civilizations or specific dungeon entrances located within this region.)
+- Site Name: (Any remnants of older civilisations or specific dungeon entrances located within this region.)
 
 # Natural Resources
 

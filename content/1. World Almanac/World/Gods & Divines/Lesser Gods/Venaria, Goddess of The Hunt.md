@@ -5,29 +5,29 @@ aliases:
 title: Venaria, Goddess of The Hunt
 tags:
   - Gods
-alternate_domains: '[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)'
-anathema: 'Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem'
-areas_of_concern: 'Hunting, Survival, Predators, The Food Chain'
-aspects: 'Survival and the Food Chain'
-category: '[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]'
-cleric_spells: '1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [Animal Messenger](https://2e.aonprd.com/Spells.aspx?ID=1441), 4th: [Arrow Salvo](https://2e.aonprd.com/Spells.aspx?ID=1399)'
-divine_attribute: 'Dexterity or Wisdom'
-divine_font: 'heal or harm'
-divine_sanctification: 'none'
-divine_skill: 'Survival'
-domains: '[Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Death](https://2e.aonprd.com/Domains.aspx?ID=70)'
-edicts: 'Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild'
-favoured_weapon: 'Longbow'
-major_boon: 'You always know which way is North (if your current plane has a North). Additionally, you can cast Nature''s Reprisal as a 6th-rank innate divine spell once per day.'
-major_curse: 'You emit the magical scent of vulnerable prey. Any predatory beast or monster that is your level or greater within a 1-mile radius is instinctively drawn to hunt you down.'
-minor_boon: 'When you roll a critical failure on a Survival check to Track, you get a failure instead.'
-minor_curse: 'You feel the constant anxiety of prey. You take a -1 status penalty to Survival checks and Initiative rolls.'
-moderate_boon: 'You move like the ultimate apex predator. You gain a +1 status bonus to Survival checks and you can move at your full Speed while Tracking.'
-moderate_curse: 'The wild rejects you. Animals view you as an unnatural threat, immediately becoming hostile towards you, and you leave highly visible tracks everywhere you go.'
-pantheons_covenants: ''
-religious_symbol: 'A longbow crafted from bleached bone and antler'
-sacred_animal: 'Wolf'
-sacred_colours: 'Green and Blood Red'
+alternate_domains: "[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)"
+anathema: Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem
+areas_of_concern: Hunting, Survival, Predators, The Food Chain
+aspects: Centre in Life
+category: "[[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]"
+cleric_spells: "1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [Animal Messenger](https://2e.aonprd.com/Spells.aspx?ID=1441), 4th: [Arrow Salvo](https://2e.aonprd.com/Spells.aspx?ID=1399)"
+divine_attribute: Dexterity or Wisdom
+divine_font: heal or harm
+divine_sanctification: none
+divine_skill: Survival
+domains: "[Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Death](https://2e.aonprd.com/Domains.aspx?ID=70)"
+edicts: Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild
+favoured_weapon: Longbow
+major_boon: You always know which way is North (if your current plane has a North). Additionally, you can cast Nature's Reprisal as a 6th-rank innate divine spell once per day.
+major_curse: You emit the magical scent of vulnerable prey. Any predatory beast or monster that is your level or greater within a 1-mile radius is instinctively drawn to hunt you down.
+minor_boon: When you roll a critical failure on a Survival check to Track, you get a failure instead.
+minor_curse: You feel the constant anxiety of prey. You take a -1 status penalty to Survival checks and Initiative rolls.
+moderate_boon: You move like the ultimate apex predator. You gain a +1 status bonus to Survival checks and you can move at your full Speed while Tracking.
+moderate_curse: The wild rejects you. Animals view you as an unnatural threat, immediately becoming hostile towards you, and you leave highly visible tracks everywhere you go.
+pantheons_covenants: ""
+religious_symbol: A longbow crafted from bleached bone and antler
+sacred_animal: Wolf
+sacred_colours: Green and Blood Red
 ---
 
 > [!info]+ Details

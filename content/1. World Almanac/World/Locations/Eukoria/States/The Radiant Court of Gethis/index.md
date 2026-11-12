@@ -3,18 +3,18 @@ aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
-symbol: "[[The_Radiant_Court_of_Gethis_Symbol.webp]]"
+symbol: "[[Gethis_Symbol.svg]]"
 tags:
   - State
-capital: '[[Prismathia]]'
-demographics: 'Humans, Fetchlings, Nephilim'
-government: 'Aristocratic Oligarchy'
-languages: 'Common, Elven'
-major_exports: 'High Art, Illusion Magic, Luxury Textiles, Fine Wines'
-major_imports: 'Basic necessities, Mercenaries, "Anchors"'
+capital: "[[Prismathia]]"
+demographics: Humans, Fetchlings, Nephilim
+government: Aristocratic Oligarchy
+languages: Common, Elven
+major_exports: High Art, Illusion Magic, Luxury Textiles, Fine Wines
+major_imports: Basic necessities, Mercenaries, "Anchors"
 population: '"400,000"'
-religions: '[[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]'
-ruler: '[[Grand Duke Valerius the Blind]]'
+religions: "[[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]"
+ruler: "[[Grand Duke Valerius the Blind]]"
 ---
 
 > [!info]+ Details
@@ -28,11 +28,11 @@ ruler: '[[Grand Duke Valerius the Blind]]'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[Gethis_symbol.svg|300]]
 
 # Overview
 
-Located in the northeast of [[Cenora]], The Radiant Court of Gethis is a nation in deep, opulent denial. With the reality-warping madness of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] directly to the South, Gethis should be a war-torn hellscape, much like [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]]. Instead, the aristocracy has utilised staggering amounts of Illusion and Occult magic to literally cloak their nation in an eternal, perfect twilight masquerade.
+Located north-east of [[1. World Almanac/World/Locations/Eukoria/States/The Daeshin Null-State/index|The Daeshin Null-State]] on [[Cenora]], The Radiant Court of Gethis is a nation in deep, opulent denial. With the reality-warping madness of Daeshin directly to the south, Gethis should be a war-torn hellscape, much like [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/index|The Glandaric Marches]]. Instead, the aristocracy has utilised staggering amounts of Illusion and Occult magic to cloak their nation in an eternal, perfect twilight masquerade.
 
 # Geography & Climate
 
@@ -40,7 +40,7 @@ The actual terrain of Gethis is bleak, rocky, and heavily scarred by the proximi
 
 # Society & Culture
 
-Gethian society is the pinnacle of decadence, high art, and political backstabbing. They revere [[Eidas, God Of Art]] and [[Lethos, God of Trickery]], viewing truth as something entirely malleable. Physical labour is done by paid foreigners or enchanted automatons, while the citizens spend their lives attending endless galas, artistic exhibitions, and theatrical duels.
+Gethian society is the pinnacle of decadence, high art, and political backstabbing. They revere [[Eidas, God of Art]] and [[Lethos, God of Trickery]], viewing truth as something entirely malleable. Physical labour is done by paid foreigners or enchanted automatons, while the citizens spend their lives attending endless galas, artistic exhibitions, and theatrical duels.
 
 However, this opulent lifestyle is a trauma response to the apocalypse on their borders. It is considered a massive social faux pas - sometimes even a punishable crime - to acknowledge the reality storms or the crumbling state of the world outside the illusions. If a monster from the Null-State breaches the border, the nobles simply hire mercenaries to quietly dispose of it while the orchestra plays louder.
 
@@ -55,7 +55,7 @@ Gethis is ruled by an incredibly vain aristocracy led by Grand Duke Valerius, wh
 
 # History & Lore
 
-Before the [[War of Laws]], Gethis was the cultural and artistic capital of Cenora. When the cataclysm struck and the Daeshin Null-State formed on their border, the Gethian mages realised they lacked the martial strength of the Glandaric Marches or the psychic discipline of Vael to fight it. Instead, the artists painted over the apocalypse. For 116 years, they have poured all their magical resources into maintaining the "Great Masquerade", pretending the world never ended.
+Before the [[War of Laws]], Gethis was the cultural and artistic capital of Cenora. When the cataclysm struck and the Daeshin Null-State formed on their border, the Gethian mages realised they lacked the martial strength of the Glandaric Marches or the psychic discipline of Vael to fight it. Instead, the artists painted over the apocalypse. Since 0 AW, they have poured all their magical resources into maintaining the "Great Masquerade", pretending the world never ended.
 
 # Notable Locations
 

@@ -3,11 +3,11 @@ aliases:
   - Opiroth
   - The Vales of Opiroth
 title: The Vales of Opiroth
-symbol: "[[The_Vales_of_Opiroth_Symbol.webp]]"
+symbol: "[[The_Vales_of_Opiroth_symbol.svg]]"
 tags:
   - State
-capital: '[[The Alabaster Terrace]]'
-demographics: 'Humans, Fleshwarps. Gobins, Automatons'
+capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Vales of Opiroth/The Alabaster Terrace|The Alabaster Terrace]]'
+demographics: 'Humans, Fleshwarps, Goblins, Automatons'
 government: 'Scientific Oligarchy'
 languages: 'Common, Sakvroth'
 major_exports: 'Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents'
@@ -28,11 +28,11 @@ ruler: 'Grand Synthesist Morvane'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-(FLAG / EMBLEM IMAGE) (MAP IMAGE)
+![[The_Vales_of_Opiroth_symbol.svg|300]]
 
 # Overview
 
-Hidden within the arid heart of [[Cenora]], The Vales of Opiroth are a marvel of illicit alchemy and biomancy. Though its name evokes images of lush, pastoral riverlands, the reality is a harsh, trench of unsanctioned experimentation. While orthodox nations view the Vales as a toxic, lawless wasteland, to the outcast medics, radical alchemists, and rogue Fleshwarpers who reside here, it is the premier research sanctuary in the world. They are best known for mass-producing biological "Anchors" - chemical stabilisers designed to aid users in surviving [[Reality Storms]] - and for pushing the boundaries of magical pharmacogenomics far beyond what canonical law permits.
+Hidden within the arid heart of [[Cenora]], The Vales of Opiroth are a marvel of illicit alchemy and biomancy. Though its name evokes images of lush, pastoral riverlands, the reality is a harsh trench of unsanctioned experimentation. While orthodox nations view the Vales as a toxic, lawless wasteland, to the outcast medics, radical alchemists, and rogue Fleshwarpers who reside here, it is the premier research sanctuary in the world. They are best known for mass-producing biological "Anchors" - chemical stabilisers designed to aid users in surviving [[Reality Storms]] - and for pushing the boundaries of magical pharmacogenomics far beyond what canonical law permits.
 
 # Geography & Climate
 
@@ -68,4 +68,4 @@ Following the [[War of Laws]], orthodox academies across Cenora heavily restrict
 # Prominent Factions
 
 - The Hypodermic Brotherhood: A guild of elite alchemists and snipers who specialise in delivering paralytic toxins and extracting rare biological samples from Eukoria's deadliest monsters.
-- The Blank Slate Syndicate: Sometimes referred to simply as "Blankers", a criminal enterprise that operates on the borders of Opiroth, specialising in kidnapping specific ancestries to sell as test subjects to the highest-bidding researchers. Officially condemned by The rulership, though they rarely do anything in the way of stopping them.
+- The Blank Slate Syndicate: Sometimes referred to simply as "Blankers", a criminal enterprise that operates on the borders of Opiroth, specialising in kidnapping specific ancestries to sell as test subjects to the highest-bidding researchers. Officially condemned by the ruling council, though the council rarely does anything to stop them.

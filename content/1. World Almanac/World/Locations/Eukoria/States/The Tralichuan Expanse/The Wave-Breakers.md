@@ -30,7 +30,7 @@ type: ''
 
 # Structure & Leadership
 
-(How is the group organized? Is it a strict military hierarchy, a loose pirate coalition, a religious order, or a mercantile council? Detail the leadership and their methods of rule.)
+(How is the group organised? Is it a strict military hierarchy, a loose pirate coalition, a religious order, or a mercantile council? Detail the leadership and their methods of rule.)
 
 # History & Lore
 

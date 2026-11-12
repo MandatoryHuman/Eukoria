@@ -2,7 +2,7 @@
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
-symbol: "[[The_Tralichuan_Expanse_Symbol.webp]]"
+symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
 tags:
   - State
 capital: 'Tralicor'
@@ -27,15 +27,15 @@ ruler: '[[Empress Ranani the Unbroken]]'
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Traclichua Symbol.svg|400]]
+![[The_Tralichuan_Expanse_symbol.svg|300]]
 
 # Overview
 
-Dominating the South-Western coastlines of [[Cenora]], The Tralichuan Expanse is a vast, vibrant, and fiercely competitive empire. To a Tralichuan, physical endurance and booming, natural vitality are the true measures of a civilization's worth. Guided by the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] of the sea and the harvest, they have built an empire of golden beaches, sprawling agricultural terraces, and one of the most formidable armadas outside of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
+Dominating the South-Western coastlines of [[Cenora]], The Tralichuan Expanse is a vast, vibrant, and fiercely competitive empire. To a Tralichuan, physical endurance and booming, natural vitality are the true measures of a civilisation's worth. Guided by the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] of the sea and the harvest, they have built an empire of golden beaches, sprawling agricultural terraces, and one of the most formidable armadas outside of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]].
 
 # Geography & Climate
 
-The Expanse is characterized by beautiful, hot tropical coastlines, dense southern jungles, and rolling, fertile plains inland. The weather is heavily influenced by [[Vellora, Goddess of Sea and Storms]]; they experience brutal monsoon seasons that flood the agricultural terraces, followed by periods of intense, life-giving sunshine that rapidly accelerate the growth domains of [[Maelis, Goddess of Fertility and Harvest]].
+The Expanse is characterised by beautiful, hot tropical coastlines, dense southern jungles, and rolling, fertile plains inland. The weather is heavily influenced by [[Vellora, Goddess of Sea and Storms]]; they experience brutal monsoon seasons that flood the agricultural terraces, followed by periods of intense, life-giving sunshine that rapidly accelerate the growth domains of [[Maelis, Goddess of Fertility and Harvest]].
 
 # Society & Culture
 
@@ -48,7 +48,7 @@ The Empire is ruled by [[Empress Ranani the Unbroken]], a follower of [[Vellora,
 # Diplomatic Relations
 
 - [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]] (Violently Hostile): Tralicor borders Jhal to the east and utterly despises them. They view Jhal's use of undead for agriculture as a gross, offensive violation of Maelis's domain of natural growth, and Tralichuan paladins frequently launch holy crusades into Jhalian strip mines.
-- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antoria]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
+- [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]] (Fierce Rivals): Tralichuan navigators constantly risk the treacherous, storm-battered southern waters, attempting to chart new sea routes to [[Antora]] simply to break Meridia's extortionate stranglehold on the [[God-Scar Strait]]. Meridia frequently sinks Tralichuan exploration vessels to maintain their monopoly, though they always claim it was "dangerous pirates" or "natural phenomena".
 
 # History & Lore
 
@@ -57,9 +57,9 @@ While much of Eukoria was shattered by the [[War of Laws]], the deep south of [[
 # Notable Locations
 
 - [[Tralicor]]
-- The Monsoon Terraces: Massive, continent-spanning agricultural steps carved into the hillsides, designed to capture the torrential rains of [[Vellora, Goddess of Sea and Storms|Velora]] and channel them into the booming crops of [[Maelis, Goddess of Fertility and Harvest|Maelis]].
+- The Monsoon Terraces: Massive, continent-spanning agricultural steps carved into the hillsides, designed to capture the torrential rains of [[Vellora, Goddess of Sea and Storms|Vellora]] and channel them into the booming crops of [[Maelis, Goddess of Fertility and Harvest|Maelis]].
 
 # Prominent Factions
 
-- The Wave-Breakers: An elite order of marines and clerics of Vellora who specialize in boarding actions and underwater combat.
+- The Wave-Breakers: An elite order of marines and clerics of Vellora who specialise in boarding actions and underwater combat.
 - The Sun-Blessed: Devout agricultural overseers who channel Primal and Divine magic to ensure the Expanse never suffers a famine, serving as the logistical backbone of the empire.
