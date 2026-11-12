@@ -2,6 +2,12 @@
 aliases:
   - antora
 title: Antora
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.305Z
+modified: 2026-10-07T09:41:57.739Z
+published: 2026-10-07T09:41:57.739Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - "#Geography"
 climate: 'Glacial in the north, entropic and arid in the centre, hyper-fertile and tropical in the south'

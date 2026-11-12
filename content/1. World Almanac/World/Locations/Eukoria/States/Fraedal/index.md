@@ -1,6 +1,12 @@
 ---
 publish: true
 title: The Fraedalan Synchrony
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.317Z
+modified: 2026-10-07T09:41:17.564Z
+published: 2026-10-07T09:41:17.564Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[Fraedal_symbol.svg]]"

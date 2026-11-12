@@ -2,6 +2,12 @@
 aliases:
   - cenora
 title: Cenora
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.306Z
+modified: 2026-10-07T09:41:57.737Z
+published: 2026-10-07T09:41:57.737Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - "#Geography"
 climate: 'Magically regulated temperate zones, shifting central anomalies, and arid southern expanses'

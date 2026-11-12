@@ -2,6 +2,12 @@
 aliases:
   - Bramble-March
 title: The Bramble-March
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.408Z
+modified: 2026-10-07T09:43:23.594Z
+published: 2026-10-07T09:43:23.594Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Geography
 climate: 'Temperate, Hyper-Humid, and Unnaturally Overgrown'

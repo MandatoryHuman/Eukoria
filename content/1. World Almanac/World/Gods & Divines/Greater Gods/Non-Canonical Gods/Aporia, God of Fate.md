@@ -4,6 +4,12 @@ aliases:
   - Aporia
   - aporia, god of fate
 title: Aporia, God of Fate
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.248Z
+modified: 2026-09-26T17:18:39.541Z
+published: 2026-09-26T17:18:39.541Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - Gods
 alternate_domains: '[Knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [Luck](https://2e.aonprd.com/Domains.aspx?ID=81)'

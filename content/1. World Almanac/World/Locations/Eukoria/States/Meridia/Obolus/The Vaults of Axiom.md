@@ -2,6 +2,12 @@
 aliases:
   - Vaults of Axiom
 title: The Vaults of Axiom
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.359Z
+modified: 2026-10-03T19:22:03.109Z
+published: 2026-10-03T19:22:03.109Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 The grand temple of [[Aureon, God of Commerce and Industry]]. Functioning as both a place of worship and the central bank of [[1. World Almanac/World/Locations/Eukoria/States/Meridia/index|Meridia]], it is here that the high priests draft the iron-clad contracts that keep the city's monopolies secure.

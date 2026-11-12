@@ -3,7 +3,13 @@ publish: true
 aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
+<<<<<<< HEAD
 symbol: "[[Jhal_symbol.svg]]"
+=======
+created: 2026-11-12T17:37:18.436Z
+modified: 2026-10-07T10:53:34.329Z
+published: 2026-10-07T10:53:34.329Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[The Silent City of Jhal]]"
@@ -18,15 +24,15 @@ ruler: "[[The Undying Sovereign]]"
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/The Silent City of Jhal.md|The Silent City of Jhal]]
+> **Government:** Feudal [[Necrocracy]]
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/The Undying Sovereign.md|The Undying Sovereign]]
+> **Population:** 400,000 plus, 1.2 Million mindless undead
+> **Demographics:** Humans, Dhampirs, Intelligent Undead
+> **Languages:** Common, Necril
+> **Religions:** [[Cavera, Goddess of Death]], [[Aethelgard, God of Relics]]
+> **Major Exports:** Cheap manufactured goods, Alchemical reagents, Mined Minerals
+> **Major Imports:** Corpses (smuggled), Luxury goods
 
 ![[Jhal_symbol.svg|300]]
 

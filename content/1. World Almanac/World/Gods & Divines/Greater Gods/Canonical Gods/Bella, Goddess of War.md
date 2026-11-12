@@ -3,6 +3,7 @@ publish: true
 aliases:
   - Bella
 title: Bella, Goddess of War
+<<<<<<< HEAD
 alternate_domains: '[Confidence](https://2e.aonprd.com/Domains.aspx?ID=67)'
 anathema: 'Flee from an honourable duel, strike an unarmed or yielding foe, utilize poison or subterfuge in combat, abandon a comrade on the battlefield'
 areas_of_concern: 'War, honorable combat, martial discipline, bravery'
@@ -26,6 +27,34 @@ pantheons_covenants: '[[1. World Almanac/World/Gods & Divines/Greater Gods/Canon
 religious_symbol: 'A golden shield bearing a lion symbol'
 sacred_animal: 'Lion'
 sacred_colours: 'Crimson and Gold'
+=======
+created: 2026-11-12T17:37:18.218Z
+modified: 2026-09-26T17:18:39.497Z
+published: 2026-09-26T17:18:39.497Z
+alternate_domains: "[Confidence](https://2e.aonprd.com/Domains.aspx?ID=67)"
+anathema: Flee from an honourable duel, strike an unarmed or yielding foe, utilize poison or subterfuge in combat, abandon a comrade on the battlefield
+areas_of_concern: War, honorable combat, martial discipline, bravery
+aspects: Presence and Spirit
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]"
+cleric_spells: "1st: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 4th: [Weapon Storm](https://2e.aonprd.com/Spells.aspx?ID=1758), 5th: [Flowing Strike](https://2e.aonprd.com/Spells.aspx?ID=914)"
+divine_attribute: Strength or Charisma
+divine_font: Heal
+divine_sanctification: Can choose Holy
+divine_skill: Athletics
+domains: "[Might](https://2e.aonprd.com/Domains.aspx?ID=83), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Duty](https://2e.aonprd.com/Domains.aspx?ID=108)"
+edicts: Fight with honor and discipline, face your enemies head-on, protect those who cannot protect themselves, test your spirit through martial prowess
+favoured_weapon: Greatsword
+major_boon: Bella allows you to manifest your Spirit to protect an honourable ally. Once per day, when an adjacent ally is hit by an attack, you can use your reaction to redirect all the damage and effects of that attack to yourself. You gain resistance to all damage equal to your level against this attack.
+major_curse: Because you refuse to stand as a beacon, Bella strips you of your Presence entirely. You become easily forgotten by your allies in the heat of battle; they cannot target you with beneficial spells, healing, or Aid.
+minor_boon: Bella bolsters your fighting spirit, making you fearless. You gain a +1 status bonus to saving throws against fear effects. If you roll a success on a saving throw against a fear effect, you get a critical success instead.
+minor_curse: The weight of your cowardice physically drags you down. You take a permanent -10 foot status penalty to your Speed whenever you are moving away from an enemy.
+moderate_boon: Your weapons become conduits for Bella's radiant presence. Once per day, you can cast Heroism on yourself as an innate divine spell. While this spell is active, your weapon Strikes deal an additional 1d6 spirit damage.
+moderate_curse: Your Spirit is fragile and easily broken. Whenever an ally within 30 feet of you is reduced to 0 Hit Points, you automatically become Frightened 2. You cannot reduce this condition below 1 until that ally is stabilized or healed.
+pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]"
+religious_symbol: A golden shield bearing a lion symbol
+sacred_animal: Lion
+sacred_colours: Crimson and Gold
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!info]+ Details

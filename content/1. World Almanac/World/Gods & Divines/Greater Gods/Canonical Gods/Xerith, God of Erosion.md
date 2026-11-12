@@ -4,6 +4,7 @@ aliases:
   - Xerith
   - xerith, god of erosion
 title: Xerith, God of Erosion
+<<<<<<< HEAD
 alternate_domains: '[Time](https://2e.aonprd.com/Domains.aspx?ID=121)'
 anathema: 'Artificially preserve physical objects for eternity, hoard material wealth, practice or support Relic Dismagic'
 areas_of_concern: 'Erosion, rust, entropy, sand, the breakdown of physical substance'
@@ -27,6 +28,34 @@ pantheons_covenants: '[[1. World Almanac/World/Gods & Divines/Greater Gods/Canon
 religious_symbol: 'A pile of ash and dust'
 sacred_animal: 'Scarab Beetle'
 sacred_colours: 'Rust Red and Ash Grey'
+=======
+created: 2026-11-12T17:37:18.230Z
+modified: 2026-09-26T17:18:39.526Z
+published: 2026-09-26T17:18:39.526Z
+alternate_domains: "[Time](https://2e.aonprd.com/Domains.aspx?ID=121)"
+anathema: Artificially preserve physical objects for eternity, hoard material wealth, practice or support Relic Dismagic
+areas_of_concern: Erosion, rust, entropy, sand, the breakdown of physical substance
+aspects: Absence and Matter
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]"
+cleric_spells: "1st: [Pummelling Rubble](https://2e.aonprd.com/Spells.aspx?ID=1642), 2nd: [Shatter](https://2e.aonprd.com/Spells.aspx?ID=1670), 6th: [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492)"
+divine_attribute: Constitution or Wisdom
+divine_font: Harm
+divine_sanctification: Can choose Unholy
+divine_skill: Survival or Crafting
+domains: "[Decay](https://2e.aonprd.com/Domains.aspx?ID=104), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Dust](https://2e.aonprd.com/Domains.aspx?ID=107)"
+edicts: Accept the impermanence of the physical world, break down structures that have outlived their purpose, return matter to its base elements
+favoured_weapon: Light Pick
+major_boon: You can project a localized aura of decay. Once per day, as an action, you can emit a 15-foot aura of rusting entropy for 1 minute. While the aura is active, at the end of each of your turns you may choose up to three items within the aura; those items each take Spirit damage equal to your level. This damage ignores Hardness, Resistance, and Immunity.
+major_curse: Xerith decrees that your physical matter has overstayed its welcome. Whenever you are reduced to 0 Hit Points, your physical body instantly crumbles to fine, grey ash. You bypass the dying process and die immediately. Furthermore, because your physical form is completely erased, you cannot be resurrected by any spell that requires a body.
+minor_boon: Xerith blesses your ability to find the structural flaws in physical matter. Your Strikes ignore the first 5 points of a non-magical object's Hardness.
+minor_curse: The physical laws of repair reject you. You take a permanent -2 status penalty to Crafting checks to Repair items. Furthermore, on a critical failure to Repair, the item is entirely destroyed rather than just taking damage.
+moderate_boon: Xerith allows you to temporarily erode physical barriers just enough to slip through. Once per day, you can cast Magic Passage as an innate Divine spell, leaving behind crumbling, ash-lined edges in the stone or wood.
+moderate_curse: Xerith accelerates the erosion of your own physical form. You permanently gain weakness 5 to physical damage (bludgeoning, piercing, and slashing), as your bones and flesh become brittle and prone to crumbling.
+pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]"
+religious_symbol: A pile of ash and dust
+sacred_animal: Scarab Beetle
+sacred_colours: Rust Red and Ash Grey
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 ---
 
 > [!info]+ Details

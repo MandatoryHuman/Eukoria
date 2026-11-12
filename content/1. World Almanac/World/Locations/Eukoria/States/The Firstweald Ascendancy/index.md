@@ -1,8 +1,15 @@
 ---
+publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
+<<<<<<< HEAD
 symbol: "[[Firstweald_symbol.svg]]"
+=======
+created: 2026-11-12T17:37:18.406Z
+modified: 2026-10-07T10:54:55.934Z
+published: 2026-10-07T10:54:55.934Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]]"
@@ -17,15 +24,15 @@ ruler: "[[Hierophant Rinebrior]]"
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index.md|Elderheart]]
+> **Government:** Druidic Conclave
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Hierophant Rinebrior.md|Hierophant Rinebrior]]
+> **Population:** "900,000"
+> **Demographics:** Elves, Humans, Leshies, Fey, Beastkin
+> **Languages:** Common, Sylvan
+> **Religions:** [[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]
+> **Major Exports:** Rare herbs, primal reagents, resilient living-lumber, exotic beasts
+> **Major Imports:** Raw metals, written histories
 
 ![[Firstweald_symbol.svg|300]]
 

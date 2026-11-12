@@ -4,6 +4,7 @@ aliases:
   - Aethelgard
   - aethelgard, god of relics
 title: Aethelgard, God of Relics
+<<<<<<< HEAD
 alternate_domains: '[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68)'
 anathema: 'Allow a relic to rust or erode, submit willingly to the afterlife, destroy a [[Phylactery|phylactery]] or soul-bound vessel'
 areas_of_concern: 'Relics, soul-binding, artifice, undeath, eternal preservation'
@@ -18,6 +19,25 @@ domains: '[Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), [Magic](https://2
 edicts: 'Bind the ethereal to the physical, preserve your creations against the ravages of time, defy the natural cycle of death, forge items of lasting power'
 favoured_weapon: 'Warhammer'
 major_boon: 'Aethelgard grants you a taste of the ultimate preservation. Once, when you would die, the GM chooses any object within 30ft - normally the most valuable item on your person. Your soul instantly anchors itself to the most to that object as your physical body crumbles. your consciousness remains perfectly intact within the item. You can communicate telepathically with anyone holding it, and any resurrection or reincarnation magic can be cast upon the item as though it were your body. When spells or rituals are cast on the item this way, they act as though no time has passed since your death, and their costs are removed. Once you have been resurrected or reincarnated this boon is lost.'
+=======
+created: 2026-11-12T17:37:18.255Z
+modified: 2026-09-26T17:18:39.544Z
+published: 2026-09-26T17:18:39.544Z
+alternate_domains: "[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68)"
+anathema: Allow a relic to rust or erode, submit willingly to the afterlife, destroy a [[Phylactery|phylactery]] or soul-bound vessel
+areas_of_concern: Relics, soul-binding, artifice, undeath, eternal preservation
+aspects: Matter and Spirit
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]"
+cleric_spells: "1st: [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348), 3rd: [One with Stone](https://2e.aonprd.com/Spells.aspx?ID=1619), 5th: [Stagnate Time](https://2e.aonprd.com/Spells.aspx?ID=2605)"
+divine_attribute: Intelligence or Constitution
+divine_font: Harm
+divine_sanctification: None
+divine_skill: Crafting
+domains: "[Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Glyph](https://2e.aonprd.com/Domains.aspx?ID=109), [Soul](https://2e.aonprd.com/Domains.aspx?ID=118)"
+edicts: Bind the ethereal to the physical, preserve your creations against the ravages of time, defy the natural cycle of death, forge items of lasting power
+favoured_weapon: Warhammer
+major_boon: Aethelgard grants you a taste of the ultimate preservation. Once, when you would die, the GM chooses any object within 30ft - normally the most valuable item on your person. Your soul instantly anchors itself to the most to that object as your physical body crumbles. your consciousness remains perfectly intact within the item. You can communicate telepathically with anyone holding it, and any resurrection or reincarnation magic can be cast upon the item as though it were your body. When spells or rituals are cast on the item this way, they act as though no time has passed since your death, and their costs are removed. Once you have been resurrected or reincarnated this boon is lost.
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 major_curse: 'You are cursed with the worst fate of Relic Dismagic: an eternal, agonizing confinement. If you are reduced to 0 Hit Points, you do not fall Unconscious. Instead, you immediately become trapped in a small gem as if targeted with the "object" version of a Successful 10th Rank Imprisonment Ritual.'
 minor_boon: 'Aethelgard grants your creations unnatural durability. Items you craft have their Hardness increased by 2, and you gain a +1 status bonus to Crafting checks to Repair.'
 minor_curse: 'Aethelgard forces you to feel the agonizing weight of raw matter crushing your spirit. The Bulk of all armour and weapons you carry increases by 1.'

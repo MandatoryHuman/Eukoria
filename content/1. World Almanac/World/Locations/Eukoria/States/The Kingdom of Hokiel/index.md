@@ -2,6 +2,12 @@
 publish: true
 aliases:
 title: The Kingdom of Hokiel
+<<<<<<< HEAD
+=======
+created: 2026-11-12T17:37:18.452Z
+modified: 2026-10-07T09:43:23.601Z
+published: 2026-10-07T09:43:23.601Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
 symbol: "[[Hokiel_Symbol.svg]]"

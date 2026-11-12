@@ -2,7 +2,13 @@
 aliases:
   - Fathom-Court
 title: The Fathom-Court
+<<<<<<< HEAD
 symbol: "[[The_Syndicate_of_the_Fathom-Court_symbol.svg]]"
+=======
+created: 2026-11-12T17:37:18.394Z
+modified: 2026-10-07T10:55:04.259Z
+published: 2026-10-07T10:55:04.259Z
+>>>>>>> 9154a718c11fbe82d5488ef60b627dad32fb5686
 tags:
   - State
   - state
