@@ -1,16 +1,20 @@
 ---
+publish: true
 aliases:
   - True-seeing Guard
 title: True-seeing Guard
+created: 2026-09-26T16:52:54.229Z
+modified: 2026-09-26T17:18:39.743Z
+published: 2026-09-26T17:18:39.743Z
 tags:
   - "#Archetype"
   - "#Feat"
 level: 10
-prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]'
+prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]]"
 ---
 
 > [!info]+ Details
-> **Prerequisites:** `=this.prerequisites`
+> **Prerequisites:** [[2. Mechanics/Archetypes/Truthseeker/Feats/Truthseeker Dedication - Feat 2.md|Truthseeker Dedication]]
 
 _Archetype_, _Revealing_
 When you know a creature's physical limits, instincts, and preferred tactics, they can no longer catch you unaware.

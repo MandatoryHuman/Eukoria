@@ -5,43 +5,46 @@ aliases:
   - Lysia Bind-breaker
   - Goddess of Passion
 title: Lysia Bind-breaker, Goddess of Passion
+created: 2026-09-26T16:52:53.897Z
+modified: 2026-09-26T17:18:39.547Z
+published: 2026-09-26T17:18:39.547Z
 tags:
   - Gods
-alternate_domains: 'Nightmares'
-anathema: 'Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression'
-areas_of_concern: 'Passion, emotion, fleshwarping, mutants, persecuted lovers, outcasts'
-aspects: 'Life and Mind'
-category: '[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]'
-cleric_spells: '1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 5th: [Aberrant Form](https://2e.aonprd.com/Spells.aspx?ID=861)'
-divine_attribute: 'Charisma or Constitution'
-divine_font: 'Harm or Heal'
-divine_sanctification: 'None'
-divine_skill: 'Occultism or Medicine'
-domains: 'Passion, Change, Freedom, Healing'
-edicts: 'Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains'
-favoured_weapon: 'Spiked Chain'
-major_boon: ''
-major_curse: 'Lysia turns your flesh into a prison of maddening mutations. You permanently gain weakness 5 to mental damage, and anytime you roll a critical failure on an attack roll or skill check, a random appendage temporarily mutates into useless, pulsing flesh, rendering you Clumsy 2 for 1 minute.'
-minor_boon: 'Lysia''s passion emboldens your flesh. You gain a +1 status bonus to saving throws against emotion effects, and when you are targeted by an emotion effect, you gain 5 temporary Hit Points.'
-minor_curse: 'Your body uncontrollably broadcasts your inner mind. You take a permanent -2 status penalty to Deception checks, and your skin visibly flushes, pales, or breaks out in hives depending on your emotional state.'
-moderate_boon: 'You can force the intellect of your mind directly onto your biology. Once per day, you can cast Enlarge or Shrink on yourself as an innate Occult spell, altering your flesh to suit your needs.'
-moderate_curse: 'The friction of your Life and Mind violently clashes. As long as you have the Frightened condition, you also gain the Enfeebled condition of the same value, as your fear saps your physical biology.'
-pantheons_covenants: '[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]'
-religious_symbol: 'A heart wrapped in iron chains'
-sacred_animal: 'Chameleon'
-sacred_colours: 'Vibrant Magenta and Crimson'
+alternate_domains: Nightmares
+anathema: Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression
+areas_of_concern: Passion, emotion, fleshwarping, mutants, persecuted lovers, outcasts
+aspects: Life and Mind
+category: "[[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]"
+cleric_spells: "1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 5th: [Aberrant Form](https://2e.aonprd.com/Spells.aspx?ID=861)"
+divine_attribute: Charisma or Constitution
+divine_font: Harm or Heal
+divine_sanctification: None
+divine_skill: Occultism or Medicine
+domains: Passion, Change, Freedom, Healing
+edicts: Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains
+favoured_weapon: Spiked Chain
+major_boon: ""
+major_curse: Lysia turns your flesh into a prison of maddening mutations. You permanently gain weakness 5 to mental damage, and anytime you roll a critical failure on an attack roll or skill check, a random appendage temporarily mutates into useless, pulsing flesh, rendering you Clumsy 2 for 1 minute.
+minor_boon: Lysia's passion emboldens your flesh. You gain a +1 status bonus to saving throws against emotion effects, and when you are targeted by an emotion effect, you gain 5 temporary Hit Points.
+minor_curse: Your body uncontrollably broadcasts your inner mind. You take a permanent -2 status penalty to Deception checks, and your skin visibly flushes, pales, or breaks out in hives depending on your emotional state.
+moderate_boon: You can force the intellect of your mind directly onto your biology. Once per day, you can cast Enlarge or Shrink on yourself as an innate Occult spell, altering your flesh to suit your needs.
+moderate_curse: The friction of your Life and Mind violently clashes. As long as you have the Frightened condition, you also gain the Enfeebled condition of the same value, as your fear saps your physical biology.
+pantheons_covenants: "[[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]"
+religious_symbol: A heart wrapped in iron chains
+sacred_animal: Chameleon
+sacred_colours: Vibrant Magenta and Crimson
 ---
 
 > [!info]+ Details
-> **Category:** `=this.category`
-> **Aspects:** `=this.aspects`
-> **Edicts:** `=this.edicts`
-> **Anathema:** `=this.anathema`
-> **Areas of Concern:** `=this.areas_of_concern`
-> **Religious Symbol:** `=this.religious_symbol`
-> **Sacred Animal:** `=this.sacred_animal`
-> **Sacred Colours:** `=this.sacred_colours`
-> **Pantheons/Covenants:** `=this.pantheons_covenants`
+> **Category:** [[1. World Almanac/World/Gods & Divines/Greater Gods/index.md|Greater Gods]]
+> **Aspects:** Life and Mind
+> **Edicts:** Protect the persecuted and outcast, embrace raw emotion, alter the flesh to match the true mind, break oppressive societal chains
+> **Anathema:** Suppress your true emotions to conform, persecute lovers or outcasts, enforce rigid biological norms, submit to orthodox oppression
+> **Areas of Concern:** Passion, emotion, fleshwarping, mutants, persecuted lovers, outcasts
+> **Religious Symbol:** A heart wrapped in iron chains
+> **Sacred Animal:** Chameleon
+> **Sacred Colours:** Vibrant Magenta and Crimson
+> **Pantheons/Covenants:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/index|Non-Canonical Gods]], [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Gods of Dismagic/index|Gods of Dismagic]]
 
 Lysia Bind-breaker is the [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater God]] of Passion and the patron of the volatile [[Traditions of Dismagic|Dismagic]] known as Passion-Magic. In the cosmic geometry of [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]], she governs the clashing Dismagic of Life and Mind. This tradition forces the pure intellect of the Mind directly onto the biology of Life, bypassing the natural laws of Matter and the tether of Spirit.
 
@@ -58,23 +61,23 @@ However, the reality of most of Lysia's faithful is often far more benevolent. H
 ## Devotee Benefits
 
 > [!info]+ Details
-> **Divine Attribute:** `=this.divine_attribute`
-> **Divine Font:** `=this.divine_font`
-> **Divine Sanctification:** `=this.divine_sanctification`
-> **Divine Skill:** `=this.divine_skill`
-> **Favoured Weapon:** `=this.favoured_weapon`
-> **Domains:** `=this.domains`
-> **Alternate Domains:** `=this.alternate_domains`
-> **Cleric Spells:** `=this.cleric_spells`
+> **Divine Attribute:** Charisma or Constitution
+> **Divine Font:** Harm or Heal
+> **Divine Sanctification:** None
+> **Divine Skill:** Occultism or Medicine
+> **Favoured Weapon:** Spiked Chain
+> **Domains:** Passion, Change, Freedom, Healing
+> **Alternate Domains:** Nightmares
+> **Cleric Spells:** 1st: [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 5th: [Aberrant Form](https://2e.aonprd.com/Spells.aspx?ID=861)
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 Lysia blesses those who break the chains of oppression, embrace their true emotional nature, and use Passion-Magic to protect society's outcasts. She brings terrifying biological and mental ruin to those who persecute lovers or suppress the true identities of others.
 
 > [!info]+ Details
-> **Minor Boon:** `=this.minor_boon`
-> **Moderate Boon:** `=this.moderate_boon`
-> **Major Boon:** `=this.major_boon`
-> **Minor Curse:** `=this.minor_curse`
-> **Moderate Curse:** `=this.moderate_curse`
-> **Major Curse:** `=this.major_curse`
+> **Minor Boon:** Lysia's passion emboldens your flesh. You gain a +1 status bonus to saving throws against emotion effects, and when you are targeted by an emotion effect, you gain 5 temporary Hit Points.
+> **Moderate Boon:** You can force the intellect of your mind directly onto your biology. Once per day, you can cast Enlarge or Shrink on yourself as an innate Occult spell, altering your flesh to suit your needs.
+> **Major Boon:**
+> **Minor Curse:** Your body uncontrollably broadcasts your inner mind. You take a permanent -2 status penalty to Deception checks, and your skin visibly flushes, pales, or breaks out in hives depending on your emotional state.
+> **Moderate Curse:** The friction of your Life and Mind violently clashes. As long as you have the Frightened condition, you also gain the Enfeebled condition of the same value, as your fear saps your physical biology.
+> **Major Curse:** Lysia turns your flesh into a prison of maddening mutations. You permanently gain weakness 5 to mental damage, and anytime you roll a critical failure on an attack roll or skill check, a random appendage temporarily mutates into useless, pulsing flesh, rendering you Clumsy 2 for 1 minute.

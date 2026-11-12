@@ -1,32 +1,36 @@
 ---
+publish: true
 aliases:
   - Undying Sovereign
 title: The Undying Sovereign
+created: 2026-09-26T16:52:54.157Z
+modified: 2026-09-26T17:18:39.716Z
+published: 2026-09-26T17:18:39.716Z
 tags:
   - NPCs
 god:
   - "[[Aethelgard, God of Relics|Aethelgard]]"
-ancestry: 'Lich'
-background: 'Royalty'
-class_profession: 'Wizard'
-faction: '[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]'
-level: '19'
-location: '[[The Silent City of Jhal]]'
-pronouns: 'They/Them'
-role: 'Supreme Ruler of Jhal'
-status: 'Undead'
+ancestry: Lich
+background: Royalty
+class_profession: Wizard
+faction: "[[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index|The Jhalian Necrocracy]]"
+level: "19"
+location: "[[The Silent City of Jhal]]"
+pronouns: They/Them
+role: Supreme Ruler of Jhal
+status: Undead
 ---
 
 > [!info]+ Details
-> **Pronouns:** `=this.pronouns`
-> **Ancestry:** `=this.ancestry`
-> **Background:** `=this.background`
-> **Class/Profession:** `=this.class_profession`
-> **Level:** `=this.level`
-> **Location:** `=this.location`
-> **Faction:** `=this.faction`
-> **Role:** `=this.role`
-> **Status:** `=this.status`
+> **Pronouns:** They/Them
+> **Ancestry:** Lich
+> **Background:** Royalty
+> **Class/Profession:** Wizard
+> **Level:** 19
+> **Location:** [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/The Silent City of Jhal.md|The Silent City of Jhal]]
+> **Faction:** [[1. World Almanac/World/Locations/Eukoria/States/The Jhalian Necrocracy/index.md|The Jhalian Necrocracy]]
+> **Role:** Supreme Ruler of Jhal
+> **Status:** Undead
 
 ![[Assets/NPCs/The Undying Sovereign.webp|400]]
 

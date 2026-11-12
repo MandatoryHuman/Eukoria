@@ -2,6 +2,9 @@
 publish: true
 aliases:
 title: The Morne Free-State
+created: 2026-09-28T13:39:09.665Z
+modified: 2026-10-07T10:54:55.936Z
+published: 2026-10-07T10:54:55.936Z
 tags:
   - State
 symbol: "[[Morne_Symbol.svg]]"
@@ -18,15 +21,15 @@ ruler: The syndicate councils and senior monastic orders
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest.md|Alkahest]]
+> **Government:** Coalition of alchemical syndicates, medical orders, and merchant guilds
+> **Ruler:** The syndicate councils and senior monastic orders
+> **Population:**
+> **Demographics:** Alchemical syndicates, monastic physicians, merchants, and jungle communities
+> **Languages:**
+> **Religions:** The balancing of life energies and the sanctity of healing
+> **Major Exports:** Internal alchemy, longevity elixirs, restorative tonics, and medicinal craft
+> **Major Imports:** Rare reagents, exotic herbs, and volatile ingredients
 
 ![[Morne_Symbol.svg|300]]
 

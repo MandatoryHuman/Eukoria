@@ -1,7 +1,11 @@
 ---
+publish: true
 aliases:
   - traditions of magic
 title: Traditions of Magic
+created: 2026-09-26T16:52:54.129Z
+modified: 2026-09-21T23:19:18.903Z
+published: 2026-09-21T23:19:18.903Z
 ---
 
 > [!quote|Author] Primer on Eukorian Thaumaturgy

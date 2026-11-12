@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
@@ -17,15 +18,15 @@ ruler: A shifting council of the most powerful Pirate Captains
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index.md|The Flotilla of the Unbound]]
+> **Government:** Pirate Coalition
+> **Ruler:** A shifting council of the most powerful Pirate Captains
+> **Population:** Unknown (Highly Transient)
+> **Demographics:** Exiles, Runesmiths, Passion Mages, Outcasts
+> **Languages:** Common, Various Thieves' Cants
+> **Religions:** [[Lysia Bind-breaker, Goddess of Passion]], [[Aethelgard, God of Relics]], [[Aporia, God of Fate]]
+> **Major Exports:** Stolen Cargo, Smuggled Contraband, "Safe Passage"
+> **Major Imports:** Stolen Ships, Weaponry, Ransom Gold
 
 ![[Heretics_Wake_symbol.svg|300]]
 

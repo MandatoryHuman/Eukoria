@@ -1,6 +1,9 @@
 ---
 publish: true
 title: Eukoria
+created: 2026-09-26T16:52:49.998Z
+modified: 2026-10-07T09:41:41.489Z
+published: 2026-10-07T09:41:41.489Z
 ---
 
 > [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
@@ -20,6 +23,7 @@ When the dust settled, the world was forever changed. The Twins had rewritten co
 # Directory
 
 ## Core Lore & Mechanics
+
 - [[Fundamental Essences]] - The building blocks of reality (Life, Spirit, Mind, Matter).
 - [[Basic Essences]] - The absolute anchors of the void (Presence and Absence).
 - [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
@@ -38,6 +42,7 @@ When the dust settled, the world was forever changed. The Twins had rewritten co
 ![[1. World Almanac/World/Locations/Eukoria/States/List of States.base]]
 
 ### Notable Locations:
+
 - [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
 
 ### Characters & Factions

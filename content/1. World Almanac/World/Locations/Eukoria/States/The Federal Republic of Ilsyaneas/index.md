@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
@@ -18,15 +19,15 @@ ruler: Elected Chancellor
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/The Caldera Forum.md|The Caldera Forum]]
+> **Government:** Federal Representative Republic
+> **Ruler:** Elected Chancellor
+> **Population:** 2.8 Million
+> **Demographics:** Humans, Dwarves, Gnomes, Automatons
+> **Languages:** Common, Dwarven, Gnomish
+> **Religions:** Secular
+> **Major Exports:** Machinery, Firearms, Refined Steel, Civic Treatises
+> **Major Imports:** Raw Ore, Textiles, Exotic Primal Reagents
 
 ![[Ilsyaneas_symbol.svg|300]]
 
