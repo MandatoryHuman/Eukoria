@@ -7,7 +7,6 @@ title: The Widhor Sanctum
 symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
 tags:
   - State
-symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
 capital: "[[Heartbloom]]"
 demographics: Fleshwarps, Humans, Beastkin, Halflings
 government: Empathic Commune

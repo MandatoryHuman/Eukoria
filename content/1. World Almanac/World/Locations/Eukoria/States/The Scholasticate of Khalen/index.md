@@ -7,7 +7,6 @@ title: The Scholasticate of Khalen
 symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"
 tags:
   - State
-symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"
 capital: "[[The Cliff Archives]]"
 demographics: Humans, Elves, Tengu, Dwarves
 government: Academic Meritocracy

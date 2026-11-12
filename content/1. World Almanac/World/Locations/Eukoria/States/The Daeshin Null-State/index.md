@@ -6,7 +6,6 @@ title: The Daeshin Null-State
 symbol: "[[Daeshin_symbol.svg]]"
 tags:
   - State
-symbol: "[[Daeshin_symbol.svg]]"
 capital: "[[Othrys, The Hollow Capital]] (Largely Abandoned)"
 demographics: Fleshwarps, Mutants, Exiles, Cultists
 government: Anarchic Quarantine Zone

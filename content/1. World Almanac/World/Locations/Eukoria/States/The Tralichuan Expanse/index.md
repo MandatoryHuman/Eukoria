@@ -6,7 +6,6 @@ title: The Tralichuan Expanse
 symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
 tags:
   - State
-symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
 capital: Tralicor
 demographics: Humans, Orcs, Beastkin, Azarketi, other semi-aquatic races
 government: Expansionist Thalassocracy

@@ -7,7 +7,6 @@ title: The Rastorian Reach
 symbol: "[[The_Rastorian_Reach_symbol.svg]]"
 tags:
   - State
-symbol: "[[The_Rastorian_Reach_symbol.svg]]"
 capital: "[[Hafnar]]"
 demographics: Humans, Dwarves, Orcs, Beastkin
 government: Clan Moot

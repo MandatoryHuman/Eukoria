@@ -6,7 +6,6 @@ title: Meridia
 symbol: "[[Meridia_symbol.svg]]"
 tags:
   - State
-symbol: "[[Meridia_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"
 demographics: Any, so long as they can pay
 government: Mercantile Oligarchy

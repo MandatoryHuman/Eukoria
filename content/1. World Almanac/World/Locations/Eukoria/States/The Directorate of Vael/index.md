@@ -6,7 +6,6 @@ title: The Directorate of Vael
 symbol: "[[Vael_symbol.svg]]"
 tags:
   - State
-symbol: "[[Vael_symbol.svg]]"
 capital: "[[Axiom's Hold]]"
 government: Theocratic Surveillance State
 ruler: "[[The Panopticon Council]]"
