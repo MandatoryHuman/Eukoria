@@ -3,22 +3,25 @@ publish: true
 aliases:
   - ephemera
 title: Ephemera
+created: 2026-11-12T17:24:21.220Z
+modified: 2026-10-07T09:41:17.562Z
+published: 2026-10-07T09:41:17.562Z
 tags:
   - "#Settlement"
 marker:
-demographics: 'Fraedalan engineers, artificers, seers, and civil servants'
-level: 'High'
-population: ''
-ruler: 'The Fate-Weavers of the Zenith Observatory'
-type: 'Capital City'
+demographics: Fraedalan engineers, artificers, seers, and civil servants
+level: High
+population: ""
+ruler: The Fate-Weavers of the Zenith Observatory
+type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Fraedalan engineers, artificers, seers, and civil servants
+> **Ruler:** The Fate-Weavers of the Zenith Observatory
 
 ![[Assets/Locations/Coat of Arms/Ephemera Emblem.webp|200]]
 ![[Assets/Locations/Maps/Ephemera Map.webp|400]]

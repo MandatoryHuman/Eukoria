@@ -4,9 +4,9 @@ aliases:
   - Jovanna
   - jovanna, goddess of the hearth and revelry
 title: Jovanna, Goddess of the Hearth and Revelry
-created: 2026-09-26T16:52:53.907Z
-modified: 2026-09-26T17:18:39.556Z
-published: 2026-09-26T17:18:39.556Z
+created: 2026-11-12T17:24:21.166Z
+modified: 2026-10-07T11:11:26.802Z
+published: 2026-10-07T11:11:26.802Z
 tags:
   - Gods
 alternate_domains: "[Fire](https://2e.aonprd.com/Domains.aspx?ID=76)"
@@ -36,7 +36,7 @@ sacred_colours: Crimson and Amber
 
 > [!info]+ Details
 > **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
-> **Aspects:** Hearth and Revelry
+> **Aspects:** Centre in Spirit
 > **Edicts:** Host guests with generosity, brew strong drinks and cook hearty meals, celebrate life's victories, ensure no hearth goes cold in the winter
 > **Anathema:** Turn away a traveller in desperate need of shelter, water down ale or serve spoiled food maliciously, intentionally ruin a peaceful celebration
 > **Areas of Concern:** The Hearth, Home, Brewing, Festivals, Joy

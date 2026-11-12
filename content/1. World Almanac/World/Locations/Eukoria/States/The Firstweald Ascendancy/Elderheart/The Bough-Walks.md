@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bough-Walks
 title: The Bough-Walks
-created: 2026-09-26T16:52:54.027Z
+created: 2026-11-12T17:24:21.327Z
 modified: 2026-10-03T19:22:03.126Z
 published: 2026-10-03T19:22:03.126Z
 ---

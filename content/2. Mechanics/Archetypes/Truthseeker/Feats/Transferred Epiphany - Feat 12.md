@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Transferred Epiphany
 title: Transferred Epiphany
-created: 2026-09-26T16:52:54.227Z
+created: 2026-11-12T17:24:21.562Z
 modified: 2026-09-26T17:18:39.742Z
 published: 2026-09-26T17:18:39.742Z
 tags:

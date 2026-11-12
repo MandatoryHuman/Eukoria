@@ -4,7 +4,7 @@ aliases:
   - Thrum
   - thrum, god of madness
 title: Thrum, God of Madness
-created: 2026-09-26T16:52:53.850Z
+created: 2026-11-12T17:24:21.105Z
 modified: 2026-09-26T17:18:39.494Z
 published: 2026-09-26T17:18:39.494Z
 alternate_domains: "[Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)"

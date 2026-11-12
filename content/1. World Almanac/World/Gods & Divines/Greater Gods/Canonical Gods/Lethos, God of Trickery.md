@@ -4,7 +4,7 @@ aliases:
   - Lethos
   - lethos, god of trickery
 title: Lethos, God of Trickery
-created: 2026-09-26T16:52:53.866Z
+created: 2026-11-12T17:24:21.122Z
 modified: 2026-09-26T17:18:39.513Z
 published: 2026-09-26T17:18:39.513Z
 enemy:

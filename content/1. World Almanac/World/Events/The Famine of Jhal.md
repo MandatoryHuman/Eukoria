@@ -3,7 +3,7 @@ publish: true
 aliases:
   - the famine of jhal
 title: The Famine of Jhal
-created: 2026-09-26T16:52:53.828Z
+created: 2026-11-12T17:24:21.080Z
 modified: 2026-09-26T17:18:39.480Z
 published: 2026-09-26T17:18:39.480Z
 tags:

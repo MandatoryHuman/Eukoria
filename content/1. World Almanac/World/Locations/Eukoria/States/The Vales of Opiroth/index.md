@@ -4,18 +4,21 @@ aliases:
   - Opiroth
   - The Vales of Opiroth
 title: The Vales of Opiroth
-symbol: "[[The_Vales_of_Opiroth_symbol.svg]]"
+created: 2026-11-12T17:24:21.435Z
+modified: 2026-10-07T10:54:55.938Z
+published: 2026-10-07T10:54:55.938Z
 tags:
   - State
-capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Vales of Opiroth/The Alabaster Terrace|The Alabaster Terrace]]'
-demographics: 'Humans, Fleshwarps, Goblins, Automatons'
-government: 'Scientific Oligarchy'
-languages: 'Common, Sakvroth'
-major_exports: 'Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents'
-major_imports: 'Base Metals, test subjects, raw foodstuffs'
-population: '120,000'
-religions: '[[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]'
-ruler: 'Grand Synthesist Morvane'
+symbol: "[[The_Vales_of_Opiroth_symbol.svg]]"
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Vales of Opiroth/The Alabaster Terrace|The Alabaster Terrace]]"
+demographics: Humans, Fleshwarps, Goblins, Automatons
+government: Scientific Oligarchy
+languages: Common, Sakvroth
+major_exports: Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents
+major_imports: Base Metals, test subjects, raw foodstuffs
+population: 120,000
+religions: "[[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]"
+ruler: Grand Synthesist Morvane
 ---
 
 > [!info]+ Details

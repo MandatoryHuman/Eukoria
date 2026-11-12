@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Precognitive Parry
 title: Precognitive Parry
-created: 2026-09-26T16:52:54.217Z
+created: 2026-11-12T17:24:21.550Z
 modified: 2026-09-26T17:18:39.736Z
 published: 2026-09-26T17:18:39.736Z
 tags:

@@ -4,9 +4,9 @@ aliases:
   - Venaria
   - venaria, goddess of the hunt
 title: Venaria, Goddess of The Hunt
-created: 2026-09-26T16:52:53.909Z
-modified: 2026-09-26T17:18:39.561Z
-published: 2026-09-26T17:18:39.561Z
+created: 2026-11-12T17:24:21.170Z
+modified: 2026-10-07T11:14:06.150Z
+published: 2026-10-07T11:14:06.150Z
 tags:
   - Gods
 alternate_domains: "[Earth](https://2e.aonprd.com/Domains.aspx?ID=73)"
@@ -36,7 +36,7 @@ sacred_colours: Green and Blood Red
 
 > [!info]+ Details
 > **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
-> **Aspects:** Survival and the Food Chain
+> **Aspects:** Centre in Life
 > **Edicts:** Hunt only what you need to survive, respect your prey and grant it a swift death, utilize every part of the kill, protect the delicate balance of the wild
 > **Anathema:** Hunt for sport or vanity alone, torture animals, let usable meat or pelts go to waste, introduce unnatural threats to an ecosystem
 > **Areas of Concern:** Hunting, Survival, Predators, The Food Chain

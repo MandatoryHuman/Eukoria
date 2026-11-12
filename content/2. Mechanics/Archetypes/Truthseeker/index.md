@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Truthseeker
 title: Truthseeker
-created: 2026-09-26T16:52:54.188Z
+created: 2026-11-12T17:24:21.516Z
 modified: 2026-09-21T23:19:18.797Z
 published: 2026-09-21T23:19:18.797Z
 tags:

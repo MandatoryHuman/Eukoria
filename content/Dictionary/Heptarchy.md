@@ -3,7 +3,7 @@ publish: true
 aliases:
   - heptarchy
 title: Heptarchy
-created: 2026-09-26T16:52:54.386Z
+created: 2026-11-12T17:24:21.805Z
 modified: 2026-09-21T23:19:18.857Z
 published: 2026-09-21T23:19:18.857Z
 ---

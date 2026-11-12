@@ -3,7 +3,7 @@ publish: true
 aliases:
   - basic essences
 title: Basic Essences
-created: 2026-09-26T16:52:54.122Z
+created: 2026-11-12T17:24:21.450Z
 modified: 2026-10-07T09:41:41.494Z
 published: 2026-10-07T09:41:41.494Z
 ---

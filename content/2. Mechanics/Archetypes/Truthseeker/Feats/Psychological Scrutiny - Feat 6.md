@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Psychological Scrutiny
 title: Psychological Scrutiny
-created: 2026-09-26T16:52:54.220Z
+created: 2026-11-12T17:24:21.555Z
 modified: 2026-09-26T17:18:39.739Z
 published: 2026-09-26T17:18:39.739Z
 tags:

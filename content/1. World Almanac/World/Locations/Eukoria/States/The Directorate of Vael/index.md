@@ -3,7 +3,9 @@ publish: true
 aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
-symbol: "[[Vael_symbol.svg]]"
+created: 2026-11-12T17:24:21.295Z
+modified: 2026-10-07T09:41:57.732Z
+published: 2026-10-07T09:41:57.732Z
 tags:
   - State
 symbol: "[[Vael_symbol.svg]]"
@@ -19,15 +21,15 @@ major_imports: Raw materials, Historical Texts, Paper
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/Axiom's Hold.md|Axiom's Hold]]
+> **Government:** Theocratic Surveillance State
+> **Ruler:** [[1. World Almanac/World/Locations/Eukoria/States/The Directorate of Vael/The Panopticon Council.md|The Panopticon Council]]
+> **Population:** 650,000
+> **Demographics:** Humans, Elves, Halflings
+> **Languages:** Common
+> **Religions:** [[Solon, God of Law]], [[Oclera, God of Knowledge]]
+> **Major Exports:** Information, Arcane/Occult Wards, Legal/Magical Treatises
+> **Major Imports:** Raw materials, Historical Texts, Paper
 
 ![[Vael_symbol.svg|300]]
 

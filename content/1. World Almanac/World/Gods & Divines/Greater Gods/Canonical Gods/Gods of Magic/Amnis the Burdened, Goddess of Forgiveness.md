@@ -4,7 +4,7 @@ aliases:
   - Amnis
   - Amnis, the Burdened
 title: Amnis the Burdened, Goddess of Forgiveness
-created: 2026-09-26T16:52:53.876Z
+created: 2026-11-12T17:24:21.134Z
 modified: 2026-09-26T17:18:39.529Z
 published: 2026-09-26T17:18:39.529Z
 tags:

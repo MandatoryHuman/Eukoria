@@ -4,7 +4,7 @@ aliases:
   - Ilyria
   - ilyria, goddess of the afterlife
 title: Ilyria, Goddess of The Afterlife
-created: 2026-09-26T16:52:53.862Z
+created: 2026-11-12T17:24:21.118Z
 modified: 2026-09-26T17:18:39.508Z
 published: 2026-09-26T17:18:39.508Z
 tags:

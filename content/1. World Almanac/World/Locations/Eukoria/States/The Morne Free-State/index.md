@@ -1,12 +1,12 @@
 ---
 publish: true
-aliases:
 title: The Morne Free-State
-created: 2026-09-28T13:39:09.665Z
+created: 2026-11-12T17:24:21.377Z
 modified: 2026-10-07T10:54:55.936Z
 published: 2026-10-07T10:54:55.936Z
 tags:
   - State
+aliases:
 symbol: "[[Morne_Symbol.svg]]"
 marker:
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Morne Free-State/Alkahest|Alkahest]]"
@@ -16,7 +16,7 @@ languages: ""
 major_exports: Internal alchemy, longevity elixirs, restorative tonics, and medicinal craft
 major_imports: Rare reagents, exotic herbs, and volatile ingredients
 population: ""
-religions: "The balancing of life energies and the sanctity of healing"
+religions: The balancing of life energies and the sanctity of healing
 ruler: The syndicate councils and senior monastic orders
 ---
 

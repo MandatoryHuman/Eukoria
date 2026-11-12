@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Canopy Crest
 title: The Canopy Crest
-created: 2026-09-26T16:52:54.029Z
+created: 2026-11-12T17:24:21.329Z
 modified: 2026-10-03T19:22:03.127Z
 published: 2026-10-03T19:22:03.127Z
 ---
