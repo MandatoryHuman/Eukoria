@@ -1,4 +1,9 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "build": {
+    "env": {
+      "NODE_VERSION": "22.x"
+    }
+  }
 }
