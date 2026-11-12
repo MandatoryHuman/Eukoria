@@ -3,9 +3,6 @@ publish: true
 aliases:
   - the caldera awakening
 title: The Caldera Awakening
-created: 58 AW
-modified: 2026-10-07T10:54:55.930Z
-published: 58 AW
 tags:
   - "#Events"
 factions_involved: Early Inventors Guilds; Secular Militias; Orthodox Loyalists
@@ -16,10 +13,10 @@ date: 58 AW
 ---
 
 > [!info]+ Details
-> **Type:** Industrial Revolution & Political Uprising
-> **Location:** Mount Solace, [[1. World Almanac/World/Locations/Eukoria/States/The Federal Republic of Ilsyaneas/index|The Federal Republic of Ilsyaneas]]
-> **Factions Involved:** Early Inventors Guilds; Secular Militias; Orthodox Loyalists
-> **Key Figures:** Chancellor Vondal Iron-Speaker
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 # Overview
 

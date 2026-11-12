@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
@@ -21,15 +20,15 @@ ruler: "[[Hierophant Rinebrior]]"
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index.md|Elderheart]]
-> **Government:** Druidic Conclave
-> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Hierophant Rinebrior.md|Hierophant Rinebrior]]
-> **Population:** "900,000"
-> **Demographics:** Elves, Humans, Leshies, Fey, Beastkin
-> **Languages:** Common, Sylvan
-> **Religions:** [[Kurnos, God of Nature]], [[Maelis, Goddess of Fertility and Harvest]]
-> **Major Exports:** Rare herbs, primal reagents, resilient living-lumber, exotic beasts
-> **Major Imports:** Raw metals, written histories
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Firstweald_symbol.svg|300]]
 

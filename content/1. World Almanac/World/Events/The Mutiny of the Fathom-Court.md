@@ -3,9 +3,6 @@ publish: true
 aliases:
   - the mutiny of the fathom-court
 title: The Mutiny of the Fathom-Court
-created: 36 AW
-modified: 2026-10-07T09:42:40.697Z
-published: 36 AW
 tags:
   - Events
   - National
@@ -17,10 +14,10 @@ date: 36 AW
 ---
 
 > [!info]+ Details
-> **Type:** Naval Coup
-> **Location:** The Eastern Seaboard of [[Cenora]]; The Floating Court
-> **Factions Involved:** The Royal Navy of Old Cenora; The Anchor-Breakers; Early Navigators
-> **Key Figures:** Pirate King Malachi "The Lash"
+> **Type:** `=this.type`
+> **Location:** `=this.location`
+> **Factions Involved:** `=this.factions_involved`
+> **Key Figures:** `=this.key_figures`
 
 # Overview
 

@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
@@ -8,7 +7,6 @@ modified: 2026-10-07T09:41:57.732Z
 published: 2026-10-07T09:41:57.732Z
 tags:
   - State
-symbol: "[[Vael_symbol.svg]]"
 capital: "[[Axiom's Hold]]"
 government: Theocratic Surveillance State
 ruler: "[[The Panopticon Council]]"

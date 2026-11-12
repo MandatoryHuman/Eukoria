@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Scholasticate of Khalen
   - Khalen
@@ -9,28 +8,27 @@ modified: 2026-10-07T09:43:23.605Z
 published: 2026-10-07T09:43:23.605Z
 tags:
   - State
-symbol: "[[The_Scholasticate_of_Khalen_symbol.svg]]"
-capital: "[[The Cliff Archives]]"
-demographics: Humans, Elves, Tengu, Dwarves
-government: Academic Meritocracy
-languages: Common, Ancient Eukorian
-major_exports: Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises
-major_imports: Food, Mercenary Protection, Preservative Alchemicals
+capital: '[[The Cliff Archives]]'
+demographics: 'Humans, Elves, Tengu, Dwarves'
+government: 'Academic Meritocracy'
+languages: 'Common, Ancient Eukorian'
+major_exports: 'Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises'
+major_imports: 'Food, Mercenary Protection, Preservative Alchemicals'
 population: '"850,000"'
-religions: "[[Oclera, God of Knowledge]], [[Aureon, God of Commerce and Industry]], [[Syla, Goddess of Records]]"
-ruler: The Curator Assembly
+religions: '[[Oclera, God of Knowledge]], [[Aureon, God of Commerce and Industry]], [[Syla, Goddess of Records]]'
+ruler: 'The Curator Assembly'
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Scholasticate of Khalen/The Cliff Archives.md|The Cliff Archives]]
-> **Government:** Academic Meritocracy
-> **Ruler:** The Curator Assembly
-> **Population:** "850,000"
-> **Demographics:** Humans, Elves, Tengu, Dwarves
-> **Languages:** Common, Ancient Eukorian
-> **Religions:** [[Oclera, God of Knowledge]], [[Aureon, God of Commerce and Industry]], [[Syla, Goddess of Records]]
-> **Major Exports:** Recovered Pre-War Artefacts, Deep-Sea Salvage, Historical Treatises
-> **Major Imports:** Food, Mercenary Protection, Preservative Alchemicals
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[The_Scholasticate_of_Khalen_symbol.svg|300]]
 
