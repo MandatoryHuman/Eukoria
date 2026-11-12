@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Fathom-Court
 title: The Fathom-Court
-created: 2026-11-12T17:52:19.123Z
+created: 2026-11-12T18:08:42.157Z
 modified: 2026-10-07T10:55:04.259Z
 published: 2026-10-07T10:55:04.259Z
 tags:

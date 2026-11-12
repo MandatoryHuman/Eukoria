@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Silent City of Jhal
 title: The Silent City of Jhal
-created: 2026-11-12T17:52:19.167Z
+created: 2026-11-12T18:08:42.198Z
 modified: 2026-10-03T19:22:03.144Z
 published: 2026-10-03T19:22:03.144Z
 tags:

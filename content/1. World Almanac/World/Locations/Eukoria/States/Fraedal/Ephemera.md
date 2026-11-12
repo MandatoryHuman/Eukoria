@@ -3,7 +3,7 @@ publish: true
 aliases:
   - ephemera
 title: Ephemera
-created: 2026-11-12T17:52:19.046Z
+created: 2026-11-12T18:08:42.085Z
 modified: 2026-10-07T09:41:17.562Z
 published: 2026-10-07T09:41:17.562Z
 tags:

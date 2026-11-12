@@ -4,7 +4,7 @@ aliases:
   - Aureon
   - aureon, god of commerce and industry
 title: Aureon, God of Commerce and Industry
-created: 2026-11-12T17:52:18.971Z
+created: 2026-11-12T18:08:42.013Z
 modified: 2026-09-26T17:18:39.532Z
 published: 2026-09-26T17:18:39.532Z
 tags:

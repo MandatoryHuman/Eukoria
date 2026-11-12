@@ -4,7 +4,7 @@ aliases:
   - Eidas
   - eidas, god of art
 title: Eidas, God Of Art
-created: 2026-11-12T17:52:18.996Z
+created: 2026-11-12T18:08:42.037Z
 modified: 2026-09-26T17:18:39.552Z
 published: 2026-09-26T17:18:39.552Z
 tags:

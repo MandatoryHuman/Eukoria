@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Meridia
 title: Meridia
-created: 2026-11-12T17:52:19.070Z
+created: 2026-11-12T18:08:42.109Z
 modified: 2026-10-07T10:53:43.251Z
 published: 2026-10-07T10:53:43.251Z
 tags:

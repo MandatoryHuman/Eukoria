@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
-created: 2026-11-12T17:52:19.166Z
+created: 2026-11-12T18:08:42.196Z
 modified: 2026-10-07T10:53:34.329Z
 published: 2026-10-07T10:53:34.329Z
 tags:

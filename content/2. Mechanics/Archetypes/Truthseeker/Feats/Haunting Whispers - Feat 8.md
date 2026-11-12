@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Haunting Whispers
 title: Haunting Whispers
-created: 2026-11-12T17:52:19.350Z
+created: 2026-11-12T18:08:42.356Z
 modified: 2026-09-26T17:18:39.731Z
 published: 2026-09-26T17:18:39.731Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Garadwen
 title: High Arbiter Garadwen
-created: 2026-11-12T17:52:19.285Z
+created: 2026-11-12T18:08:42.306Z
 modified: 2026-09-26T17:18:39.708Z
 published: 2026-09-26T17:18:39.708Z
 tags:

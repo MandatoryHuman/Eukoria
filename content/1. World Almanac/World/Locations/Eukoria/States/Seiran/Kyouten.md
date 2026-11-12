@@ -3,7 +3,7 @@ publish: true
 aliases:
   - kyouten
 title: Kyouten
-created: 2026-11-12T17:52:19.095Z
+created: 2026-11-12T18:08:42.131Z
 modified: 2026-10-07T11:04:35.755Z
 published: 2026-10-07T11:04:35.755Z
 tags:

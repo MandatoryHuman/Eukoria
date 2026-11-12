@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
-created: 2026-11-12T17:52:19.174Z
+created: 2026-11-12T18:08:42.204Z
 modified: 2026-10-07T09:41:17.582Z
 published: 2026-10-07T09:41:17.582Z
 tags:

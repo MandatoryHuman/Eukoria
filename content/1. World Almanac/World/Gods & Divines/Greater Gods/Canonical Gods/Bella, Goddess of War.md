@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bella
 title: Bella, Goddess of War
-created: 2026-11-12T17:52:18.952Z
+created: 2026-11-12T18:08:41.994Z
 modified: 2026-09-26T17:18:39.497Z
 published: 2026-09-26T17:18:39.497Z
 alternate_domains: "[Confidence](https://2e.aonprd.com/Domains.aspx?ID=67)"

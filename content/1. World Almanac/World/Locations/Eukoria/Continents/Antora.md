@@ -3,7 +3,7 @@ publish: true
 aliases:
   - antora
 title: Antora
-created: 2026-11-12T17:52:19.036Z
+created: 2026-11-12T18:08:42.076Z
 modified: 2026-10-07T09:41:57.739Z
 published: 2026-10-07T09:41:57.739Z
 tags:

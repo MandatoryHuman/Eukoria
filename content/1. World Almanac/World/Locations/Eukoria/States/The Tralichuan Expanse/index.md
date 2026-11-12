@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
-created: 2026-11-12T17:52:19.234Z
+created: 2026-11-12T18:08:42.260Z
 modified: 2026-10-07T09:41:17.599Z
 published: 2026-10-07T09:41:17.599Z
 tags:

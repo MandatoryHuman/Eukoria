@@ -3,7 +3,7 @@ publish: true
 aliases:
   - heartbloom
 title: Heartbloom
-created: 2026-11-12T17:52:19.249Z
+created: 2026-11-12T18:08:42.273Z
 modified: 2026-10-23T13:21:38.947Z
 published: 2026-10-23T13:21:38.947Z
 tags:

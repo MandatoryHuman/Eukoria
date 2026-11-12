@@ -4,7 +4,7 @@ aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
-created: 2026-11-12T17:52:19.196Z
+created: 2026-11-12T18:08:42.223Z
 modified: 2026-10-07T11:10:31.103Z
 published: 2026-10-07T11:10:31.103Z
 tags:

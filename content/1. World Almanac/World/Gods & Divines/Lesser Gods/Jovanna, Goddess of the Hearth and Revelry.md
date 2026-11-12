@@ -4,7 +4,7 @@ aliases:
   - Jovanna
   - jovanna, goddess of the hearth and revelry
 title: Jovanna, Goddess of the Hearth and Revelry
-created: 2026-11-12T17:52:18.997Z
+created: 2026-11-12T18:08:42.039Z
 modified: 2026-10-07T11:11:26.802Z
 published: 2026-10-07T11:11:26.802Z
 tags:

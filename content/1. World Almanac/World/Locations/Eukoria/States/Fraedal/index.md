@@ -1,7 +1,7 @@
 ---
 publish: true
 title: The Fraedalan Synchrony
-created: 2026-11-12T17:52:19.047Z
+created: 2026-11-12T18:08:42.087Z
 modified: 2026-10-07T09:41:17.564Z
 published: 2026-10-07T09:41:17.564Z
 tags:

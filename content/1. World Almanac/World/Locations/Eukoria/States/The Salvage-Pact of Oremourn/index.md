@@ -5,7 +5,7 @@ aliases:
   - Oremourn
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
-created: 2026-11-12T17:52:19.208Z
+created: 2026-11-12T18:08:42.235Z
 modified: 2026-10-07T10:55:59.388Z
 published: 2026-10-07T10:55:59.388Z
 tags:

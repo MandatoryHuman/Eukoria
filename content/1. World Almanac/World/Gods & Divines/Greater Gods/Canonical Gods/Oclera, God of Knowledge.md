@@ -4,7 +4,7 @@ aliases:
   - Oclera
   - oclera, god of knowledge
 title: Oclera, God of Knowledge
-created: 2026-11-12T17:52:18.962Z
+created: 2026-11-12T18:08:42.005Z
 modified: 2026-09-26T17:18:39.520Z
 published: 2026-09-26T17:18:39.520Z
 tags:
