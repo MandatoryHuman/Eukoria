@@ -1,22 +1,26 @@
 ---
+publish: true
 aliases:
   - Elderheart
 title: Elderheart
+created: 2026-11-12T17:52:19.142Z
+modified: 2026-10-07T09:43:23.595Z
+published: 2026-10-07T09:43:23.595Z
 tags:
   - Settlement
-demographics: 'Elves, Leshies, Beastkin, Fey, Humans'
-level: '17'
+demographics: Elves, Leshies, Beastkin, Fey, Humans
+level: "17"
 population: '"250,000"'
-ruler: '[[Hierophant Rinebrior]]'
-type: 'Capital City'
+ruler: "[[Hierophant Rinebrior]]"
+type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** 17
+> **Population:** "250,000"
+> **Demographics:** Elves, Leshies, Beastkin, Fey, Humans
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Hierophant Rinebrior.md|Hierophant Rinebrior]]
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

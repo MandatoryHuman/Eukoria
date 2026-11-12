@@ -3,9 +3,12 @@ publish: true
 aliases:
   - Meridia
 title: Meridia
-symbol: "[[Meridia_symbol.svg]]"
+created: 2026-11-12T17:52:19.070Z
+modified: 2026-10-07T10:53:43.251Z
+published: 2026-10-07T10:53:43.251Z
 tags:
   - State
+symbol: "[[Meridia_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"
 demographics: Any, so long as they can pay
 government: Mercantile Oligarchy

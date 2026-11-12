@@ -4,9 +4,12 @@ aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
+created: 2026-11-12T17:52:19.251Z
+modified: 2026-10-07T09:42:48.238Z
+published: 2026-10-07T09:42:48.238Z
 tags:
   - State
+symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
 capital: "[[Heartbloom]]"
 demographics: Fleshwarps, Humans, Beastkin, Halflings
 government: Empathic Commune

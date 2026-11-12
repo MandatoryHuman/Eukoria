@@ -3,22 +3,25 @@ publish: true
 aliases:
   - tōrō
 title: Tōrō
+created: 2026-11-12T17:52:19.097Z
+modified: 2026-10-03T19:22:03.113Z
+published: 2026-10-03T19:22:03.113Z
 tags:
   - "#Settlement"
 marker:
-demographics: 'Coastal communities, ghost investigators, harbour-masters, and emissaries of Amnis'
-level: 'High'
-population: ''
-ruler: 'The harbour-masters and prefectural authorities'
-type: 'Capital City'
+demographics: Coastal communities, ghost investigators, harbour-masters, and emissaries of Amnis
+level: High
+population: ""
+ruler: The harbour-masters and prefectural authorities
+type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Coastal communities, ghost investigators, harbour-masters, and emissaries of Amnis
+> **Ruler:** The harbour-masters and prefectural authorities
 
 ![[Assets/Locations/Coat of Arms/Tōrō Emblem.webp|200]]
 ![[Assets/Locations/Maps/Tōrō Map.webp|400]]

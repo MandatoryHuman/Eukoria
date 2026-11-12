@@ -4,6 +4,9 @@ aliases:
   - Greater God
   - Greater Gods
 title: Greater Gods
+created: 2026-11-12T17:37:18.214Z
+modified: 2026-10-07T10:53:43.250Z
+published: 2026-10-07T10:53:43.250Z
 tags:
   - Lore
 ---

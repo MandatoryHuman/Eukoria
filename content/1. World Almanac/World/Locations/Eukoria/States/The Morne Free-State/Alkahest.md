@@ -3,22 +3,25 @@ publish: true
 aliases:
   - alkahest
 title: Alkahest
+created: 2026-11-12T17:52:19.188Z
+modified: 2026-10-07T10:54:55.940Z
+published: 2026-10-07T10:54:55.940Z
 tags:
   - "#Settlement"
 marker:
-demographics: 'Alchemists, chirurgeons, mercenaries, and refinery workers'
-level: 'High'
-population: ''
-ruler: 'The syndicate of chief chirurgeons and master alchemists'
-type: 'Capital City'
+demographics: Alchemists, chirurgeons, mercenaries, and refinery workers
+level: High
+population: ""
+ruler: The syndicate of chief chirurgeons and master alchemists
+type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Alchemists, chirurgeons, mercenaries, and refinery workers
+> **Ruler:** The syndicate of chief chirurgeons and master alchemists
 
 ![[Assets/Locations/Coat of Arms/Alkahest Emblem.webp|200]]
 ![[Assets/Locations/Maps/Alkahest Map.webp|400]]

@@ -3,7 +3,10 @@ publish: true
 aliases:
   - timeline of nations
 title: Timeline of Nations
-description: 'The War of Laws ended in 0 AW. Earlier dates are BW; later dates are AW.'
+description: The War of Laws ended in 0 AW. Earlier dates are BW; later dates are AW.
+created: 2026-11-12T17:37:18.193Z
+modified: 2026-10-07T09:42:11.062Z
+published: 2026-10-07T09:42:11.062Z
 ---
 
 ```time-timeline-cal

@@ -5,6 +5,9 @@ aliases:
   - Canonical
   - Canonical Gods
 title: Canonical Gods
+created: 2026-11-12T17:37:18.222Z
+modified: 2026-09-30T15:03:54.304Z
+published: 2026-09-30T15:03:54.304Z
 tags:
   - "#Lore"
 ---

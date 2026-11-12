@@ -12,12 +12,12 @@ type: 'Governing Council'
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Leader:** `=this.leader`
-> **Headquarters:** `=this.headquarters`
-> **Region/Influence:** `=this.region_influence`
-> **Allies:** `=this.allies`
-> **Enemies:** `=this.enemies`
+> **Type:** Governing Council
+> **Leader:** The senior clerics and Occult mages of Vael
+> **Headquarters:** Axiom's Hold
+> **Region/Influence:** The Directorate of Vael
+> **Allies:** The Directorate of Vael
+> **Enemies:** Dismagic states and political rivals
 
 ![[Assets/Factions/Emblems/The Panopticon Council Emblem.webp|200]]
 

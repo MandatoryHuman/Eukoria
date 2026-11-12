@@ -3,6 +3,9 @@ publish: true
 aliases:
   - Gods of Dismagic
 title: Gods of Dismagic
+created: 2026-11-12T17:37:18.257Z
+modified: 2026-09-30T15:04:59.564Z
+published: 2026-09-30T15:04:59.564Z
 tags:
   - Lore
 ---
