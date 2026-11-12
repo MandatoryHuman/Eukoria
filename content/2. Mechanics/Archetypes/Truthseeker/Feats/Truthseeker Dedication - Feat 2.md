@@ -1,20 +1,16 @@
 ---
-publish: true
 aliases:
   - Truthseeker Dedication
 title: Truthseeker Dedication
-created: 2026-11-12T17:24:21.567Z
-modified: 2026-09-26T17:18:39.746Z
-published: 2026-09-26T17:18:39.746Z
 tags:
   - Archetype
   - Feat
 level: 2
-prerequisites: Trained in Nature, Occultism, or Religion
+prerequisites: 'Trained in Nature, Occultism, or Religion'
 ---
 
 > [!info]+ Details
-> **Prerequisites:** Trained in Nature, Occultism, or Religion
+> **Prerequisites:** `=this.prerequisites`
 
 _Uncommon, Archetype, Dedication_
 You gain the ability to parse objective truths from the chaos of battle. When you select this feat, choose your Truthseeker Path, which determines the source of your insight and the trait of your archetype abilities:

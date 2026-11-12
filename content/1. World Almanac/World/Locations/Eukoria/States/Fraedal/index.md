@@ -1,9 +1,6 @@
 ---
 publish: true
 title: The Fraedalan Synchrony
-created: 2026-11-12T17:24:21.222Z
-modified: 2026-10-07T09:41:17.564Z
-published: 2026-10-07T09:41:17.564Z
 tags:
   - State
 symbol: "[[Fraedal_symbol.svg]]"
@@ -20,15 +17,15 @@ ruler: The Fate-Weavers of the Zenith Observatory
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Fraedal/Ephemera.md|Ephemera]]
-> **Government:** Secretive war-state ruled by fate-weavers, temporal engineers, and bureaucracy
-> **Ruler:** The Fate-Weavers of the Zenith Observatory
-> **Population:**
-> **Demographics:** Humans, beastkin, orcs, and state-bounded engineers
-> **Languages:**
-> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Non-Canonical Gods/Aporia, God of Fate.md|Aporia, God of Fate]]
-> **Major Exports:** Probability-manipulating puzzle-boxes, chronal devices, and warded artifices
-> **Major Imports:**
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Fraedal_symbol.svg|300]]
 

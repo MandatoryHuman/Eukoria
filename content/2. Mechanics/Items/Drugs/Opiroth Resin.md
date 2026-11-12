@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - opiroth resin
   - Opiroth Resin
 title: Opiroth Resin
-created: 2026-11-12T17:24:21.590Z
-modified: 2026-10-07T10:58:14.950Z
-published: 2026-10-07T10:58:14.950Z
 tags:
   - Item
   - Drug

@@ -3,25 +3,22 @@ publish: true
 aliases:
   - kyouten
 title: Kyouten
-created: 2026-11-12T17:24:21.274Z
-modified: 2026-10-07T11:04:35.755Z
-published: 2026-10-07T11:04:35.755Z
 tags:
   - "#Settlement"
 marker:
-demographics: Shogunal officials, spirit-mediums, artisans, and naval families
-level: High
-population: ""
-ruler: The shogunate
-type: Capital City
+demographics: 'Shogunal officials, spirit-mediums, artisans, and naval families'
+level: 'High'
+population: ''
+ruler: 'The shogunate'
+type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** Capital City
-> **Level:** High
-> **Population:**
-> **Demographics:** Shogunal officials, spirit-mediums, artisans, and naval families
-> **Ruler:** The shogunate
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 ![[Assets/Locations/Coat of Arms/Kyouten Emblem.webp|200]]
 ![[Assets/Locations/Maps/Kyouten Map.webp|400]]

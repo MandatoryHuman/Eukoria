@@ -1,20 +1,16 @@
 ---
-publish: true
 aliases:
   - Project Mind
 title: Project Mind
-created: 2026-11-12T17:24:21.551Z
-modified: 2026-09-26T17:18:39.737Z
-published: 2026-09-26T17:18:39.737Z
 tags:
   - Archetype
   - Feat
 level: 14
-prerequisites: "[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Esoteric Path"
+prerequisites: '[[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Esoteric Path'
 ---
 
 > [!info]+ Details
-> **Prerequisites:** [[Truthseeker Dedication - Feat 2|Truthseeker Dedication]], Esoteric Path
+> **Prerequisites:** `=this.prerequisites`
 
 _Archetype, Occult_
 You understand a target's mind so thoroughly that you can simply slip inside it.

@@ -1,26 +1,22 @@
 ---
-publish: true
 aliases:
   - hafnar
 title: Hafnar
-created: 2026-11-12T17:24:21.389Z
-modified: 2026-10-03T19:22:03.154Z
-published: 2026-10-03T19:22:03.154Z
 tags:
   - Settlement
-demographics: ""
-level: ""
-population: ""
-ruler: ""
-type: ""
+demographics: ''
+level: ''
+population: ''
+ruler: ''
+type: ''
 ---
 
 > [!info]+ Details
-> **Type:**
-> **Level:**
-> **Population:**
-> **Demographics:**
-> **Ruler:**
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

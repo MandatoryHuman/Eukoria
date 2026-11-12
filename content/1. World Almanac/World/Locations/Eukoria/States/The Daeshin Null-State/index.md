@@ -2,9 +2,7 @@
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-created: 2026-11-12T17:24:21.281Z
-modified: 2026-10-07T10:53:43.253Z
-published: 2026-10-07T10:53:43.253Z
+symbol: "[[Daeshin_symbol.svg]]"
 tags:
   - State
 capital: "[[Othrys, The Hollow Capital]] (Largely Abandoned)"

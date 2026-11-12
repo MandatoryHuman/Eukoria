@@ -1,12 +1,9 @@
 ---
 publish: true
+aliases:
 title: The Kingdom of Hokiel
-created: 2026-11-12T17:24:21.366Z
-modified: 2026-10-07T09:43:23.601Z
-published: 2026-10-07T09:43:23.601Z
 tags:
   - State
-aliases:
 symbol: "[[Hokiel_Symbol.svg]]"
 marker:
 capital: "[[Valerius]]"
@@ -21,15 +18,15 @@ ruler: King Oric the Resolute
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Kingdom of Hokiel/Valerius.md|Valerius]]
-> **Government:** Feudal Monarchy
-> **Ruler:** King Oric the Resolute
-> **Population:** 1.1 Million
-> **Demographics:** Humans, Dwarves, Elves
-> **Languages:** Common, Celestial
-> **Religions:** [[Bella, Goddess of War]], [[Amnis the Burdened, Goddess of Forgiveness]]
-> **Major Exports:** Grain, Warhorses, Armour, Divine Spell Scrolls
-> **Major Imports:** Arcane texts, Alchemical reagents, Raw iron
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Hokiel_Symbol.svg|300]]
 

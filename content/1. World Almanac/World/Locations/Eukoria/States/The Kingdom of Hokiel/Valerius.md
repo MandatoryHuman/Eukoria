@@ -12,11 +12,11 @@ type: Capital City
 ---
 
 > [!info]+ Details
-> **Type:** Capital City
-> **Level:** Major city
-> **Population:** Unknown; capital of a nation of 1.1 million
-> **Demographics:** Humans, Dwarves, Elves
-> **Ruler:** King Oric the Resolute
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 # Overview
 

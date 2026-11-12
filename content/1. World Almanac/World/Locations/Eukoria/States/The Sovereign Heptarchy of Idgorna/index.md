@@ -3,21 +3,18 @@ aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
-created: 2026-11-12T17:24:21.419Z
-modified: 2026-10-07T09:41:17.591Z
-published: 2026-10-07T09:41:17.591Z
+symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg]]"
 tags:
   - State
-symbol: "[[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg]]"
-capital: "[[The Seven-Fold Canopy]]"
-demographics: Humans, Elves, Leshies, Lizardfolk, Half-Orcs
-government: Feudal Oligarchy
-languages: Common, Elven, Iruxi
-major_exports: Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies
-major_imports: Heavy Armour, Cold-Iron Weapons, Arcane Texts
-population: 1.1 Million
-religions: Ancestral Spirits, Lesser Gods, [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]
-ruler: The [[Witan]]
+capital: '[[The Seven-Fold Canopy]]'
+demographics: 'Humans, Elves, Leshies, Lizardfolk, Half-Orcs'
+government: 'Feudal Oligarchy'
+languages: 'Common, Elven, Iruxi'
+major_exports: 'Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies'
+major_imports: 'Heavy Armour, Cold-Iron Weapons, Arcane Texts'
+population: '1.1 Million'
+religions: 'Ancestral Spirits, Lesser Gods, [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]'
+ruler: 'The [[Witan]]'
 ---
 
 > [!info]+ Details

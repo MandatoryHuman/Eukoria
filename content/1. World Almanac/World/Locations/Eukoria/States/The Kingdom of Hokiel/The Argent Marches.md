@@ -13,12 +13,12 @@ type: Borderland March
 ---
 
 > [!info]+ Details
-> **Type:** Borderland March
-> **Region:** Western Hokiel, bordering Oremourn
-> **Size/Length:** Unknown
-> **Climate:** Temperate, with harsh winters
-> **Danger Level:** Severe
-> **Known For:** Crusader castles and the western border patrols of Hokiel
+> **Type:** `=this.type`
+> **Region:** `=this.region`
+> **Size/Length:** `=this.size_length`
+> **Climate:** `=this.climate`
+> **Danger Level:** `=this.danger_level`
+> **Known For:** `=this.known_for`
 
 # Overview
 

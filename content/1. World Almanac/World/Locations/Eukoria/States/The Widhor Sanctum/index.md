@@ -4,9 +4,7 @@ aliases:
   - The Widhor Sanctum
   - Widhor
 title: The Widhor Sanctum
-created: 2026-11-12T17:24:21.444Z
-modified: 2026-10-07T09:42:48.238Z
-published: 2026-10-07T09:42:48.238Z
+symbol: "[[The_Widhor_Sanctum_symbol.svg]]"
 tags:
   - State
 capital: '[[Heartbloom]]'

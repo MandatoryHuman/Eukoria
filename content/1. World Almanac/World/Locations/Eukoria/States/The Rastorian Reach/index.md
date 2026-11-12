@@ -3,9 +3,7 @@ aliases:
   - The Rastorian Reach
   - Rastor
 title: The Rastorian Reach
-created: 2026-11-12T17:24:21.391Z
-modified: 2026-10-07T10:55:04.257Z
-published: 2026-10-07T10:55:04.257Z
+symbol: "[[The_Rastorian_Reach_symbol.svg]]"
 tags:
   - State
 capital: '[[Hafnar]]'

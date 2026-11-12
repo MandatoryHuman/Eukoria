@@ -1,15 +1,11 @@
 ---
-publish: true
 aliases:
   - Fathom-Court
 title: The Fathom-Court
-created: 2026-11-12T17:24:21.304Z
-modified: 2026-10-07T10:55:04.259Z
-published: 2026-10-07T10:55:04.259Z
+symbol: "[[The_Syndicate_of_the_Fathom-Court_symbol.svg]]"
 tags:
   - State
   - state
-symbol: "[[The_Syndicate_of_the_Fathom-Court_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/The Floating Court|The Floating Court]]"
 demographics: 30% Human, 30% Azarketi, 20% Halfling, 20% Other
 government: Meritocratic Naval Syndicate
@@ -22,15 +18,15 @@ ruler: The First Navigator
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Fathom-Court/The Floating Court.md|The Floating Court]]
-> **Government:** Meritocratic Naval Syndicate
-> **Ruler:** The First Navigator
-> **Population:** Approx. 220,000
-> **Demographics:** 30% Human, 30% Azarketi, 20% Halfling, 20% Other
-> **Languages:** Common, Thalassic, localised Trader's Cant
-> **Religions:** [[Vellora, Goddess of Sea and Storms]], Ocean-domain divinities
-> **Major Exports:** Smuggled goods, maritime mercenaries, deep-sea salvage, black market reagents
-> **Major Imports:** Lumber, sailcloth, fresh water
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[The_Syndicate_of_the_Fathom-Court_symbol.svg|300]]
 

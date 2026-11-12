@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - Opiroth Dependancy
   - opiroth dependancy
 title: Opiroth Dependancy
-created: 2026-11-12T17:24:21.597Z
-modified: 2026-10-07T10:58:14.948Z
-published: 2026-10-07T10:58:14.948Z
 tags:
   - Disease
 ---

@@ -3,25 +3,22 @@ publish: true
 aliases:
   - skorvall
 title: Skorvall
-created: 2026-11-12T17:24:21.225Z
-modified: 2026-10-07T09:41:17.564Z
-published: 2026-10-07T09:41:17.564Z
 tags:
   - "#Settlement"
 marker:
-demographics: Humans, thick-furred beastkin, orcs, warlords, and orthodox clerics
-level: High
-population: ""
-ruler: The warlords of the High Seat
-type: Capital City
+demographics: 'Humans, thick-furred beastkin, orcs, warlords, and orthodox clerics'
+level: 'High'
+population: ''
+ruler: 'The warlords of the High Seat'
+type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** Capital City
-> **Level:** High
-> **Population:**
-> **Demographics:** Humans, thick-furred beastkin, orcs, warlords, and orthodox clerics
-> **Ruler:** The warlords of the High Seat
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 ![[Assets/Locations/Coat of Arms/Skorvall Emblem.webp|200]]
 ![[Assets/Locations/Maps/Skorvall Map.webp|400]]

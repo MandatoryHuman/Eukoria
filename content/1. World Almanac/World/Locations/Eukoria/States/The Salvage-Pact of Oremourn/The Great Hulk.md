@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** Capital City
-> **Level:** High
-> **Population:**
-> **Demographics:** Scrap-Barons, salvagers, inventors, goblins, orcs, automatons, and Fleshwarps
-> **Ruler:** The Council of Iron
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 ![[Assets/Locations/Coat of Arms/The Great Hulk Emblem.webp|200]]
 ![[Assets/Locations/Maps/The Great Hulk Map.webp|400]]

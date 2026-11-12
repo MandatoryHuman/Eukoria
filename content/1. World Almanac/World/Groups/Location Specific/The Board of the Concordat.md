@@ -1,26 +1,22 @@
 ---
-publish: true
 aliases:
   - Board of the Concordat
 title: The Board of the Concordat
-created: 2026-11-12T17:24:21.195Z
-modified: 2026-09-26T17:18:39.575Z
-published: 2026-09-26T17:18:39.575Z
-allies: ""
-enemies: ""
-headquarters: ""
-leader: ""
-region_influence: ""
-type: ""
+allies: ''
+enemies: ''
+headquarters: ''
+leader: ''
+region_influence: ''
+type: ''
 ---
 
 > [!info]+ Details
-> **Type:**
-> **Leader:**
-> **Headquarters:**
-> **Region/Influence:**
-> **Allies:**
-> **Enemies:**
+> **Type:** `=this.type`
+> **Leader:** `=this.leader`
+> **Headquarters:** `=this.headquarters`
+> **Region/Influence:** `=this.region_influence`
+> **Allies:** `=this.allies`
+> **Enemies:** `=this.enemies`
 
 (FACTION EMBLEM / BANNER IMAGE)
 

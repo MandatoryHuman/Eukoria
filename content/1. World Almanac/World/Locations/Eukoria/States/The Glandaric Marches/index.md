@@ -3,12 +3,9 @@ aliases:
   - The Glandaric Marches
   - Glandaria
 title: The Glandaric Marches
-created: 2026-11-12T17:24:21.346Z
-modified: 2026-10-07T09:41:57.731Z
-published: 2026-10-07T09:41:57.731Z
+symbol: "[[Gladaria_symbol.svg]]"
 tags:
   - State
-symbol: "[[Gladaria_symbol.svg]]"
 capital: "[[Fort Glandar]]"
 demographics: Humans, Orcs, Dwarves, Fleshwarps
 government: Decentralised Military Coalition

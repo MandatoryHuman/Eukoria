@@ -1,26 +1,22 @@
 ---
-publish: true
 aliases:
   - Wave-Breakers
 title: The Wave-Breakers
-created: 2026-11-12T17:24:21.427Z
-modified: 2026-10-03T19:23:54.036Z
-published: 2026-10-03T19:23:54.036Z
-allies: ""
-enemies: ""
-headquarters: ""
-leader: ""
-region_influence: ""
-type: ""
+allies: ''
+enemies: ''
+headquarters: ''
+leader: ''
+region_influence: ''
+type: ''
 ---
 
 > [!info]+ Details
-> **Type:**
-> **Leader:**
-> **Headquarters:**
-> **Region/Influence:**
-> **Allies:**
-> **Enemies:**
+> **Type:** `=this.type`
+> **Leader:** `=this.leader`
+> **Headquarters:** `=this.headquarters`
+> **Region/Influence:** `=this.region_influence`
+> **Allies:** `=this.allies`
+> **Enemies:** `=this.enemies`
 
 (FACTION EMBLEM / BANNER IMAGE)
 

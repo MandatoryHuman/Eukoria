@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** Capital City
-> **Level:** High
-> **Population:**
-> **Demographics:** Clerks, sanctioned mages, abjurers, and military families
-> **Ruler:** Grand Hierophant Odanis
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 ![[Assets/Locations/Coat of Arms/Aegis-Gath Emblem.webp|200]]
 ![[Assets/Locations/Maps/Aegis-Gath Map.webp|400]]

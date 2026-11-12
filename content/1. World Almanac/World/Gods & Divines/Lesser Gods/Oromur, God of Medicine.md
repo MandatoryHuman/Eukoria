@@ -1,12 +1,8 @@
 ---
-publish: true
 aliases:
   - Oromur
   - oromur, god of medicine
 title: Oromur, God of Medicine
-created: 2026-11-12T17:24:21.168Z
-modified: 2026-10-07T11:12:50.237Z
-published: 2026-10-07T11:12:50.237Z
 tags:
   - Gods
 alternate_domains: Nature
@@ -35,15 +31,15 @@ sacred_colours: White and Herbal Green
 ---
 
 > [!info]+ Details
-> **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
-> **Aspects:** Centre in Mind
-> **Edicts:** Heal the sick regardless of their allegiances, provide comfort to the dying, share medical knowledge freely, cultivate healing plants
-> **Anathema:** Refuse healing to one in dire need based on prejudice, cause unnecessary physical pain, hoard medical supplies during a crisis, experiment cruelly on the living
-> **Areas of Concern:** Healing, Herbalism, Compassion, Respite
-> **Religious Symbol:** A needle and silver thread
-> **Sacred Animal:** Dove
-> **Sacred Colours:** White and Herbal Green
-> **Pantheons/Covenants:**
+> **Category:** `=this.category`
+> **Aspects:** `=this.aspects`
+> **Edicts:** `=this.edicts`
+> **Anathema:** `=this.anathema`
+> **Areas of Concern:** `=this.areas_of_concern`
+> **Religious Symbol:** `=this.religious_symbol`
+> **Sacred Animal:** `=this.sacred_animal`
+> **Sacred Colours:** `=this.sacred_colours`
+> **Pantheons/Covenants:** `=this.pantheons_covenants`
 
 Oromur, is the benevolent guardian of the sick, the injured, and the dying. Typically met in the form of a well dressed and groomed man drenched in perfumed oils, Oromur provides comfort where there is suffering. They do not view death as an enemy, but rather see unnecessary suffering as the true evil of the world.
 
@@ -56,21 +52,21 @@ Hospices, asylums, and rural apothecary shops across [[1. World Almanac/World/Lo
 ## Devotee Benefits
 
 > [!info]+ Details
-> **Divine Attribute:** Wisdom or Intelligence
-> **Divine Font:** heal
-> **Divine Sanctification:** can choose holy
-> **Divine Skill:** Medicine
-> **Favoured Weapon:** Sickle
-> **Domains:** Healing, Repose, Knowledge, Protection
-> **Alternate Domains:** Nature
-> **Cleric Spells:** 1st: [Soothe](https://2e.aonprd.com/Spells.aspx?ID=1678), 2nd: [Extract Poison](https://2e.aonprd.com/Spells.aspx?ID=907), 5th: [Blister](https://2e.aonprd.com/Spells.aspx?ID=1969)
+> **Divine Attribute:** `=this.divine_attribute`
+> **Divine Font:** `=this.divine_font`
+> **Divine Sanctification:** `=this.divine_sanctification`
+> **Divine Skill:** `=this.divine_skill`
+> **Favoured Weapon:** `=this.favoured_weapon`
+> **Domains:** `=this.domains`
+> **Alternate Domains:** `=this.alternate_domains`
+> **Cleric Spells:** `=this.cleric_spells`
 
 ## [Divine Intercession](https://2e.aonprd.com/Rules.aspx?ID=804)
 
 > [!info]+ Details
-> **Minor Boon:** When you roll a critical failure on a Medicine check, you get a failure instead.
-> **Moderate Boon:** Your touch mends flesh effortlessly. You gain a +1 status bonus to Medicine checks, and whenever you Treat Wounds, you heal an additional 1d8 Hit Points.
-> **Major Boon:** You can cast breath of life as a 6th-rank innate divine spell once per day.
-> **Minor Curse:** Even minor scrapes take weeks to heal. You take a -1 status penalty to Medicine checks. Additionally, your wounds bleed easily increasing the DC of flat checks to end persistent bleed damage by by 5 (to a maximum of 20).
-> **Moderate Curse:** Your body resists magical mending. Any healing magic applied to you only restores half the normal amount of Hit Points.
-> **Major Curse:** Your attempts to heal cause ruin. Whenever you attempt to use the Medicine skill to treat an ally, you automatically critically fail.
+> **Minor Boon:** `=this.minor_boon`
+> **Moderate Boon:** `=this.moderate_boon`
+> **Major Boon:** `=this.major_boon`
+> **Minor Curse:** `=this.minor_curse`
+> **Moderate Curse:** `=this.moderate_curse`
+> **Major Curse:** `=this.major_curse`

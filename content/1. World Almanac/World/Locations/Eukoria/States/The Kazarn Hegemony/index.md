@@ -2,12 +2,9 @@
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
-created: 2026-11-12T17:24:21.360Z
-modified: 2026-10-07T09:41:17.582Z
-published: 2026-10-07T09:41:17.582Z
+symbol: "[[Kazarn_symbol.svg]]"
 tags:
   - State
-symbol: "[[Kazarn_symbol.svg]]"
 capital: "[[Bastion]]"
 demographics: Dwarves, Humans, Orcs
 government: Stratocracy

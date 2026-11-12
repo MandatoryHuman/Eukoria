@@ -3,12 +3,9 @@ aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
-created: 2026-11-12T17:24:21.382Z
-modified: 2026-10-07T11:10:31.103Z
-published: 2026-10-07T11:10:31.103Z
+symbol: "[[Gethis_Symbol.svg]]"
 tags:
   - State
-symbol: "[[Gethis_Symbol.svg]]"
 capital: "[[Prismathia]]"
 demographics: Humans, Fetchlings, Nephilim
 government: Aristocratic Oligarchy

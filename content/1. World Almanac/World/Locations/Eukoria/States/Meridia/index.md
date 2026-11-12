@@ -3,9 +3,7 @@ publish: true
 aliases:
   - Meridia
 title: Meridia
-created: 2026-11-12T17:24:21.247Z
-modified: 2026-10-07T10:53:43.251Z
-published: 2026-10-07T10:53:43.251Z
+symbol: "[[Meridia_symbol.svg]]"
 tags:
   - State
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]"

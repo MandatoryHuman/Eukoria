@@ -1,32 +1,28 @@
 ---
-publish: true
 aliases:
   - bastion
 title: Bastion
-created: 2026-11-12T17:24:21.358Z
-modified: 2026-10-03T19:22:03.145Z
-published: 2026-10-03T19:22:03.145Z
-capital: ""
-demographics: ""
-government: ""
-languages: ""
-major_exports: ""
-major_imports: ""
-population: ""
-religions: ""
-ruler: ""
+capital: ''
+demographics: ''
+government: ''
+languages: ''
+major_exports: ''
+major_imports: ''
+population: ''
+religions: ''
+ruler: ''
 ---
 
 > [!info]+ Details
-> **Capital:**
-> **Government:**
-> **Ruler:**
-> **Population:**
-> **Demographics:**
-> **Languages:**
-> **Religions:**
-> **Major Exports:**
-> **Major Imports:**
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 (FLAG / EMBLEM IMAGE) (MAP IMAGE)
 
