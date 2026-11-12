@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Glass Monasteries
 title: The Glass Monasteries
-created: 2026-09-26T16:52:54.007Z
+created: 2026-11-12T17:24:21.296Z
 modified: 2026-10-03T19:22:03.119Z
 published: 2026-10-03T19:22:03.119Z
 ---

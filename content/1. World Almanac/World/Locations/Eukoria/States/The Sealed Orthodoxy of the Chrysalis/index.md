@@ -4,18 +4,21 @@ aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
-symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_symbol.svg]]"
+created: 2026-11-12T17:24:21.415Z
+modified: 2026-10-07T09:41:17.590Z
+published: 2026-10-07T09:41:17.590Z
 tags:
   - State
-capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/Aegis-Gath|Aegis-Gath]]'
-demographics: '60% Human, 20% Dwarf, 10% Elf, 10% Other'
-government: 'Theocratic Bureaucracy'
-languages: 'Common, Celestial, Dwarven'
-major_exports: 'Sanctioned magical texts, worked steel, enchanted warding'
-major_imports: 'Raw magically-inert materials, grain, historical artifacts'
-population: 'Approx. 2.2 Million'
-religions: 'Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]'
-ruler: 'Grand Hierophant Odanis'
+symbol: "[[The_Sealed_Orthodoxy_of_the_Chrysalis_symbol.svg]]"
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/Aegis-Gath|Aegis-Gath]]"
+demographics: 60% Human, 20% Dwarf, 10% Elf, 10% Other
+government: Theocratic Bureaucracy
+languages: Common, Celestial, Dwarven
+major_exports: Sanctioned magical texts, worked steel, enchanted warding
+major_imports: Raw magically-inert materials, grain, historical artifacts
+population: Approx. 2.2 Million
+religions: Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+ruler: Grand Hierophant Odanis
 ---
 
 > [!info]+ Details

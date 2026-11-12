@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cliff Archives
 title: The Cliff Archives
-created: 2026-09-26T16:52:54.081Z
+created: 2026-11-12T17:24:21.407Z
 modified: 2026-10-07T09:42:48.245Z
 published: 2026-10-07T09:42:48.245Z
 tags:

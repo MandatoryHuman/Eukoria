@@ -10,11 +10,11 @@ tags:
   - "#Wars"
   - "#Events"
   - Global
-factions_involved: 'Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods'
-key_figures: '[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]'
-location: 'The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]'
-type: 'Divine War'
-date: '10 BW–0 AW'
+factions_involved: Canonical deities; rebel Lesser Gods; mortal factions aligned to rival gods
+key_figures: "[[Lysia Bind-breaker, Goddess of Passion]]; [[Aethelgard, God of Relics]]; [[Lethos, God of Trickery]]; [[1. World Almanac/World/Gods & Divines/The Twins/index|The Twins]]; [[Aporia, God of Fate]]"
+location: The Heavens; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+type: Divine War
+date: 10 BW–0 AW
 ---
 
 > [!info]+ Details

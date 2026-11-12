@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ranani
 title: Empress Ranani the Unbroken
-created: 2026-09-26T16:52:54.147Z
+created: 2026-11-12T17:24:21.474Z
 modified: 2026-10-07T09:42:48.253Z
 published: 2026-10-07T09:42:48.253Z
 tags:

@@ -3,22 +3,22 @@ publish: true
 aliases:
   - Thorne
 title: Captain-Admiral Thorne
-created: 2026-09-26T16:52:54.162Z
+created: 2026-11-12T17:24:21.493Z
 modified: 2026-10-07T09:43:55.027Z
 published: 2026-10-07T09:43:55.027Z
 tags:
   - NPCs
 rival: "[[Jeniva The Canvas]]"
 enemy: "[[High Arbiter Garadwen]]"
-ancestry: 'Human (Undead Lich)'
-background: 'Exiled Scholar'
-class_profession: 'Wizard/Runemage'
-faction: '[[Captains'' Council]]/The [[Phylactery Fleet]]'
-level: '16'
+ancestry: Human (Undead Lich)
+background: Exiled Scholar
+class_profession: Wizard/Runemage
+faction: "[[Captains' Council]]/The [[Phylactery Fleet]]"
+level: "16"
 location: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/index|Heretic's Wake]]"
-pronouns: 'He/Him'
-role: 'Pirate Lord'
-status: 'Undead'
+pronouns: He/Him
+role: Pirate Lord
+status: Undead
 ---
 
 > [!info]+ Details

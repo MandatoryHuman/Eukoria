@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Truthseeker Dedication
 title: Truthseeker Dedication
-created: 2026-09-26T16:52:54.232Z
+created: 2026-11-12T17:24:21.567Z
 modified: 2026-09-26T17:18:39.746Z
 published: 2026-09-26T17:18:39.746Z
 tags:

@@ -4,9 +4,9 @@ aliases:
   - Oromur
   - oromur, god of medicine
 title: Oromur, God of Medicine
-created: 2026-09-26T16:52:53.908Z
-modified: 2026-09-26T17:18:39.559Z
-published: 2026-09-26T17:18:39.559Z
+created: 2026-11-12T17:24:21.168Z
+modified: 2026-10-07T11:12:50.237Z
+published: 2026-10-07T11:12:50.237Z
 tags:
   - Gods
 alternate_domains: Nature
@@ -36,7 +36,7 @@ sacred_colours: White and Herbal Green
 
 > [!info]+ Details
 > **Category:** [[1. World Almanac/World/Gods & Divines/Lesser Gods/index|Lesser Gods]]
-> **Aspects:** Healing and Respite
+> **Aspects:** Centre in Mind
 > **Edicts:** Heal the sick regardless of their allegiances, provide comfort to the dying, share medical knowledge freely, cultivate healing plants
 > **Anathema:** Refuse healing to one in dire need based on prejudice, cause unnecessary physical pain, hoard medical supplies during a crisis, experiment cruelly on the living
 > **Areas of Concern:** Healing, Herbalism, Compassion, Respite

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Undying Sovereign
 title: The Undying Sovereign
-created: 2026-09-26T16:52:54.157Z
+created: 2026-11-12T17:24:21.487Z
 modified: 2026-09-26T17:18:39.716Z
 published: 2026-09-26T17:18:39.716Z
 tags:

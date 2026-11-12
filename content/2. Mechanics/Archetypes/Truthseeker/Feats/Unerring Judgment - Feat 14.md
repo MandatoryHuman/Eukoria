@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Unerring Judgment
 title: Unerring Judgment
-created: 2026-09-26T16:52:54.234Z
+created: 2026-11-12T17:24:21.569Z
 modified: 2026-09-26T17:18:39.747Z
 published: 2026-09-26T17:18:39.747Z
 tags:

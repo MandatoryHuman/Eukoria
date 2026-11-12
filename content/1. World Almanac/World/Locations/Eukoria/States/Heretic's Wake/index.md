@@ -3,9 +3,12 @@ publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-symbol: "[[Heretics_Wake_symbol.svg]]"
+created: 2026-11-12T17:24:21.230Z
+modified: 2026-10-07T09:42:11.053Z
+published: 2026-10-07T09:42:11.053Z
 tags:
   - State
+symbol: "[[Heretics_Wake_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|The Flotilla of the Unbound]]"
 demographics: Exiles, Runesmiths, Passion Mages, Outcasts
 government: Pirate Coalition

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - god-scar strait
 title: God-Scar Strait
-created: 2026-09-26T16:52:53.970Z
+created: 2026-11-12T17:24:21.245Z
 modified: 2026-10-07T09:42:40.702Z
 published: 2026-10-07T09:42:40.702Z
 tags:

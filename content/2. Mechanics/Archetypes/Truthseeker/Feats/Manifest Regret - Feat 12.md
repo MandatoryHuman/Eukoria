@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Manifest Regret
 title: Manifest Regret
-created: 2026-09-26T16:52:54.213Z
+created: 2026-11-12T17:24:21.546Z
 modified: 2026-09-26T17:18:39.734Z
 published: 2026-09-26T17:18:39.734Z
 tags:

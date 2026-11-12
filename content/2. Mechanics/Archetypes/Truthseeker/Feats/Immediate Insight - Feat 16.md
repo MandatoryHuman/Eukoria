@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Immediate Insight
 title: Immediate Insight
-created: 2026-09-26T16:52:54.207Z
+created: 2026-11-12T17:24:21.539Z
 modified: 2026-09-26T17:18:39.732Z
 published: 2026-09-26T17:18:39.732Z
 tags:
