@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Truths of Failure
 title: Truths of Failure
-created: 2026-11-12T17:24:21.565Z
+created: 2026-11-12T17:37:18.692Z
 modified: 2026-09-26T17:18:39.744Z
 published: 2026-09-26T17:18:39.744Z
 tags:

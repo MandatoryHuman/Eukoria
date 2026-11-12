@@ -3,7 +3,7 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-created: 2026-11-12T17:24:21.831Z
+created: 2026-11-12T17:37:18.920Z
 modified: 2026-10-03T19:20:45.048Z
 published: 2026-10-03T19:20:45.048Z
 tags:

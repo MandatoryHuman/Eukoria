@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Anchors
 title: Anchors
-created: 2026-11-12T17:24:21.586Z
+created: 2026-11-12T17:37:18.713Z
 modified: 2026-09-21T23:19:18.799Z
 published: 2026-09-21T23:19:18.799Z
 ---

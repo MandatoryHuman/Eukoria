@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Caldera Forum
 title: The Caldera Forum
-created: 2026-11-12T17:24:21.314Z
+created: 2026-11-12T17:37:18.402Z
 modified: 2026-10-03T19:22:03.122Z
 published: 2026-10-03T19:22:03.122Z
 tags:

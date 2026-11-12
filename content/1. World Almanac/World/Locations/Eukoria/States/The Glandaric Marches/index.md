@@ -1,9 +1,10 @@
 ---
+publish: true
 aliases:
   - The Glandaric Marches
   - Glandaria
 title: The Glandaric Marches
-created: 2026-11-12T17:24:21.346Z
+created: 2026-11-12T17:37:18.431Z
 modified: 2026-10-07T09:41:57.731Z
 published: 2026-10-07T09:41:57.731Z
 tags:
@@ -21,15 +22,15 @@ ruler: The Marchwarden Council
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Glandaric Marches/Fort Glandar.md|Fort Glandar]]
+> **Government:** Decentralised Military Coalition
+> **Ruler:** The Marchwarden Council
+> **Population:** "750,000"
+> **Demographics:** Humans, Orcs, Dwarves, Fleshwarps
+> **Languages:** Common
+> **Religions:** [[Bella, Goddess of War]], [[Lysia Bind-breaker, Goddess of Passion]]
+> **Major Exports:** Monster trophies, "Anchor" items, hardened mercenaries
+> **Major Imports:** Weapons, food supplies, psychiatric/medical aid
 
 ![[Gladaria_symbol.svg|300]]
 

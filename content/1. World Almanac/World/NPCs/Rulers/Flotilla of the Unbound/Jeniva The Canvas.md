@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Jeniva
 title: Jeniva The Canvas
-created: 2026-11-12T17:24:21.495Z
+created: 2026-11-12T17:37:18.583Z
 modified: 2026-09-26T17:18:39.721Z
 published: 2026-09-26T17:18:39.721Z
 tags:

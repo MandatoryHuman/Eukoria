@@ -3,7 +3,7 @@ publish: true
 aliases:
   - concordat
 title: Concordat
-created: 2026-11-12T17:24:21.799Z
+created: 2026-11-12T17:37:18.889Z
 modified: 2026-09-21T23:19:18.853Z
 published: 2026-09-21T23:19:18.853Z
 ---

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Weeping Hollow
 title: The Weeping Hollow
-created: 2026-11-12T17:24:21.336Z
+created: 2026-11-12T17:37:18.423Z
 modified: 2026-10-07T09:43:23.597Z
 published: 2026-10-07T09:43:23.597Z
 ---

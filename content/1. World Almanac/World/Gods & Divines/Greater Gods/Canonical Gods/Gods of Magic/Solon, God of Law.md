@@ -4,7 +4,7 @@ aliases:
   - Solon
   - solon, god of law
 title: Solon, God of Law
-created: 2026-11-12T17:24:21.141Z
+created: 2026-11-12T17:37:18.242Z
 modified: 2026-09-26T17:18:39.538Z
 published: 2026-09-26T17:18:39.538Z
 tags:

@@ -1,25 +1,26 @@
 ---
+publish: true
 aliases:
   - heartbloom
 title: Heartbloom
-created: 2026-11-12T17:24:21.442Z
+created: 2026-11-12T17:37:18.525Z
 modified: 2026-10-23T13:21:38.947Z
 published: 2026-10-23T13:21:38.947Z
 tags:
   - Settlement
-demographics: ''
-level: ''
-population: ''
-ruler: ''
-type: ''
+demographics: ""
+level: ""
+population: ""
+ruler: ""
+type: ""
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:**
+> **Level:**
+> **Population:**
+> **Demographics:**
+> **Ruler:**
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

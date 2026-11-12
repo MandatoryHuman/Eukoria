@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Deep Roots
 title: The Deep Roots
-created: 2026-11-12T17:24:21.331Z
+created: 2026-11-12T17:37:18.418Z
 modified: 2026-10-03T19:22:03.129Z
 published: 2026-10-03T19:22:03.129Z
 ---

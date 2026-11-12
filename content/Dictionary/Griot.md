@@ -4,7 +4,7 @@ aliases:
   - griot
   - griots
 title: Griot
-created: 2026-11-12T17:24:21.802Z
+created: 2026-11-12T17:37:18.892Z
 modified: 2026-09-21T23:19:18.853Z
 published: 2026-09-21T23:19:18.853Z
 ---

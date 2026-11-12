@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Eukoria
-created: 2026-11-12T17:24:16.914Z
+created: 2026-11-12T17:37:17.938Z
 modified: 2026-10-07T09:41:41.489Z
 published: 2026-10-07T09:41:41.489Z
 ---

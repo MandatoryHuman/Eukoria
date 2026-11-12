@@ -3,7 +3,7 @@ publish: true
 aliases:
   - rust-wastes
 title: Rust-Wastes
-created: 2026-11-12T17:24:21.362Z
+created: 2026-11-12T17:37:18.447Z
 modified: 2026-10-07T10:53:34.331Z
 published: 2026-10-07T10:53:34.331Z
 tags:

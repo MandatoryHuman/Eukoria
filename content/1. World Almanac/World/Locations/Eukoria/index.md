@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Eukoria
 title: Eukoria
-created: 2026-11-12T17:24:21.205Z
+created: 2026-11-12T17:37:18.300Z
 modified: 2026-10-07T11:10:31.109Z
 published: 2026-10-07T11:10:31.109Z
 ---

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - alkahest
 title: Alkahest
-created: 2026-11-12T17:24:21.375Z
+created: 2026-11-12T17:37:18.461Z
 modified: 2026-10-07T10:54:55.940Z
 published: 2026-10-07T10:54:55.940Z
 tags:

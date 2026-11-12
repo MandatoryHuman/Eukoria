@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Weight of Transgression
 title: Weight of Transgression
-created: 2026-11-12T17:24:21.574Z
+created: 2026-11-12T17:37:18.700Z
 modified: 2026-09-26T17:18:39.750Z
 published: 2026-09-26T17:18:39.750Z
 tags:

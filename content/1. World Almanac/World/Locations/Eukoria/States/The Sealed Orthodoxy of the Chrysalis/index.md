@@ -1,9 +1,10 @@
 ---
+publish: true
 aliases:
   - the sealed orthodoxy of the chrysalis
   - The Chrysalis
 title: The Sealed Orthodoxy of the Chrysalis
-created: 2026-11-12T17:24:21.415Z
+created: 2026-11-12T17:37:18.496Z
 modified: 2026-10-07T09:41:17.590Z
 published: 2026-10-07T09:41:17.590Z
 tags:
@@ -21,15 +22,15 @@ ruler: Grand Hierophant Odanis
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Sealed Orthodoxy of the Chrysalis/Aegis-Gath.md|Aegis-Gath]]
+> **Government:** Theocratic Bureaucracy
+> **Ruler:** Grand Hierophant Odanis
+> **Population:** Approx. 2.2 Million
+> **Demographics:** 60% Human, 20% Dwarf, 10% Elf, 10% Other
+> **Languages:** Common, Celestial, Dwarven
+> **Religions:** Strict Adherence to the [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]]
+> **Major Exports:** Sanctioned magical texts, worked steel, enchanted warding
+> **Major Imports:** Raw magically-inert materials, grain, historical artifacts
 
 ![[The_Sealed_Orthodoxy_of_the_Chrysalis_symbol.svg|300]]
 

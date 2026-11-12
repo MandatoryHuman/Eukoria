@@ -3,7 +3,7 @@ publish: true
 aliases:
   - chosen of nature
 title: Chosen of Nature
-created: 2026-11-12T17:24:21.463Z
+created: 2026-11-12T17:37:18.549Z
 modified: 2026-09-21T23:19:18.853Z
 published: 2026-09-21T23:19:18.853Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Chosen Ones
 title: Chosen Ones
-created: 2026-11-12T17:24:21.469Z
+created: 2026-11-12T17:37:18.555Z
 modified: 2026-09-21T23:19:18.903Z
 published: 2026-09-21T23:19:18.903Z
 ---

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Arbiter's Spire
 title: The Arbiter's Spire
-created: 2026-11-12T17:24:21.259Z
+created: 2026-11-12T17:37:18.352Z
 modified: 2026-10-03T19:22:03.104Z
 published: 2026-10-03T19:22:03.104Z
 ---

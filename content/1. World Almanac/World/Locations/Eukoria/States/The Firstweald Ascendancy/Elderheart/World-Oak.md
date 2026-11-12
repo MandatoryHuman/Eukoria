@@ -3,7 +3,7 @@ publish: true
 aliases:
   - world-oak
 title: World-Oak
-created: 2026-11-12T17:24:21.338Z
+created: 2026-11-12T17:37:18.424Z
 modified: 2026-10-03T19:22:03.140Z
 published: 2026-10-03T19:22:03.140Z
 ---

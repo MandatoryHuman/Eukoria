@@ -4,7 +4,7 @@ aliases:
   - Oromur
   - oromur, god of medicine
 title: Oromur, God of Medicine
-created: 2026-11-12T17:24:21.168Z
+created: 2026-11-12T17:37:18.267Z
 modified: 2026-10-07T11:12:50.237Z
 published: 2026-10-07T11:12:50.237Z
 tags:

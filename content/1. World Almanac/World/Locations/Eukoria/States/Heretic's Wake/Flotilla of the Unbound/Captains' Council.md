@@ -3,7 +3,7 @@ publish: true
 aliases:
   - captains' council
 title: Captains' Council
-created: 2026-11-12T17:24:21.235Z
+created: 2026-11-12T17:37:18.328Z
 modified: 2026-10-03T19:22:03.097Z
 published: 2026-10-03T19:22:03.097Z
 ---

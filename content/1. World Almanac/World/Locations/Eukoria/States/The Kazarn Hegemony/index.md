@@ -1,8 +1,9 @@
 ---
+publish: true
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
-created: 2026-11-12T17:24:21.360Z
+created: 2026-11-12T17:37:18.446Z
 modified: 2026-10-07T09:41:17.582Z
 published: 2026-10-07T09:41:17.582Z
 tags:
@@ -20,15 +21,15 @@ ruler: "[[High Marshal Kaelen]]"
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Kazarn Hegemony/Bastion.md|Bastion]]
+> **Government:** Stratocracy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/High Marshal Kaelen.md|High Marshal Kaelen]]
+> **Population:** 1.2 Million
+> **Demographics:** Dwarves, Humans, Orcs
+> **Languages:** Common, Dwarven
+> **Religions:** [[Bella, Goddess of War]], [[Xerith, God of Erosion]]
+> **Major Exports:** Mercenaries, Refined Metals, Weaponry
+> **Major Imports:** Food, Wood, Textiles
 
 ![[Kazarn_symbol.svg|300]]
 
