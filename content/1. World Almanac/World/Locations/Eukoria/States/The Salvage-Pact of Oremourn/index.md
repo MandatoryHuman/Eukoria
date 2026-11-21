@@ -4,18 +4,21 @@ aliases:
   - Oremourn
   - The Scrap-Baronies
 title: The Salvage-Pact of Oremourn
-symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
+created: 2026-11-12T18:08:42.235Z
+modified: 2026-10-07T10:55:59.388Z
+published: 2026-10-07T10:55:59.388Z
 tags:
   - State
-capital: '[[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/The Great Hulk|The Great Hulk]]'
-demographics: '40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp'
-government: 'Decentralized Warlord Coalition'
-languages: 'Common, Goblin, Orcish'
-major_exports: 'Volatile steampunk technology, salvaged celestial metals, raw black-powder'
-major_imports: 'Clean water, uncontaminated food, medical supplies'
-population: 'Approx. 600,000'
-religions: 'Cults of [[Aethelgard, God of Relics]], various localised machine-spirits'
-ruler: 'The Council of Iron'
+symbol: "[[The_Salvage-Pact_of_Oremourn_symbol.svg]]"
+capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Salvage-Pact of Oremourn/The Great Hulk|The Great Hulk]]"
+demographics: 40% Goblin, 30% Human, 15% Orc, 15% Automaton/Fleshwarp
+government: Decentralized Warlord Coalition
+languages: Common, Goblin, Orcish
+major_exports: Volatile steampunk technology, salvaged celestial metals, raw black-powder
+major_imports: Clean water, uncontaminated food, medical supplies
+population: Approx. 600,000
+religions: Cults of [[Aethelgard, God of Relics]], various localised machine-spirits
+ruler: The Council of Iron
 ---
 
 > [!info]+ Details
@@ -28,8 +31,6 @@ ruler: 'The Council of Iron'
 > **Religions:** `=this.religions`
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
-
-![[The_Salvage-Pact_of_Oremourn_symbol.svg|300]]
 
 # Overview
 

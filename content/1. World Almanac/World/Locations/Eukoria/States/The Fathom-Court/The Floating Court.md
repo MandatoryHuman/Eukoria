@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Level:** `=this.level`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Ruler:** `=this.ruler`
+> **Type:** Capital City
+> **Level:** High
+> **Population:**
+> **Demographics:** Sailors, navigators, smugglers, aquatic ancestries, and merchants
+> **Ruler:** The First Navigator and the Commodore Council
 
 ![[Assets/Locations/Coat of Arms/The Floating Court Emblem.webp|200]]
 ![[Assets/Locations/Maps/The Floating Court Map.webp|400]]

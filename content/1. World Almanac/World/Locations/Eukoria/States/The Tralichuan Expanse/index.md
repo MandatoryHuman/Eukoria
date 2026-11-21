@@ -2,7 +2,9 @@
 aliases:
   - The Tralichuan Expanse
 title: The Tralichuan Expanse
-symbol: "[[The_Tralichuan_Expanse_symbol.svg]]"
+created: 2026-11-12T18:08:42.260Z
+modified: 2026-10-07T09:41:17.599Z
+published: 2026-10-07T09:41:17.599Z
 tags:
   - State
 capital: 'Tralicor'
