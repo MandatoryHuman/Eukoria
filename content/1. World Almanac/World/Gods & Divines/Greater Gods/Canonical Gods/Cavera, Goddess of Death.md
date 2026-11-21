@@ -4,7 +4,7 @@ aliases:
   - Cavera
   - cavera, goddess of death
 title: Cavera, Goddess of Death
-created: 2026-11-21T13:15:05.399Z
+created: 2026-11-21T13:28:41.631Z
 modified: 2026-09-26T17:18:39.500Z
 published: 2026-09-26T17:18:39.500Z
 tags:

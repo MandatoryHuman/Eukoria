@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
-created: 2026-11-21T13:15:05.589Z
+created: 2026-11-21T13:28:41.815Z
 modified: 2026-10-07T10:54:55.934Z
 published: 2026-10-07T10:54:55.934Z
 tags:

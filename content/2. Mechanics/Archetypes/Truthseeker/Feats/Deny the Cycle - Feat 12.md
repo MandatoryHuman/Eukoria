@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Deny the Cycle
 title: Deny the Cycle
-created: 2026-11-21T13:15:05.791Z
+created: 2026-11-21T13:28:42.014Z
 modified: 2026-09-26T17:18:39.728Z
 published: 2026-09-26T17:18:39.728Z
 tags:

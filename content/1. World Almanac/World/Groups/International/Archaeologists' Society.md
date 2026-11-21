@@ -3,7 +3,7 @@ publish: true
 aliases:
   - archaeologists' society
 title: Archaeologists' Society
-created: 2026-11-21T13:15:05.462Z
+created: 2026-11-21T13:28:41.693Z
 modified: 2026-09-26T17:18:39.568Z
 published: 2026-09-26T17:18:39.568Z
 allies: ""

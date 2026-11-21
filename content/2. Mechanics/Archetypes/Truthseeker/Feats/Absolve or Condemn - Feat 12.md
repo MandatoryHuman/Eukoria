@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Absolve or Condemn
 title: Absolve or Condemn
-created: 2026-11-21T13:15:05.783Z
+created: 2026-11-21T13:28:42.006Z
 modified: 2026-09-26T17:18:39.723Z
 published: 2026-09-26T17:18:39.723Z
 tags:

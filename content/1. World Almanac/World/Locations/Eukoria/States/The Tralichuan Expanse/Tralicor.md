@@ -3,7 +3,7 @@ publish: true
 aliases:
   - tralicor
 title: Tralicor
-created: 2026-11-21T13:15:05.693Z
+created: 2026-11-21T13:28:41.919Z
 modified: 2026-10-03T19:22:03.167Z
 published: 2026-10-03T19:22:03.167Z
 tags:

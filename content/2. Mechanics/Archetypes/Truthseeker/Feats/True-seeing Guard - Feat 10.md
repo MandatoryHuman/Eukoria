@@ -3,7 +3,7 @@ publish: true
 aliases:
   - True-seeing Guard
 title: True-seeing Guard
-created: 2026-11-21T13:15:05.823Z
+created: 2026-11-21T13:28:42.045Z
 modified: 2026-09-26T17:18:39.743Z
 published: 2026-09-26T17:18:39.743Z
 tags:

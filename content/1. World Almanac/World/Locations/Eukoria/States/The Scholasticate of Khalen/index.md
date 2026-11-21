@@ -4,7 +4,7 @@ aliases:
   - The Scholasticate of Khalen
   - Khalen
 title: The Scholasticate of Khalen
-created: 2026-11-21T13:15:05.669Z
+created: 2026-11-21T13:28:41.896Z
 modified: 2026-10-07T09:43:23.605Z
 published: 2026-10-07T09:43:23.605Z
 tags:

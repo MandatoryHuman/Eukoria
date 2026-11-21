@@ -3,7 +3,7 @@ publish: true
 aliases:
   - vondal iron-speaker
 title: Vondal Iron-Speaker
-created: 2026-11-21T13:15:05.750Z
+created: 2026-11-21T13:28:41.974Z
 modified: 2026-09-26T17:18:39.717Z
 published: 2026-09-26T17:18:39.717Z
 tags:

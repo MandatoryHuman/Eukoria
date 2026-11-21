@@ -4,7 +4,7 @@ aliases:
   - Opiroth
   - The Vales of Opiroth
 title: The Vales of Opiroth
-created: 2026-11-21T13:15:05.698Z
+created: 2026-11-21T13:28:41.923Z
 modified: 2026-10-07T10:54:55.938Z
 published: 2026-10-07T10:54:55.938Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Pronounce Doom
 title: Pronounce Doom
-created: 2026-11-21T13:15:05.812Z
+created: 2026-11-21T13:28:42.036Z
 modified: 2026-09-26T17:18:39.738Z
 published: 2026-09-26T17:18:39.738Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Rumour Mill
 title: Rumour Mill
-created: 2026-11-21T13:15:05.816Z
+created: 2026-11-21T13:28:42.039Z
 modified: 2026-09-26T17:18:39.740Z
 published: 2026-09-26T17:18:39.740Z
 tags:

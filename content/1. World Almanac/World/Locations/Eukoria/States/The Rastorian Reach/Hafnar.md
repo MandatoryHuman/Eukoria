@@ -3,7 +3,7 @@ publish: true
 aliases:
   - hafnar
 title: Hafnar
-created: 2026-11-21T13:15:05.657Z
+created: 2026-11-21T13:28:41.883Z
 modified: 2026-10-03T19:22:03.154Z
 published: 2026-10-03T19:22:03.154Z
 tags:

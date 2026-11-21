@@ -3,7 +3,7 @@ publish: true
 aliases:
   - tōrō
 title: Tōrō
-created: 2026-11-21T13:15:05.549Z
+created: 2026-11-21T13:28:41.777Z
 modified: 2026-10-03T19:22:03.113Z
 published: 2026-10-03T19:22:03.113Z
 tags:

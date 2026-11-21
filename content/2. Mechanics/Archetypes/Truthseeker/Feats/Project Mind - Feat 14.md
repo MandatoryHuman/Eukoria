@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Project Mind
 title: Project Mind
-created: 2026-11-21T13:15:05.811Z
+created: 2026-11-21T13:28:42.034Z
 modified: 2026-09-26T17:18:39.737Z
 published: 2026-09-26T17:18:39.737Z
 tags:

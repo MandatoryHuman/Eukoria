@@ -3,7 +3,7 @@ publish: true
 aliases:
   - cenora
 title: Cenora
-created: 2026-11-21T13:15:05.486Z
+created: 2026-11-21T13:28:41.718Z
 modified: 2026-10-07T09:41:57.737Z
 published: 2026-10-07T09:41:57.737Z
 tags:
