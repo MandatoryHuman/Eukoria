@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Obolus
 title: Obolus
-created: 2026-11-12T18:08:42.117Z
+created: 2026-11-21T12:52:39.367Z
 modified: 2026-10-07T09:42:40.706Z
 published: 2026-10-07T09:42:40.706Z
 tags:

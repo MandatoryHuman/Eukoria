@@ -5,7 +5,7 @@ aliases:
   - Lysia Bind-breaker
   - Goddess of Passion
 title: Lysia Bind-breaker, Goddess of Passion
-created: 2026-11-12T18:08:42.032Z
+created: 2026-11-21T12:52:39.277Z
 modified: 2026-09-26T17:18:39.547Z
 published: 2026-09-26T17:18:39.547Z
 tags:

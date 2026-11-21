@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Valerius
 title: Grand Duke Valerius the Blind
-created: 2026-11-12T18:08:42.303Z
+created: 2026-11-21T12:52:39.571Z
 modified: 2026-09-26T17:18:39.703Z
 published: 2026-09-26T17:18:39.703Z
 tags:

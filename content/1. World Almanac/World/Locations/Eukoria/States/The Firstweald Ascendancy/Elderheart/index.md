@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Elderheart
 title: Elderheart
-created: 2026-11-12T18:08:42.174Z
+created: 2026-11-21T12:52:39.430Z
 modified: 2026-10-07T09:43:23.595Z
 published: 2026-10-07T09:43:23.595Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Crushing Weight of Reality
 title: Crushing Weight of Reality
-created: 2026-11-12T18:08:42.348Z
+created: 2026-11-21T12:52:39.621Z
 modified: 2026-09-26T17:18:39.727Z
 published: 2026-09-26T17:18:39.727Z
 tags:
