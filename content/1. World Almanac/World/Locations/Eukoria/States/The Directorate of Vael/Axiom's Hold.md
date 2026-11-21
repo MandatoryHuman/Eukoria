@@ -3,7 +3,7 @@ publish: true
 aliases:
   - axiom's hold
 title: Axiom's Hold
-created: 2026-11-21T13:28:41.793Z
+created: 2026-11-21T13:56:56.939Z
 modified: 2026-10-03T19:22:03.117Z
 published: 2026-10-03T19:22:03.117Z
 tags:

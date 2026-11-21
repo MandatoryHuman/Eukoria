@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Seven-Fold Canopy
 title: The Seven-Fold Canopy
-created: 2026-11-21T13:28:41.910Z
+created: 2026-11-21T13:56:57.059Z
 modified: 2026-10-03T19:22:03.162Z
 published: 2026-10-03T19:22:03.162Z
 tags:

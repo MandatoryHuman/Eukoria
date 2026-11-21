@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Seiran
-created: 2026-11-21T13:28:41.774Z
+created: 2026-11-21T13:56:56.919Z
 modified: 2026-10-07T11:05:02.590Z
 published: 2026-10-07T11:05:02.590Z
 tags:

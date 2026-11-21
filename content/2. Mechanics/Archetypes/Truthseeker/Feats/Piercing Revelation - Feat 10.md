@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Piercing Revelation
 title: Piercing Revelation
-created: 2026-11-21T13:28:42.030Z
+created: 2026-11-21T13:56:57.183Z
 modified: 2026-09-26T17:18:39.736Z
 published: 2026-09-26T17:18:39.736Z
 tags:

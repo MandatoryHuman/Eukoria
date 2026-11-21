@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Board of the Concordat
 title: The Board of the Concordat
-created: 2026-11-21T13:28:41.703Z
+created: 2026-11-21T13:56:56.848Z
 modified: 2026-09-26T17:18:39.575Z
 published: 2026-09-26T17:18:39.575Z
 allies: ""

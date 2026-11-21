@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Shared Epiphany
 title: Shared Epiphany
-created: 2026-11-21T13:28:42.042Z
+created: 2026-11-21T13:56:57.194Z
 modified: 2026-09-26T17:18:39.741Z
 published: 2026-09-26T17:18:39.741Z
 tags:

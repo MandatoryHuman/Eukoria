@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Maris
 title: Maris Sin-Eater, Chosen of Forgiveness
-created: 2026-11-21T13:28:41.957Z
+created: 2026-11-21T13:56:57.111Z
 modified: 2026-09-26T17:18:39.695Z
 published: 2026-09-26T17:18:39.695Z
 tags:

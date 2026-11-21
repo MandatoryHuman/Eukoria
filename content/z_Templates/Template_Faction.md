@@ -3,7 +3,7 @@ publish: true
 aliases:
   - <% tp.file.title.toLowerCase() %>
 title: <% tp.file.title %>
-created: 2026-11-21T13:28:42.258Z
+created: 2026-11-21T13:56:57.474Z
 modified: 2026-09-26T17:18:52.591Z
 published: 2026-09-26T17:18:52.591Z
 allies: <% tp.system.prompt("Allies?") %>

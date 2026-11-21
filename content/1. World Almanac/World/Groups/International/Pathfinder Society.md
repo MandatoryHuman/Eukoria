@@ -3,7 +3,7 @@ publish: true
 aliases:
   - pathfinder society
 title: Pathfinder Society
-created: 2026-11-21T13:28:41.696Z
+created: 2026-11-21T13:56:56.842Z
 modified: 2026-09-26T17:18:39.572Z
 published: 2026-09-26T17:18:39.572Z
 allies: ""

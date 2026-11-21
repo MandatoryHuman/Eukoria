@@ -4,7 +4,7 @@ aliases:
   - Ontos
   - ontos, the presence
 title: Ontos, The Presence
-created: 2026-11-21T13:28:41.687Z
+created: 2026-11-21T13:56:56.833Z
 modified: 2026-09-26T17:18:39.566Z
 published: 2026-09-26T17:18:39.566Z
 tags:

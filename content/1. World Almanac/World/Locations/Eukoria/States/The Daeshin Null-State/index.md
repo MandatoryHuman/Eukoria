@@ -1,8 +1,9 @@
 ---
+publish: true
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-created: 2026-11-21T13:28:41.782Z
+created: 2026-11-21T13:56:56.927Z
 modified: 2026-10-07T10:53:43.253Z
 published: 2026-10-07T10:53:43.253Z
 tags:
@@ -20,15 +21,15 @@ ruler: Various Cult Leaders and Warlords
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[Othrys, The Hollow Capital]] (Largely Abandoned)
+> **Government:** Anarchic Quarantine Zone
+> **Ruler:** Various Cult Leaders and Warlords
+> **Population:** Unknown, likely <100,000
+> **Demographics:** Fleshwarps, Mutants, Exiles, Cultists
+> **Languages:** None
+> **Religions:** [[Aporia, God of Fate]], [[Thrum, God of Madness]], [[Lysia Bind-breaker, Goddess of Passion]]
+> **Major Exports:** None
+> **Major Imports:** Desperate exiles, Smuggled Dismagic supplies
 
 ![[Assets/Locations/Symbols/Daeshin_symbol.svg|300]]
 

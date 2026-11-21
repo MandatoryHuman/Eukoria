@@ -3,7 +3,7 @@ publish: true
 aliases:
   - fort glandar
 title: Fort Glandar
-created: 2026-11-21T13:28:41.839Z
+created: 2026-11-21T13:56:56.985Z
 modified: 2026-10-03T19:22:03.141Z
 published: 2026-10-03T19:22:03.141Z
 tags:

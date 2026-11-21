@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Rinebrior
 title: Hierophant Rinebrior
-created: 2026-11-21T13:28:41.964Z
+created: 2026-11-21T13:56:57.119Z
 modified: 2026-09-26T17:18:39.706Z
 published: 2026-09-26T17:18:39.706Z
 tags:

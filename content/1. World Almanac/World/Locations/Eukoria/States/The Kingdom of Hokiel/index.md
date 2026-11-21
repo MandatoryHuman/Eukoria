@@ -1,7 +1,7 @@
 ---
 publish: true
 title: The Kingdom of Hokiel
-created: 2026-11-21T13:28:41.861Z
+created: 2026-11-21T13:56:57.008Z
 modified: 2026-10-07T09:43:23.601Z
 published: 2026-10-07T09:43:23.601Z
 tags:

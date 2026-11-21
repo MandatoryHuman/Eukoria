@@ -4,7 +4,7 @@ aliases:
   - Aethelgard
   - aethelgard, god of relics
 title: Aethelgard, God of Relics
-created: 2026-11-21T13:28:41.666Z
+created: 2026-11-21T13:56:56.813Z
 modified: 2026-09-26T17:18:39.544Z
 published: 2026-09-26T17:18:39.544Z
 alternate_domains: "[Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68)"

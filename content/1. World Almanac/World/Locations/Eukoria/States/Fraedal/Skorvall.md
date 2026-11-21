@@ -3,7 +3,7 @@ publish: true
 aliases:
   - skorvall
 title: Skorvall
-created: 2026-11-21T13:28:41.730Z
+created: 2026-11-21T13:56:56.874Z
 modified: 2026-10-07T09:41:17.564Z
 published: 2026-10-07T09:41:17.564Z
 tags:

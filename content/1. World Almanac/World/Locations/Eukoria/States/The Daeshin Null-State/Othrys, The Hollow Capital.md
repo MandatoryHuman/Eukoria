@@ -4,7 +4,7 @@ aliases:
   - Othrys
   - othrys, the hollow capital
 title: Othrys, The Hollow Capital
-created: 2026-11-21T13:28:41.784Z
+created: 2026-11-21T13:56:56.929Z
 modified: 2026-10-07T09:42:40.700Z
 published: 2026-10-07T09:42:40.700Z
 tags:

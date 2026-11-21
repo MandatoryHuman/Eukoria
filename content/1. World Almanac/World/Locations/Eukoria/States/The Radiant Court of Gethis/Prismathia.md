@@ -3,7 +3,7 @@ publish: true
 aliases:
   - prismathia
 title: Prismathia
-created: 2026-11-21T13:28:41.878Z
+created: 2026-11-21T13:56:57.025Z
 modified: 2026-10-07T11:10:31.093Z
 published: 2026-10-07T11:10:31.093Z
 tags:
