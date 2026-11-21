@@ -30,7 +30,7 @@ ruler: The Fate-Weavers of the Zenith Observatory
 > **Major Exports:** Probability-manipulating puzzle-boxes, chronal devices, and warded artifices
 > **Major Imports:**
 
-![[Fraedal_symbol.svg|300]]
+![[Assets/Locations/Symbols/Fraedal_symbol.svg|300]]
 
 # Overview
 

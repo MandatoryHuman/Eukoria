@@ -4,7 +4,7 @@ aliases:
   - opiroth resin
   - Opiroth Resin
 title: Opiroth Resin
-created: 2026-11-12T17:37:18.717Z
+created: 2026-11-12T18:08:42.401Z
 modified: 2026-10-07T10:58:14.950Z
 published: 2026-10-07T10:58:14.950Z
 tags:

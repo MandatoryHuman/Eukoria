@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Vaults of Axiom
 title: The Vaults of Axiom
-created: 2026-11-12T17:37:18.359Z
+created: 2026-11-12T18:08:42.125Z
 modified: 2026-10-03T19:22:03.109Z
 published: 2026-10-03T19:22:03.109Z
 ---

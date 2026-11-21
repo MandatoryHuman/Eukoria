@@ -31,7 +31,7 @@ ruler: The syndicate councils and senior monastic orders
 > **Major Exports:** Internal alchemy, longevity elixirs, restorative tonics, and medicinal craft
 > **Major Imports:** Rare reagents, exotic herbs, and volatile ingredients
 
-![[Morne_Symbol.svg|300]]
+![[Assets/Locations/Symbols/Morne_Symbol.svg|300]]
 
 # Overview
 

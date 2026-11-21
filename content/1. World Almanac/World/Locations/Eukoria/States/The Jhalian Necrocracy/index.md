@@ -31,7 +31,7 @@ ruler: "[[The Undying Sovereign]]"
 > **Major Exports:** Cheap manufactured goods, Alchemical reagents, Mined Minerals
 > **Major Imports:** Corpses (smuggled), Luxury goods
 
-![[Jhal_symbol.svg|300]]
+![[Assets/Locations/Symbols/Jhal_symbol.svg|300]]
 
 # Overview
 

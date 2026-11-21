@@ -31,7 +31,7 @@ ruler: "[[High Arbiter Garadwen]]"
 > **Major Exports:** Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
 > **Major Imports:** Practically everything
 
-![[Meridia_symbol.svg|300]]
+![[Assets/Locations/Symbols/Meridia_symbol.svg|300]]
 
 # Overview
 

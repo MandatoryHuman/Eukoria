@@ -31,7 +31,7 @@ ruler: A shifting council of the most powerful Pirate Captains
 > **Major Exports:** Stolen Cargo, Smuggled Contraband, "Safe Passage"
 > **Major Imports:** Stolen Ships, Weaponry, Ransom Gold
 
-![[Heretics_Wake_symbol.svg|300]]
+![[Assets/Locations/Symbols/Heretics_Wake_symbol.svg|300]]
 
 # Overview
 

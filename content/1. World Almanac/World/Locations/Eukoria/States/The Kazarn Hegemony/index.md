@@ -31,7 +31,7 @@ ruler: "[[High Marshal Kaelen]]"
 > **Major Exports:** Mercenaries, Refined Metals, Weaponry
 > **Major Imports:** Food, Wood, Textiles
 
-![[Kazarn_symbol.svg|300]]
+![[Assets/Locations/Symbols/Kazarn_symbol.svg|300]]
 
 # Overview
 

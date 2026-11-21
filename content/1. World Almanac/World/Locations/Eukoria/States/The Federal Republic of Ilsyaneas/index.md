@@ -32,7 +32,7 @@ ruler: Elected Chancellor
 > **Major Exports:** Machinery, Firearms, Refined Steel, Civic Treatises
 > **Major Imports:** Raw Ore, Textiles, Exotic Primal Reagents
 
-![[Ilsyaneas_symbol.svg|300]]
+![[Assets/Locations/Symbols/Ilsyaneas_symbol.svg|300]]
 
 # Overview
 

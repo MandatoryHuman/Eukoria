@@ -31,7 +31,7 @@ ruler: The shogunate's prefectural authorities and spirit-mediums
 > **Major Exports:** Warded talismans, spirit-binding craft, and naval intelligence
 > **Major Imports:**
 
-![[Seiran_symbol.svg|300]]
+![[Assets/Locations/Symbols/Seiran_Symbol.svg|300]]
 
 # Overview
 

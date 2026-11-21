@@ -3,7 +3,7 @@ publish: true
 aliases:
   - fundamental essences
 title: Fundamental Essences
-created: 2026-11-12T17:37:18.536Z
+created: 2026-11-12T18:08:42.282Z
 modified: 2026-10-07T09:41:41.496Z
 published: 2026-10-07T09:41:41.496Z
 ---

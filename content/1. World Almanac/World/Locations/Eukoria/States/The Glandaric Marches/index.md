@@ -32,7 +32,7 @@ ruler: The Marchwarden Council
 > **Major Exports:** Monster trophies, "Anchor" items, hardened mercenaries
 > **Major Imports:** Weapons, food supplies, psychiatric/medical aid
 
-![[Gladaria_symbol.svg|300]]
+![[Assets/Locations/Symbols/Gladaria_symbol.svg|300]]
 
 # Overview
 

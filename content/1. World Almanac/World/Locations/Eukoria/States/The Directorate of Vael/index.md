@@ -31,7 +31,7 @@ major_imports: Raw materials, Historical Texts, Paper
 > **Major Exports:** Information, Arcane/Occult Wards, Legal/Magical Treatises
 > **Major Imports:** Raw materials, Historical Texts, Paper
 
-![[Vael_symbol.svg|300]]
+![[Assets/Locations/Symbols/Vael_symbol.svg|300]]
 
 # Overview
 

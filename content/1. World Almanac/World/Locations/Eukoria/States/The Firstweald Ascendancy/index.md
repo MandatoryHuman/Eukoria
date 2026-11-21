@@ -31,7 +31,7 @@ ruler: "[[Hierophant Rinebrior]]"
 > **Major Exports:** Rare herbs, primal reagents, resilient living-lumber, exotic beasts
 > **Major Imports:** Raw metals, written histories
 
-![[Firstweald_symbol.svg|300]]
+![[Assets/Locations/Symbols/Firstweald_symbol.svg|300]]
 
 # Overview
 

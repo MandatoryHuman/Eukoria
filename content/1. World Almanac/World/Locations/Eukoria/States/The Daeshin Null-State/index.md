@@ -31,7 +31,7 @@ ruler: Various Cult Leaders and Warlords
 > **Major Exports:** None
 > **Major Imports:** Desperate exiles, Smuggled Dismagic supplies
 
-![[Daeshin_symbol.svg|300]]
+![[Assets/Locations/Symbols/Daeshin_symbol.svg|300]]
 
 # Overview
 

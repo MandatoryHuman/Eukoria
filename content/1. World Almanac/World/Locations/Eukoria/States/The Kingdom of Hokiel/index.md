@@ -31,7 +31,7 @@ ruler: King Oric the Resolute
 > **Major Exports:** Grain, Warhorses, Armour, Divine Spell Scrolls
 > **Major Imports:** Arcane texts, Alchemical reagents, Raw iron
 
-![[Hokiel_Symbol.svg|300]]
+![[Assets/Locations/Symbols/Hokiel_Symbol.svg|300]]
 
 # Overview
 

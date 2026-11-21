@@ -3,7 +3,7 @@ publish: true
 aliases:
   - phylactery
 title: Phylactery
-created: 2026-11-12T17:37:18.899Z
+created: 2026-11-12T18:08:42.557Z
 modified: 2026-09-21T23:19:18.857Z
 published: 2026-09-21T23:19:18.857Z
 ---

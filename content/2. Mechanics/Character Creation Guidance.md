@@ -3,7 +3,7 @@ publish: true
 aliases:
   - character creation guidance
 title: Character Creation Guidance
-created: 2026-11-12T17:37:18.627Z
+created: 2026-11-12T18:08:42.324Z
 modified: 2026-09-21T23:19:18.797Z
 published: 2026-09-21T23:19:18.797Z
 ---

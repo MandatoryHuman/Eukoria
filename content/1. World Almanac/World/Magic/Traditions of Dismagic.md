@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Dismagic
 title: Traditions of Dismagic
-created: 2026-11-12T17:37:18.539Z
+created: 2026-11-12T18:08:42.285Z
 modified: 2026-09-26T16:49:43.120Z
 published: 2026-09-26T16:49:43.120Z
 ---

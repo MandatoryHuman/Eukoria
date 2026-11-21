@@ -32,7 +32,7 @@ ruler: "[[Grand Duke Valerius the Blind]]"
 > **Major Exports:** High Art, Illusion Magic, Luxury Textiles, Fine Wines
 > **Major Imports:** Basic necessities, Mercenaries, "Anchors"
 
-![[Gethis_symbol.svg|300]]
+![[Assets/Locations/Symbols/Gethis_Symbol.svg|300]]
 
 # Overview
 
