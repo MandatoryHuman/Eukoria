@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
@@ -18,15 +19,15 @@ ruler: 'The [[Witan]]'
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Sovereign Heptarchy of Idgorna/The Seven-Fold Canopy.md|The Seven-Fold Canopy]]
+> **Government:** Feudal Oligarchy
+> **Ruler:** The [[Witan]]
+> **Population:** 1.1 Million
+> **Demographics:** Humans, Elves, Leshies, Lizardfolk, Half-Orcs
+> **Languages:** Common, Elven, Iruxi
+> **Religions:** Ancestral Spirits, Lesser Gods, [[Maelis, Goddess of Fertility and Harvest]], [[Kurnos, God of Nature]]
+> **Major Exports:** Exotic Alchemicals, Rare Hardwoods, Venom, Mercenary Spies
+> **Major Imports:** Heavy Armour, Cold-Iron Weapons, Arcane Texts
 
 ![[The_Sovereign_Heptarchy_of_Idgorna_symbol.svg|300]]
 

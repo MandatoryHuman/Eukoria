@@ -3,6 +3,9 @@ publish: true
 aliases:
   - formation of meridia
 title: Formation of Meridia
+created: 0 AW
+modified: 2026-10-07T10:54:55.933Z
+published: 0 AW
 tags:
   - "#Events"
 factions_involved: 'Garadwen''s expeditionary company; recovering Eukorian nations; early Meridian settlers'
@@ -13,10 +16,10 @@ date: '0 AW'
 ---
 
 > [!info]+ Details
-> **Type:** `=this.type`
-> **Location:** `=this.location`
-> **Factions Involved:** `=this.factions_involved`
-> **Key Figures:** `=this.key_figures`
+> **Type:** State Formation
+> **Location:** [[God-Scar Strait]]; [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index|Obolus]]; [[1. World Almanac/World/Locations/Eukoria/index|Eukoria]]
+> **Factions Involved:** Garadwen's expeditionary company; recovering Eukorian nations; early Meridian settlers
+> **Key Figures:** [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md|High Arbiter Garadwen]]
 
 (Event Image)
 

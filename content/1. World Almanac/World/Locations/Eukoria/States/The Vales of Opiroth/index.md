@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - Opiroth
   - The Vales of Opiroth
@@ -18,15 +19,15 @@ ruler: 'Grand Synthesist Morvane'
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Vales of Opiroth/The Alabaster Terrace.md|The Alabaster Terrace]]
+> **Government:** Scientific Oligarchy
+> **Ruler:** Grand Synthesist Morvane
+> **Population:** 120,000
+> **Demographics:** Humans, Fleshwarps, Goblins, Automatons
+> **Languages:** Common, Sakvroth
+> **Religions:** [[Oclera, God of Knowledge]], [[Lysia Bind-breaker, Goddess of Passion|Lysia Bind-breaker]]
+> **Major Exports:** Biological [[2. Mechanics/Items/Anchors/index|Anchors]], potent analgesics, rare toxins, alchemical reagents
+> **Major Imports:** Base Metals, test subjects, raw foodstuffs
 
 ![[The_Vales_of_Opiroth_symbol.svg|300]]
 

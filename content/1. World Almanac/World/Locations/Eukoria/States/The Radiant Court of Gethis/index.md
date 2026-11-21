@@ -1,4 +1,5 @@
 ---
+publish: true
 aliases:
   - The Radiant Court of Gethis
   - Gethis
@@ -18,15 +19,15 @@ ruler: "[[Grand Duke Valerius the Blind]]"
 ---
 
 > [!info]+ Details
-> **Capital:** `=this.capital`
-> **Government:** `=this.government`
-> **Ruler:** `=this.ruler`
-> **Population:** `=this.population`
-> **Demographics:** `=this.demographics`
-> **Languages:** `=this.languages`
-> **Religions:** `=this.religions`
-> **Major Exports:** `=this.major_exports`
-> **Major Imports:** `=this.major_imports`
+> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/The Radiant Court of Gethis/Prismathia.md|Prismathia]]
+> **Government:** Aristocratic Oligarchy
+> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/Grand Duke Valerius the Blind.md|Grand Duke Valerius the Blind]]
+> **Population:** "400,000"
+> **Demographics:** Humans, Fetchlings, Nephilim
+> **Languages:** Common, Elven
+> **Religions:** [[Eidas, God Of Art]], [[Lethos, God of Trickery]], [[Jovanna, Goddess of the Hearth and Revelry]]
+> **Major Exports:** High Art, Illusion Magic, Luxury Textiles, Fine Wines
+> **Major Imports:** Basic necessities, Mercenaries, "Anchors"
 
 ![[Gethis_symbol.svg|300]]
 
