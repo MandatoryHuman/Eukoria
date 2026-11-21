@@ -1,23 +1,22 @@
 ---
-publish: true
 aliases:
   - heartbloom
 title: Heartbloom
 tags:
   - Settlement
-demographics: ""
-level: ""
-population: ""
-ruler: ""
-type: ""
+demographics: ''
+level: ''
+population: ''
+ruler: ''
+type: ''
 ---
 
 > [!info]+ Details
-> **Type:**
-> **Level:**
-> **Population:**
-> **Demographics:**
-> **Ruler:**
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 (COAT OF ARMS / EMBLEM IMAGE) (CITY MAP IMAGE)
 

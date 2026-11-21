@@ -18,15 +18,15 @@ ruler: "[[High Arbiter Garadwen]]"
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Meridia/Obolus/index.md|Obolus]]
-> **Government:** Mercantile Oligarchy
-> **Ruler:** [[1. World Almanac/World/NPCs/Rulers/High Arbiter Garadwen.md|High Arbiter Garadwen]]
-> **Population:** 1.5 Million
-> **Demographics:** Any, so long as they can pay
-> **Languages:** Common
-> **Religions:** [[Lethos, God of Trickery]], [[Aureon, God of Commerce and Industry]], [[Amnis the Burdened, Goddess of Forgiveness]], [[Solon, God of Law]]
-> **Major Exports:** Sanctioned Navigation, Banking, Legal Services, Mercenary Contracts
-> **Major Imports:** Practically everything
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
 ![[Meridia_symbol.svg|300]]
 
