@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Directorate of Vael
 title: The Directorate of Vael
