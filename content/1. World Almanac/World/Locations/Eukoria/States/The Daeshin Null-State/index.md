@@ -2,12 +2,9 @@
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-created: 2026-11-12T18:08:42.137Z
-modified: 2026-10-07T10:53:43.253Z
-published: 2026-10-07T10:53:43.253Z
+symbol: "[[Daeshin_symbol.svg]]"
 tags:
   - State
-symbol: "[[Daeshin_symbol.svg]]"
 capital: "[[Othrys, The Hollow Capital]] (Largely Abandoned)"
 demographics: Fleshwarps, Mutants, Exiles, Cultists
 government: Anarchic Quarantine Zone
@@ -30,7 +27,7 @@ ruler: Various Cult Leaders and Warlords
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Assets/Locations/Symbols/Daeshin_symbol.svg|300]]
+![[Daeshin_symbol.svg|300]]
 
 # Overview
 

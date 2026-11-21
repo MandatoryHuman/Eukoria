@@ -3,12 +3,9 @@ publish: true
 aliases:
   - The Jhalian Necrocracy
 title: The Jhalian Necrocracy
-created: 2026-11-12T18:08:42.196Z
-modified: 2026-10-07T10:53:34.329Z
-published: 2026-10-07T10:53:34.329Z
+symbol: "[[Jhal_symbol.svg]]"
 tags:
   - State
-symbol: "[[Jhal_symbol.svg]]"
 capital: "[[The Silent City of Jhal]]"
 demographics: Humans, Dhampirs, Intelligent Undead
 government: Feudal [[Necrocracy]]
@@ -31,7 +28,7 @@ ruler: "[[The Undying Sovereign]]"
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Assets/Locations/Symbols/Jhal_symbol.svg|300]]
+![[Jhal_symbol.svg|300]]
 
 # Overview
 

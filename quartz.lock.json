@@ -199,11 +199,29 @@
       "commit": "92d3872097d793b29b88b0e94cb46be67357c503",
       "installedAt": "2026-09-16T14:49:31.866Z"
     },
+    "quartz-hero-banner": {
+      "source": "github:riberoc/quartz-hero-banner",
+      "resolved": "https://github.com/riberoc/quartz-hero-banner.git",
+      "commit": "bd7b40f4ba0400a1001ef6f9063ca89ac21d216b",
+      "installedAt": "2026-11-21T12:57:20.329Z"
+    },
+    "quartz-layout-box": {
+      "source": "github:boxi-os/quartz-layout-box",
+      "resolved": "https://github.com/boxi-os/quartz-layout-box.git",
+      "commit": "61e242ce2074b1fb614fbadd7201a482cf30a5a1",
+      "installedAt": "2026-11-21T12:56:24.676Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
       "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
       "installedAt": "2026-07-06T10:40:02.422Z"
+    },
+    "quartz-photo-view": {
+      "source": "github:Doghouse-Mike/quartz-photo-view",
+      "resolved": "https://github.com/Doghouse-Mike/quartz-photo-view.git",
+      "commit": "bc5aa5c3c1c633ad3d1dc9f249d87138e9f42e9c",
+      "installedAt": "2026-11-21T12:56:47.982Z"
     },
     "quartz-themes": {
       "source": {

@@ -2,12 +2,9 @@
 aliases:
   - The Firstweald Ascendancy
 title: The Firstweald Ascendancy
-created: 2026-11-12T18:08:42.168Z
-modified: 2026-10-07T10:54:55.934Z
-published: 2026-10-07T10:54:55.934Z
+symbol: "[[Firstweald_symbol.svg]]"
 tags:
   - State
-symbol: "[[Firstweald_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/The Firstweald Ascendancy/Elderheart/index|Elderheart]]"
 demographics: Elves, Humans, Leshies, Fey, Beastkin
 government: Druidic Conclave
@@ -30,7 +27,7 @@ ruler: "[[Hierophant Rinebrior]]"
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Assets/Locations/Symbols/Firstweald_symbol.svg|300]]
+![[Firstweald_symbol.svg|300]]
 
 # Overview
 

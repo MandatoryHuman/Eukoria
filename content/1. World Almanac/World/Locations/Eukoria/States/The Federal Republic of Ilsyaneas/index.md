@@ -3,12 +3,9 @@ aliases:
   - The Federal Republic of Ilsyaneas
   - Ilsyaneas
 title: The Federal Republic of Ilsyaneas
-created: 2026-11-12T18:08:42.162Z
-modified: 2026-10-03T19:22:03.122Z
-published: 2026-10-03T19:22:03.122Z
+symbol: "[[Ilsyaneas_symbol.svg]]"
 tags:
   - State
-symbol: "[[Ilsyaneas_symbol.svg]]"
 capital: "[[The Caldera Forum]]"
 demographics: Humans, Dwarves, Gnomes, Automatons
 government: Federal Representative Republic
@@ -31,7 +28,7 @@ ruler: Elected Chancellor
 > **Major Exports:** `=this.major_exports`
 > **Major Imports:** `=this.major_imports`
 
-![[Assets/Locations/Symbols/Ilsyaneas_symbol.svg|300]]
+![[Ilsyaneas_symbol.svg|300]]
 
 # Overview
 

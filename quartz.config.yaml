@@ -297,6 +297,22 @@ plugins:
     order: 50
     options:
       theme: simplicity
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:boxi-os/quartz-layout-box
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:Doghouse-Mike/quartz-photo-view
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:riberoc/quartz-hero-banner
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:

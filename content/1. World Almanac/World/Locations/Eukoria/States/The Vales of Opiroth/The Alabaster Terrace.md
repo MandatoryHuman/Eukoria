@@ -14,11 +14,11 @@ type: 'Capital City'
 ---
 
 > [!info]+ Details
-> **Type:** Capital City
-> **Level:** High
-> **Population:**
-> **Demographics:** Alchemists, Fleshwarpers, researchers, test subjects, and mercenaries
-> **Ruler:** Grand Synthesist Morvane
+> **Type:** `=this.type`
+> **Level:** `=this.level`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Ruler:** `=this.ruler`
 
 ![[Assets/Locations/Coat of Arms/The Alabaster Terrace Emblem.webp|200]]
 ![[Assets/Locations/Maps/The Alabaster Terrace Map.webp|400]]

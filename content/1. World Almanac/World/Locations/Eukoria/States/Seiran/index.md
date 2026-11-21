@@ -1,12 +1,9 @@
 ---
 publish: true
+aliases:
 title: Seiran
-created: 2026-11-12T18:08:42.129Z
-modified: 2026-10-07T11:05:02.590Z
-published: 2026-10-07T11:05:02.590Z
 tags:
   - State
-aliases:
 symbol: "[[Seiran_Symbol.svg]]"
 marker:
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Seiran/Kyouten|Kyouten]]"
@@ -21,17 +18,17 @@ ruler: The shogunate's prefectural authorities and spirit-mediums
 ---
 
 > [!info]+ Details
-> **Capital:** [[1. World Almanac/World/Locations/Eukoria/States/Seiran/Kyouten.md|Kyouten]]
-> **Government:** Spirit-bound shogunate ruled by prefectural magistrates, onmyoji, and warships
-> **Ruler:** The shogunate's prefectural authorities and spirit-mediums
-> **Population:**
-> **Demographics:** Mist-shrouded coastal clans, spirit-mediums, and shogunal officials
-> **Languages:**
-> **Religions:** [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/Gods of Magic/Amnis the Burdened, Goddess of Forgiveness.md|Amnis the Burdened, Goddess of Forgiveness]]
-> **Major Exports:** Warded talismans, spirit-binding craft, and naval intelligence
-> **Major Imports:**
+> **Capital:** `=this.capital`
+> **Government:** `=this.government`
+> **Ruler:** `=this.ruler`
+> **Population:** `=this.population`
+> **Demographics:** `=this.demographics`
+> **Languages:** `=this.languages`
+> **Religions:** `=this.religions`
+> **Major Exports:** `=this.major_exports`
+> **Major Imports:** `=this.major_imports`
 
-![[Assets/Locations/Symbols/Seiran_Symbol.svg|300]]
+![[Seiran_symbol.svg|300]]
 
 # Overview
 
