@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Eye of the Tapestry
 title: Eye of the Tapestry
-created: 2026-11-21T12:52:39.628Z
+created: 2026-11-21T12:58:12.374Z
 modified: 2026-09-26T17:18:39.730Z
 published: 2026-09-26T17:18:39.730Z
 tags:

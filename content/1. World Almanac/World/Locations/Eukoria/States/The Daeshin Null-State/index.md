@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Daeshin Null-State
 title: The Daeshin Null-State
-created: 2026-11-21T12:52:39.390Z
+created: 2026-11-21T12:58:12.285Z
 modified: 2026-10-07T10:53:43.253Z
 published: 2026-10-07T10:53:43.253Z
 tags:

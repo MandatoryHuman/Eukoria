@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Unspoken Leverage
 title: Unspoken Leverage
-created: 2026-11-21T12:52:39.662Z
+created: 2026-11-21T12:58:12.390Z
 modified: 2026-09-26T17:18:39.748Z
 published: 2026-09-26T17:18:39.748Z
 tags:

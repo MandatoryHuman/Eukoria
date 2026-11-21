@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Enduring Leverage
 title: Enduring Leverage
-created: 2026-11-21T12:52:39.624Z
+created: 2026-11-21T12:58:12.373Z
 modified: 2026-09-26T17:18:39.728Z
 published: 2026-09-26T17:18:39.728Z
 tags:

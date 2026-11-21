@@ -3,7 +3,7 @@ publish: true
 aliases:
   - malachi the lash
 title: Malachi The Lash
-created: 2026-11-21T12:52:39.580Z
+created: 2026-11-21T12:58:12.359Z
 modified: 2026-09-26T17:18:39.713Z
 published: 2026-09-26T17:18:39.713Z
 tags:

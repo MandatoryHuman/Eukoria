@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Thorne
 title: Captain-Admiral Thorne
-created: 2026-11-21T12:52:39.586Z
+created: 2026-11-21T12:58:12.354Z
 modified: 2026-10-07T09:43:55.027Z
 published: 2026-10-07T09:43:55.027Z
 tags:

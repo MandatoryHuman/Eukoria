@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-created: 2026-11-21T12:52:39.340Z
+created: 2026-11-21T12:58:12.271Z
 modified: 2026-10-07T09:42:11.053Z
 published: 2026-10-07T09:42:11.053Z
 tags:

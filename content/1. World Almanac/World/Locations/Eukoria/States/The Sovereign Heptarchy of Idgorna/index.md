@@ -4,7 +4,7 @@ aliases:
   - The Sovereign Heptarchy of Idgorna
   - Idgorna
 title: The Sovereign Heptarchy of Idgorna
-created: 2026-11-21T12:52:39.517Z
+created: 2026-11-21T12:58:12.332Z
 modified: 2026-10-07T09:41:17.591Z
 published: 2026-10-07T09:41:17.591Z
 tags:

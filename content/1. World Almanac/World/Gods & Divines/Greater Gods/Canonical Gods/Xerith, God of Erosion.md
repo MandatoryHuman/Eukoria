@@ -4,7 +4,7 @@ aliases:
   - Xerith
   - xerith, god of erosion
 title: Xerith, God of Erosion
-created: 2026-11-21T12:52:39.250Z
+created: 2026-11-21T12:58:12.230Z
 modified: 2026-09-26T17:18:39.526Z
 published: 2026-09-26T17:18:39.526Z
 alternate_domains: "[Time](https://2e.aonprd.com/Domains.aspx?ID=121)"

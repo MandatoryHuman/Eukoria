@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Seamless Epiphany
 title: Seamless Epiphany
-created: 2026-11-21T12:52:39.649Z
+created: 2026-11-21T12:58:12.384Z
 modified: 2026-09-26T17:18:39.740Z
 published: 2026-09-26T17:18:39.740Z
 tags:

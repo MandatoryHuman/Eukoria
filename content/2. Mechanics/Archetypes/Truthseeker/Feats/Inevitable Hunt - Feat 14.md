@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Inevitable Hunt
 title: Inevitable Hunt
-created: 2026-11-21T12:52:39.635Z
+created: 2026-11-21T12:58:12.377Z
 modified: 2026-09-26T17:18:39.733Z
 published: 2026-09-26T17:18:39.733Z
 tags:

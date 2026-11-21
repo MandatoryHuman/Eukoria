@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Kinetic Scrutiny
 title: Kinetic Scrutiny
-created: 2026-11-21T12:52:39.636Z
+created: 2026-11-21T12:58:12.378Z
 modified: 2026-09-26T17:18:39.734Z
 published: 2026-09-26T17:18:39.734Z
 tags:

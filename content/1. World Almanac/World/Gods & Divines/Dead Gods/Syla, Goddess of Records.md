@@ -4,7 +4,7 @@ aliases:
   - Syla
   - syla, goddess of records
 title: Syla, Goddess of Records
-created: 2026-11-21T12:52:39.226Z
+created: 2026-11-21T12:58:12.214Z
 modified: 2026-10-07T10:54:55.943Z
 published: 2026-10-07T10:54:55.943Z
 enemy:
