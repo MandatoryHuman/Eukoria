@@ -3,9 +3,12 @@ publish: true
 aliases:
   - Heretic's Wake
 title: Heretic's Wake
-symbol: "[[Heretics_Wake_symbol.svg]]"
+created: 2026-11-21T13:15:05.503Z
+modified: 2026-10-07T09:42:11.053Z
+published: 2026-10-07T09:42:11.053Z
 tags:
   - State
+symbol: "[[Heretics_Wake_symbol.svg]]"
 capital: "[[1. World Almanac/World/Locations/Eukoria/States/Heretic's Wake/Flotilla of the Unbound/index|The Flotilla of the Unbound]]"
 demographics: Exiles, Runesmiths, Passion Mages, Outcasts
 government: Pirate Coalition
@@ -28,7 +31,7 @@ ruler: A shifting council of the most powerful Pirate Captains
 > **Major Exports:** Stolen Cargo, Smuggled Contraband, "Safe Passage"
 > **Major Imports:** Stolen Ships, Weaponry, Ransom Gold
 
-![[Heretics_Wake_symbol.svg|300]]
+![[Assets/Locations/Symbols/Heretics_Wake_symbol.svg|300]]
 
 # Overview
 

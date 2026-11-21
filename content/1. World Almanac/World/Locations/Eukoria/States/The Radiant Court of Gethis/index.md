@@ -4,9 +4,12 @@ aliases:
   - The Radiant Court of Gethis
   - Gethis
 title: The Radiant Court of Gethis
-symbol: "[[Gethis_Symbol.svg]]"
+created: 2026-11-21T13:15:05.650Z
+modified: 2026-10-07T11:10:31.103Z
+published: 2026-10-07T11:10:31.103Z
 tags:
   - State
+symbol: "[[Gethis_Symbol.svg]]"
 capital: "[[Prismathia]]"
 demographics: Humans, Fetchlings, Nephilim
 government: Aristocratic Oligarchy
@@ -29,7 +32,7 @@ ruler: "[[Grand Duke Valerius the Blind]]"
 > **Major Exports:** High Art, Illusion Magic, Luxury Textiles, Fine Wines
 > **Major Imports:** Basic necessities, Mercenaries, "Anchors"
 
-![[Gethis_symbol.svg|300]]
+![[Assets/Locations/Symbols/Gethis_Symbol.svg|300]]
 
 # Overview
 

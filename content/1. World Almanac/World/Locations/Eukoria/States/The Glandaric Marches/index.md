@@ -4,9 +4,12 @@ aliases:
   - The Glandaric Marches
   - Glandaria
 title: The Glandaric Marches
-symbol: "[[Gladaria_symbol.svg]]"
+created: 2026-11-21T13:15:05.614Z
+modified: 2026-10-07T09:41:57.731Z
+published: 2026-10-07T09:41:57.731Z
 tags:
   - State
+symbol: "[[Gladaria_symbol.svg]]"
 capital: "[[Fort Glandar]]"
 demographics: Humans, Orcs, Dwarves, Fleshwarps
 government: Decentralised Military Coalition
@@ -29,7 +32,7 @@ ruler: The Marchwarden Council
 > **Major Exports:** Monster trophies, "Anchor" items, hardened mercenaries
 > **Major Imports:** Weapons, food supplies, psychiatric/medical aid
 
-![[Gladaria_symbol.svg|300]]
+![[Assets/Locations/Symbols/Gladaria_symbol.svg|300]]
 
 # Overview
 

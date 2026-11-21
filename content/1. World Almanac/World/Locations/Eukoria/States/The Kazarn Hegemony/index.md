@@ -3,9 +3,12 @@ publish: true
 aliases:
   - The Kazarn Hegemony
 title: The Kazarn Hegemony
-symbol: "[[Kazarn_symbol.svg]]"
+created: 2026-11-21T13:15:05.628Z
+modified: 2026-10-07T09:41:17.582Z
+published: 2026-10-07T09:41:17.582Z
 tags:
   - State
+symbol: "[[Kazarn_symbol.svg]]"
 capital: "[[Bastion]]"
 demographics: Dwarves, Humans, Orcs
 government: Stratocracy
@@ -28,7 +31,7 @@ ruler: "[[High Marshal Kaelen]]"
 > **Major Exports:** Mercenaries, Refined Metals, Weaponry
 > **Major Imports:** Food, Wood, Textiles
 
-![[Kazarn_symbol.svg|300]]
+![[Assets/Locations/Symbols/Kazarn_symbol.svg|300]]
 
 # Overview
 
